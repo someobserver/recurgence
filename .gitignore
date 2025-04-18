@@ -1,0 +1,37 @@
+# Private content
+private/
+*.private
+
+# Working drafts
+working/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# System files (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor metadata
+.vscode/
+.cursor/
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+tmp/
