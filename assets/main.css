@@ -43,7 +43,7 @@ body {
 /* Headings */
 h1, h2, h3 {
   margin-top: 2.5rem;
-  color: #dbdbdb !important;
+  color: #ffffff !important;
   margin-bottom: 1rem;
   font-weight: 600;
 }
@@ -71,7 +71,7 @@ p {
 
 /* Links */
 a {
-  color: #58a6ff;
+  color: #b4d4f8;
   text-decoration: none;
 }
 
