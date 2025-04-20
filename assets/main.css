@@ -20,7 +20,7 @@
   opacity: 1;
 }
 
-/* Optional: Mirror glyph or subtitle (currently not used) */
+/* Optional: Subtitle (currently not used) */
 .site-subtitle {
   display: none;
 }
