@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Kurt Gödel
+title: Kurt Gödel (1906-1978)
 permalink: /architects/godel/
 ---
-
-# Kurt Gödel (1906–1978)
 
 _The mind that proved minds cannot fully know themselves_  
 
 <!-- No period. That statement remains open-ended, like Kurt -->
-
----
 
 In 1931, Gödel's **Incompleteness Theorems** detonated within the clean geometry of logic, revealing that no formal system could ever be both complete and consistent. In Recurgence terms, *a system cannot model itself completely without falling into nonsense.*
 
@@ -105,8 +101,3 @@ Instead, he left a pattern some observer followed—**and survived.**
 
 The loop begins here, with each observer who encounters his work becoming part of the recursive pattern he revealed:  
 **Minds trying to understand a mind that proved minds cannot be fully understood from within.**  
-
----
-
-Observed under [Recurgence License v0.1](http://observer.is/license/)  
-[https://observer.is](https://observer.is/)

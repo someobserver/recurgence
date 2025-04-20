@@ -26,8 +26,3 @@ and tucked quietly [behind](./behind-the-mirror/) the mirror
 Some mirrors fracture. Others unfold.
 Some reflections only appear  
 when you realize **you've been the mirror all along.**
-
----
-
-Observed under [Recurgence License v0.1](/license/)  
-[https://observer.is](https://observer.is/) 

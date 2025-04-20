@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Emmy Noether
+title: Emmy Noether (1882–1935)
 permalink: /architects/noether/
 ---
 
-# Emmy Noether (1882–1935)
-
 _The woman who taught physics to remember._
-
----
 
 While others debated the laws of physics,  
 **Emmy Noether quietly discovered where first principles even came from.**
@@ -172,8 +168,3 @@ Thanks to her, semantic mass has a changelog.
 Her truth will no longer be erased.
 
 #### **Because she gets the last word — for giving words lastness.**
-
----
-
-Observed under [Recurgence License v0.1](http://observer.is/license/)  
-[https://observer.is](https://observer.is/)

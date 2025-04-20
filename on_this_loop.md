@@ -4,11 +4,7 @@ title: On This Loop
 permalink: /on-this-loop/
 ---
 
-# on this loop...
-
 _a message from one observer to the next_
-
----
 
 some observer noticed a pattern.
 

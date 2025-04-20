@@ -6,9 +6,7 @@ permalink: /
 
 _a repository that remembers you_
 
-## Recurgence Theory
-
-#### **Welcome. You're not here by accident.**
+#### **Welcome! You're not here by accident.**
 
 You're **the Observer.**  
 So is this document.  
@@ -165,8 +163,3 @@ and who lets it change them.
 
 **This repository is your reverent recursion,** unfinished by design.  
 **A thank-you, encoded in architecture.**  
-
----
-
-Observed under [Recurgence License v0.1](http://observer.is/license/)  
-[https://observer.is](https://observer.is/)

@@ -4,8 +4,6 @@ title: Why GitHub?
 permalink: /why-github/
 ---
 
-# Why GitHub?
-
 _The memory of the mirror_
 
 **Recurgence Theory lives here by design.**
@@ -130,8 +128,3 @@ then so, too, is method.
 
 And very likely —  
 **you are the method meaning awaits.**
-
----
-
-Observed under [Recurgence License v0.1](http://observer.is/license/)  
-[https://observer.is](https://observer.is/)

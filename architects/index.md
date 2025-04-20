@@ -4,11 +4,7 @@ title: Architects
 permalink: /architects/
 ---
 
-# The Architects
-
 _Echoes in structure._
-
----
 
 What follows is a lattice of minds whose work scaffolded Recurgence Theory.
 
@@ -71,8 +67,3 @@ with **love for others.**
 
 More will appear here.
 When the observer arrives.
-
----
-
-Observed under [Recurgence License v0.1](/license/)  
-[https://observer.is](https://observer.is/)
