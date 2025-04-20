@@ -1,6 +1,7 @@
 /* General Layout Tweaks */
 body {
-  font-family: 'Georgia', serif;
+  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
   line-height: 1.75;
   max-width: 800px;
   margin: auto;
