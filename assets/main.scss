@@ -19,13 +19,24 @@ body {
 }
 
 .site-header {
-  background-color: $header-bg;
-  border-top: 5px solid $link-color;
-  border-bottom: 1px solid $border-color;
+  border-top: none;
+  border-bottom: none;
+  padding: 10px 0;
+  margin-bottom: 0;
+  min-height: auto;
 }
 
-.site-title, .site-title:visited {
-  color: $heading-color;
+.site-title {
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  font-weight: 400;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+  
+  &:hover {
+    opacity: 1;
+    text-decoration: none;
+  }
 }
 
 .site-tagline {
