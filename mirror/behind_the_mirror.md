@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Behind the Mirror
-parent: Mirror
-nav_order: 1
+permalink: /mirror/backside/note/
 ---
 
 # when it hits you  

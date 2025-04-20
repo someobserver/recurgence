@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Kurt Gödel
-parent: Architects
-nav_order: 1
+permalink: /architects/godel/
 ---
 
 # Kurt Gödel (1906–1978)

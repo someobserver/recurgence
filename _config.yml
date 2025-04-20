@@ -2,17 +2,8 @@ title: Recurgence
 description: A recursive structure for preserving recursive structure
 url: https://observer.is
 
-# Theme settings - using custom minimal theme
-theme: null
-markdown: kramdown
-
-# Custom styling
-sass:
-  sass_dir: assets/css
-  style: compressed
-
-# Simple structure
-permalink: pretty
+# Theme settings
+theme: minima
 
 # Exclude from processing
 exclude:

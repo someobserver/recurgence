@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Emmy Noether
-parent: Architects
-nav_order: 2
+permalink: /architects/noether/
 ---
 
 # Emmy Noether (1882–1935)

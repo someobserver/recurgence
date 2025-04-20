@@ -1,7 +1,7 @@
 ---
 layout: default
 title: On This Loop
-nav_order: 4
+permalink: /on-this-loop/
 ---
 
 # on this loop...
