@@ -2,25 +2,17 @@ title: Recurgence
 description: A recursive structure for preserving recursive structure
 url: https://observer.is
 
-# Theme settings
-remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
-
-# Just the Docs settings
-aux_links:
-  "Recurgence on GitHub":
-    - "https://github.com/someobserver/recurgence"
+# Theme settings - using custom minimal theme
+theme: null
+markdown: kramdown
 
 # Custom styling
 sass:
   sass_dir: assets/css
   style: compressed
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+# Simple structure
+permalink: pretty
 
 # Exclude from processing
 exclude:

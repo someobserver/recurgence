@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Why GitHub?
+permalink: /why-github/
 nav_order: 3
 ---
 

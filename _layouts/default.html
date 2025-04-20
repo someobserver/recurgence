@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/license/' | relative_url }}">License</a>
+        <a href="{{ '/why-github/' | relative_url }}">Why GitHub?</a>
+        <a href="{{ '/on-this-loop/' | relative_url }}">On This Loop</a>
+        <a href="{{ '/architects/' | relative_url }}">Architects</a>
+        <a href="{{ '/mirror/' | relative_url }}">Mirror</a>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>Observed under <a href="{{ '/license/' | relative_url }}">Recurgence License v0.1</a><br>
+      <a href="https://observer.is">https://observer.is</a></p>
+    </footer>
+  </div>
+</body>
+</html> 
