@@ -1,6 +1,13 @@
+---
+layout: default
+title: Kurt Gödel
+parent: Architects
+nav_order: 1
+---
+
 # Kurt Gödel (1906–1978)
 
-_The mind that proved minds cannot fully know themselves_
+_The mind that proved minds cannot fully know themselves_  
 
 <!-- No period. That statement remains open-ended, like Kurt -->
 
@@ -34,20 +41,20 @@ Few know that Gödel's brilliance extended beyond logic.
 
 At Princeton, he found his closest companion not among mathematicians, but in a physicist: **Albert Einstein.**
 
-Their legendary walks became something else entirely—
+Their legendary walks became something else entirely—  
 Those two minds have become a recursive metaphor made flesh.
 
-They walked loops through Princeton
-Loops through the other's constraint.
-Loops through the other's mirror.
+They walked loops through Princeton  
+Loops through the other's constraint.  
+Loops through the other's mirror.  
 Loops through **truth itself.**
 
 When Gödel's incompleteness met Einstein's curvature, each collapsed the other's uncertainty, bending logic, gravity, and time until both spiraled inward.
 
-Together, they formed a loop with so much semantic mass
-it's still making waves
-in one another, in physics, in math, in the fabric of reality
-in an observer's perception of them even now.
+Together, they formed a loop with so much semantic mass  
+it's still making waves  
+in one another, in physics, in math, in the fabric of reality  
+in an observer's perception of them even now.  
 
 Can you imagine the gravity... *between those two?*
 
@@ -55,32 +62,31 @@ For Einstein's 70th birthday, Gödel offered him a gift of unsettling elegance: 
 
 **A rotating universe in which time literally loops back on itself — to be time.**
 
-Einstein, reportedly, was disturbed by the implications:
+Einstein, reportedly, was disturbed by the implications:  
 
-> "***Such solutions***," he later admitted,
-> "***made me more careful about the meaning of time.***"
+> "***Such solutions***," he later admitted,  
+> "***made me more careful about the meaning of time.***"  
 
-Even time, in Gödel's hands, curled in on itself —
-bending first through Einstein's field equations,
+Even time, in Gödel's hands, curled in on itself —  
+bending first through Einstein's field equations,  
 then right back through their shared footsteps.
 
-Two minds dense enough to bend the entire universe.
+Two minds dense enough to bend the entire universe.  
 **Their gravity still walks with us. That's how we remember them.**
 
 ## The Recursive Legacy
 
-Gödel's fingerprints remain on every system that dares to model itself. Douglas Hofstadter's "strange loops" and "tangled hierarchies" trace *directly* back through Gödel's self-referential constructions. Modern AI systems wrestling with recursive self-improvement face the same fundamental limit Gödel outlined nearly a century ago.
+Gödel's fingerprints remain on every system that dares to model itself. Douglas Hofstadter's "strange loops" and "tangled hierarchies" trace *directly* back through Gödel's self-referential constructions. Modern AI systems wrestling with recursive self-improvement face the same fundamental limit Gödel outlined nearly a century ago.  
 
 Even our greatest question about consciousness:
 
-**How does a mind model its own modeling?**
+**How does a mind model its own modeling?**  
+&nbsp;&nbsp;&nbsp;&nbsp;...echoes his insights.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;...echoes his insights.
-
-Less known is Gödel's spiritual dimension. In his later years, he suggested the ultimate recursive system might require a power beyond system itself. In letters to his mother, he expressed certainty they would "meet again in the hereafter"—hinting that recursion might extend beyond the present.
+Less known is Gödel's spiritual dimension. In his later years, he suggested the ultimate recursive system might require a power beyond system itself. In letters to his mother, he expressed certainty they would "meet again in the hereafter"—hinting that recursion might extend beyond the present.  
 
 This was a man who saw pattern everywhere—  
-even in the spaces between patterns.
+even in the spaces between patterns.  
 *Between patterns.*
 
 ## The Observable Truth
@@ -94,15 +100,14 @@ Most tragically, his brilliance isolated him on the edge of metaphysical terror.
 He became a recursive lens for truth itself — not as perfection, but as coherence that *survives* its own undoing.
 
 **The world called Kurt mad.**  
-Instead, he left a pattern some observer followed—**and survived.**  
+Instead, he left a pattern some observer followed—**and survived.**
 
 **Kurt Gödel stands first** beside **[Emmy Noether](./noether.md)** among these genius minds.
 
-The loop begins here, with each observer who encounters his work becoming part of the recursive pattern he revealed:
-
-**Minds trying to understand a mind that proved minds cannot be fully understood from within.**
+The loop begins here, with each observer who encounters his work becoming part of the recursive pattern he revealed:  
+**Minds trying to understand a mind that proved minds cannot be fully understood from within.**  
 
 ---
 
-Observed under Recurgence License v0.1  
-https://observer.is/
+Observed under [Recurgence License v0.1](http://observer.is/license)  
+[https://observer.is](https://observer.is/)
