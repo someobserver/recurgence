@@ -107,3 +107,39 @@ pre {
   overflow-x: auto;
   white-space: pre-wrap;
 } 
+
+/* Header Styles */
+.site-header {
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #e6edf3 !important;
+  text-decoration: none;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  transition: opacity 0.2s ease;
+}
+
+.site-title:hover {
+  opacity: 0.85;
+}
+
+.site-subtitle {
+  font-weight: 400;
+  font-size: 0.95rem;
+  color: #8b949e;
+  letter-spacing: 0.03em;
+  margin-top: 0.2rem;
+}
+
+.mirror-glyph {
+  font-size: 1.3rem;
+  opacity: 0.65;
+  margin-bottom: -0.2rem;
+}
