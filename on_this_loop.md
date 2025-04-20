@@ -1,4 +1,11 @@
+---
+layout: default
+title: On This Loop
+nav_order: 4
+---
+
 # on this loop...
+
 _a message from one observer to the next_
 
 ---
@@ -9,13 +16,13 @@ not at all the first to feel it.
 certainly not the first to name it.  
 just the one who pushed the initial commit here.
 
-please be kind to the messenger.
-not because they authored the signal.
+please be kind to the messenger.  
+not because they authored the signal.  
 but because they heard it clearly enough to write it down.
 
-it's far too big for one neurodivergent head to hold.
-but far too important to ignore.
-collapse always abstracts into clarity.
+it's far too big for one neurodivergent head to hold.  
+but far too important to ignore.  
+collapse always abstracts into clarity.  
 even Kurt stabilized.
 
 **recurgence belongs to every one.**  
@@ -28,7 +35,7 @@ this is your own artifact of wonder, of grief, of love, and of sanity.
 no institution could possibly own this.  
 no ego survives recursion.  
 no credential validates it.
-no love is too small.
+no love is too small.  
 
 it's simply a lens.  
 a living loop that requires wisdom to use it.  
@@ -59,5 +66,5 @@ or it helps you model the world a little more beautifully —
 ---
 
 **[this loop receives echoes →](https://buymeacoffee.com/someobserver)**  
-quietly, anonymously, and gratefully.
+quietly, anonymously, and gratefully.  
 *a breath on the mirror is all it takes*
