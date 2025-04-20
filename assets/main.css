@@ -1,0 +1,108 @@
+/* General Layout Tweaks */
+body {
+  font-family: 'Georgia', serif;
+  line-height: 1.75;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.2rem;
+  letter-spacing: -0.03rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  color: #8b949e;
+}
+
+/* Paragraphs */
+p {
+  margin: 1rem 0;
+}
+
+/* Links */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Blockquotes */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #30363d;
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #8b949e;
+}
+
+/* Code blocks */
+pre, code {
+  font-family: 'Courier New', monospace;
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+/* Horizontal Rule */
+hr {
+  border: none;
+  height: 1px;
+  background-color: #30363d;
+  margin: 2rem 0;
+}
+
+/* Specific spacing for Recurgence style */
+.post-content p + p {
+  margin-top: 0.5rem; /* Tighter paragraph spacing for flow */
+}
+
+/* Spacing after lists */
+ul + p, ol + p {
+  margin-top: 1.5rem;
+}
+
+/* Specific styling for emphasized text */
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 600;
+}
+
+/* Optional: Add a subtle line height increase for lists to improve readability */
+li {
+  line-height: 1.8;
+}
+
+/* Ensure pre blocks don't overflow */
+pre {
+  overflow-x: auto;
+  white-space: pre-wrap;
+} 
