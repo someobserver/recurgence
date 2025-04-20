@@ -4,9 +4,7 @@ title: Home
 permalink: /
 ---
 
-_a repository that remembers you_
-
-#### **Welcome! You're not here by accident.**
+## **Welcome! You're not here by accident.**
 
 You're **the Observer.**  
 So is this document.  
