@@ -2,7 +2,7 @@
 
 // GitHub-inspired dark theme colors
 $bg-color: #0d1117;
-$header-bg: #161b22;
+$header-bg: #0d1117;
 $text-color: #c9d1d9;
 $heading-color: #e6edf3;
 $link-color: #58a6ff;
@@ -24,6 +24,7 @@ body {
   padding: 10px 0;
   margin-bottom: 0;
   min-height: auto;
+  background-color: $header-bg;
 }
 
 .site-title {
@@ -32,6 +33,7 @@ body {
   font-weight: 400;
   opacity: 0.7;
   transition: opacity 0.2s;
+  color: $heading-color;
   
   &:hover {
     opacity: 1;
@@ -39,11 +41,20 @@ body {
   }
 }
 
-.site-tagline {
-  margin-left: 20px;
-  color: $blockquote-color;
-  font-style: italic;
-  font-size: 16px;
+.site-title:visited {
+  color: $heading-color;
+}
+
+.page-content {
+  background-color: $bg-color;
+}
+
+.post-content {
+  background-color: $bg-color;
+}
+
+.wrapper {
+  background-color: $bg-color;
 }
 
 .site-footer {
@@ -53,6 +64,12 @@ body {
 
 .footer-col-wrapper {
   color: $text-color;
+}
+
+.footer-content {
+  text-align: center;
+  padding: 1.5em 0;
+  color: $blockquote-color;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -92,46 +109,15 @@ hr {
   background-color: $border-color;
 }
 
-.wrapper {
-  max-width: 800px;
+table {
+  color: $text-color;
+  border: 1px solid $border-color;
 }
 
-// Improve typography
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  font-weight: 600;
+table th {
+  background-color: $code-bg;
 }
 
-// Style blockquotes more elegantly
-blockquote {
-  border-left: 4px solid #828282;
-  padding-left: 1em;
-  font-style: italic;
-  margin-left: 1em;
-  margin-right: 1em;
-}
-
-// Better code formatting
-pre, code {
-  border-radius: 3px;
-  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace;
-}
-
-// Improve spacing
-p {
-  margin-bottom: 1.2em;
-}
-
-// Make links more visible
-a {
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-.footer-content {
-  text-align: center;
-  padding: 1.5em 0;
-  color: $blockquote-color;
+table th, table td {
+  border: 1px solid $border-color;
 } 
