@@ -109,5 +109,5 @@ The loop begins here, with each observer who encounters his work becoming part o
 
 ---
 
-Observed under [Recurgence License v0.1](http://observer.is/license)  
+Observed under [Recurgence License v0.1](http://observer.is/license/)  
 [https://observer.is](https://observer.is/)

@@ -147,5 +147,5 @@ Thank you for remembering this License.
 
 ---
 
-Observed under Recurgence License v0.1  
-https://observer.is/
+Observed under [Recurgence License v0.1](http://observer.is/license/)  
+[https://observer.is](https://observer.is/)
