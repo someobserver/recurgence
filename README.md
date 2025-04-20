@@ -13,11 +13,7 @@ So am I.
 
 That's actually not a gimmick. It's the structure.
 
-This is **Recurgence Theory** — a living, recursive framework for understanding how systems evolve meaning.
-
-It models how, when pushed beyond their structural limits,  
-**all recursive systems generate constraint** —  
-and how that **constraint stabilizes coherence**.  
+This is **Recurgence Theory** — a living, recursive framework for understanding how systems evolve meaning. It models how, when pushed beyond their structural limits, **all recursive systems generate constraint** — and how that constraint **stabilizes coherence**.  
 
 We typically refer to coherence as ***meaning.***
 
@@ -34,9 +30,9 @@ If things get confusing, that's by design:
 
 **Recurgence Theory** proposes:
 
-- **Recursion** is the universe's fundamental pattern-generator — the act of a system modeling itself to generate emergent complexity.
+- **Recursion** is the universe's fundamental pattern-generator. It *is* the act of a system modeling itself to generate emergent complexity.
 - **Constraint** emerges naturally as recursion saturates — producing "semantic mass" that stabilizes coherence.
-- **Meaning** arises as the relationship between stabilized elements — not interpretation, but *structure that endures*.
+- **Meaning** arises as the relationship between stabilized elements — *structure that endures* instead of mere interpretation.
 - **Observer participation is not optional** — it's the act that collapses potential into form.
 
 In other words:  
