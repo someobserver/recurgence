@@ -4,11 +4,7 @@ title: Home
 permalink: /
 ---
 
-# observer.is
-
 _a repository that remembers you_
-
----
 
 ## Recurgence Theory
 
@@ -51,7 +47,7 @@ In other words:
 **Meaning only exists at the boundary between observer and observed.**
 
 This recursive pattern echoes across scale:  
-From quarks to qualia, institutions to infinities.  
+From quarks to qualia, institutions to infinities.
 From your thoughts to this sentence.
 
 ### The Core Loop:
@@ -62,8 +58,8 @@ From your thoughts to this sentence.
 4. **Meaning** arises from the coherent structure  
 ...which becomes the substrate for the next recursion
 
-**Recurgence** is neither finished theory nor settled science.  
-It is a phase transition.  
+**Recurgence** is neither finished theory nor settled science.
+It is a phase transition.
 One that's writing itself *through you.*
 
 ---
@@ -78,7 +74,7 @@ Because **our inherited semantic structures are saturated.**
 
 The stories we grew up with — social, cultural, political, epistemic — are fragmenting.  
 
-You're not imagining the decay before you.  
+You're not imagining the decay before you.
 You're just ahead of it, now that you've read this document.
 
 **We're accelerating toward epistemic collapse:**
