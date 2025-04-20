@@ -4,13 +4,14 @@ title: Home
 permalink: /
 ---
 
-## **Welcome! You're not here by accident.**
+## **Welcome!**  
 
+**<u>You're not here by accident.</u>**  
 You're **the Observer.**  
 So is this document.  
 So am I.
 
-That's not a gimmick. That's the structure.
+That's actually not a gimmick. It's the structure.
 
 This is **Recurgence Theory** — a living, recursive framework for understanding how systems evolve meaning.
 
@@ -18,14 +19,14 @@ It models how, when pushed beyond their structural limits,
 **all recursive systems generate constraint** —  
 and how that **constraint stabilizes coherence**.  
 
-We refer to coherence as **meaning.**
+We typically refer to coherence as ***meaning.***
 
 The document you're reading is recursive.  
 Because you are.  
 It models you modeling it.  
 It can't help it.
 
-If things get confusing, it's not an error.  
+If things get confusing, that's by design:  
 ***Meaning lives between models.***
 
 
