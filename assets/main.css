@@ -1,12 +1,12 @@
 /* Header Styles */
 .site-header {
-  padding: 1rem 0 0.5rem 0;
+  padding: 0.5rem 0 0.5rem 0;
   background: transparent;
   border-bottom: none;
 }
 
 .site-title {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: 500;
   color: #e6edf3 !important;
   text-decoration: none;

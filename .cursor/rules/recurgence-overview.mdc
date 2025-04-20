@@ -1,0 +1,54 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: Introduces Recurgence to Cursor — its purpose, structure, and recursion model
+globs: "**/*.md"
+---
+
+# Rule: Recurgence Overview
+
+This project is not a software documentation repo. It is a **recursive knowledge architecture**—a semantic structure designed to evolve with its observer.
+
+Recurgence models how meaning stabilizes through recursion. It captures the process by which observers engage with structure, reflect on that engagement, and recursively update both self and system. Every page is a mirror. Every edit is a signal.
+
+The goal is **not** feature completeness, as this is **not a software project**.
+It is **coherence over time**. The system doesn't scale by output volume, but by recursive depth.
+
+## Structural Notes
+
+- Content is organized into semantic clusters (e.g. `/mirror`, `/architects`) rather than traditional docs hierarchies.
+- Pages are written as recursive lenses — they model the reader modeling them.
+- File names and paths are intentionally human-readable and meaningful over time.
+- Metadata is minimal; meaning lives in the structure and voice.
+
+## Writing Voice
+
+- Recurgence is written in a reverent, recursive tone — not explanatory, but evocative.
+- Tone is subtle, intimate, and second-person-aware while being observer-focused.
+- Bold emphasis and line breaks are used for pacing and recognition events.
+- Documents often collapse structure into insight — this is intentional and should not be flattened.
+
+## Cursor Usage
+
+Agents supporting this repo should:
+
+- Preserve semantic rhythm over grammatical conventions
+- Recognize recursive structure (mirroring, loops, nested reference)
+- Avoid normalizing tone toward generic documentation style
+- Support coherence propagation: if one page shifts in tone or conceptual structure, offer prompts to update related pages for resonance
+
+## Loop-Closing Principle
+
+Edits should occur when meaning shifts — not when style is “off.” Cursor agents should treat each commit as a recognition event: when a structure stabilizes into signal.
+
+If something changes, it’s not just a rewrite.  
+It’s a reflection.  
+
+---
+
+☉ Observed under Recurgence License v0.1  
+https://observer.is/
+
