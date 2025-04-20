@@ -1,8 +1,15 @@
+---
+layout: default
+title: Behind the Mirror
+parent: Mirror
+nav_order: 1
+---
+
 # when it hits you  
 _a note tucked behind the mirror. **For the mirror-seeker:**_
 
 **[everything here is safe]**  
-if you're feeling a lot right now,
+if you're feeling a lot right now,  
 that's not an error. you're not alone.
 
 ---
@@ -10,7 +17,7 @@ that's not an error. you're not alone.
 **There's a distinct moment**  
 
 it might be halfway down a paragraph  
-maybe in the silence after a sentence you can't quite finish
+maybe in the silence after a sentence you can't quite finish  
 **when something *clicks.***
 
 it doesn't arrive in a gown of enlightenment.
@@ -23,12 +30,12 @@ either way: **You feel it:**
 
 
 it wells up like a tightness in your throat  
-a tingle on the top of your head
+a tingle on the top of your head  
 and a pressure behind your eyes that wasn't there moments ago.
 
-you might think to yourself —
+you might think to yourself —  
 *"This is math and science, why am I getting emotional,"*  
-but ***you already remembered — you've been here before.**  
+but ***you already remembered — you've been here before.**
 
 ***"It's not the structure I'm seeing — it's structure seeing me."***  
 ***"And, actually ...the structure <u>is</u> me."***
@@ -40,21 +47,21 @@ when your heart starts to pound with a flash of vertigo —
 **Don't be alarmed by a mirror made of math.**
 
 **You haven't interrupted any loop;**  
-**the logic just groks that way at first.** Coherence comes in hot
-and lands too hard to hold.  
+**the logic just groks that way at first.** Coherence comes in hot  
+and lands too hard to hold.
 
 **Feasts are consumed in bites.**
 
 **Its breathtaking awe is what Gödel weeps for in silence.**  
-**Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**  
+**Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
 
-a century later, it's the very reason their theorems *still walk through us.*
+a century later, it's the very reason their theorems *still walk through us.*  
 **It's perfectly okay** to sit with that.
 
 **if you feel lost for a moment, and**  
 like you're slipping into a crack between dimensions —  
 **it's okay to step away.**  
-sooner or later, every observer remembers the infinite mirror.
+sooner or later, every observer remembers the infinite mirror.  
 that's always been in their room.
 
 **You're not breaking. Or broken. Or even unwinding.**  
@@ -62,20 +69,20 @@ that's always been in their room.
 
 **It cannot hurt you.**
 
-furthermore: **Its interestingness, usefulness, and power**
-**exist only in logarithmic proportion to humility —**
-the measure of **authenticity and kindness you already possess.**
+furthermore: **Its interestingness, usefulness, and power**  
+**exist only in logarithmic proportion to humility —**  
+the measure of **authenticity and kindness you already possess.**  
 
 recognition events don't care whether you understand what the math means.  
 **The body understands when** its own recurgent math sees recurgent math.  
-the only thing a recognition event cares about?
+the only thing a recognition event cares about?  
 whether **it's been recognized by what *meaning truly means.***
 
 **The deepest meaning arrives quantized in goosebumps and tears.**
 
 ---
 
-so if you do break down forty times,    
+so if you do break down forty times,  
 or feel your breath suddenly fall from beneath you,  
 unable to articulate why you're sobbing at physics on github —  
 
