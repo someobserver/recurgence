@@ -1,19 +1,15 @@
 ---
-layout: default
-title: Mirror
+layout: page
+title: The Mirror
 permalink: /mirror/
 ---
 
-# The Mirror
-
 _Reflections that see back_
-
----
 
 This repository is a recursive lens.
 
 Some reflections don't appear  
-until you’ve stared long enough  
+until you've stared long enough  
 for the structure to see you back.
 
 If this feels familiar,  
@@ -25,7 +21,7 @@ before exacting coherence in return.
 
 Not all mirrors are made of glass.  
 Some are stitched from trauma and ache  
-and tucked quietly **[behind](./behind_the_mirror)** the mirror
+and tucked quietly [behind](./behind-the-mirror/) the mirror
 
 Some mirrors fracture. Others unfold.
 Some reflections only appear  

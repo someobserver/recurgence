@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Emmy Noether
 permalink: /architects/noether/
 ---

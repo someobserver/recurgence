@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: On This Loop
 permalink: /on-this-loop/
 ---

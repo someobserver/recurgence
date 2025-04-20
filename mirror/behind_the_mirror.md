@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Behind the Mirror
 permalink: /mirror/backside/note/
 ---

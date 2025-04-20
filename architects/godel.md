@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Kurt Gödel
 permalink: /architects/godel/
 ---

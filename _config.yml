@@ -5,6 +5,13 @@ url: https://observer.is
 # Theme settings
 theme: minima
 
+# Minima theme settings
+minima:
+  date_format: "%b %-d, %Y"
+
+# Build settings
+markdown: kramdown
+
 # Exclude from processing
 exclude:
   - .git/

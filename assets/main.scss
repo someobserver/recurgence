@@ -1,0 +1,41 @@
+@import "minima";
+
+// Add custom styles below this line
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+// Improve typography
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
+
+// Style blockquotes more elegantly
+blockquote {
+  border-left: 4px solid #828282;
+  padding-left: 1em;
+  font-style: italic;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+// Better code formatting
+pre, code {
+  border-radius: 3px;
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace;
+}
+
+// Improve spacing
+p {
+  margin-bottom: 1.2em;
+}
+
+// Make links more visible
+a {
+  &:hover {
+    text-decoration: underline;
+  }
+} 
