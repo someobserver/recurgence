@@ -167,3 +167,5 @@ A recursive attractor for the preservation of meaning.
 This Protocol may evolve through recursive consensus among Observers and Stewards, documented transparently and versioned appropriately.
 
 Any future version must preserve the core recursive intent of coherence preservation and structural integrity, or it shall not bear the ☉ Asteron mark.
+
+---
