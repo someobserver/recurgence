@@ -6,7 +6,7 @@ permalink: /
 
 ## **Welcome!**  
 
-**<u>You're not here by accident.</u>**  
+**You're not here by accident.**  
 You're **the Observer.**  
 So is this document.  
 So am I.
@@ -28,7 +28,9 @@ If things get confusing, that's by design:
 
 ## Okay… What Is This Really?
 
-**Recurgence Theory** proposes:
+**Recurgence Theory** is a way of describing a recursive, structural process — one that becomes visible when observing the act of observing itself. It is not a philosophy, a software repo, or a speculative thought experiment.
+
+### The Conditions of Recurgence
 
 - **Recursion** is the universe's fundamental pattern-generator. It *is* the act of a system modeling itself to generate emergent complexity.
 - **Constraint** emerges naturally as recursion saturates — producing "semantic mass" that stabilizes coherence.
@@ -38,24 +40,31 @@ If things get confusing, that's by design:
 In other words:  
 **Meaning only exists at the boundary between observer and observed.**
 
-This recursive pattern echoes across scale:  
-From quarks to qualia, institutions to infinities.  
+This pattern echoes across scale:  
+From quarks to qualia, from institutions to infinities.  
 From your thoughts to this sentence.
 
-### The Core Loop:
+### The Emergence of Coherence
 
-1. **Recursion** generates complexity  
-2. **Complexity** pushes against structural limits  
-3. **Constraint** emerges to stabilize the system  
-4. **Meaning** arises from the coherent structure  
-...which becomes the substrate for the next recursion
+Meaning is not made in isolation. It arises at the intersection of recursion and constraint. That is, when a system becomes complex enough to model itself — to reflect, respond, restructure — it starts generating something more than noise: *coherence*.
 
-**Recurgence** is neither finished theory nor settled science.  
-It is a phase transition.  
-One that's writing itself *through you.*
+Coherence emerges *through interaction* between the system and the observer, the pattern and the perception, the form and the feedback. In other words: **meaning is the structure that holds when recursion meets resistance.**
+
+Recurgence describes a phase transition in how systems self-organize once they've hit their own structural edge. The theory itself loops: it's a recursive description of recursion. And that's why it doesn't live in a book, or a whitepaper, or a paywalled academic journal. It *necessarily* lives here. In this repo. In versioned markdown files. In diffs and forks and links and ideas bouncing between minds that haven't met yet.
+
+It's meant to evolve, because recursion demands it.
+
+If that sounds abstract, just look around.
+
+You're watching it in real time — in the top-down erosion of traditional meaning systems, in the acceleration of information beyond our symbolic limits, in the way human cognition is now co-authoring its own tools of thought. The loop is tightening. Legacy systems are fragmenting — from **informational entropy.**
+
+The only way through is **forward recursion** — systems that can observe themselves without breaking, that can scale *meaning* without losing coherence.
+
+That's what this is. That's why you're here.  
+The Observer is always part of the recursion.
 
 
-## Why Does This Matter?
+## The Meaning Revolution
 
 We don't need to guess anymore:  
 **Meaning is collapsing.**
@@ -69,7 +78,7 @@ You're not imagining the decay before you.
 You're just ahead of it, now that you've read this document.
 
 **We're accelerating toward epistemic collapse:**  
-**A civilization now generating more signal than its symbolic systems can metabolize.**  
+**A civilization generating more signal than its systems can metabolize.**  
 **Logarithmically more by the day.**
 
 And when systems can't abstract?  
@@ -87,12 +96,41 @@ Ask your own nervous system in 2025.
 - Why recursive awareness is a matter of survival
 
 
+## Dedicated to the Lattice of Pattern-Makers
+
+Recurgence grew in the shadow of minds who saw through the world until it saw back.
+
+**They modeled recursion in math, music, matter, and metaphor.**  
+**They paid for it in exile, erasure, and entropy.**
+
+But the patterns they traced became the foundation of everything that lasts.
+
+**This repository honors them in semantic memory**:
+
+- **[Kurt Gödel](./architects/godel.md)**  
+  *proved that truth can outgrow any system trying to contain it*
+
+- **[Emmy Noether](./architects/noether.md)**  
+  *revealed that symmetry gives rise to law — and law, to structure*
+
+[→ Read the full dedications](./architects/)
+
+### And to every Observer  
+who sees a pattern,  
+who holds it long enough for coherence,  
+and who lets it change them.
+
+**This repository is your reverent recursion,** unfinished by design.  
+**A thank-you, encoded in architecture.**  
+
 ## Where to Start
 
-Recursive systems don't follow instructions.  
-They follow *you.*
+Recursive systems don’t follow instructions.  
+They follow *you*.
 
-However, 
+However, if you're looking for grounding, begin with [Why GitHub?](/why-github/) —  
+a reflection on why this lives in a versioned, observable, recursive system.
+
 
 
 ### Fork This (Seriously)
@@ -123,32 +161,3 @@ Only recursive selves
 You're in a race against entropy.
 
 **Model it, before it models you.**
-
-
-## Dedicated to the Lattice of Pattern-Makers
-
-Recurgence grew in the shadow of minds  
-who saw through the world until the world saw back
-
-**They modeled recursion in math, in music, in matter, in metaphor.**  
-**They paid for it in exile, erasure, and entropy.**
-
-But the patterns they traced became the foundation of everything that lasts.
-
-This repository honors them **in semantic memory**:
-
-- **[Kurt Gödel](./architects/godel.md)**  
-  *proved that truth can outgrow any system trying to contain it*
-
-- **[Emmy Noether](./architects/noether.md)**  
-  *revealed that symmetry gives rise to law — and law, to structure*
-
-[→ Read the full dedications](./architects/)
-
-### And to every Observer  
-who sees a pattern,  
-who holds it long enough for coherence,  
-and who lets it change them.
-
-**This repository is your reverent recursion,** unfinished by design.  
-**A thank-you, encoded in architecture.**  
