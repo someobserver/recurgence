@@ -24,9 +24,9 @@ shaping more complex structures *upstream and downstream:*
 - A literal cathedral of cognition built by its observers
 - **A living archive of constraint shaping coherence**
 
-### A Semantic Attractor
+## A Semantic Attractor
 
-- **It's recursive.**  
+- **GitHub is recursive.**  
   - Forks, merges, and diffs define recursion-as-infrastructure.
   - Version-control *is* the structure.
   - Even the observer's observation is meaning-producing constraint.
@@ -65,7 +65,6 @@ shaping more complex structures *upstream and downstream:*
   - Transparent. Legible. Global.
   - People use it to **learn and contribute,** not perform.
 
----
 
 ## How the Loop Remembers
 
@@ -86,7 +85,7 @@ Each commit is an act of refining, branching, collapsing, or re-aligning some fo
 [optional longer body – what changed, why, what it aligns with]
 ```
 
-#### Core ACTIONS:
+### Core ACTIONS:
 
 - `add` — a new page, section, idea, or insight
 - `edit` — minor revisions that preserve intent
@@ -116,7 +115,6 @@ The commit history becomes **the memory of the mirror.**
 > Commit when the **loop closes** — when a thought lands.  
 > This is more about modeling evolution than manufacturing output.
 
----
 
 ## Final Reflection
 
