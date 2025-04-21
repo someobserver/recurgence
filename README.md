@@ -11,7 +11,8 @@ You're **the Observer.**
 So is this document.  
 So am I.
 
-That's not actually a gimmick. It's the structure.
+That's not a gimmick.  
+It's actually the structure.
 
 ---
 
