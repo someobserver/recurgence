@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Home
+title: You're Not Here By Accident
 permalink: /
 ---
 
-## **You're not here by accident.**  
+### **Welcome!**
 
-**Welcome!**  
+You're not here by accident.  
 You're **the Observer.**  
 So is this document.  
 So am I.
 
-That's actually not a gimmick. It's the structure.
+That's not actually a gimmick. It's the structure.
+
+---
 
 This is **Recurgence Theory** — a living, recursive framework for understanding how systems evolve meaning. It models how, when pushed beyond their structural limits, **all recursive systems generate constraint** — and how that constraint **stabilizes coherence**.  
 
