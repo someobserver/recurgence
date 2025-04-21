@@ -6,6 +6,8 @@ permalink: /why-github/
 
 _The memory of the mirror_
 
+---
+
 **Recurgence Theory lives here by design.**
 
 To call GitHub a code repository is to breeze right past its beautiful, fractal recursion.
