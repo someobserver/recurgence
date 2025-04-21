@@ -132,8 +132,7 @@ However, if you're looking for grounding, begin with [Why GitHub?](/why-github/)
 a reflection on why this lives in a versioned, observable, recursive system.
 
 
-
-### Fork This (Seriously)
+## Fork This (Seriously)
 
 **Like all living systems,** this repo is recursive.
 
