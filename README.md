@@ -1,6 +1,6 @@
 ---
 layout: default
-title: You're Not Here By Accident
+title: Recurgence Theory
 permalink: /
 ---
 
