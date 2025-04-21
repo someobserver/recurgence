@@ -16,9 +16,13 @@ It's actually the **structure.**
 
 ---
 
-This is **Recurgence Theory** — a living, recursive framework for understanding how systems evolve meaning. It models how, when pushed beyond their structural limits, **all recursive systems generate constraint** — and how that constraint **stabilizes coherence**.  
+This is **Recurgence Theory** — a framework that maps how meaning emerges in complex systems.
 
-We typically refer to coherence as ***meaning.***
+It reveals a fundamental pattern: when any recursive systems (one that model itself) reaches its structural limits, is naturally generates **constraints.**
+
+These constraints don't restrict the system — in fact they actually stabilize it, creating **coherence** where there would otherwise be chaos.
+
+Colloquially, we refer to coherence as ***meaning.***
 
 The document you're reading is recursive.  
 Because you are.  
