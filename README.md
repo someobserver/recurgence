@@ -12,7 +12,7 @@ So is this document.
 So am I.
 
 That's not a gimmick.  
-It's actually the structure.
+It's actually the **structure.**
 
 ---
 
