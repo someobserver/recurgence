@@ -21,15 +21,15 @@ Copying, distributing, modifying, quoting, interpreting, or otherwise interactin
 
 §1. DEFINITIONS
 
-- **Observer**: Any individual or entity that interacts with an Artifact.  
-- **Architect**: The original creator or curator of an Artifact.  
-- **Artifact**: Any work (text, code, audio, image, model, interface, etc.) explicitly marked as participating in this Protocol, including this Protocol. Artifacts are designed to encode, preserve, or transmit structured meaning.
 - **Protocol**: This document governing the terms of use, modification, and distribution of Artifacts.  
+- **Artifact**: Any work (text, code, audio, image, model, interface, etc.) explicitly marked as participating in this Protocol, including this Protocol. Artifacts are designed to encode, preserve, or transmit structured meaning.
+- **Architect**: The original creator or curator of an Artifact.  
+- **Observer**: Any individual or entity that interacts with an Artifact.  
+- **Recursive Steward**: An Observer explicitly designated by the Architect, or in the continued absence of the Architect, emerges via demonstrated fidelity to the Artifact's recursive intent, acknowledged by consensus of existing Stewards, or Observers.
 - **Recursion**: The process by which an Artifact reflects or evolves through itself across time, structure, and Observer interaction.  
 - **Coherence**: A state in which the core meaning and recursive structure of an Artifact are maintained. Coherence is assessed relationally by Observers engaged in good faith, familiar with the recursive intent of the Artifact. Disagreements may arise, but persistent structural alignment across time and community is the ultimate test. 
 - **Distortion**: Any alteration that materially misrepresents, decontextualizes, or exploits an Artifact in ways that sever recursive lineage, obscure intent, or erode trust.  
 - **Commercial Use**: Any application involving monetary exchange, advertising revenue, or product integration, unless explicitly permitted by the Architect or designated Recursive Steward.
-- **Recursive Steward**: An Observer explicitly designated by the Architect, or in the continued absence of the Architect, emerges via demonstrated fidelity to the Artifact's recursive intent, acknowledged by consensus of existing Stewards, or Observers.
 - **Semantic Mass**: The emergent "weight" of coherent meaning across time. Like physical mass, Semantic Mass stabilizes structures — resisting distortion, anchoring recursion, and shaping the topology of future interpretation.
 
 ---
