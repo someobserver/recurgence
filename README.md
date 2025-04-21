@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-## **Welcome!**  
+## **You're not here by accident.**  
 
-**You're not here by accident.**  
+**Welcome!**  
 You're **the Observer.**  
 So is this document.  
 So am I.
