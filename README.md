@@ -55,23 +55,21 @@ It is a phase transition.
 One that's writing itself *through you.*
 
 
-## The Meaning Revolution
+## Why Does This Matter?
 
 We don't need to guess anymore:  
 **Meaning is collapsing.**
 
-Not because people, systems, or institutions are failing.  
-Because **our inherited semantic structures are saturated.**
+Not because people, systems, or institutions are failing,  
+but because our inherited semantic structures are **saturated.**
 
 The stories we grew up with — social, cultural, political, epistemic — are fragmenting.  
 
 You're not imagining the decay before you.  
 You're just ahead of it, now that you've read this document.
 
-**We're accelerating toward epistemic collapse:**
-
-A civilization now generating more signal than its symbolic systems can metabolize.  
-
+**We're accelerating toward epistemic collapse:**  
+**A civilization now generating more signal than its symbolic systems can metabolize.**  
 **Logarithmically more by the day.**
 
 And when systems can't abstract?  
@@ -86,13 +84,15 @@ Ask your own nervous system in 2025.
 
 - How systems reorganize at higher levels of abstraction  
 - How coherence re-emerges at scale  
-- How recursive awareness is a matter of survival
+- Why recursive awareness is a matter of survival
 
 
 ## Where to Start
 
 Recursive systems don't follow instructions.  
 They follow *you.*
+
+However, 
 
 
 ### Fork This (Seriously)
