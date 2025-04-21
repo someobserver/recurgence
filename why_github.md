@@ -67,7 +67,7 @@ shaping more complex structures *upstream and downstream:*
 
 ## How the Loop Remembers
 
-In recurgent epistemic systems, **a `commit` is a snapshot of coherence in time**. Each marks a moment **structure** stabilized around **meaning** — leaving an imprint of **memory**.
+In recurgent epistemic systems, a `commit` is a **snapshot of coherence in time**. Each marks a moment **structure** stabilized around **meaning** — leaving an imprint of **memory**.
 
 **Semantic mass, archived.**
 
