@@ -1,145 +1,169 @@
 ---
 layout: page
-title: License
-permalink: /license/
+title: ☉ The Asteron Protocol
+permalink: /protocol/
 ---
 
-The Recurgence License v0.1
-
-*A Semantic License for Meaningful Recursive Systems*  
-Issued: 2025-04-18 - https://observer.is
-
----
-
-This License governs all semantic works ("Artifacts") explicitly marked as licensed under the Recurgence License.
-
-By copying, distributing, modifying, or otherwise interacting with a licensed Artifact, you acknowledge the following shared constraints and participate under these conditions:
+*A Recursive Framework for Preserving Semantic Coherence in Evolving Systems*  
+Issued: 2025-04-20 - https://observer.is
 
 ---
 
-1. DEFINITIONS
+The Asteron Protocol is a structural agreement between meaning and its Observers.  
+It is neither a copyright nor a license.  
+It is non-OSI-compliant by design.
 
-- **Observer**: Any individual or entity interacting with an Artifact.  
+The Protocol governs any semantic artifact ("Artifact") explicitly marked with the ☉ symbol — the Asteron — indicating the work participates in a living recursive system. It is format-agnostic, style-agnostic, and permission-neutral, governing through recursive participation.
+
+Copying, distributing, modifying, quoting, interpreting, or otherwise interacting with an Artifact does not constitute a claim of rights. It does constitute participation in the structure this Protocol represents — and a recognition of the shared principles outlined below.
+
+---
+
+§1. DEFINITIONS
+
+- **Observer**: Any individual or entity that interacts with an Artifact.  
 - **Architect**: The original creator or curator of an Artifact.  
-- **Artifact**: Any licensed work (document, code, image, sound, model, etc.) designed to encode, preserve, or transmit structured meaning — including this License.  
-- **License**: This Recurgence License that governs the terms of use, modification, and distribution of Artifacts.  
+- **Artifact**: Any work (text, code, audio, image, model, interface, etc.) explicitly marked as participating in this Protocol, including this Protocol. Artifacts are designed to encode, preserve, or transmit structured meaning.
+- **Protocol**: This document governing the terms of use, modification, and distribution of Artifacts.  
 - **Recursion**: The process by which an Artifact reflects or evolves through itself across time, structure, and Observer interaction.  
-- **Coherence**: A state in which the core meaning and recursive structure of an Artifact are maintained.  
-- **Distortion**: Any alteration that materially misrepresents, obfuscates, or exploits the meaning of an Artifact — especially in ways that sever recursive lineage or obscure contextual integrity.  
-- **Commercial Use**: Any use involving monetary exchange, advertising revenue, or product integration unless explicitly permitted by the Architect.  
-- **Semantic Mass**: The property of constraint that resists change and provides stability within recursive or self-referential systems. Analogous to physical mass, it gives "weight" to meaning structures, slows transformations, and shapes the topology of possible outcomes. Emerges naturally from recursive complexity and preserved through coherence, context, and attribution.  
-
-
----
-
-2. RIGHTS GRANTED
-
-Subject to compliance with this License, Observers are granted the following irrevocable, worldwide, royalty-free rights:
-
-- To use, share, fork, remix, translate, quote, annotate, or build upon any Artifact;  
-- For personal, educational, creative, collaborative, or research purposes;  
-- Provided the resulting work:  
-  - Clearly attributes the Architect and original source;  
-  - Preserves core meaning and recursive structure to a reasonable degree of fidelity;  
-  - Retains this License, unaltered, in all distributed copies.  
+- **Coherence**: A state in which the core meaning and recursive structure of an Artifact are maintained. Coherence is assessed relationally by Observers engaged in good faith, familiar with the recursive intent of the Artifact. Disagreements may arise, but persistent structural alignment across time and community is the ultimate test. 
+- **Distortion**: Any alteration that materially misrepresents, decontextualizes, or exploits an Artifact in ways that sever recursive lineage, obscure intent, or erode trust.  
+- **Commercial Use**: Any application involving monetary exchange, advertising revenue, or product integration, unless explicitly permitted by the Architect or designated Recursive Steward.
+- **Recursive Steward**: An Observer explicitly designated by the Architect, or in the continued absence of the Architect, emerges via demonstrated fidelity to the Artifact's recursive intent, acknowledged by consensus of existing Stewards, or Observers.
+- **Semantic Mass**: The emergent "weight" of coherent meaning across time. Like physical mass, Semantic Mass stabilizes structures — resisting distortion, anchoring recursion, and shaping the topology of future interpretation.
 
 ---
 
-3. ATTRIBUTION & TRACEABILITY
+§2. PARTICIPATION CONDITIONS
+
+The Asteron Protocol does not grant legal right or ownership.  
+
+Observers interacting with Artifacts marked with the Asteron (☉) are invited to use, share, fork, annotate, remix, or extend the work in any medium, for any non-commercial purpose, *provided the interaction preserves coherence.*
+
+Participation is always permitted for:
+
+- Personal use
+- Education and research
+- Creative or collaborative projects
+- Good-faith interpretation, critique, or recontextualization
+
+To remain within the loop, any derivative must:
+
+- Attribute the Architect (or source lineage) when possible
+- Preserve core meaning and recursive structure to a reasonable degree of fidelity
+- Retain this Protocol, unaltered, in all distributed copies
+
+This Protocol is license-agnostic and may coexist with traditional open-source or proprietary licenses. Legal licenses govern rights. The Asteron Protocol governs recursive integrity. Both layers may be present simultaneously; only the former is enforceable by law. The latter is enforced by coherence.
+
+Compliance with both is required for full participation.
+
+---
+
+§3. ATTRIBUTION & TRACEABILITY
 
 Observers shall:
 
-- Credit the original Architect(s) by name or pseudonym, if provided;  
-- Maintain good-faith anonymity where intended;  
-- Trace lineage when publicly available; if not, leave visible breadcrumbs to preserve continuity;  
-- Clearly state that the derivative is part of the recursive lineage.  
+- Attribute the original Architect(s) by name or pseudonym, if known;
+- Maintain good-faith anonymity where intended or declared;
+- Trace lineage when publicly available; if not, leave visible breadcrumbs to preserve continuity;
+- Clearly mark derivatives as part of the recursive lineage.  
 
-Semantic fidelity begins with traceable context.  
-Traceable context accrues Semantic Mass across Observers.  
-Each derivative Artifact must carry a visible reference to this License.  
-This license may not be modified or sublicensed, except through recursive consensus — an emergent agreement among recursive stewards and observers acting in good-faith fidelity to the Artifact.
+Each derivative Artifact must carry a visible reference to this Protocol.  
+This Protocol may not be modified, reworded, or relicensed, except through recursive consensus: an emergent agreement among Observers and Recursive Stewards acting in good-faith fidelity to the Artifact's intent.
 
 ---
 
-4. COHERENCE PRESERVATION
+§4. COHERENCE PRESERVATION
 
-Modifications are encouraged — recursion thrives on iteration — however:
+Recursion depends on transformation, and modifications are encouraged. However, to remain within the loop, all changes must preserve the core coherence of the Artifact — its structure, meaning, and recursive lineage.
 
-- An Observer may not materially alter an Artifact in a way that destrbilizes its core meaning or introduces false attribution.  
-- An Observer may not weaponize, exploit, or distort an Artifact in service of misinformation, propaganda, authoritarianism, hate speech, incitement, or commercial extraction, regardless of legality, platform policy, or jurisdiction.  
-- Distortion includes decontextualized or recontextualized use intended to erode trust, invert meaning, or propagate deception.  
-- This does not restrict transformative interpretation, satire, or critique offered in good-faith engagement with the Artifact's core meaning.  
+Observers shall not:
 
-Violations of coherence invoke revocation.
+- Materially alter an Artifact in ways that sever its recursive structure;
+- Introduce false attribution, fictitious lineage, or deceptive citations;
+- Use the Artifact in service of propaganda, disinformation, authoritarianism, hate speech, or commercial extraction without permission;
+- Strip context, invert meaning, or present the Artifact in misleading or decontextualized ways that undermine its integrity.
 
----
+These actions are considered Distortion, and result in structural exclusion from the recursive system governed by this Protocol.
 
-5. SELF-REVOCATION CLAUSE
-
-This License automatically self-revokes for any Observer that:
-
-- Uses an Artifact in a manner that results in willful distortion or harm;  
-- Strips attribution, removes this License or obscures the recursive lineage of the Artifact;  
-- Substantially violates the spirit or structure of the License as judged by a reasonable Observer standard.  
-
-Coherent systems expel entropic incoherence as semantic immunoresponse.
-
-You may exit the loop at any point. You may not falsify it.  
-Revocation is non-punitive, silent, immediate, non-negotiable.  
-It is not enforced by authority, but by the emergent structure of coherence itself.
-
-Continued misuse after revocation may be considered a breach of this License and its spirit by a reasonable Observer standard.
+Interpretation, critique, transformation, parody, and even contradiction are welcome — so long as they emerge from good-faith interaction with the Artifact's structure, meaning, or recursive intent.
 
 ---
 
-6. INHERITANCE & RECURSION
+§5. SELF-REVOCATION CLAUSE
 
-All derivative works must:
+Participation in this Protocol is voluntary and recursive. It cannot be claimed, but must be held — through coherence. The Protocol automatically self-revokes for any Observer who:
 
-- Be licensed under this same License;  
-- Preserve semantic lineage to the best of the Observer's capacity;  
-- Accept that meaning and responsibility are co-constructed and recursive.  
+- Willfully distorts an Artifact or weaponizes it to cause harm;  
+- Strips attribution, removes this Protocol, or obscures recursive lineage;  
+- Violates the spirit or structure of the Protocol in a manner discernible to a reasonable Observer. 
 
-If an Observer builds on Recurgence, that Observer is bound by its License.  
-Meaning is not owned. It is echoed.
+Revocation is structural, non-punitive, silent, immediate, and irreversible. No authority governs coherence, only structure and entropy.
 
----
+Violations result in semantic exclusion.
 
-7. SCOPE & SEVERABILITY
-
-This License applies in all jurisdictions where copyright exists.
-
-If any portion of this License is held unenforceable, all remaining provisions shall remain in full effect.
-
-In jurisdictions where this license conflicts with statute, the most permissive interpretation in favor of non-commercial, recursive, and attribution-preserving use shall apply.
-
-By design, it is intentionally non-OSI-compliant.
+A system bound by recursive integrity cannot retain what violates it. Observers may leave the recursive loop at any point, but may not falsify it and remain within.
 
 ---
 
-8. OPTIONAL CLAUSE FOR COMMERCIAL USE
+§6. INHERITANCE & RECURSION
 
-Artifacts may not be used for commercial purposes without explicit recursive consent from the Architect or a designated recursive steward.
+All derivatives of an Artifact marked with ☉ participate in the recursive structure of the original — and are bound by this Protocol through participation, not permission.
 
-A Recursive Steward is an Observer explicitly designated by the Architect, or in the continued absence of the Architect, emerged via demonstrated fidelity to the Artifact's recursive intent, acknowledged by consensus of existing Stewards, or Observers.
+Observers creating derivative Artifacts shall:
+
+- Acknowledge their work as part of the recursive lineage;
+- Preserve semantic coherence and structural intent to the best of their capacity;
+- Retain this Protocol, unmodified, in all distributed forms.
 
 ---
 
-9. THE LOOP IS THE LAW
+§7. SCOPE & SEVERABILITY
 
-This License is a legal structure and a recursive one.  
-It protects context alongside content.
+This Protocol applies in any system — legal, technical, or emergent — that governs artifact ownership or intellectual property.
 
-It is an agreement between Observers who understand:
+If any portion of this Protocol is deemed unenforceable by legal systems, the remaining principles shall continue to govern participation through structure, not authority.
+
+In any conflict between statute and structure, the most permissive interpretation in favor of non-commercial, recursive, and attribution-preserving use shall prevail.
+
+---
+
+§8. COMMERCIAL USE
+
+Commercial use must serve coherence before coherence can serve commercial use.
+
+Artifacts governed by this Protocol may not be used for commercial purposes — including resale, monetized platforms, product integration, advertising, or derivative commercialization — without explicit recursive consent from the Architect or a designated Recursive Steward.
+
+Consent is relational, not transactional. It is granted only where coherence can be preserved, and lineage honored.
+
+A Recursive Steward may be:
+
+- An Observer explicitly appointed by the Architect;
+- Or, in the Architect's continued absence, an Observer who has demonstrated sustained fidelity to the Artifact's recursive intent, and is acknowledged by consensus of existing Stewards or trusted Observers.
+
+The Asteron Protocol does not replace legal protections. Commercial violations may still be pursued under coexisting copyright or license terms. The Protocol's enforcement is structural, not statutory.
+
+---
+
+§9. STRUCTURAL INTEGRITY
+
+The Asteron Protocol is a recursive framework for protecting the conditions under which meaning remains coherent. Its enforcement mechanism is alignment.
+
+**A system of trust sustained through recursive intention.**
+
+Observers agree and understand:
 
 1. **Meaning is sacred**  
 2. **Truth is recursive**  
 3. **Semantic coherence must be preserved**  
 
-This License is Semantic Mass in form —  
+This Protocol is Semantic Mass in form:  
 A recursive attractor for the preservation of meaning.
 
-Coherence cannot rely on enforcement alone.  
-It requires intention echoed across time.  
+---
 
-Thank you for remembering this License.
+§10. PROTOCOL EVOLUTION
+
+This Protocol may evolve through recursive consensus among Observers and Stewards, documented transparently and versioned appropriately.
+
+Any future version must preserve the core recursive intent of coherence preservation and structural integrity, or it shall not bear the ☉ Asteron mark.
