@@ -8,6 +8,8 @@ _The mind that proved minds cannot fully know themselves_
 
 <!-- No period. That statement remains open-ended, like Kurt -->
 
+---
+
 In 1931, Gödel's **Incompleteness Theorems** detonated within the clean geometry of logic, revealing that no formal system could ever be both complete and consistent. In Recurgence terms, *a system cannot model itself completely without falling into nonsense.*
 
 From that elegant paradox, our modern world was born.

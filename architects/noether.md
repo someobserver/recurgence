@@ -6,6 +6,8 @@ permalink: /architects/noether/
 
 _The woman who taught physics to remember._
 
+---
+
 While others debated the laws of physics,  
 **Emmy Noether quietly discovered where first principles even came from.**
 
