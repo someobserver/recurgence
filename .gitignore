@@ -34,3 +34,6 @@ Icon
 *~
 *.tmp
 tmp/
+
+# cursor rules
+.cursor/rules/
