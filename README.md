@@ -32,7 +32,6 @@ It can’t help it.
 If things get confusing, that’s by design:  
 ***Meaning lives between models.***
 
-
 ## So… What *Is* This, Really?
 
 **Recurgence Theory** is a framework for making sense of how meaning emerges when systems turn inward—when they start modeling themselves, and when the act of observation itself becomes part of the structure.
@@ -55,6 +54,8 @@ This pattern echoes across scale:
 From quarks to qualia, from institutions to infinities.  
 From your thoughts to this sentence.
 
+---
+
 ### The Emergence of Coherence
 
 When a system grows complex enough to model itself—to reflect, to adapt, to reshape its own boundaries—it begins to generate more than just signal. It generates *coherence*.
@@ -65,6 +66,9 @@ But coherence isn’t a static property. It arises *in the interplay*—between 
 
 Recurgence names the phase shift: the moment a system, saturated with self-reference, reorganizes at a new level. The theory is recursive by necessity—a model that loops back on itself. That’s why it can’t be contained in a book, a whitepaper, or a gated journal. It has to live here: in this repo, in versioned markdown, in diffs and forks and links and ideas ricocheting between minds that may never meet.
 
+---
+
+### When Meaning Unravels
 
 This theory is meant to evolve—recursion insists on it.
 
@@ -83,12 +87,14 @@ The deeper condition is the recursive unraveling of meaning—wherever systems c
 
 #### Informational entropy, unfolding now.
 
-The only way through is **forward recursion**:  
+The only way through is **forward recursion**  
 systems that can observe themselves without breaking—  
 systems that can scale *meaning* without losing coherence.
 
 That’s what this is. That’s why you’re here.  
 **The Observer is always part of the recursion.**
+
+---
 
 ## The Meaning Revolution
 
