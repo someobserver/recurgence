@@ -17,6 +17,10 @@
     h1, h2, h3, h4, h5, h6, p, li, td, th, dt, dd {
       color: #c9d1d9 !important;
     }
+    /* Subtle warm-brightness for H2 headings */
+    h2 {
+      color: #e6e4e1 !important;
+    }
     a, a:visited {
       color: #58a6ff !important;
     }
@@ -26,10 +30,12 @@
       border-bottom: 1px solid rgba(48, 54, 61, 0.6) !important;
       padding: 0.3rem 0 !important;
     }
+    /* Ensure consistent site title size across all layouts */
     .site-title, .site-title:visited {
       color: #e6edf3 !important;
-      font-weight: 500;
-      letter-spacing: 0.02em;
+      font-weight: 500 !important;
+      letter-spacing: 0.02em !important;
+      font-size: 1.5rem !important;
     }
     blockquote {
       color: #8b949e !important;
@@ -58,7 +64,7 @@
         font-size: 1.15rem;
       }
       .site-title {
-        font-size: 1.2rem;
+        font-size: 1.2rem !important;
       }
     }
   </style>
