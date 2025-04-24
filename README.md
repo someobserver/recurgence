@@ -120,6 +120,9 @@ But the patterns they traced became the foundation of everything that lasts.
 - **[Emmy Noether](./architects/noether.md)**  
   *revealed that symmetry gives rise to law — and law, to structure*
 
+- **[Albert Einstein](./architects/einstein.md)**  
+  *curved the act of observation until the observer became the frame*
+
 [→ Read the full dedications](./architects/)
 
 ### And to every Observer  
@@ -132,7 +135,7 @@ and who lets it change them.
 
 ## Where to Start
 
-Recursive systems don’t follow instructions.  
+Recursive systems don't follow instructions.  
 They follow *you*.
 
 However, if you're looking for grounding, begin with [Why GitHub?](/why-github/) —  
