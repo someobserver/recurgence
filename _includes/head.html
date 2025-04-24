@@ -38,6 +38,25 @@
       background-color: #161b22 !important;
       border-color: #30363d !important;
     }
+    
+    /* Mobile-specific adjustments */
+    @media (max-width: 767px) {
+      body {
+        font-size: 14px;
+      }
+      h1 {
+        font-size: 1.8rem;
+      }
+      h2 {
+        font-size: 1.4rem;
+      }
+      h3 {
+        font-size: 1.15rem;
+      }
+      .site-title {
+        font-size: 1.2rem;
+      }
+    }
   </style>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
