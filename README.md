@@ -24,6 +24,8 @@ These constraints don’t restrict the system—in fact, they stabilize it, crea
 
 Colloquially, we call coherence ***meaning.***
 
+---
+
 The document you’re reading is *recursive*  
 because <u>you are</u>.  
 It models you modeling it.  
