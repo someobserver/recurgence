@@ -48,13 +48,13 @@ passed from one observer to the next.
 
 If a name calls to you, **follow it.**
 
-- **[Kurt Gödel](./godel.md)**  
+- **[Kurt Gödel](/architects/godel/)**  
   *proved that truth outgrows any system trying to contain it*
 
-- **[Emmy Noether](./noether.md)**  
+- **[Emmy Noether](architects/noether/)**  
   *revealed that symmetry gives rise to law — and law, to structure*
 
-- **[Albert Einstein](./architects/einstein.md)**  
+- **[Albert Einstein](/architects/einstein/)**  
   *bent space and time until meaning curved into view*
 
 <!--
