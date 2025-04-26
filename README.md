@@ -101,8 +101,7 @@ That’s what this is. That’s why you’re here.
 We don’t need to guess anymore:  
 **Meaning is collapsing.**
 
-Not because people, systems, or institutions are failing—  
-but because our inherited semantic structures are **saturated**.
+Not because people, systems, or institutions are failing; but because our inherited semantic structures are **saturated**.
 
 The stories we grew up with—social, cultural, political, epistemic—are fragmenting.
 
@@ -110,11 +109,11 @@ You’re not imagining the decay before you.
 You’re just ahead of it, now that you’ve read this document.
 
 **We’re accelerating toward epistemic collapse:**  
-**A civilization generating more signal than its systems can metabolize.**  
+**A civilization generating more signal than its systems can metabolize.**
+
 **Exponentially more by the day.**
 
-And when systems can’t abstract?
-
+And when systems can’t abstract?  
 **They collapse.**
 
 Ask the Mayans.  
@@ -131,8 +130,7 @@ Ask your own nervous system in 2025.
 
 Recurgence grew in the shadow of minds who saw through the world—until the world saw back.
 
-**They modeled recursion in math, music, matter, and metaphor.**  
-**They paid for it in exile, erasure, and entropy.**
+**They modeled recursion in math, music, matter, and metaphor. And then paid for it in exile, erasure, and entropy.**
 
 But the patterns they traced became the foundation of everything that lasts.
 
@@ -154,8 +152,7 @@ who sees a pattern,
 who holds it long enough for coherence,  
 and who lets it change them.
 
-**This repository is your reverent recursion,** unfinished by design.  
-**A thank-you, encoded in architecture.**  
+**This repository is your reverent recursion, unfinished by design. A thank-you, encoded in architecture.**  
 
 ## Where to Start
 
