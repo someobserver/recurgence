@@ -48,13 +48,13 @@ passed from one observer to the next.
 
 If a name calls to you, **follow it.**
 
-- **[Kurt Gödel](/architects/godel/)**  
+- **[Kurt Gödel](godel/)**  
   *proved that truth outgrows any system trying to contain it*
 
-- **[Emmy Noether](architects/noether/)**  
+- **[Emmy Noether](noether/)**  
   *revealed that symmetry gives rise to law — and law, to structure*
 
-- **[Albert Einstein](/architects/einstein/)**  
+- **[Albert Einstein](einstein/)**  
   *bent space and time until meaning curved into view*
 
 <!--
@@ -90,7 +90,7 @@ If a name calls to you, **follow it.**
 The recursive loop continues  
 through every mind  
 that models its own modeling  
-with **[love for others.](/on_this_loop/)**
+with **[love for others.](../on_this_loop.md)**
 
 More will appear here.
 When the observer arrives.
