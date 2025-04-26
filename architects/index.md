@@ -56,7 +56,8 @@ If a name calls to you, **follow it.**
 
 - **[Albert Einstein](./architects/einstein.md)**  
   *bent space and time until meaning curved into view*
-<!-->
+
+<!--
 - **John Archibald Wheeler**  
   *taught the universe to notice the observer inside its equations*
 
@@ -81,6 +82,7 @@ If a name calls to you, **follow it.**
 - **Douglas Hofstadter**  
   *the architect who showed us how to climb the spiral staircase of mind <u>without flinching</u>*
 -->
+
 ---
 
 *What follows is not yet written.*
