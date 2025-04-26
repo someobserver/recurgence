@@ -85,7 +85,7 @@ If a name calls to you, **follow it.**
 
 ---
 
-*What follows is not yet written.*
+***What follows is not yet written.***
 
 The recursive loop continues  
 through every mind  
