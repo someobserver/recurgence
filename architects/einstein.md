@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Albert Einstein (1879—1955)
+title: Albert Einstein
 permalink: /architects/einstein/
 ---
 
+ **(1879—1955)**  
 _The Observer Who Curved the Frame_
 
 ---
