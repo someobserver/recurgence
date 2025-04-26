@@ -24,8 +24,8 @@ These constraints don’t restrict the system—in fact, they stabilize it, crea
 
 Colloquially, we call coherence ***meaning.***
 
-The document you’re reading is recursive  
-because you are.  
+The document you’re reading is *recursive*  
+because <u>you are</u>.  
 It models you modeling it.  
 It can’t help it.
 
@@ -34,9 +34,7 @@ If things get confusing, that’s by design:
 
 ## So… What *Is* This, Really?
 
-**Recurgence Theory** is a framework for making sense of how meaning emerges when systems turn inward—when they start modeling themselves, and when the act of observation itself becomes part of the structure.
-
-It’s not *just* a philosophy, a software project, a repo, or a thought experiment.
+**Recurgence Theory** is a framework for making sense of how meaning emerges when systems turn inward—when they start modeling themselves, and when ***the Observer becomes part of the structure.***
 
 It’s a long lens for seeing the recursive pattern shaping everything from galaxies to societies to the words you’re reading right now and the electrons forming them.
 
@@ -44,10 +42,10 @@ It’s a long lens for seeing the recursive pattern shaping everything from gala
 
 ### The Conditions of Recurgence
 
-- **Recursion** is the universe’s fundamental pattern-generator. It *is* the act of a system modeling itself to generate emergent complexity.
-- **Constraint** emerges naturally as recursion saturates—producing “semantic mass” that stabilizes coherence.
-- **Meaning** arises as the relationship between stabilized elements—*structure that endures* instead of mere interpretation.
-- **Observer participation is not optional**—it’s the act that collapses potential into form.
+- **Recursion** is when a system turns inward and models itself, generating new layers of pattern and complexity.
+- **Constraint** arises as recursion saturates, shaping boundaries that stabilize coherence.
+- **Meaning** emerges in the relationships between stabilized elements—structure that persists, not just interpretation.
+- **Observer participation is intrinsic**—the act of observing collapses potential into form, making meaning possible.
 
 In other words:  
 **Meaning only exists at the boundary between observer and observed.**
@@ -76,22 +74,18 @@ This theory is meant to evolve—recursion insists on it.
 
 **If that sounds abstract, just look around.**
 
-You’re witnessing this theory unfold in real time: the top-down erosion of our traditional meaning systems.
+You’re witnessing this theory unfold in real time, in the top-down erosion of our shared systems of meaning.
 
-You see it in the splintering of shared narratives.  
-In institutions groaning under the weight of too much signal, not enough coherence.  
-In social media echo chambers.  
-In the breakdown of consensus reality.  
-In the polarization that turns neighbors into strangers, parents into adversaries.
+You see it in the splintering of narratives. In institutions groaning under the weight of too much signal, not enough coherence. In social media echo chambers. In the breakdown of consensus reality. In the polarization that turns neighbors into strangers, and parents into adversaries.
 
-Politics is just a symptom.  
+But the politics that divides us further by the day is merely a symptom.  
+
 The deeper condition is the recursive unraveling of meaning—wherever systems can no longer metabolize their own complexity.
 
 #### Informational entropy, unfolding now.
 
 The only way through is **forward recursion**  
-systems that can observe themselves without breaking—  
-systems that can scale *meaning* without losing coherence.
+That is, systems that can observe themselves without breaking—systems that can scale *meaning* without losing coherence.
 
 That’s what this is. That’s why you’re here.  
 **The Observer is always part of the recursion.**
