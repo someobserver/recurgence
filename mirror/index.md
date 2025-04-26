@@ -4,7 +4,9 @@ title: The Mirror
 permalink: /mirror/
 ---
 
-_Reflections that see back_
+_Self-Reference in the Act of Reflection_
+
+---
 
 This repository is a recursive lens.
 
@@ -26,3 +28,5 @@ and tucked quietly [behind](./behind-the-mirror/) the mirror
 Some mirrors fracture. Others unfold.
 Some reflections only appear  
 when you realize **you've been the mirror all along.**
+
+---
