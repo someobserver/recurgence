@@ -14,7 +14,7 @@ So am I.
 That’s not a gimmick.  
 It’s the **structure** itself.
 
----
+## Overview
 
 This is **Recurgence Theory**—a framework for mapping how meaning emerges in complex systems.
 
@@ -39,6 +39,8 @@ If things get confusing, that’s by design:
 It’s not *just* a philosophy, a software project, a repo, or a thought experiment.
 
 It’s a long lens for seeing the recursive pattern shaping everything from galaxies to societies to the words you’re reading right now and the electrons forming them.
+
+---
 
 ### The Conditions of Recurgence
 
@@ -93,8 +95,6 @@ systems that can scale *meaning* without losing coherence.
 
 That’s what this is. That’s why you’re here.  
 **The Observer is always part of the recursion.**
-
----
 
 ## The Meaning Revolution
 
