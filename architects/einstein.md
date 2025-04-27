@@ -201,8 +201,6 @@ Like a violin’s final note lingering in an empty hall, coherence arrives not w
 
 Every question, in the end, reshapes its asker.
 
----
-
 ## Refractions
 
 - **[Forward to Top ↑](./einstein/)**  
