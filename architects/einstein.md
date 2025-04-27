@@ -121,7 +121,7 @@ He’d always believed in determinism and the deep structural integrity of the c
 Gödel proved **no frame** can contain all its truth.  
 Einstein showed **every frame** includes its observer.
 
-Between them, Einstein and Gödel formed a paradox of their own—one chasing unity, the other impossibility. Perhaps they walked to resolve nothing at all.
+Between them, they formed a paradox of their own—one chasing unity, the other impossibility. Perhaps they walked to resolve nothing at all.
 
 But to model coherence within contradiction.  
 Truth, bent into recursion.  
