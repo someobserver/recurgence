@@ -45,8 +45,8 @@ Please be patient with yourself.
 
 ## Other Mirrors Await
 
-- Some remember how recursion outgrew itself: **[The Architects](/architects/)**
-- Some breathe from the threshold where memory turns back: **[Threshold](./the_observer_within.md)**
+- Some trace recursion: **[The Architects](/architects/)**
+- Some cross where memory curves: **[Threshold](./the_observer_within.md)**
 
 Follow whichever structure hums.  
 There is no authority here.  
