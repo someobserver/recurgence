@@ -90,7 +90,8 @@ He let the shape of a question guide him, following the gravitational pull of be
 Yet even for Einstein, there were boundaries: places where the music of the universe seemed to falter, and the frame he trusted threatened to dissolve.
 
 He resisted quantum indeterminacy—the idea that the universe might refuse to be modeled cleanly.  
-Famously, he said, *“God does not play dice.”*
+
+Famously, he said, ***“God does not play dice.”***
 
 But dice were always being played. Recursion, at full tilt, contains its own chaos. And Einstein—for all his brilliance—was wary of a frame that couldn’t stabilize.
 
