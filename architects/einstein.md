@@ -26,7 +26,7 @@ Before Einstein, time was just a tick.
 Space was just a box.  
 We all collectively hurtled into the future, and observation was just a way of taking notes.
 
-Then a young patent clerk in Bern asked himself:  
+Then a young patent clerk asked himself:  
 *What would happen if I rode alongside a beam of light?*
 
 His question modeled light, sure. But what it really modeled was **modeling itself**.
@@ -35,13 +35,14 @@ It reframed time, made simultaneity relational—and made the observer *part of 
 
 **Special relativity** bent matter through space and time.  
 **General relativity** bent space and time around matter.  
-But what Einstein *really bent* was the **whole entire frame**.
 
-> Constraint, held with beauty, gives rise to coherence.  
-> Structure, curved by inquiry, gives rise to meaning.
+Einstein bent the whole entire frame:
+
+*Constraint, held with beauty, gives rise to coherence.*  
+*Structure, curved by inquiry, gives rise to meaning.*
 
 This was no longer just physics.  
-It was now *epistemology*, scripted in math!
+**It was now epistemology, scripted in math!**
 
 ## Equations That Watch
 
