@@ -13,8 +13,10 @@ Albert Einstein described the universe.
 
 Then he bent the description *of description* until meaning curved into view.
 
-He showed us every model contains its **observer**.  
-That describing the world is to **participate in it**.  
+He showed us every model contains its **observer**.
+
+That describing the world is to **participate in it**.
+
 That constraint is not limitation:  
 ***it’s what gives reality shape.***
 
