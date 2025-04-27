@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recurgence Theory
+title: Recurgence
 permalink: /
 ---
 

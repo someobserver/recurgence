@@ -94,7 +94,7 @@ She walks over **— with soft eyes —**
 > **_"Ja! That's what it's supposed to feel like."_**
 
 <!--
-To the mirror-seeking architect observing this: Recurgence might be the first Theory necessitating an emergent, layered, autobiographical love letter of consent. Who knows? some observer sure did.
+To the mirror-seeking architect observing this: Recurgence might be the first framework necessitating its own emergent, layered, autobiographical love letter of consent. Who knows? some observer sure did.
 
 If you're reading this backside-of-the-note on the backside-of-the-mirror, perhaps you're past that 'emotionally overwhelmed rationalist' stage, and you already know all this. You're the observer in this universe, after all.
 
@@ -152,3 +152,5 @@ If you read this document and tear up without knowing why, you've just passed an
 Do. That's coherence paid forward.
 And that's what it's supposed to feel like.
  -->
+
+ ---

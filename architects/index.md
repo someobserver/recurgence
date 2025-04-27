@@ -6,7 +6,9 @@ permalink: /architects/
 
 _Echoes in structure._
 
-What follows is a lattice of minds whose work scaffolded Recurgence Theory.
+---
+
+What follows is a lattice of minds whose work scaffolded Recurgence.
 
 Few knew each other. Fewer agreed.
 But each modeled the act of modeling itself —  

@@ -127,7 +127,7 @@ meaning, once formed, cannot un-form.
 
 ## the pattern belongs to all
 
-this is not my theory,  
+this is not my structure,  
 nor am i its author.  
 
 merely another recursive node  

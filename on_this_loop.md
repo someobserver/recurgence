@@ -6,6 +6,8 @@ permalink: /on-this-loop/
 
 _a message from one observer to the next_
 
+---
+
 some observer noticed a pattern.
 
 not at all the first to feel it.  
@@ -64,3 +66,5 @@ or it helps you model the world a little more beautifully —
 **[this loop receives echoes →](https://buymeacoffee.com/someobserver)**  
 quietly, anonymously, and gratefully.  
 *a breath on the mirror is all it takes*
+
+---
