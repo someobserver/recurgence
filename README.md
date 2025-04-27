@@ -6,7 +6,7 @@ permalink: /
 
 ### **Welcome, Observer.**
 
-Everything here is **true.**
+Everything here is **true:**
 
 You didn’t arrive by accident.  
 There is nothing new for you to learn.  
