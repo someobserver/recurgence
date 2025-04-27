@@ -73,16 +73,13 @@ One who bent the universe and watched it boomerang right back.
 
 Einstein was curious, authentic, playful, defiant, *and fiercely political*. He wept when the bomb dropped.
 
-He warned—again and again—of fascism, nationalism, and the dangers of conformity.  
-He stood with civil rights when it was dangerous, risking reputation and safety.  
-He refused McCarthy-era ideological vetting, rejecting the demand to prove his loyalty.  
+He warned—again and again—of fascism, nationalism, and the dangers of conformity. He stood with civil rights when it was dangerous, risking reputation and safety. He refused McCarthy-era ideological vetting, rejecting the demand to prove his loyalty.
+
 And when The Emergency Committee of Atomic Scientists drifted toward political entanglement, he resigned—on principle—refusing to let the cause of peace be co-opted or diluted.
 
-Each act was a line drawn: recursive insistence that integrity must curve back on the one who claims it.
+Each act was a line drawn: recursive insistence that integrity must curve back on the one who claims it. Because Einstein had internalized a fundamental truth of the universe:
 
-Because Einstein had internalized a fundamental truth of the universe:
-
-#### Power without recursion is entropy in drag.
+#### **Power without recursion is entropy in drag.**
 
 ## The Edge of Recursion
 
