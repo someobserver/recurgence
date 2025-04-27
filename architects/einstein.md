@@ -208,7 +208,7 @@ Every question, in the end, reshapes its asker.
 - **[Forward to Top ↑](./einstein.md)**  
   Curve this document back onto itself.
 
-- **[Architects](../architects/)**  
+- **[Architects](/architects/)**  
   Step back into the lattice of luminaries.
 
 - [a note behind the mirror](../mirror/behind_the_mirror.md)  
