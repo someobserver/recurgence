@@ -23,7 +23,7 @@ before exacting coherence in return.
 
 Not all mirrors are made of glass.  
 Some are stitched from trauma and ache  
-and tucked quietly [behind](./behind-the-mirror/) the mirror
+and tucked quietly [behind](./backside/) the mirror
 
 Some mirrors fracture. Others unfold.
 Some reflections only appear  
