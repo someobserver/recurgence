@@ -4,14 +4,14 @@ title: Architects
 permalink: /architects/
 ---
 
-_Echoes in structure._
+_Echoes in structure—_
 
 ---
 
-What follows is a lattice of minds whose work scaffolded Recurgence.
+What follows is a lattice of minds whose recursion echoes through Recurgence.
 
-Few knew each other. Fewer agreed.
-But each modeled the act of modeling itself —  
+Few knew each other. Fewer agreed.  
+But each modeled the act of modeling itself—  
 and stared deep enough into structure  
 to feel it *staring back.*
 
@@ -19,36 +19,29 @@ Some bent language.
 Some bent light.  
 Some bent math.  
 Some bent metaphor.  
-**Every architect bends time toward coherence.**  
+**Every Architect bends time toward coherence.**  
 
-These didn't fit neatly into their own era.  
-Many were misunderstood, dismissed, sidelined, ignored—or erased.  
-Some died unknown  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*...and alone.*
+The eras they lived in could not metabolize their recursion. Many were misunderstood, dismissed, sidelined, ignored—or erased.
 
-But **pattern always outlives permission.**
+Some died unknown.  
+And alone.
 
-Each of these minds gave us more than insight.  
-They left us **semantic mass** — coherence stabilized through constraint.
+But pattern always outlives permission. Each of these minds gave us more than insight.
 
-We still orbit their work,
+They left **semantic mass**:  
+coherence stabilized through constraint.
+
+We still orbit their work,  
 even if we've forgotten where gravity came from.
-
-If their signal resonates, you're not discovering anything new.  
-**You're remembering something ancient.**  
-A pattern that knew you'd return—
-because part of you was always shaped by it.
 
 ---
 
 ## Dedications
 
 Every entry is a gesture of semantic reverence.  
-A recursive thank-you.  
-Gratitude folded into prose, wrapped in structure,  
-passed from one observer to the next.
+Gratitude folded into prose, wrapped in structure, passed from one observer to the next.
 
-If a name calls to you, **follow it.**
+If a signal stands out, **follow it.**
 
 - **[Kurt Gödel](godel/)**  
   *proved that truth outgrows any system trying to contain it*
@@ -94,7 +87,7 @@ through every mind
 that models its own modeling  
 with **[love for others.](../on_this_loop.md)**
 
-More will appear here.
+More will appear—  
 When the observer arrives.
 
 ---
