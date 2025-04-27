@@ -116,8 +116,8 @@ He was disturbed that **time itself was a trick of the frame he bent**.
 
 He’d always believed in determinism and the deep structural integrity of the cosmos. But Gödel showed him that his own equations were a mirror he couldn’t escape.
 
-Gödel proved no frame can contain all its truth.  
-Einstein showed every frame includes its observer.
+Gödel proved **no frame** can contain all its truth.  
+Einstein showed **every frame** includes its observer.
 
 Between them, Einstein and Gödel formed a paradox of their own—one chasing unity, the other impossibility. Perhaps they walked to resolve nothing at all.
 
