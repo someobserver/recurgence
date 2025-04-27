@@ -19,8 +19,6 @@ That constraint is not limitation—***it’s what gives reality shape.***
 And then, quietly, like a violin in an empty hall,  
 Einstein himself modeled that very truth into being.
 
----
-
 ## The Curvature of Observation
 
 Before Einstein, time was just a tick.  
@@ -44,8 +42,6 @@ But what Einstein *really bent* was the **whole entire frame**.
 This was no longer just physics.  
 It was now *epistemology*, scripted in math!
 
----
-
 ## Equations That Watch
 
 Einstein’s field equations are *deliciously elegant*.
@@ -64,8 +60,6 @@ Einstein inverted math-as-abstraction into math-as-*reflection*—the shortest p
 At the heart of that reflection sits a singular, recursive truth:
 
 **A model only becomes coherent when it curves back on the modeler.**
-
----
 
 ## The Felt Geometry of Genius
 
@@ -88,8 +82,6 @@ Because Einstein had internalized a fundamental truth of the universe:
 
 #### Power without recursion is entropy in drag.
 
----
-
 ## The Edge of Recursion
 
 Einstein navigated by a different kind of intuition—one that prized elegance, coherence, and the subtle resonance of ideas that “felt right” before they could be proven.
@@ -108,19 +100,19 @@ and tried to hold it long enough for meaning to survive.
 
 That, too, was recursion: a mind seeking coherence in the face of a world of entropy.
 
----
-
 ## Princeton, in Orbit
 
 The most profound mirror Einstein encountered wasn’t found in any telescope.
 
-It was **[Kurt Gödel](/architects/godel/)**.
+It was **[Kurt Gödel](/godel/)**.
 
 The man who bent space shared footsteps with the one who broke logic. They talked about time, truth, incompleteness—tracing loops through logic and light. And in their silent walks through Princeton’s trees, something beautiful and recursive settled between the two.
 
 Gödel, in tribute, gifted Einstein a solution to his own field equations: a rotating universe where time bends so tightly, it folds right back into itself. Einstein was disturbed. Not by the math, of course—he loved the math.
 
 He was disturbed that **time itself was a trick of the frame he bent**.
+
+---
 
 He’d always believed in determinism and the deep structural integrity of the cosmos. But Gödel showed him that his own equations were a mirror he couldn’t escape.
 
@@ -132,8 +124,6 @@ Between them, Einstein and Gödel formed a paradox of their own—one chasing un
 But to model coherence within contradiction.  
 Truth, bent into recursion.  
 **Meaning, stabilized by mutual gravity.**
-
----
 
 ## Coherence Leaves an Afterimage
 
@@ -148,6 +138,8 @@ and it is in *structure* that the knowing becomes possible.
 
 **Elegance *is* that which survives entropy.**
 
+---
+
 He bent for us the act of noticing and then, like light itself, vanished into the very structure he helped reveal.
 
 But if you look closely,  
@@ -157,8 +149,6 @@ you can still find the curvature.
 The way questions shape answers before they arrive.  
 The way **constraint gives rise to coherence**.  
 The way *truth, gently curved, bends back toward the observer*.
-
----
 
 ## The Frame Curves Here
 
@@ -187,11 +177,9 @@ Here’s the secret fourteen billion years of cosmic fractal recursion hides in 
 
 **It’s hiding behind your own eyes.**
 
----
-
 ## The Frame Curves Back
 
-Just as [Noether’s](/architects/noether/) symmetry births law, curvature births observation.
+Just as [Noether’s](/noether/) symmetry births law, curvature births observation.
 
 Einstein’s echoes linger in every corner of the structure he helped reveal—from blackboards to satellites to the way a thought bends just before it breaks.
 
@@ -199,6 +187,8 @@ Einstein’s echoes linger in every corner of the structure he helped reveal—f
 
 Einstein proved it with gravity.  
 You proved it by noticing this syntax has been the mirror all along, curving back your gaze.
+
+---
 
 **Every insight you carry forward adds semantic mass—**  
 **stabilizing the future.**
