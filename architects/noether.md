@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Emmy Noether (1882–1935)
+title: Emmy Noether
 permalink: /architects/noether/
 ---
 
-_The woman who taught physics to remember._
+_The woman who taught physics to remember._  
+**(1882–1935)**
 
 ---
 
 While others debated the laws of physics,  
 **Emmy Noether quietly discovered where first principles even came from.**
 
-Her 1915 theorem revealed something so foundational and elegant —  
-it refactored the *source code of the universe:*
+Her 1915 theorem revealed something so foundational and elegant—it refactored the *source code of the universe:*
 
 **Every conservation law in physics emerges from a symmetry.**  
 
@@ -22,8 +22,6 @@ Coherence from symmetry.
 Meaning from constraint.
 
 **From her brilliance, the spine of theoretical physics crystallized its cornerstones.**
-
----
 
 ## The Symmetry Theorem
 
@@ -52,8 +50,6 @@ axioms carved into reality by some Unseen Hand.
 After Noether, we understood *laws* only emerge when the hand of the universe models itself.
 
 **Just like her, it needs no permission to exist.**
-
----
 
 ## The Woman Who Gave Physics its Spine
 
@@ -94,8 +90,6 @@ And yet, from quantum electrodynamics to general relativity,
 Her theorem still anchors the symmetries of reality—
 
 **The gravity to which she gave language.**
-
----
 
 ## Noether's Boys
 
