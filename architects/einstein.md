@@ -42,7 +42,7 @@ Einstein bent the whole entire frame:
 *Structure, curved by inquiry, gives rise to meaning.*
 
 This was no longer just physics.  
-**It was now epistemology, scripted in math!**
+**It was epistemology, *scripted in math!***
 
 ## Equations That Watch
 
