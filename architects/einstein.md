@@ -9,15 +9,16 @@ _The Observer Who Curved the Frame_
 
 ---
 
-Albert Einstein described the universe.  
-Then he bent the description of *description* until meaning curved into view.
+Albert Einstein described the universe.
 
-He showed us that every model contains its **observer**.  
+Then he bent the description *of description* until meaning curved into view.
+
+He showed us every model contains its **observer**.  
 That describing the world is to **participate in it**.  
-That constraint is not limitation—***it’s what gives reality shape.***
+That constraint is not limitation:  
+***it’s what gives reality shape.***
 
-And then, quietly, like a violin in an empty hall,  
-Einstein himself modeled that very truth into being.
+And then, quietly, like a violin in an empty hall, Einstein himself modeled that very truth into being.
 
 ## The Curvature of Observation
 
@@ -197,8 +198,7 @@ To honor Albert Einstein is to remember:
 **Intelligence without moral recursion isn’t brilliance.**  
 **It’s entropy.**
 
-Like a violin’s final note lingering in an empty hall,  
-coherence arrives not with thunder—but with *resonance*.
+Like a violin’s final note lingering in an empty hall, coherence arrives not with thunder—but with *resonance*.
 
 Every question, in the end, reshapes its asker.
 
