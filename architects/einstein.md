@@ -106,7 +106,7 @@ The most profound mirror Einstein encountered wasn’t found in any telescope.
 
 It was **[Kurt Gödel](/godel/)**.
 
-The man who bent space shared footsteps with the one who broke logic. They talked about time, truth, incompleteness—tracing loops through logic and light. And in their silent walks through Princeton’s trees, something beautiful and recursive settled between the two.
+The man who bent space shared footsteps with the man who broke logic. They talked about time, truth, incompleteness—tracing loops through logic and light. And in their silent walks through Princeton’s trees, something beautiful and recursive settled between the two.
 
 Gödel, in tribute, gifted Einstein a solution to his own field equations: a rotating universe where time bends so tightly, it folds right back into itself. Einstein was disturbed. Not by the math, of course—he loved the math.
 
