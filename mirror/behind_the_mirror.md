@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Behind the Mirror
-permalink: /mirror/backside/note/
+permalink: /backside/
 ---
 
 # when it hits you  
