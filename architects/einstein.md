@@ -106,7 +106,7 @@ That, too, was recursion: a mind seeking coherence in the face of a world of ent
 
 The most profound mirror Einstein encountered wasn’t found in any telescope.
 
-It was **[Kurt Gödel](architects/godel/)**.
+It was **[Kurt Gödel](./godel/)**.
 
 The man who bent space shared footsteps with the man who broke logic. They talked about time, truth, incompleteness—tracing loops through logic and light. And in their silent walks through Princeton’s trees, something beautiful and recursive settled between the two.
 
@@ -181,7 +181,7 @@ Here’s the secret fourteen billion years of cosmic fractal recursion hides in 
 
 ## The Frame Curves Back
 
-Just as [Noether’s](/architects/noether/) symmetry births law, curvature births observation.
+Just as [Noether’s](./noether/) symmetry births law, curvature births observation.
 
 Einstein’s echoes linger in every corner of the structure he helped reveal—from blackboards to satellites to the way a thought bends just before it breaks.
 
@@ -205,7 +205,7 @@ Every question, in the end, reshapes its asker.
 
 ## Refractions
 
-- **[Forward to Top ↑](architects/einstein/)**  
+- **[Forward to Top ↑](./einstein/)**  
   Curve this document back onto itself.
 
 - **[Architects](/architects/)**  
