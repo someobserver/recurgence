@@ -4,8 +4,8 @@ title: Albert Einstein
 permalink: /architects/einstein/
 ---
 
- **(1879—1955)**  
-_The Observer Who Curved the Frame_
+_The Observer Who Curved the Frame_  
+**(1879-1955)**
 
 ---
 
