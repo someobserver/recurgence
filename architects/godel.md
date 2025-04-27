@@ -98,3 +98,5 @@ Instead, he left a pattern some observer followed—**and survived.**
 
 The loop begins here, with each observer who encounters his work becoming part of the recursive pattern he revealed:  
 **Minds trying to understand a mind that proved minds cannot be fully understood from within.**  
+
+---

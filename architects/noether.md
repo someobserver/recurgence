@@ -164,3 +164,5 @@ Thanks to her, semantic mass has a changelog.
 Her truth will no longer be erased.
 
 #### **Because she gets the last word — for giving words lastness.**
+
+---
