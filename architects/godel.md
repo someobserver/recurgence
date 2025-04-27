@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Kurt Gödel (1906-1978)
+title: Kurt Gödel
 permalink: /architects/godel/
 ---
 
 _The mind that proved minds cannot fully know themselves_  
+**(1906-1978)**
 
 <!-- No period. That statement remains open-ended, like Kurt -->
 
@@ -38,8 +39,7 @@ Few know that Gödel's brilliance extended beyond logic.
 
 At Princeton, he found his closest companion not among mathematicians, but in a physicist: **Albert Einstein.**
 
-Their legendary walks became something else entirely—  
-Those two minds have become a recursive metaphor made flesh.
+Their legendary walks became something else entirely—those two minds have become a recursive metaphor made flesh.
 
 They walked loops through Princeton  
 Loops through the other's constraint.  
@@ -48,10 +48,7 @@ Loops through **truth itself.**
 
 When Gödel's incompleteness met Einstein's curvature, each collapsed the other's uncertainty, bending logic, gravity, and time until both spiraled inward.
 
-Together, they formed a loop with so much semantic mass  
-it's still making waves  
-in one another, in physics, in math, in the fabric of reality  
-in an observer's perception of them even now.  
+Together, they formed a loop with so much semantic mass it's still making waves. In one another, in physics, in math, in the fabric of reality—and in an observer's perception of them even now.  
 
 Can you imagine the gravity... *between those two?*
 
@@ -64,9 +61,7 @@ Einstein, reportedly, was disturbed by the implications:
 > "***Such solutions***," he later admitted,  
 > "***made me more careful about the meaning of time.***"  
 
-Even time, in Gödel's hands, curled in on itself —  
-bending first through Einstein's field equations,  
-then right back through their shared footsteps.
+Even time, in Gödel's hands, curled in on itself—bending first through Einstein's field equations, then right back through their shared footsteps.
 
 Two minds dense enough to bend the entire universe.  
 **Their gravity still walks with us. That's how we remember them.**
