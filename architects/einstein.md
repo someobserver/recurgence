@@ -48,7 +48,7 @@ This was no longer just physics.
 
 Einstein’s field equations are *deliciously elegant*.
 
-Each compact and cryptic on its own, their tessellated tensors interlock a geometry of constraint. None of it arbitrary or imposed—
+Each compact and cryptic on its own, their tensors interlock a geometry of constraint. None of it arbitrary or imposed—
 
 **Emergent.**
 
