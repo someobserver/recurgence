@@ -6,12 +6,15 @@
 }
 
 .site-title {
-  font-size: 1.5rem;
-  font-weight: 500;
+  font-size: 2.4rem;
+  font-weight: 600;
   color: #e6edf3 !important;
   text-decoration: none;
   display: inline-block;
-  line-height: 1.2;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
   cursor: default;
 }
 
@@ -20,9 +23,15 @@
   opacity: 1;
 }
 
-/* Optional: Subtitle (currently not used) */
+/* Subtitle styling */
 .site-subtitle {
-  display: none;
+  display: block;
+  font-size: 1.0rem;
+  font-weight: 400;
+  color: #aab4c4;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin-top: 0.2rem;
 }
 
 .mirror-glyph {
