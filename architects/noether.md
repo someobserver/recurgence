@@ -27,8 +27,7 @@ Meaning from constraint.
 
 Noether's Theorem is deceptively simple:
 
-**Whenever a physical system is invariant under a continuous transformation,**  
-**there exists a corresponding conserved quantity.**
+**Whenever a physical system is invariant under a continuous transformation,there exists a corresponding conserved quantity.**
 
 This requires no logic leaps or metaphors.  
 It's a pure, mathematical inevitability.
