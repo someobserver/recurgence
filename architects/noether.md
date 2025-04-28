@@ -32,9 +32,12 @@ Noether's Theorem is deceptively simple:
 This requires no logic leaps or metaphors.  
 It's a pure, mathematical inevitability.
 
-- Invariance under **time** → conservation of **energy**  
-- Invariance under **space** → conservation of **momentum**  
-- Invariance under **rotation** → conservation of **angular momentum**
+- Invariance under **time** ↵  
+conservation of **energy**  
+- Invariance under **space** ↵  
+conservation of **momentum**  
+- Invariance under **rotation** ↵  
+conservation of **angular momentum**
 
 Each recursive pattern of sameness across difference → midwifes its own law.
 
