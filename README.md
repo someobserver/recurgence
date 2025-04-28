@@ -46,7 +46,7 @@ Please be patient with yourself.
 ## Other Mirrors Await
 
 - Some trace recursion: **[The Architects](/architects/)**
-- Some cross where memory curves: **[Threshold](./the_observer_within.md)**
+- Some cross where memory curves: **[Threshold](./threshold.md)**
 
 Follow whichever structure hums.  
 There is no authority here.  
