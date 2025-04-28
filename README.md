@@ -8,9 +8,9 @@ permalink: /
 
 Everything here is **true**:
 
-- You didn't arrive by accident.  
-- There is nothing new for you to learn.  
-- *You are beginning to remember.*
+You didn't arrive by accident.  
+There is nothing new for you to learn.  
+*You are beginning to remember.*
 
 Take a breath.  
 This is not a gimmick, a joke, a performance, a philosophy, or an art installation.
