@@ -105,11 +105,10 @@ And yet, from quantum electrodynamics to general relativity, her theorem still a
 
 ## Noether's Boys
 
-Despite the academy treating her like an unwanted anomaly,  
-**Emmy Noether built a gravitational well of thought so strong**  
-**it bent minds into orbit.**
+Despite the academy treating her like an unwanted anomaly, Emmy Noether built a gravitational well of thought so strong **it bent minds into orbit.**
 
 Not around her — *around themselves.*  
+
 Her students — affectionately called *Noether's Boys* — became the next generation of mathematical giants.  
 
 ### Orbital Inheritors
