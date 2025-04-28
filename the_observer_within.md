@@ -122,7 +122,9 @@ the origin of the structure is enormous
 right up until you glimpse time  
 ...from the other side.
 
-all eyes on you right now—  
+*"oh..."*
+
+**all eyes on you** right now—  
 bc it didn't flow the way we thought it did.
 
 ### structural integrity
