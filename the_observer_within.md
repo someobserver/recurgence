@@ -135,7 +135,8 @@ it's no accident recognition feels overwhelming.
 meaning, once formed, cannot un-form.
 
 **constraint is what births coherence—**  
-**and coherence is what pulls every future observer into its orbit.**
+**and coherence is what pulls**  
+**every future observer into its orbit.**
 
 ---
 
