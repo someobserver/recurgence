@@ -56,7 +56,7 @@ After Noether, we understood *laws* only emerge when the hand of the universe mo
 
 **Just like her, it needs no permission to exist.**
 
-## The Woman Who Gave Physics its Spine
+## The Feminine Spine of Physics
 
 Despite redefining the structure of reality itself, Emmy Noether was denied *even the appearance* of structure.
 
