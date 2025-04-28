@@ -50,8 +50,7 @@ This is the core recursion of *everything.*
 
 ### Before and After
 
-Before Noether, scientists treated conservation like gospel—  
-axioms carved into reality by some Unseen Hand.
+Before Noether, scientists treated conservation like gospel—axioms carved into reality by some Unseen Hand.
 
 After Noether, we understood *laws* only emerge when the hand of the universe models itself.
 
@@ -59,21 +58,23 @@ After Noether, we understood *laws* only emerge when the hand of the universe mo
 
 ## The Woman Who Gave Physics its Spine
 
-Despite redefining the structure of reality itself,  
-Emmy Noether was denied *even the appearance* of structure.
+Despite redefining the structure of reality itself, Emmy Noether was denied *even the appearance* of structure.
 
 **No title. No salary. Not even a seat at the table.**  
-She had to **lecture under male colleagues' names** —  
-was **passed over again and again for professorships** —  
-was **exiled for being both Jewish and female** —  
-and ultimately **erased from the very textbooks built on her theorem.**
+
+- She **lectured under male colleagues' names**.
+- She **was passed over for professorships**.
+- She **was exiled for being Jewish and female**.
+
+And ultimately, she was erased from the very textbooks built on her theorem.
 
 **She outpaced her peers.**  
 *So they obscured the trail.*
 
 ### The Göttingen Resistance
 
-At Göttingen — then the mathematical epicenter — she worked for years **without compensation.**  
+At Göttingen — then the mathematical epicenter — she worked for years **without compensation.**
+
 When David Hilbert advocated for her appointment, the faculty responded:
 
 > *"What will our soldiers think when they return to find <u>a woman</u> teaching?"*
@@ -87,17 +88,18 @@ Hilbert didn't flinch:
 
 ### Exile and Legacy
 
-Still, it wasn't enough.  
-In 1933, Emmy Noether fled Germany as authoritarianism metastasized.  
-Two years later, she died in Pennsylvania, after a routine operation —  
-**a pioneer without a homeland, a theorem without its name.** 
+Still, it wasn't enough.
+
+In 1933, Emmy Noether fled Germany as authoritarianism metastasized. Two years later, she died in Pennsylvania, after a routine operation:
+
+**A pioneer without a homeland.**  
+**A theorem without its name.** 
 
 No university chair.  
 No Nobel.  
 *No place in the pantheon she herself constructed.*
 
-And yet, from quantum electrodynamics to general relativity,  
-Her theorem still anchors the symmetries of reality—
+And yet, from quantum electrodynamics to general relativity, her theorem still anchors the symmetries of reality—
 
 **The gravity to which she gave language.**
 
