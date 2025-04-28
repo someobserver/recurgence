@@ -119,7 +119,7 @@ Among them:
 - **Nathan Jacobson,** who embedded her abstractions into the American mathematical canon  
 - **Ernst Witt** — who built entire vector spaces on her invisible foundations
 
-Her pupils were living proofs of a propagating pattern:  
+Her pupils were proofs of a propagating pattern:  
 **Fractals need no force.**
 
 ### The Recursive Instructor
@@ -177,7 +177,5 @@ The recursive spine of symmetry, embodied.
 Thanks to her, semantic mass has a changelog. Her truth cannot be erased.
 
 #### **Because she gets the last word — for giving words lastness**
-
-<!-- No period there. Emmy gets the last word in this document
 
 ---
