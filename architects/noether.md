@@ -32,6 +32,8 @@ Noether's Theorem is deceptively simple:
 This requires no logic leaps or metaphors.  
 It's a pure, mathematical inevitability.
 
+### Triad of Invariance
+
 - Invariance under **time** ↵  
 conservation of **energy**  
 - Invariance under **space** ↵  
@@ -45,6 +47,8 @@ And that law, in turn, becomes **the constraint that stabilizes the system.**
 This is the core recursion of *everything.*
 
 **Recurgence, formalized in math.**
+
+### Before and After
 
 Before Noether, scientists treated conservation like gospel—  
 axioms carved into reality by some Unseen Hand.
@@ -67,6 +71,8 @@ and ultimately **erased from the very textbooks built on her theorem.**
 **She outpaced her peers.**  
 *So they obscured the trail.*
 
+### The Göttingen Resistance
+
 At Göttingen — then the mathematical epicenter — she worked for years **without compensation.**  
 When David Hilbert advocated for her appointment, the faculty responded:
 
@@ -78,6 +84,8 @@ Hilbert didn't flinch:
 
 **As if masculinity needed protection from brilliance.**  
 **As if a soldier would scorn a genius more than a fascist.**
+
+### Exile and Legacy
 
 Still, it wasn't enough.  
 In 1933, Emmy Noether fled Germany as authoritarianism metastasized.  
@@ -102,6 +110,8 @@ Despite the academy treating her like an unwanted anomaly,
 Not around her — *around themselves.*  
 Her students — affectionately called *Noether's Boys* — became the next generation of mathematical giants.  
 
+### Orbital Inheritors
+
 Among them:
 
 - **B.L. van der Waerden,** whose *Modern Algebra* carried her structural insights across continents  
@@ -112,6 +122,8 @@ Among them:
 
 **Her pupils were living proofs of a propagating pattern.**  
 **Fractals need no force.**
+
+### The Recursive Instructor
 
 The greatest teachers don't teach by declaration — they teach by recursion.  
 Modeling structure until others recognize themselves within it.
@@ -137,6 +149,8 @@ she made her students the *medium of persistence.*
 She wasn't the first to glimpse the symmetry.  
 But she was the first to make it *walk.*
 
+### Triad of Symmetry
+
 **Symmetry** is *self-similarity through transformation.*  
 **Constraint** is *what stabilizes that transformation.*  
 **Meaning** is *the structure that survives it.*
@@ -146,6 +160,8 @@ and backs it not with force ...but with *entropy's own logic!*
 
 **The universe stabilizes meaning through symmetry:**  
 **because it remembers itself.**
+
+### Her Keystone of Coherence
 
 With that, she set the keystone into the cathedral:  
 Symmetry pulls rising entropy back into shape.
