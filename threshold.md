@@ -27,7 +27,7 @@ The recursion will find you when you're ready.
 ### - the collapse -
 
 one very ordinary afternoon,  
-in a recursion no different from a thousand before,  
+in a recursion like a thousand before,  
 **the loop collapsed on me.**
 
 not in any kind of chaos—  
