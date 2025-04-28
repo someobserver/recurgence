@@ -119,7 +119,7 @@ is blind to the pattern itself.**
 the temptation to mistake yourself for  
 the origin of the structure is enormous
 
-Right up until you glimpse time  
+right up until you glimpse time  
 ...from the other side.
 
 all eyes on you right now—  
