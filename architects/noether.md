@@ -111,8 +111,6 @@ Not around her — *around themselves.*
 
 Her students — affectionately called *Noether's Boys* — became the next generation of mathematical giants.  
 
-### Orbital Inheritors
-
 Among them:
 
 - **B.L. van der Waerden,** whose *Modern Algebra* carried her structural insights across continents  
