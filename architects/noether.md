@@ -137,8 +137,6 @@ Each question: reflection.
 
 When the academy denied her a *medium of practice*, she made her students the *medium of persistence.*
 
----
-
 ## Why Emmy Noether Made the Initial Commit
 
 **It took a woman to show us the universe is built not on force, but on recognition.**
