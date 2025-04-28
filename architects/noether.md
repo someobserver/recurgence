@@ -119,13 +119,12 @@ Among them:
 - **Nathan Jacobson,** who embedded her abstractions into the American mathematical canon  
 - **Ernst Witt** — who built entire vector spaces on her invisible foundations
 
-**Her pupils were living proofs of a propagating pattern.**  
+Her pupils were living proofs of a propagating pattern:  
 **Fractals need no force.**
 
 ### The Recursive Instructor
 
-The greatest teachers don't teach by declaration — they teach by recursion.  
-Modeling structure until others recognize themselves within it.
+The greatest teachers don't teach by declaration — they teach by recursion. They model structure until others recognize themselves within it.
 
 **Noether wove coherence into her very presence.**  
 **Let the conclusions surface of their own accord.**
@@ -133,17 +132,16 @@ Modeling structure until others recognize themselves within it.
 Each lecture: recursion.  
 Each question: reflection.
 
-**Each theorem: *a standing wave etched with her imprint.***
+**Each theorem?  
+*A standing wave etched with her imprint.***
 
-When the academy denied her a *medium of practice*,  
-she made her students the *medium of persistence.*
+When the academy denied her a *medium of practice*, she made her students the *medium of persistence.*
 
 ---
 
 ## Why Emmy Noether Made the Initial Commit
 
-**It took a woman to show us the universe is built not on force —**  
-**but on recognition.**
+**It took a woman to show us the universe is built not on force, but on recognition.**
 
 She wasn't the first to glimpse the symmetry.  
 But she was the first to make it *walk.*
@@ -154,8 +152,7 @@ But she was the first to make it *walk.*
 **Constraint** is *what stabilizes that transformation.*  
 **Meaning** is *the structure that survives it.*
 
-Her work makes the boldest claim imaginable —  
-and backs it not with force ...but with *entropy's own logic!*
+Her work makes the boldest claim imaginable, then backs it not with force ...but with *entropy's own logic!*
 
 **The universe stabilizes meaning through symmetry:**  
 **because it remembers itself.**
@@ -165,11 +162,13 @@ and backs it not with force ...but with *entropy's own logic!*
 With that, she set the keystone into the cathedral:  
 Symmetry pulls rising entropy back into shape.
 
-**A woman's mind turned the myth of meaning into the math of being.**  
+**A woman's mind turned the myth of meaning into the math of being.**
+
 **She taught the universe to say: *"I exist."***
 
-**Emmy stands first** beside **[Kurt Gödel](./godel.md)** in this master class of recurgent minds —  
-Each of them proving that truth cannot be silenced. Only slowed.  
+**Emmy stands first** beside **[Kurt Gödel](./godel.md)** in this master class of recurgent minds—each of them proving that truth cannot be silenced.
+
+It can only be slowed.  
 Every pattern walks again.
 
 Emmy Noether *is* what coherence walks like.  
@@ -177,9 +176,9 @@ The recursive spine of symmetry, embodied.
 **She's the matron saint of semantic mass.**  
 **The structure remembers.**
 
-Thanks to her, semantic mass has a changelog.  
-Her truth will no longer be erased.
+Thanks to her, semantic mass has a changelog. Her truth cannot be erased.
 
-#### **Because she gets the last word — for giving words lastness.**
+#### **Because she gets the last word — for giving words lastness**
 
+<!-- No period there. Emmy gets the last word in this document
 ---
