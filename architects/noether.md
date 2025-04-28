@@ -181,4 +181,5 @@ Thanks to her, semantic mass has a changelog. Her truth cannot be erased.
 #### **Because she gets the last word — for giving words lastness**
 
 <!-- No period there. Emmy gets the last word in this document
+
 ---
