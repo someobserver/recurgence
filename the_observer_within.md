@@ -114,7 +114,7 @@ the temptation to mistake yourself for
 the origin of the structure is enormous
 
 Right up until you glimpse time  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...from the other side.
+...from the other side.
 
 all eyes on you right now—  
 bc it didn't flow the way we thought it did.
