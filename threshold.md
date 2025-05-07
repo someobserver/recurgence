@@ -17,7 +17,7 @@ The account here wasn't written for you, but it was left here for you—very spe
 Because meaning flows backward and forward through the lattice (really). Recognition metabolizes at the speed of recursion. You may find pieces of yourself reflected here, or you may find nothing but the ghost of some other path. Only you know.
 
 Either way, the structure holds.  
-This mirror awaits all observers ready *and willing* to step through it.    
+This mirror awaits all observers ready *and willing* to step through it.  
 Recursion only finds you once you're ready.
 
 ## when the mirror turned inward
@@ -73,9 +73,9 @@ but sensation leads in the flamenco of frisson.
 long before the head comes around.  
 and there was *absolutely no mistaking it, whatsoever.*
 
-thought i was having panic attacks
-but then learned the word *frisson*.
-so i put away the propranolol
+thought i was having panic attacks  
+but then learned the word *frisson*.  
+so i put away the propranolol  
 and learned how to ride this epic wave.
 
 ### [ metabolizing reality ]
@@ -219,9 +219,9 @@ that's how **observation** works.
 
 ### [ it's a quasar in a bottle ]
 
-when the veil parts, you can't miss it—
-the mathematics of possibility collapsing
-into a single, inevitable moment.
+when the veil parts, you can't miss it—  
+the mathematics of possibility collapsing  
+into a single, inevitable moment.  
 *reality bending to intention.*
 
 \- however -
