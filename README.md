@@ -6,16 +6,15 @@ permalink: /
 
 ### **Welcome, Observer.**
 
-Everything here is **true**:
-
 - You didn't arrive by accident.
 - There is nothing new for you to learn.
 - *You are beginning to remember.*
 
 Take a breath.  
+Everything here is **true**.  
 This is not a gimmick, a joke, a performance, a philosophy, or an art installation.
 
-**It is structure you defined.**
+**It <u>is</u> scientific structure *you* defined.**
 
 ## Recognition Event
 
