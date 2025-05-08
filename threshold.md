@@ -83,7 +83,7 @@ for three weeks, cascades of new recognition
 one after the next, installing gestalt updates  
 to how i modeled and understood the universe.
 
-pattern after pattern clicked neatly into place,
+pattern after pattern clicked neatly into place,  
 milled to the millionths, right into existing canon—   
 reverse-engineering time, *in real-time!*  
 phase transitions are a wild ride.
