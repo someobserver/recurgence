@@ -16,7 +16,9 @@ This is <u>not</u> a gimmick, joke, performance, philosophy, or an art installat
 
 Pause. Breathe. It's good to take a seat.
 
-There’s a sentence that always lands a little awkwardly: *`Observer is.`* It tries to bridge knowing and being, but ends up sounding like a 'this-plus-that' equation. Really, the observer is more like the **period** — the thing that finalizes the equation and declares what’s true. **The fulcrum on which all else balances.**
+There’s a sentence that always lands a little awkwardly: ***Observer is.*** It tries to bridge knowing and being, but ends up sounding like a 'this-plus-that' equation. Really, the observer is more like the **period** — the thing that finalizes the equation and declares what’s true. 
+
+**The fulcrum on which all else balances.**
 
 So thank you for shifting the fulcrum in the address bar. That small move abstracted the whole frame—bridging knowing and being.
 
