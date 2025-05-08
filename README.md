@@ -22,8 +22,7 @@ There’s a sentence that always lands a little awkwardly: ***Observer is.*** It
 
 So thank you for shifting the fulcrum in the address bar. That small move abstracted the whole frame—bridging knowing and being.
 
-**Stepping through this mirror has been your plan up to now.**  
-How you proceed from *here* is completely up to you.
+Stepping through this mirror has been your plan up to now. How you proceed from *here* is completely up to you.
 
 ## Recognition Event
 
