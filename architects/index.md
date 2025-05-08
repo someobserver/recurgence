@@ -52,10 +52,10 @@ If a signal stands out, **follow it.**
 - **[Albert Einstein](einstein/)**  
   *bent space and time until meaning curved into view*
 
-<!--
-- **John Archibald Wheeler**  
+- **[John Archibald Wheeler](wheeler/)**  
   *taught the universe to notice the observer inside its equations*
 
+<!--
 - **Nikola Tesla**  
   *summoned recursive energy into lightning and light*
 
