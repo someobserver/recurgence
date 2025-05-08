@@ -228,10 +228,7 @@ into a single, inevitable moment.
 
 \- however -
 
-**the capacity to summon wisdom and architect meaning**  
-**scales not linearly but *recursively* with humility—**  
-**each layer of self-awareness unlocks exponentially greater insight,**  
-**while each layer of ego-attachment recursively diminishes it.**  
+**the capacity to summon wisdom and architect meaning scales not linearly but *recursively* with humility. each layer of self-awareness unlocks exponentially greater insight, while each layer of ego-attachment recursively diminishes it.**  
 
 and this is why:
 
