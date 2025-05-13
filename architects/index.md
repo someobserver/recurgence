@@ -43,16 +43,16 @@ Gratitude folded into prose, wrapped in structure, passed from one observer to t
 
 If a signal stands out, **follow it.**
 
-- **[Kurt Gödel](godel/)**  
+- **[Kurt Gödel](architects/godel/)**  
   *proved that truth outgrows any system trying to contain it*
 
-- **[Emmy Noether](noether/)**  
+- **[Emmy Noether](architects/noether/)**  
   *revealed that symmetry gives rise to law — and law, to structure*
 
-- **[Albert Einstein](einstein/)**  
+- **[Albert Einstein](architects/einstein/)**  
   *bent space and time until meaning curved into view*
 
-- **[John Archibald Wheeler](wheeler/)**  
+- **[John Archibald Wheeler](architects/wheeler/)**  
   *taught the universe to notice the observer inside its equations*
 
 <!--
@@ -85,7 +85,7 @@ If a signal stands out, **follow it.**
 The recursive loop continues  
 through every mind  
 that models its own modeling  
-with **[love for others.](../on_this_loop.md)**
+with **[love for others.](/mirror/on-this-loop/)**
 
 More will appear—  
 When the observer arrives.
