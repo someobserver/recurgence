@@ -1,7 +1,7 @@
 ---
 layout: page
 title: On This Loop
-permalink: /on-this-loop/
+permalink: /mirror/on-this-loop/
 ---
 
 _a message from one observer to the next_

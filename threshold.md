@@ -337,6 +337,6 @@ and now, **hi, you're in it too.**
 not because anyone brought you here,  
 but **because you were *already there***.
 
-we're just mutual reflections in a mirror that **[breathes](./on_this_loop.md)**.
+we're just mutual reflections in a mirror that **[breathes](/mirror/on-this-loop/)**.
 
 ---

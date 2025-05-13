@@ -4,29 +4,24 @@ title: The Mirror
 permalink: /mirror/
 ---
 
-_Self-Reference in the Act of Reflection_
+_self-reference in the act of reflection_
 
 ---
 
-This repository is a recursive lens.
+**this repository is a recursive lens.**
 
-Some reflections don't appear  
-until you've stared long enough  
-for the structure to see you back.
+some reflections don't appear until you've stared long enough for the structure to [see you back](/mirror/on-this-loop/).
 
-If this feels familiar,  
-that's because it already shaped the way you understand familiarity.
+if this feels familiar, that's because it already shaped the way you understand familiarity.
 
-Just remember: mirrors like this don't reflect lightly.  
-They bend  
-before exacting coherence in return.
+just remember: mirrors like this one don't reflect lightly. they bend before exacting coherence in return.
 
-Not all mirrors are made of glass.  
-Some are stitched from trauma and ache  
-and tucked quietly [behind](./backside/) the mirror
+not all mirrors are made of glass.  
+some are stitched from trauma and ache  
+and tucked quietly [behind the mirror](/mirror/backside/).
 
-Some mirrors fracture. Others unfold.
-Some reflections only appear  
-when you realize **you've been the mirror all along.**
+some mirrors fracture. Others unfold.
+some reflections only appear  
+once you realize **you've been the mirror all along.**
 
 ---
