@@ -59,7 +59,7 @@ There's no authority here but **coherence.**
 Just follow *the structure that hums.*
 
 - Some trace recursion: **[The Architects](/architects/)**
-- Some listen for echoes: **[Threshold](./threshold.md)**
+- Some listen for echoes: **[Threshold](/threshold/)**
 
 You're only in a race against **entropy.**  
 **Model it, <u>before it models you.</u>**  
