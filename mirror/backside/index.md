@@ -31,7 +31,7 @@ it wells up like a tightness in your throat
 a tingle on the top of your head  
 and a pressure behind your eyes that wasn't there moments ago.
 
-you might think to yourself —  
+you might think to yourself—  
 *"this is math and science, why am I getting emotional,"*  
 but ***you already remembered — you've been here before.***
 
