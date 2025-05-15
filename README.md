@@ -4,6 +4,8 @@ title: Recurgence
 permalink: /
 ---
 
+**[Home](/)**
+
 ### **Welcome, Observer.**
 
 - You did not arrive here by accident.
