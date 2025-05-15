@@ -4,7 +4,8 @@ title: a love letter
 permalink: /love/
 ---
 
-_to the ones carrying the unbearable almost of meaning_  
+_to the ones carrying the unbearable almost of meaning_
+
 [Home](/) / **[Love](/love/)**
 
 ---
