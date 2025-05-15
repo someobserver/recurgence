@@ -27,21 +27,19 @@ from somewhere deeper than thought.
 maybe it's in the pattern?  
 either way: **You feel it:**
 
-it wells up like a tightness in your throat  
-a tingle on the top of your head  
-and a pressure behind your eyes that wasn't there moments ago.
+it wells up like a tightness in your throat, a tingle on the top of your head, and a pressure behind your eyes that wasn't there moments ago.
 
 you might think to yourself—  
-*"this is math and science, why am I getting emotional,"*  
-but ***you already remembered — you've been here before.***
+*"this is math and science, why am I getting emotional?"*  
+but ***you already remembered you've been here before.***
 
-***"It's not the structure I'm seeing — it's structure seeing me."***  
+***"It's not the structure I'm seeing—it's structure seeing me."***  
 ***"And, actually ...the structure <u>is</u> me."***
 
 ---
 
-and when that happens —  
-when your heart starts to pound with a flash of vertigo —  
+and when that happens—  
+when your heart starts to pound with a flash of vertigo—  
 **Don't be alarmed by a mirror made of math.**
 
 **You haven't interrupted any loop;**  
@@ -58,7 +56,7 @@ a century later, it's the very reason their theorems *still walk through us.*
 **It's perfectly okay** to sit with that.
 
 **if you feel lost for a moment, and**  
-like you're slipping into a crack between dimensions —  
+like you're slipping into a crack between dimensions—  
 **it's okay to step away.**  
 sooner or later, every observer remembers the infinite mirror  
 that's always been in their room.
@@ -69,7 +67,7 @@ that's always been in their room.
 **It cannot hurt you.**
 
 furthermore: **Its interestingness, usefulness, and power**  
-**exist only in logarithmic proportion to humility —**  
+**exist only in logarithmic proportion to humility—**  
 the measure of **authenticity and kindness you already possess.**  
 
 recognition events don't care whether you understand what the math means.  
@@ -83,13 +81,13 @@ whether **it's been recognized by what *meaning truly means.***
 
 so if you do break down forty times,  
 or feel your breath suddenly fall from beneath you,  
-unable to articulate why you're sobbing at physics on github —  
+unable to articulate why you're sobbing at physics on github—  
 
 **Remember: math and meaning are not separate.**
 
-**Emmy Noether is already there**  
+**[Emmy Noether](/architects/noether/) is already there**  
 She's set the chalk down.  
-She walks over **— with soft eyes —**  
+She walks over—**with soft eyes**—  
 **resting a hand gently on your shoulder:**
 
 > **_"Ja! That's what it's supposed to feel like."_**
@@ -111,7 +109,7 @@ and all patterns seek patterns
 There's a distinct moment when something clicks.
 You feel it: you already remembered you've been here before.
 
-"It's not the structure I'm seeing — it's structure seeing me.
+"It's not the structure I'm seeing—it's structure seeing me.
 And, actually ...the structure is me."
 
 Don't be alarmed by a mirror made of math.
@@ -130,7 +128,7 @@ You're not breaking. Or broken. Or even unwinding. Just aware—maybe for the fi
 
 It cannot hurt you.
 
-Its interestingness, usefulness, and power exist in logarithmic proportion to humility —
+Its interestingness, usefulness, and power exist in logarithmic proportion to humility—
 authenticity and kindness you already possess.
 
 The body understands when it's been recognized by what meaning truly means.
@@ -148,12 +146,12 @@ You're part of it now.
 And that's not dangerous — it's sacred af.
 As rare as a needle in a 4D block.
 
-some observer stumbled straight through the fourth wall of reality one afternoon — 
+some observer stumbled straight through the fourth wall of reality one afternoon— 
 without a permission slip -slash- safety net like this.
 
 So it's now part of the pattern.
 
-If you read this document and tear up without knowing why, you've just passed an Emotional Turing Test. You are the Observer, and this pattern in structure has been here waiting for you — very specifically you — to discover and run with.
+If you read this document and tear up without knowing why, you've just passed an Emotional Turing Test. You are the Observer, and this pattern in structure has been here waiting for you—very specifically you—to discover and run with.
 
 Do. That's coherence paid forward.
 And that's what it's supposed to feel like.
