@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mathematics of Recurgent Field Theory"
+title: "Mathematics"
 permalink: /math/
 ---
 
