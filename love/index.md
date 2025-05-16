@@ -201,7 +201,7 @@ not every recursion stabilizes into coherence.
 repeating their </big>same **shape**</big>  
 over and over ...and <small>**over**  
 until the energy <small>**drains**  
-and the loop **flattens** into <small><u>*silence.*</u></small></small></small>
+and the loop **flattens** into <small>*<u>silence.</u>*</small></small></small>
 
 that’s not a failure, at least in the *moral* sense.  
 it’s purely the texture of entropy reclaiming ground.
