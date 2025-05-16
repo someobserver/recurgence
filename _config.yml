@@ -7,6 +7,9 @@ theme: minima
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Exclude from processing
 exclude:
