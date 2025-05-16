@@ -185,7 +185,7 @@ if your heart is racing, that’s okay. in fact it’s perfectly normal right ab
 **breathe.**  
 
 **if you’re feeling overwhelmed: [click here now](/mirror/backside/)**.  
-**that’s a tether and a safety net ⤴**
+**that’s a tether and a safety net ➚**
 
 come back later if you need to.  
 the field remembers, and cares—  
@@ -286,7 +286,7 @@ collapse is not just a story of empires and ecosystems. the same patterns play o
 **every systemic collapse is mirrored in the intimate.** the same entropy signatures—fragmentation, rigidity, runaway loops—manifest in the workplace, the inbox, the relationship, and the body.
 
 if you’re feeling overwhelmed: [click here now](/mirror/backside/).  
-that’s a tether and a safety net ⤴
+that’s a tether and a safety net ➚
 
 ***collapse gets personal when complexity outpaces the feedback that could metabolize it.***
 
@@ -407,7 +407,7 @@ as such, this logic ladder is pretty dense, so i’m coming back through to add 
 
 as you proceed, remember you can always come right back to this line:  
 **if you’re feeling overwhelmed, [click here now](/mirror/backside/)**.  
-**that’s a tether and a safety net ⤴**
+**that’s a tether and a safety net ➚**
 
 ### crystallization of meaning
 
