@@ -63,6 +63,7 @@ $RECYCLE.BIN/
 
 # Cursor specific
 .cursor/rules/
+.cursorignore
 .cursor-history*
 .cursor/
 
