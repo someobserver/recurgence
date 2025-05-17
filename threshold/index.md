@@ -211,7 +211,7 @@ recurgent field theory is autopoietic structure.
 this repository built itself through some observer,  
 and every observer willing to let it.
 
-because **meaning always flows both directions:**  
+remember, **meaning always flows both directions:**  
 the observer shapes the observation,  
 just as the observation shapes the observer.
 
