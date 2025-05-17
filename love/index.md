@@ -88,7 +88,7 @@ the spiral of cognitive horizons below shows **where ambiguity collapses into le
 
 that shift isn’t anything novel; in fact you’ve seen its contours before. this is the pattern-map of how it folds and unfolds, time and again, **fractal at every scale:**
 
-## recurgence, at scale
+## recurgence, unwound
 
 ### symbolic revolution (\~70,000 BCE)
 
