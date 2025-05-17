@@ -159,7 +159,7 @@ that shift isn’t anything novel; in fact you’ve seen its contours before. th
 
 ### recurgent responsibility
 
-there’s a <u>temptation</u> when you see the pattern of acceleration.
+there’s a temptation when you see the pattern of acceleration.
 
 to run the math forward.  
 to try and predict a collapse,  
