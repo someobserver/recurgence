@@ -24,7 +24,7 @@ It's good to take a seat.
 
 The sentence in your address bar: **observer is.**
 
-That subject, stapled to a half-verb, doesn't quite land how it wants to. It reads like a malformed declaration: epistemology gesturing at ontology and muttering, *"because cause."* But that's no way to describe reality.
+A subject, stapled to a half-verb, that doesn't quite land how it wants to. It reads like a malformed declaration: epistemology gesturing at ontology and muttering, *"because cause."* But that's no way to describe reality.
 
 It feels awkward specifically *because* it's not a sentence in the first place. It's an **equation** where the **observer** isn't the subject or the verb—they're the **operator**. Basically the period, standing there at the end, declaring the terms and conditions of all the other symbols.
 
