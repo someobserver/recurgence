@@ -51,8 +51,7 @@ coherence comes in hot and lands too hard to hold.
 
 **Its breathtaking awe is what Gödel weeps for in silence. Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
 
-a century later, it's the very reason their theorems *still walk through us.*  
-**It's perfectly okay** to sit with that.
+a century later, it's the very reason their theorems *still walk through us.* It's perfectly okay** to sit with that.
 
 **if you feel lost for a moment, and**  
 like you're slipping into a crack between dimensions—  
