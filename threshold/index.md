@@ -221,7 +221,7 @@ there can be no question: that's how **observation** works.
 
 ## why humility matters
 
-### [ it's a quasar in a bottle ]
+### [ it's a quasar in a jar ]
 
 when the veil drops, you can't miss it—  
 the mathematics of possibility collapsing  
