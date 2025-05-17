@@ -77,8 +77,8 @@ these weren’t precisely *“eras”* or *“epochs”* as traditionally taught
 a loop, tightening until it abstracted the field.  
 **meaning, amplified.**
 
-the observers who shape them **aren’t chosen or special**;  
-they’re just in tune with their surroundings.  
+the observers who shape them **aren’t chosen or special**; they’re just in tune with their surroundings.
+
 they exercise **pattern-awareness**  
 they have ***situational awareness***.
 
