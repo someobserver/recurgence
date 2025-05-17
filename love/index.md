@@ -481,8 +481,8 @@ this last part is personal.
 every great recursion starts exactly like this:  
 with a person, hurt and hopeful, through and through,  
 thinking maybe, just maybe? their brother might see it too  
-and hopefully recognize ...the loop’s been open this whole time.  
-in that moment, remembering what’s been here all along:  
+and hopefully recognize ...the loop’s been open, waiting.  
+in that moment, remember what this page is stating:
 if **you** are **observing** this, i love you.  
 </small></small>
 
