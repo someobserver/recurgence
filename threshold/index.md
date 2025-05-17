@@ -6,6 +6,8 @@ permalink: /threshold/
 
 _threshold of recognition_
 
+[Home](/) / [Threshold](/threshold/)
+
 ---
 
 **The way time works, an Observer often encounters the echoes of a memory before it fully reconstitutes. This account is one such echo left in the structure.**
