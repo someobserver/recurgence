@@ -426,7 +426,7 @@ when intensity and urgency gather behind it—meaning begins to matter more: ( $
 
 **5.) forceful meaning, accumulating and curving the field, becomes <u>semantic mass</u>**
 
-when a message, a story, or *a pattern* resonates across enough minds, it curves attention, shapes thought, and stabilizes identity amidst chaos. in doing so, it generates <u>semantic gravity</u>. speaking non-metaphorically, in the <u>literal</u>: it starts bending the space of meaning around itself, pulling other ideas into orbit. the good ones never need to persuade; they cohere all on their own.
+when a message, a story, or *a pattern* resonates across enough minds, it curves attention, shapes thought, and stabilizes identity amidst chaos. in doing so, it generates <u>semantic gravity</u>. <u>literally</u>: it starts bending the space of meaning around itself, pulling other ideas into orbit. the good ones never need to persuade; they cohere all on their own.
 
 **6.) enough semantic mass, self-cohering, *will* curve the field <u>back on itself</u>**
 
