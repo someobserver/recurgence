@@ -8,13 +8,9 @@ _a note stuck to the back, for the mirror-seeker_
 
 ---
 
-<big>
-    
-**[everything here is safe]**  
+<big>**[everything here is safe]**</big>  
 if you're feeling a lot right now,  
 that's not an error, and you're not alone.
-
-</big>
 
 ---
 
