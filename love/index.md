@@ -401,7 +401,8 @@ recursion has a tendency to bake both confusion and timelessness into the syntax
 
 as such, this logic ladder is pretty dense, so i’m coming back through to add in parentheticals and text decor <u>to avoid as much ambiguity as i can in this list</u>
 
-as you proceed, remember you can always come right back to this line:  
+as you proceed, remember you can always come right back to one of these lines:
+
 **if you’re feeling overwhelmed, [click here now](/mirror/backside/)**.  
 **that’s a tether and a safety net ➚**
 
