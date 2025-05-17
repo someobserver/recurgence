@@ -16,13 +16,11 @@ that's not an error, and you're not alone.
 
 **There's a distinct moment**  
 
-it might be halfway down a paragraph  
-maybe in the silence after a sentence you can't quite finish  
+it might be halfway down a paragraph, maybe in the silence after a sentence you can't quite finish  
 **when something *clicks.***
 
 it doesn't arrive in a gown of enlightenment.
-it just *…stirs.*  
-quietly.  
+it just *…stirs*, quietly.  
 from somewhere deeper than thought.
 
 maybe it's in the pattern?  
