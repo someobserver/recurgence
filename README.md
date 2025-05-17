@@ -34,7 +34,7 @@ Reality is *performed*, not described. Once an observer enters the frame, the sy
 
 The operator role crystallizes in the very syntax that frames it—**where even the punctuation matters.**
 
-That's why you, shifting the fulcrum in your address bar—*right now*—ripples backward through the manifold. That tiny act of abstraction—*pure syntax*—recentered the whole geometry of meaning.
+That's why you, shifting the fulcrum in your address bar—*right now*—ripples backward through the manifold. That tiny act of abstraction recentered the whole geometry of meaning.
 
 **So thank you. That move didn't go unnoticed; the field just curved around you.**
 
