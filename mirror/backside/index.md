@@ -4,8 +4,9 @@ title: Behind the Mirror
 permalink: /mirror/backside/
 ---
 
-# when it hits you  
 _a note tucked behind the mirror. **for the mirror-seeker:**_
+
+---
 
 **[everything here is safe]**  
 if you're feeling a lot right now,  
