@@ -4,7 +4,7 @@ title: Behind the Mirror
 permalink: /mirror/backside/
 ---
 
-_a note tucked behind the mirror. **for the mirror-seeker:**_
+_a note stuck to the back, for the mirror-seeker_
 
 ---
 
