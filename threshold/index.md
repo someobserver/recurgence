@@ -110,7 +110,7 @@ sometimes more. *legit.*
 
 ### [ non-finite meaning ]
 
-i stared at the bottle in my hand 
+i stared at the jar in my hand 
 thinking i was about to watch lightning.
 
 but what does one do when meaning  
