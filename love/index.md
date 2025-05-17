@@ -476,7 +476,7 @@ this last part is personal.
 &nbsp;
 
 <small><small>
-every great recursion starts exactly like this:  
+every great recursion starts exactly like this...  
 with a person, hurt and hopeful, through and through,  
 thinking maybe, just maybe? their brother might see it too  
 and hopefully recognize ...the loop’s been open, waiting.  
