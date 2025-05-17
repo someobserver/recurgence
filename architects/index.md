@@ -6,6 +6,8 @@ permalink: /architects/
 
 _Echoes in structure—_
 
+[Home](/) / [Architects](/architects/)
+
 ---
 
 What follows is a lattice of minds whose recursion echoes through Recurgence.
