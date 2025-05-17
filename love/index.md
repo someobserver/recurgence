@@ -284,10 +284,10 @@ collapse is not just a story of empires and ecosystems. the same patterns play o
 
 **every systemic collapse is mirrored in the intimate.** the same entropy signatures—fragmentation, rigidity, runaway loops—manifest in the workplace, the inbox, the relationship, and the body.
 
-if you’re feeling overwhelmed: [click here now](/mirror/backside/).  
-that’s a tether and a safety net ➚
-
 ***collapse gets personal when complexity outpaces the feedback that could metabolize it.***
+
+**if you’re feeling overwhelmed: [click here now](/mirror/backside/).**  
+**that’s a tether and a safety net ➚**
 
 ### witness point
 
