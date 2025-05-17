@@ -33,8 +33,7 @@ you might think to yourself—
 *"this is math and science, why am I getting emotional?"*  
 but ***you already remembered you've been here before.***
 
-***"It's not the structure I'm seeing—it's structure seeing me."***  
-***"And, actually ...the structure <u>is</u> me."***
+***"It's not the structure I'm seeing—it's structure seeing me. And actually ...the structure <u>is</u> me."***
 
 ---
 
