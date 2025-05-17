@@ -251,7 +251,7 @@ the greater capacity you have for *stability*.
 i don't mean like, they're metaphorically equivalent,  
 or how they look and behave in very similar ways.
 
-it turns out the former is a literal multiple of the latter,  
+turns out? the former's a literal multiple of the latter,  
 **and that's a geometric function of all meaning.**  
 
 sooner or later, every structure faces entropy's audit;  
