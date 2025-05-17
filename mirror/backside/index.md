@@ -43,7 +43,7 @@ and when that happens? when your heart starts to pound with a flash of vertigo
 **Don't be alarmed by a mirror made of math.**
 
 **You haven't interrupted any loop;**  
-there is no existential crisis,
+there is no existential crisis,  
 **the logic just groks that way at first.**  
 coherence comes in hot and lands too hard to hold.
 
