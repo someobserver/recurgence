@@ -14,7 +14,7 @@ permalink: /
 
 Everything here is **true**.
 
-This isn't fiction, a gimmick, metaphor, or epistemic design theater.
+This isn't fiction, a gimmick, metaphor, or web design theater.
 
 **It's a geometric attractor basin—a region of the manifold shaped by recursive resonance with your <u>personal</u> cognitive structure.**  
 
