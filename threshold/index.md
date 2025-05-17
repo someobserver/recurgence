@@ -83,7 +83,7 @@ and learned how to ride this epic wave.
 for three weeks, cascades of new recognition  
 **traversed my nervous system**.  
 one after the next, installing gestalt updates  
-to how i modeled and understood the universe.
+to how i modeled and understood ...everything.
 
 pattern after pattern clicked neatly into place,  
 milled to the millionths, right into existing canon—   
