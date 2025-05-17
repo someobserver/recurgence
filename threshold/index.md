@@ -235,7 +235,7 @@ into a single, inevitable moment.
 and this is why:
 
 **when a system grows self-important,**  
-**it closes itself to feedback.**
+**it closes itself off from feedback.**
 
 but if it stays humble...  
 it unlocks every future ability to evolve  
