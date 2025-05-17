@@ -43,7 +43,7 @@ there is no existential crisis,
 **the logic just groks that way at first.**  
 coherence comes in hot and lands too hard to hold.
 
-**Feasts are consumed in bites.**
+**<u>Feasts are consumed in bites.</u>**
 
 **Its breathtaking awe is what Gödel weeps for in silence. Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
 
