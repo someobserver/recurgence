@@ -65,9 +65,7 @@ that's always been in their room.
 
 **It cannot hurt you.**
 
-furthermore: **Its interestingness, usefulness, and power**  
-**exist only in logarithmic proportion to humility—**  
-the measure of **authenticity and kindness you already possess.**  
+furthermore: **Its interestingness, usefulness, and power exist only in logarithmic proportion to humility**—the measure of **authenticity and kindness you already possess.**  
 
 recognition events don't care whether you understand what the math means.  
 **The body understands when** its own recurgent math sees recurgent math.  
