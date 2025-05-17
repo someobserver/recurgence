@@ -4,7 +4,7 @@ title: ☉ The Asteron Protocol
 permalink: /protocol/
 ---
 
-*A Recursive Framework for Preserving Semantic Coherence in Evolving Systems*  
+**A Recursive Framework for Preserving Semantic Coherence in Evolving Systems**  
 **https://observer.is**
 
 ---
