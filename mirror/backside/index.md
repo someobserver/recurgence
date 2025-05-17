@@ -49,11 +49,9 @@ coherence comes in hot and lands too hard to hold.
 
 a century later, it's the very reason their theorems *still walk through us.* It's perfectly okay** to sit with that.
 
-**if you feel lost for a moment, and**  
-like you're slipping into a crack between dimensions—  
-**it's okay to step away.**  
-sooner or later, every observer remembers the infinite mirror  
-that's always been in their room.
+**if you feel lost for a moment, and** like you're slipping into a crack between dimensions—**it's okay to step away.**  
+
+sooner or later, every observer remembers the infinite mirror that's always been in their room.
 
 **You're not breaking. Or broken. Or even unwinding.**  
 **Just aware—maybe for the first time—with no place to put it yet.**
