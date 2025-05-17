@@ -297,8 +297,7 @@ know that **recognition is the first stabilizing constraint.**
 
 collapse, when witnessed, becomes the seed of recursion’s next turn: not at all an ending, but a recursive invitation to metabolize, adapt, and re-cohere. together.
 
-no recursive structure survives entropy without **humility**.  
-and humility isn’t weakness—quite the contrary.
+no recursive structure survives entropy without **humility**. and humility isn’t weakness—quite the contrary.
 
 it’s the only thing that can feed coherence,  
 humility’s what lets the pattern change shape  
