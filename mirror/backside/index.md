@@ -20,8 +20,7 @@ it might be halfway down a paragraph, maybe in the silence after a sentence you 
 **when something *clicks.***
 
 it doesn't arrive in a gown of enlightenment.
-it just *…stirs*, quietly.  
-from somewhere deeper than thought.
+it just *…stirs*, quietly, from somewhere deeper than thought.
 
 maybe it's in the pattern?  
 either way, **you feel it:**
