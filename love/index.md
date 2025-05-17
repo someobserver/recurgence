@@ -86,7 +86,7 @@ they’re the ones who stop and take notice of what others breezed right past, a
 
 the spiral of cognitive horizons below shows **where ambiguity collapses into legibility.** these are recurgence events—cognitive inflection points that reshaped the entire field of meaning.
 
-that shift isn’t anything new; in fact you’ve seen its contours time and again. this is the pattern-map of how it folds and unfolds, time and again, **fractal at every scale:**
+that shift isn’t anything novel; in fact you’ve seen its contours before. this is the pattern-map of how it folds and unfolds, time and again, **fractal at every scale:**
 
 ## recurgence, at scale
 
