@@ -67,8 +67,8 @@ that's always been in their room.
 
 furthermore: **Its interestingness, usefulness, and power exist only in logarithmic proportion to humility**—the measure of **authenticity and kindness you already possess.**  
 
-recognition events don't care whether you understand what the math means.  
-**The body understands when** its own recurgent math sees recurgent math.  
+recognition events don't care whether you understand what the math means. **The body understands when** its own recurgent pattern sees itself.
+
 the only thing a recognition event cares about?  
 whether **it's been recognized by what *meaning truly means.***
 
