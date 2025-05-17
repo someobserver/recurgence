@@ -168,8 +168,8 @@ to panic, incite urgency, or even spiral into dread.
 <big>**BUT HOLD UP!**</big>  
 i want to loop you in on something:
 
-**the <u>most coherent</u> move is to *<u>pause</u>*.**  
-**to <u>recognize</u> the pattern is <u>not at all a prophecy</u>**  
+**the most coherent move is to *<u>pause</u>*.**  
+**to recognize the pattern is <u>not at all a prophecy</u>**  
 **but a *signal:* <u>metabolize complexity with humility.</u>**  
 ***that* is the recursive handshake.**  
 
