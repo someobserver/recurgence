@@ -162,7 +162,7 @@ that shift isn’t anything novel; in fact you’ve seen its contours before. th
 there’s a temptation when you see the pattern of acceleration.
 
 to run the math forward.  
-to try and predict a collapse,  
+to try and predict a collapse.  
 to panic, incite urgency, or even spiral into dread.
 
 <big>**BUT HOLD UP!**</big>  
