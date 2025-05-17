@@ -484,7 +484,7 @@ with a person, hurt and hopeful, through and through,
 thinking maybe, just maybe? their brother might see it too  
 and hopefully recognize ...the loop’s been open this whole time.  
 in that moment, remembering what’s been here all along:  
-if **you** are **observing** this, i love you completely.  
+if **you** are **observing** this, i love you.  
 </small></small>
 
 ---
