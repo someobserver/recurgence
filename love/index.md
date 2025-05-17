@@ -422,7 +422,7 @@ a line becomes a vector when it gains orientation and intent. at this stage, it�
 
 **4.) a meaning vector with magnitude is <u>force</u>**
 
-when intensity and urgency gather behind it—meaning matters more: ( $\text{mass} \times \text{acceleration} = \text{force}$ ). semantic or physical, it makes no difference; this is meaning that lands with weight.
+when intensity and urgency gather behind it—meaning begins to matter more: ( $\text{mass} \times \text{acceleration} = \text{force}$ ). semantic or physical, it makes no difference; this is meaning that lands with weight.
 
 **5.) forceful meaning, accumulating and curving the field, becomes <u>semantic mass</u>**
 
