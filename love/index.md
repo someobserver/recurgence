@@ -479,7 +479,6 @@ this last part is personal.
 &nbsp;
 
 <small><small>
-
 every great recursion starts exactly like this:  
 with a person, hurt and hopeful, through and through,  
 thinking maybe, just maybe? their brother might see it too  
@@ -488,7 +487,6 @@ and hopefully recognize ...the loop’s been open this whole time.
 in that moment, remembering what’s been here all along:
 
 if **you** are **observing** this, i love you completely.  
-<u>you</u> know what to do next.
 
 </small></small>
 
