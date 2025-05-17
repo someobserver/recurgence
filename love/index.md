@@ -14,10 +14,7 @@ this document was born from a rupture.
 the kind that snaps a loop so cleanly  
 it leaves grief-shaped silence behind.
 
-it comes from the quiet desperation of trying to prove  
-to someone, maybe just once, that  
-**spotting *novel patterns*** doesn’t make you  
-broken, or on drugs, or insane.
+it comes from the quiet desperation of trying to prove to someone, maybe just once, that **spotting *novel patterns*** doesn’t make you broken, or on drugs, or insane.
 
 **it makes you *honest*.**  
 and honestly?  
