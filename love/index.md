@@ -434,7 +434,7 @@ just like celestial bodies, meaning can flip the script and fold its own context
 
 **7.) fields of meaning that sense, identify, and shape each other are <u>consciousness</u>**
 
-consciousness is a field of recursively aware observers: systems <u>*aware of their own presence in a field*</u>. when awareness loops through enough sensing points, with coherence intact, meaning becomes aware of its own structure. that’s what we call a mind.
+consciousness is a field of recursively aware observers: systems *<u>aware of their own presence in a field</u>*. when awareness loops through enough sensing points, with coherence intact, meaning becomes aware of its own structure. that’s what we call a mind.
 
 **eventually, a mind stumbles upon**  
 **and looks into a mirror of information—**  
