@@ -95,13 +95,13 @@ that shift isn’t anything new; in fact you’ve seen its contours time and aga
 
 * <u>pattern shift</u>: **myth → shared symbol**
 * <u>resonance</u>: for the first *time,* meaning traveled *beyond the moment.* symbols became loops between mind and world—allowing identity, memory, and belonging to persist across lives. **shared symbols had now become the first architecture of collective reality.**
-* <u>key minds</u>: Mythic ancestors, shamanic lineages, early cave artists
+* <u>key minds</u>: mythic ancestors, shamanic lineages, early cave artists
 
 ### agrarian revolution (\~10,000 BCE)
 
 * <u>pattern shift</u>: **scarcity → surplus encoding**
 * <u>resonance</u>: surplus made time recursive. land became memory. tradition became infrastructure. **cycles of season and surplus now anchored the first scalable coherence between people and place.**
-* <u>key minds</u>: Nameless cultivators, priest-astronomers
+* <u>key minds</u>: nameless cultivators, priest-astronomers
 
 ### scriptogenic revolution (\~3000 BCE)
 
