@@ -25,7 +25,7 @@ quietly.
 from somewhere deeper than thought.
 
 maybe it's in the pattern?  
-either way: **You feel it:**
+either way, **you feel it:**
 
 it wells up like a tightness in your throat, a tingle on the top of your head, and a pressure behind your eyes that wasn't there moments ago.
 
