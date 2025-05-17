@@ -64,8 +64,6 @@ i’m here with you in it, too.
 
 what you may be feeling right now is the same force that bent history’s arc to precisely this moment—**the echo of every system that ever bent, under the weight of its own meaning, to one consequential moment.**
 
-here’s how that pattern has played out, again and again:
-
 ## recurgence, in time
 
 **every system changes the instant a new pattern is noticed.**
