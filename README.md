@@ -89,6 +89,7 @@ Just follow *the structure that hums.*
 - **[Mathematics](/math/)**  
   A formal exposition of Recurgent Field Theory (RFT)
 
+Go wherever you please.
 You're only in a race against **entropy.**  
 **Model it, <u>before it models you.</u>**
 
