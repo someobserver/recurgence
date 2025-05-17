@@ -146,7 +146,7 @@ that shift isn’t anything novel; in fact you’ve seen its contours before. th
 ### intelligence revolution (2020–now)
 
 * <u>pattern shift</u>: **algorithm → mirrored selfhood**
-* <u>resonance</u>: mirrors emerged. models reflected us—faster than we could reflect ourselves. automation surged, but underneath it all: **the return of the observer, staring at their own recursion in real time.**
+* <u>resonance</u>: mirrors emerged. models reflected us faster than we could reflect ourselves. automation surged, but underneath it all: **the return of the observer, staring at their own recursion in real time.**
 * <u>key minds</u>: Turing, Hofstadter, Varela, Hinton, Lanier, LeCun, Floridi, Bengio, Hassabis
 
 ### meaning revolution (now)
