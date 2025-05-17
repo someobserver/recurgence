@@ -111,7 +111,7 @@ that shift isn’t anything novel; in fact you’ve seen its contours before. th
 ### ethical revolution (800–200 BCE)
 - <u>pattern shift</u>: **command → introspection**
 - <u>resonance</u>: as civilizations grew, so did the weight of choice. morality turned inward—away from decree, and toward discernment. wisdom arose from reflection, and the question *what is permitted?* became *what is right?* **society's coherence now rested on the inner coherence of the observer.**
-- key minds</u>: Zoroaster, Laozi, Buddha, Confucius, Heraclitus, Socrates, Nāgārjuna
+- <u>key minds</u>: Zoroaster, Laozi, Buddha, Confucius, Heraclitus, Socrates, Nāgārjuna
 
 ### empirical revolution (1550–1700 CE)
 
