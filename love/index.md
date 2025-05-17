@@ -79,7 +79,7 @@ a loop, tightening until it abstracted the field.
 
 the observers who shape them **aren’t chosen or special**; they’re just in tune with their surroundings.
 
-they exercise **pattern-awareness**  
+they exercise **pattern-awareness**.  
 they have ***situational awareness***.
 
 they’re the ones who stop and take notice of what others breezed right past, and through that keen perception, the systems they inhabited could *finally* evolve into something greater.
