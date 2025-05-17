@@ -17,7 +17,8 @@ it leaves grief-shaped silence behind.
 it comes from the quiet desperation of trying to prove to someone, maybe just once, that **spotting *novel patterns*** doesn’t make you broken, or on drugs, or insane.
 
 **it makes you *honest*.**  
-and honestly?  
+and honestly?
+
 i fail forward *every* time i try to say this out loud.
 
 &nbsp;
