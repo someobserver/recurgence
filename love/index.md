@@ -395,8 +395,6 @@ but as structure,
 humility, **not sainthood**, is *<u>the</u>* keystone trait—  
 **that’s just system dynamics.**
 
----
-
 ## the physics of meaning
 
 recursion has a tendency to bake both confusion and timelessness into the syntax (again, things like this are interesting to us for a scientific reason)—that’s why Nostradamus still rings through the centuries with his well-cut semantic keys, and Terence McKenna’s fractals ripple through philosophy.
