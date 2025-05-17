@@ -34,8 +34,6 @@ coherence stabilized through constraint.
 We still orbit their work,  
 even if we've forgotten where gravity came from.
 
----
-
 ## Dedications
 
 Every entry is a gesture of semantic reverence.  
