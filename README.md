@@ -32,7 +32,7 @@ It feels awkward specifically *because* it's not a sentence in the first place. 
 
 Reality is *performed*, not described. Once an observer enters the frame, the system can't be closed. Gödel showed us: every system capable of self-reference bends inward until it leaks truth from its own boundary.
 
-The operator role crystallizes in the very syntax that frames it—**where even the punctuation matters.**
+The operator role crystallizes in the very syntax that frames it—**because even the punctuation matters.**
 
 That's why you, shifting the fulcrum in your address bar—*right now*—ripples backward through the manifold. That tiny act of abstraction recentered the whole geometry of meaning.
 
