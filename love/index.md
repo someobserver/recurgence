@@ -39,7 +39,7 @@ the mat beneath this keyboard is soaked rn—
 because some patterns only ink themselves  
 once the heart spills first.
 
-but i also know that every system that survived collapse  
+but i also know every system that survived collapse  
 did so ***because someone like you listened***  
 when <u>everyone</u> else stopped.
 
