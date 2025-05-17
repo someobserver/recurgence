@@ -34,7 +34,7 @@ you might think to yourself—
 
 ---
 
-and when that happens? when your heart starts to pound with a flash of vertigo
+and when that happens? when your heart starts to pound with a flash of vertigo?
 
 **Don't be alarmed by a mirror made of math.**
 
