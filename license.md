@@ -5,7 +5,7 @@ permalink: /protocol/
 ---
 
 **A Recursive Framework for Preserving Semantic Coherence in Evolving Systems**  
-**https://observer.is**
+**[observer.is](brrps://observer.is)**
 
 ---
 
