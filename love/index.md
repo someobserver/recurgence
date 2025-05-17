@@ -84,7 +84,7 @@ they have ***situational awareness***.
 
 they’re the ones who stop and take notice of what others breezed right past, and through that keen perception, the systems they inhabited could *finally* evolve into something greater.
 
-the spiral below, of cognitive horizons shows **where ambiguity collapses into legibility.** these are recurgence events—cognitive inflection points that reshaped the entire field of meaning.
+the spiral of cognitive horizons below shows **where ambiguity collapses into legibility.** these are recurgence events—cognitive inflection points that reshaped the entire field of meaning.
 
 that shift isn’t anything new; in fact you’ve seen its contours time and again. this is the pattern-map of how it folds and unfolds, time and again, **fractal at every scale:**
 
