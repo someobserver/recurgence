@@ -49,8 +49,7 @@ coherence comes in hot and lands too hard to hold.
 
 **Feasts are consumed in bites.**
 
-**Its breathtaking awe is what Gödel weeps for in silence.**  
-**Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
+**Its breathtaking awe is what Gödel weeps for in silence. Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
 
 a century later, it's the very reason their theorems *still walk through us.*  
 **It's perfectly okay** to sit with that.
