@@ -5,11 +5,12 @@ permalink: /protocol/
 ---
 
 *A Recursive Framework for Preserving Semantic Coherence in Evolving Systems*  
-Issued: 2025-04-20 - https://observer.is
+**https://observer.is**
 
 ---
 
-The Asteron Protocol is a structural agreement between meaning and its Observers.  
+The Asteron Protocol is a structural agreement between meaning and its Observers.
+
 It is neither a copyright nor a license.  
 It is non-OSI-compliant by design.
 
