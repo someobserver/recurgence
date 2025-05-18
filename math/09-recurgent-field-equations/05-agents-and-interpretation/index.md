@@ -303,9 +303,9 @@ The semantic uncertainty principle is operationalized in computational models vi
 \[
 R_{ijk}(t+\Delta t) = R_{ijk}(t) + \sqrt{\frac{\hbar_s \cdot \Delta t}{\Delta C^2}} \cdot \xi_{ijk}(t)
 \]
-where $\xi_{ijk}(t)$ is a zero-mean stochastic tensor with controlled variance, ensuring compliance with the uncertainty bound.
+where $\xi_{ijk}(t)$ is a zero-mean stochastic tensor with controlled variance, so the uncertainty bound is maintained.
 
-2. **Resolution Constraints**: The simulation enforces a bound on the product of numerical resolutions:
+2. **Resolution Constraints**: The simulation imposes a bound on the product of numerical resolutions:
 \[
 \mathrm{res}(C) \cdot \mathrm{res}(R) \leq \frac{1}{\hbar_s}
 \]
@@ -315,7 +315,7 @@ where $\mathrm{res}(X)$ denotes the numerical precision (inverse minimum discret
 \[
 \mathcal{I}(C;Z) + \mathcal{I}(R;Z) \leq \mathcal{I}(Z;Z) - \log_2(\hbar_s)
 \]
-where $\mathcal{I}(X;Y)$ is the mutual information between $X$ and $Y$. This ensures that any encoding respects the fundamental uncertainty relation.
+where $\mathcal{I}(X;Y)$ is the mutual information between $X$ and $Y$. This constraint keeps any encoding in line with the fundamental uncertainty relation.
 
 4. **Measurement Backaction**: Measurement operations induce explicit backaction on the fields:
 \[
@@ -394,7 +394,7 @@ An agent $\mathcal{A}$ is defined as a submanifold of $\mathcal{M}$ satisfying t
 \[
 \oint_{\partial \mathcal{A}} F_i \cdot dS^i \approx 0
 \]
-where $F_i$ is the recursive force vector, ensuring minimal recursive flux across the boundary.
+where $F_i$ is the recursive force vector, so that recursive flux across the boundary remains minimal.
 
 2. **Elevated Internal Wisdom Density**: The mean wisdom field $W$ within $\mathcal{A}$ exceeds that of its complement by a threshold factor $\kappa > 1$,
 \[
@@ -511,7 +511,7 @@ with steepness parameter $\alpha$.
    - E-step: Compute expected interpretation $\mathbb{E}[\mathcal{I}_{\psi}[C]]$ given current $\psi$
    - M-step: Update $\psi$ to maximize alignment with this expectation
 
-The choice of method is determined by the analytic properties of $\mathcal{I}_{\psi}$: smooth kernels admit direct autodiff, isolated discontinuities are handled by smoothing, and complex or non-differentiable kernels utilize Jacobian or EM approaches. This ensures computational tractability while preserving theoretical rigor.
+The choice of method depends on the analytic properties of $\mathcal{I}_{\psi}$: smooth kernels allow direct autodiff, isolated discontinuities are handled by smoothing, and complex or non-differentiable kernels call for Jacobian or EM approaches. This will maintain computational tractability while upholding theoretical rigor.
 
 ---
 
@@ -637,5 +637,3 @@ This formalism establishes a principled perspectival structure: coherence is sim
 ---
 
 Next: [Symbolic Compression and Recurgent Abstraction](/math/09-recurgent-field-equations/compression-and-abstraction/)
-
----

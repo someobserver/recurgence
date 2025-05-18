@@ -12,7 +12,7 @@ permalink: /math/03-semantic-manifold/
 
 ### Overview
 
-This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory (RFT). Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ determines the configuration space for semantic states and governs their evolution under recursive processes.
+This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory (RFT). Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ sets the configuration space for semantic states and shapes their evolution under recursive processes.
 
 Key mathematical structures:
 1. **Metric Tensor** $g_{ij}(p, t)$ — defines semantic distances and constraint geometry.
@@ -21,7 +21,7 @@ Key mathematical structures:
 4. **Recursive Depth** $D(p, t)$ and **Attractor Stability** $A(p, t)$ — modulate the manifold's structure and resilience.
 5. **Semantic Mass** $M(p, t)$ — integrates depth, density, and stability to curve the manifold and generate attractor basins.
 
-The metric evolves according to a flow equation that couples intrinsic curvature with recursive feedback, enabling both stable and fluid semantic regimes. High constraint regions yield sharply defined geodesics and semantic rigidity; low constraint regions permit flexible, innovative transitions. The interplay of these fields establishes the geometric and dynamical context for recursive coupling and semantic evolution developed in subsequent sections.
+The metric evolves according to a flow equation that couples intrinsic curvature with recursive feedback, supporting both stable and fluid semantic regimes. High constraint regions produce sharply defined geodesics and semantic rigidity; low constraint regions open space for flexible, innovative transitions. The interplay of these fields provides the geometric and dynamical context for recursive coupling and semantic evolution developed in subsequent sections.
 
 ---
 
@@ -58,13 +58,13 @@ where:
   - $D$: the recursive depth field (maximal sustainable recursion at $p$),
   - $A$: the attractor stability field (local resilience to perturbation).
 
-This flow describes the deformation of semantic geometry under the influence of both intrinsic curvature and recursive feedback mechanisms.
+This flow describes how semantic geometry deforms under the combined influence of intrinsic curvature and recursive feedback mechanisms.
 
 ---
 
 ### **3.3 Constraint Density**
 
-The metric tensor determines the **constraint density** $\rho(p, t)$ at each point via:
+The metric tensor gives rise to the **constraint density** $\rho(p, t)$ at each point via:
 
 $$
 \rho(p, t) = \frac{1}{\det(g_{ij}(p, t))}
@@ -94,7 +94,7 @@ $$
 M(p, t) = D(p, t) \cdot \rho(p, t) \cdot A(p, t)
 $$
 
-Semantic mass $M(p, t)$ curves the manifold, generating attractor basins and shaping the flow of coherence. High-mass regions act as stable attractors, anchoring interpretation and resisting transformation; low-mass regions are susceptible to innovation and recursive branching.
+Semantic mass $M(p, t)$ curves the manifold, generating attractor basins and shaping the flow of coherence. High-mass regions function as stable attractors, anchoring interpretation and resisting transformation; low-mass regions are more open to innovation and recursive branching.
 
 ---
 

@@ -13,7 +13,7 @@ permalink: /math/09-recurgent-field-equations/temporal-dynamics/
 
 ### Overview
 
-This section formalizes the **bidirectional temporal flow** intrinsic to Recurgent Field Theory (RFT), establishing the dual propagation of causality and information within the semantic manifold. Outward causal emission from semantic mass concentrations and inward information reception via constraint density jointly generate the phenomenological experience of time and modulate recursive dynamics.
+This section formalizes the **bidirectional temporal flow** intrinsic to Recurgent Field Theory (RFT), articulating the dual propagation of causality and information within the semantic manifold. Outward causal emission from semantic mass concentrations and inward information reception via constraint density together generate the phenomenological experience of time and modulate recursive dynamics.
 
 Key mathematical structures:
 1. **Causal Emission Field** $\vec{E}_c(p,t)$ — outward propagation of causal influence from semantic mass.
@@ -23,7 +23,7 @@ Key mathematical structures:
 5. **Recursive Temporal Lens Effect** — describes temporal curvature induced by semantic mass and recursive coupling.
 6. **Modified Coherence Evolution Equation** — incorporates bidirectional temporal flow into the dynamics of coherence.
 
-This bidirectional structure underpins the recursive feedback between meaning propagation and semantic integration, enabling RFT to model temporal phenomena such as dilation, contraction, and the emergence of recursive attractors within a unified geometric framework.
+This bidirectional structure grounds the recursive feedback between meaning propagation and semantic integration, allowing RFT to model temporal phenomena such as dilation, contraction, and the emergence of recursive attractors within a unified geometric framework.
 
 ---
 
@@ -77,7 +77,7 @@ This relation asserts that the divergence of causal emission is balanced by the 
 
 #### **9.6.3 Recursive Temporal Curvature**
 
-In regions of elevated semantic mass—such as at recursive attractors—the interplay of bidirectional flows induces a **recursive temporal lens** effect, formalized by the temporal curvature coefficient:
+In regions of elevated semantic mass—such as at recursive attractors—the interplay of bidirectional flows gives rise to a **recursive temporal lens** effect, formalized by the temporal curvature coefficient:
 \[
 \kappa_t(p) = \frac{\|\vec{E}_c(p,t)\|}{\|\vec{I}_r(p,t)\|} \cdot \frac{1}{1 + \lambda\, \|R_{ijk}(p,p,t)\|_F}
 \]
@@ -113,9 +113,8 @@ The cross product term $(\vec{E}_c \times \vec{I}_r)_i$ is defined according to 
   \]
   where $\star$ is the Hodge star, $\wedge$ the exterior product, and $\flat$, $\sharp$ denote musical isomorphisms.
 
-This construction ensures the bidirectional temporal flow is rigorously defined for arbitrary manifold dimension and structure.
+With this approach, the bidirectional temporal flow remains well-defined for arbitrary manifold dimension and structure.
 
 ---
 
 Next: [Global Attractors and Bifurcation Geometry](/math/09-recurgent-field-equations/attractors-and-transitions/)
-

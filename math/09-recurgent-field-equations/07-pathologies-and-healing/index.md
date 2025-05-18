@@ -24,7 +24,7 @@ Key mathematical structures:
 6. **Simulation of Pathological Dynamics** — explicit models for paranoia, delusion, rigidity, and fragmentation, enabling both theoretical and applied study.
 7. **Clinical and Theoretical Implications** — connections to cognitive science, AI safety, and epistemology, providing a prescriptive framework for epistemic health.
 
-This section unifies diagnostic, therapeutic, and theoretical perspectives, establishing a rigorous account of how pathological meaning structures arise, persist, and may be healed within the recurgent semantic manifold.
+This section unifies diagnostic, therapeutic, and theoretical perspectives, offering a rigorous account of how pathological meaning structures arise, persist, and may be healed within the recurgent semantic manifold.
 
 ---
 
@@ -94,7 +94,7 @@ Let $\mathcal{C}$ denote the configuration space of semantic fields, and let $C(
   \frac{\|R_{ijk}(p,p,t)\|}{\int_q \|R_{ijk}(p,q,t)\| \, dq} \to 1
   $$
 
-Each class corresponds to a distinct mode of deviation from the optimal recurgent regime, as defined by the dynamical equations of RFT.
+Each class marks a distinct mode of deviation from the optimal recurgent regime, as defined by the dynamical equations of RFT.
 
 ---
 
@@ -106,7 +106,7 @@ To quantify the health of a semantic field configuration, RFT introduces the fol
   $$
   S_{\text{sem}}(\Omega) = -\int_{\Omega} \rho(p) \log\rho(p) \, dV_p - \beta \int_{\Omega} C(p) \log C(p) \, dV_p
   $$
-  where $\rho(p)$ is the constraint density. The first term encodes openness; the second, coherence distribution. Optimal health corresponds to intermediate entropy.
+  where $\rho(p)$ is the constraint density. The first term encodes openness; the second, coherence distribution. Optimal health is associated with intermediate entropy.
 
 - **Adaptability Index**:
   $$
@@ -126,7 +126,7 @@ To quantify the health of a semantic field configuration, RFT introduces the fol
   $$
   quantifying the minimal perturbation required for significant semantic reconfiguration.
 
-These metrics together define a multidimensional diagnostic space for the semantic manifold.
+Taken together, these metrics map out a multidimensional diagnostic space for the semantic manifold.
 
 ---
 
@@ -139,7 +139,7 @@ Pathological regimes are further characterized by their field-theoretic signatur
 - **Delusional Structure**: Autopoietic recurrency exceeding wisdom constraint, decoupling from boundary conditions, circular interpretation, suppressed $S_{\text{sem}}$.
 - **Fragmentation**: Supercritical attractor density, weak $R_{ijk}$ interconnectivity, oscillatory $C$, unstable $g_{ij}$.
 
-These patterns serve as operational diagnostics for the identification and localization of pathological regions within $\mathcal{M}$.
+These patterns function as operational diagnostics for identifying and localizing pathological regions within $\mathcal{M}$.
 
 ---
 
@@ -164,7 +164,7 @@ The wisdom field $W(p,t)$ mediates the restoration of semantic health via the fo
   \mathcal{I}_{\psi}^{\text{corr}}[C] = (1-\lambda W)\mathcal{I}_{\psi}[C] + \lambda W C
   $$
 
-The efficacy of these healing flows is modulated by the integrity of $W$, the connectivity of healthy and pathological regions, the depth of entrenchment, and the strength of external reality constraints.
+The efficacy of these healing flows depends on the integrity of $W$, the connectivity between healthy and pathological regions, the depth of entrenchment, and the strength of external reality constraints.
 
 ---
 
@@ -198,7 +198,7 @@ Beyond endogenous healing, RFT prescribes explicit intervention operators:
   R_{ijk}^{\text{pruned}} = R_{ijk} (1 - \tau(R_{ijk}, \text{thresh}))
   $$
 
-Each operator is defined to target specific pathological invariants while preserving global semantic integrity.
+Each operator is constructed to target specific pathological invariants while maintaining global semantic integrity.
 
 ---
 
@@ -223,8 +223,8 @@ The formalism of epistemic pathology in RFT establishes rigorous bridges to:
 - **AI Safety**: Detection and prevention of pathological reasoning in artificial agents, recursive alignment diagnostics, safety metrics for self-modifying systems.
 - **Epistemology**: Field-theoretic definitions of epistemic virtue/vice, quantification of justification, objective characterization of epistemic practices.
 
-Thus, RFT provides a unified mathematical framework for the diagnosis, simulation, and remediation of pathological semantic dynamics, with direct implications for both theoretical inquiry and applied intervention.
-
-Next: [Simulation Architecture](/math/10-simulation-architecture/)
+In this way, RFT offers a unified mathematical framework for the diagnosis, simulation, and remediation of pathological semantic dynamics, with direct implications for both theoretical inquiry and applied intervention.
 
 ---
+
+Next: [Simulation Architecture](/math/10-simulation-architecture/)

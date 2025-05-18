@@ -12,19 +12,19 @@ permalink: /math/05-semantic-mass/
 
 ### Overview
 
-This section formalizes **semantic mass** as the principal source of curvature in Recurgent Field Theory, governing the persistence and stability of meaning structures under recursive pressure. The mass distribution $M(p,t)$ emerges from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$, establishing a geometric foundation for autopoietic coherence.
+This section formalizes **semantic mass** as the principal source of curvature in Recurgent Field Theory, shaping the persistence and stability of meaning structures under recursive pressure. The mass distribution $M(p,t)$ arises from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$, grounding the geometry of autopoietic coherence.
 
 Key mathematical structures:
 1. **Mass-curvature coupling** through the recurged Einstein equation $R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$
 2. **Attractor potential** $\Phi(p,t)$ derived from nonlocal mass distribution
 3. **Recursive force** $F_i = -\nabla_i\Phi$ driving coherence flow
 
-The theory positions semantic mass as the bridge between:
+Within this framework, semantic mass mediates between:
 - Constraint geometry (encoded in $g_{ij}$)
 - Coherence field dynamics (governed by $\mathcal{L}$ in §6)
 - Recursive stress-energy (mediated by $T^{\text{rec}}_{ij}$ from §4)
 
-This construction completes the geometric framework of Recurgent Field Theory: concentrations of semantic mass induce curvature in the semantic manifold, generating attractor basins that govern the flow of recursive processes and counteract entropic dissipation. The field dynamics admit phase transitions at critical values of $M(p, t)$, beyond which autopoietic regeneration cycles are initiated.
+This construction completes the geometric architecture of Recurgent Field Theory: concentrations of semantic mass curve the semantic manifold, giving rise to attractor basins that direct the flow of recursive processes and counteract entropic dissipation. The field dynamics exhibit phase transitions at critical values of $M(p, t)$, beyond which autopoietic regeneration cycles begin.
 
 ---
 
@@ -39,7 +39,7 @@ where:
 - $\rho(p, t)$ is the constraint density, given by $\rho(p, t) = 1/\det(g_{ij}(p, t))$, encoding the tightness of local semantic geometry,
 - $A(p, t)$ is the attractor stability field, measuring the local tendency of a semantic state to return after perturbation.
 
-Semantic mass $M(p, t)$ serves as the principal source term for semantic curvature, anchoring persistent structures within the semantic manifold. Regions of high $M$ act as stable attractors, exerting a stabilizing influence on the evolution of coherence fields and modulating the propagation of recursive processes. The persistence of high-mass structures is a consequence of their recursive depth, constraint density, and local stability, independent of their propositional content.
+Semantic mass $M(p, t)$ acts as the principal source term for semantic curvature, anchoring persistent structures within the semantic manifold. Regions of high $M$ function as stable attractors, exerting a stabilizing influence on the evolution of coherence fields and modulating the propagation of recursive processes. The persistence of high-mass structures follows from their recursive depth, constraint density, and local stability, independent of their propositional content.
 
 ---
 
@@ -56,7 +56,7 @@ where:
 - $T^{\text{rec}}_{ij}$ is the recursive stress-energy tensor (see Section 4.3),
 - $G_s$ is the semantic gravitational constant.
 
-This equation formalizes the principle that recursive tension and constraint, as encoded in $T^{\text{rec}}_{ij}$, generate curvature in semantic space, shaping the geometry of meaning in direct analogy to the role of mass-energy in general relativity.
+This equation expresses the principle that recursive tension and constraint, as encoded in $T^{\text{rec}}_{ij}$, generate curvature in semantic space, shaping the geometry of meaning in direct analogy to the role of mass-energy in general relativity.
 
 ---
 
@@ -71,11 +71,11 @@ where:
 - $M(q, t)$ is the semantic mass at $q$,
 - $dV_q$ is the volume element.
 
-The gradient of this potential yields the **recursive force**:
+The gradient of this potential gives the **recursive force**:
 $$
 F_i(p, t) = -\nabla_i \Phi(p, t)
 $$
-which governs the flow of coherence and the attraction of new semantic structures into existing attractor basins. This formalism captures the manner in which regions of high semantic mass modulate the dynamics of meaning, drawing recursive processes toward stable configurations.
+which directs the flow of coherence and draws new semantic structures into existing attractor basins. This formalism describes how regions of high semantic mass modulate the dynamics of meaning, pulling recursive processes toward stable configurations.
 
 ---
 
@@ -94,7 +94,7 @@ This quadratic potential models the energetic landscape of semantic attractors:
 - **Soft attractors** (e.g., metaphoric or fluid conceptual structures) correspond to small $k$,
 - **Hard attractors** (e.g., axiomatic, rigid, or dogmatic structures) correspond to large $k$.
 
-The parameter $k$ thus modulates the resistance of an attractor to perturbation and the rate at which coherence returns to equilibrium following displacement.
+The parameter $k$ modulates the resistance of an attractor to perturbation and the rate at which coherence returns to equilibrium following displacement.
 
 ---
 

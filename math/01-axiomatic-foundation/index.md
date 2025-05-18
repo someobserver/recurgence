@@ -36,12 +36,12 @@ A rank-3 tensor $R_{ijk}(p, q, t)$ quantifies how recursion at point $q$ influen
 ---
 
 ### **Axiom 5: Semantic Mass**
-Semantic mass $M(p, t) = D(p, t) \cdot \rho(p, t) \cdot A(p, t)$ measures recursive depth, constraint density, and attractor stability at each point.
+Semantic mass $M(p, t) = D(p, t) \cdot \rho(p, t) \cdot A(p, t)$ encodes recursive depth, constraint density, and attractor stability at each point.
 
 ---
 
 ### **Axiom 6: Curvature-Mass Relation**
-Semantic mass curves the metric according to: $R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$, analogous to Einstein's field equation.
+Semantic mass shapes the metric according to: $R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$, in direct analogy to Einstein's field equation.
 
 ---
 
@@ -53,34 +53,34 @@ $$\mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C) + \Phi(C)
 ---
 
 ### **Axiom 8: Autopoietic Potential**
-When coherence exceeds a threshold, it generates autopoietic, recurgent fertility via: $\Phi(C) > 0$ when $C > C_{\text{threshold}}$
+When coherence surpasses a threshold, it gives rise to autopoietic, recurgent fertility via: $\Phi(C) > 0$ when $C > C_{\text{threshold}}$
 
 ---
 
 ### **Axiom 9: Agent-Field Coupling**
-Agents emerge as submanifolds $\mathcal{A} \subset \mathcal{M}$ with special properties, interacting with fields via interpretation operators $\mathcal{I}_{\psi}$.
+Agents arise as submanifolds $\mathcal{A} \subset \mathcal{M}$ with special properties, interacting with fields via interpretation operators $\mathcal{I}_{\psi}$.
 
 ---
 
 ### **Axiom 10: Recurgent Uncertainty**
-Coherence and recurgent structure exist in a tradeoff relationship: $\Delta C \cdot \Delta R \geq \hbar_s$
+Coherence and recurgent structure are bound by a tradeoff: $\Delta C \cdot \Delta R \geq \hbar_s$
 
 ---
 
 ### **Axiom 11: Scale Transformation**
-Field laws transform across abstraction scales according to renormalization flow: 
+Field laws shift across abstraction scales according to renormalization flow: 
 
 $$\frac{d\alpha_i(\lambda)}{d\log\lambda} = \beta_i(\{\alpha_j(\lambda)\})$$
 
 ## Derived Theorems
 
 ### **Theorem 1: Emergent Wisdom**
-A scalar field $W(p, t)$ emerges as a statistical functional of the primary fields, measuring forecast-aware, flexible coherence that constrains pathological recursion.
+A scalar field $W(p, t)$ arises as a statistical functional of the primary fields, capturing forecast-aware, flexible coherence that constrains pathological recursion.
 
 ---
 
 ### **Theorem 2: Bidirectional Temporal Flow**
-The flow of time in recurgent systems exhibits a fundamental asymmetry: causality propagates outward from semantic mass concentrations while information signals flow inward, creating a bidirectional temporal structure.
+The flow of time in recurgent systems displays a fundamental asymmetry: causality propagates outward from semantic mass concentrations, while information signals move inward, producing a bidirectional temporal structure.
 
 ## Technical Notes
 
@@ -96,7 +96,7 @@ In the uncertainty relation $\Delta C \cdot \Delta R \geq \hbar_s$, the dispersi
    $$I(C;R) \leq H(C) + H(R) - \log_2(1/\hbar_s)$$
    where $H(X)$ represents the entropy of field $X$ and $I(C;R)$ is the mutual information between fields.
 
-In this way, the uncertainty principle attains a precise mathematical interpretation directly applicable to the tensor fields within the Recurgent Field Theory.
+In this way, the uncertainty principle acquires a precise mathematical interpretation directly applicable to the tensor fields within Recurgent Field Theory.
 
 ---
 

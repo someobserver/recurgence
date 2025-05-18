@@ -13,14 +13,14 @@ permalink: /math/09-recurgent-field-equations/core-field-equations/
 
 ### Overview
 
-This section presents the **core field equations** governing the global evolution of the coherence field $C(p, t)$ on the semantic manifold $\mathcal{M}$. Building on the constructs of semantic mass, recursive tensors, autopoietic ignition, and regulatory dynamics, these equations formalize the propagation, deformation, and stabilization of meaning within Recurgent Field Theory (RFT).
+This section introduces the **core field equations** that govern the global evolution of the coherence field $C(p, t)$ on the semantic manifold $\mathcal{M}$. Drawing on the constructs of semantic mass, recursive tensors, autopoietic ignition, and regulatory dynamics, these equations articulate how meaning propagates, deforms, and stabilizes within Recurgent Field Theory (RFT).
 
 Key mathematical structures:
 1. **Recurgent Field Equation** — describes the dynamics of coherence propagation under recursive stress.
 2. **Semantic Geodesics** — define the natural trajectories of meaning shaped by manifold curvature.
 3. **Metric Evolution Equation** — captures the feedback loop by which recursion reshapes semantic geometry.
 
-Together, these equations constitute a closed dynamical system for recursive cognition and meaning emergence, integrating local field interactions with global geometric evolution.
+Taken together, these equations form a closed dynamical system for recursive cognition and the emergence of meaning, weaving together local field interactions and the evolution of global geometry.
 
 ---
 
@@ -37,7 +37,7 @@ where
 
 Interpretation:
 
-This equation formalizes the principle that the acceleration of coherence, both spatially and temporally, is determined by the local recursive stress and the geometry of semantic constraints. In regions of elevated semantic mass or pronounced recursive torsion, the coherence field is subject to curvature and may collapse into attractor basins. Conversely, in regions of low density, coherence propagates diffusively.
+This equation expresses that the acceleration of coherence, both spatially and temporally, is shaped by the local recursive stress and the geometry of semantic constraints. In regions of elevated semantic mass or pronounced recursive torsion, the coherence field bends and may collapse into attractor basins. In contrast, where density is low, coherence spreads more diffusively.
 
 ---
 
@@ -54,7 +54,7 @@ where
 
 Interpretation:  
 
-Geodesics represent the extremal (least-resistance) paths of recursive transformation on the manifold. The curvature encoded by $\Gamma^i_{jk}$ deforms these paths, resulting in the emergence of semantic attractors. Thus, the geodesic structure determines the spontaneous alignment of evolving meaning with established semantic trajectories.
+Geodesics trace the extremal (least-resistance) paths of recursive transformation on the manifold. The curvature encoded by $\Gamma^i_{jk}$ bends these paths, giving rise to semantic attractors. In this way, the geodesic structure guides the spontaneous alignment of evolving meaning with established semantic trajectories.
 
 ---
 
@@ -70,7 +70,7 @@ where
 
 Implication:  
 
-Recursive processes induce curvature in the semantic geometry, which in turn modulates subsequent recursive flows. This establishes a closed feedback system in which the manifold's structure is continuously reshaped by, and in turn shapes, the propagation of coherence.
+Recursive processes generate curvature in the semantic geometry, which then modulates subsequent recursive flows. This interplay creates a closed feedback system: the manifold's structure is continually reshaped by the propagation of coherence, even as it shapes that propagation in turn.
 
 ---
 

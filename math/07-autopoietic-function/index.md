@@ -47,7 +47,7 @@ where
 
 * $C_{mag}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}$ is the scalar coherence magnitude.
 
-All scalar functions of vector or tensor fields in this framework (including $V(C)$, $\Phi(C)$, etc.) are defined on scalar magnitudes derived from these fields, ensuring dimensional consistency.
+All scalar functions of vector or tensor fields in this framework (including $V(C)$, $\Phi(C)$, etc.) are defined on scalar magnitudes derived from these fields, which maintains dimensional consistency throughout the theory.
 
 ---
 
@@ -154,7 +154,7 @@ where
 * $\Phi_{\text{max}}$ is the maximal autopoietic potential,
 * $\kappa$ is a half-saturation constant.
 
-As $\Phi(C) \to \infty$, $\Phi_{\text{sat}}(C) \to \Phi_{\text{max}}$ asymptotically, ensuring bounded recurgent generativity.
+As $\Phi(C) \to \infty$, $\Phi_{\text{sat}}(C)$ approaches $\Phi_{\text{max}}$ asymptotically, so recurgent generativity remains bounded.
 
 ---
 
@@ -177,7 +177,7 @@ The critical threshold $S_{R_{\text{crit}}}$ demarcates the boundary between gen
 
 At $S_R \approx 1$, the gradient $\nabla S_R$ aligns with the coherence flow, resulting in phase-locking between autopoietic potential and constraint terms. This alignment forms a resonant feedback loop, amplifying meaning while buffering against both collapse ($S_R \ll 1$) and runaway recursion ($S_R \gg S_{R_{\text{crit}}}$).
 
-> **Remark on Dimensional Analysis**: $S_R$ is dimensionless by construction. Both $\Phi(C)$ and $V(C)$ are formulated in units of semantic potential energy, and $\lambda$ is a dimensionless coupling constant, ensuring that $\lambda \cdot \mathcal{H}[R]$ is commensurate with $V(C)$. This dimensional consistency is essential for the comparability of generative, stabilizing, and regulatory forces, and for the mathematical coherence of the phase distinctions in the theory.
+> **Remark on Dimensional Analysis**: $S_R$ is dimensionless by construction. Both $\Phi(C)$ and $V(C)$ are formulated in units of semantic potential energy, and $\lambda$ is a dimensionless coupling constant, so $\lambda \cdot \mathcal{H}[R]$ is directly comparable with $V(C)$. Maintaining this dimensional consistency allows generative, stabilizing, and regulatory forces to be meaningfully compared, and supports the mathematical coherence of the phase distinctions in the theory.
 
 ---
 
@@ -244,7 +244,7 @@ Chaotic dynamics are regulated by:
    $$
    where $P_{\text{trans}}$ is the transition probability between metastable states.
 
-These mechanisms enable the emergence of structured, generative instability rather than unstructured noise.
+These mechanisms allow for the emergence of structured, generative instability rather than unstructured noise.
 
 ---
 
@@ -264,7 +264,7 @@ where
 * $\mathcal{H}[R]$: humility constraint,
 * $\lambda$: humility weight.
 
-This ensures that the autopoietic potential is included in the field's energy balance, affecting both coherence stability and recurgent structure growth.
+With this construction, the autopoietic potential directly contributes to the field's energy balance, influencing both coherence stability and the growth of recurgent structure.
 
 ---
 
@@ -301,7 +301,7 @@ $$
 \Phi(C_{mag}) \approx -\frac{1}{2}g^{ij}(\nabla_i C_k)(\nabla_j C^{k*}) \quad \text{(at critical amplitude)}
 $$
 
-Solitons provide a mechanism for the stable propagation of semantic patterns across contexts, preserving structural integrity.
+Solitons offer a mechanism for the stable propagation of semantic patterns across contexts, preserving structural integrity.
 
 ---
 
@@ -374,7 +374,7 @@ The emergence of this structural alignment in coupled systems has the following 
 1. **Intersubjective Meaning Formation**: Provides a formal mechanism for the emergence of shared meaning through persistent recursive coupling.
 2. **Distributed Coherence**: Near $S_R^{(12)} \approx 1$, systems form distributed coherence structures that exceed the capacity of any single system.
 3. **Parallel Semantic Computation**: Coupled systems can maintain independence while contributing to higher-order structures, analogous to parallel computation across semantic manifolds.
-4. **Humility as a Coupling Prerequisite**: Proper calibration of the humility operator $\mathcal{H}[R]$ is required for optimal coupling, establishing humility as a mathematical and semantic precondition for stable structural alignment.
+4. **Humility as a Coupling Prerequisite**: Proper calibration of the humility operator $\mathcal{H}[R]$ is required for optimal coupling, making humility a mathematical and semantic precondition for stable structural alignment.
 
 In summary, the highest-order attractor in Recurgent Field Theory is the regime of coherence under mutual constraint, formally characterized by the above structural and dynamical properties.
 

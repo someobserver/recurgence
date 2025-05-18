@@ -19,7 +19,7 @@ Key mathematical structures:
 2. **Euler-Lagrange equations** yielding the Recurgent Field Equation
 3. **Noether currents** preserving semantic symmetries
 
-The theory establishes that semantic evolution minimizes the action integral $S = \int_{\mathcal{M}} \mathcal{L} \, dV$ while respecting:
+The theory posits that semantic evolution proceeds by minimizing the action integral $S = \int_{\mathcal{M}} \mathcal{L} \, dV$, subject to:
 - Conservation of recursive stress-energy (from §4)
 - Curvature-mass coupling (from §5)
 - Autopoietic potential thresholds
@@ -52,7 +52,7 @@ The first term represents the kinetic energy associated with spatial gradients o
 > $$
 > \mathcal{L}_C = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^{k*}) - V(C_{mag}) + \Phi(C_{mag}) - \lambda \cdot \mathcal{H}[R]
 > $$
-> where $C^{k*}$ denotes the complex conjugate of $C^k$ and $C_{mag} = \sqrt{g^{ij} C_i C_j^*}$. This extension is necessary for the description of wave-like and phase-dependent recurgent phenomena.
+> where $C^{k*}$ denotes the complex conjugate of $C^k$ and $C_{mag} = \sqrt{g^{ij} C_i C_j^*}$. This extension is required for describing wave-like and phase-dependent recurgent phenomena.
 
 ---
 
@@ -64,7 +64,7 @@ $$
 S = \int_{\mathcal{M}} \mathcal{L} \, dV
 $$
 
-The dynamics of the system are determined by the principle of stationary action, i.e., the physical evolution corresponds to stationary points of $S$ under admissible variations, subject to the imposed constraints.
+The system’s dynamics follow from the principle of stationary action: physical evolution corresponds to stationary points of $S$ under admissible variations, subject to the imposed constraints.
 
 ---
 
@@ -118,7 +118,7 @@ The above formalism constitutes a semantic field theory structurally analogous t
 
 - The curvature term ($\Box$) governs the propagation of recursive structure,
 - The potentials ($V(C)$, $\Phi(C)$) define the landscape of stable and generative attractors,
-- The constraint ($\mathcal{H}$) enforces regulation of recursion.
+- The constraint ($\mathcal{H}$) regulates recursion.
 
 The resulting theory describes the evolution of coherence under the combined influence of gradient flow, potential-driven dynamics, and constraint enforcement.
 
@@ -126,7 +126,7 @@ The resulting theory describes the evolution of coherence under the combined inf
 
 ### **6.5 Coupled Field Dynamics**
 
-Although the Lagrangian and resulting field equations are expressed in terms of the coherence field $C_i$, a complete description requires explicit consideration of the underlying semantic field $\psi_i$ and its evolution.
+Although the Lagrangian and resulting field equations are expressed in terms of the coherence field $C_i$, a complete description also calls for explicit consideration of the underlying semantic field $\psi_i$ and its evolution.
 
 ---
 
@@ -179,13 +179,13 @@ This system may be integrated numerically by updating $\psi_i$ and deriving $C_i
 
 #### **6.5.3 Consistency of the Action Principle**
 
-To ensure consistency, variations in $C_i$ must correspond to admissible variations in $\psi_i$. This is formalized via constrained variation:
+For the variational structure to hold, variations in $C_i$ must correspond to admissible variations in $\psi_i$. This is formalized via constrained variation:
 
 $$
 \delta C_i(p, t) = \int_{\mathcal{M}} \frac{\delta C_i(p, t)}{\delta \psi_j(q, t)} \, \delta \psi_j(q, t) \, dq
 $$
 
-The action principle remains valid when such constraints are incorporated, guaranteeing that the coupled evolution of $C_i$ and $\psi_i$ is consistent with the variational structure of the theory.
+The action principle continues to apply when such constraints are incorporated, so the coupled evolution of $C_i$ and $\psi_i$ remains compatible with the variational structure of the theory.
 
 ---
 

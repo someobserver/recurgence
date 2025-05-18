@@ -19,9 +19,9 @@ Key mathematical structures:
 2. **Depth Field** $D(p, t)$ — encodes the sustainable recursion depth before coherence degrades, modulating the manifold's recursive capacity.
 3. **Recursive Stress-Energy Tensor** $T^{\text{rec}}_{ij}$ — characterizes the deformation of semantic geometry induced by recursive flows.
 
-These entities are coupled via the curvature-mass relation and the Lagrangian formalism, defining a phase space in which recursive structures either stabilize as autopoietic attractors or dissipate through entropic processes. The tensorial hierarchy imposes a fundamental tradeoff between persistent coherence and recursive generativity, as formalized by the uncertainty relation.
+These entities are coupled via the curvature-mass relation and the Lagrangian formalism, defining a phase space in which recursive structures either stabilize as autopoietic attractors or dissipate through entropic processes. The tensorial hierarchy sets up a fundamental tradeoff between persistent coherence and recursive generativity, as formalized by the uncertainty relation.
 
-The section further introduces the decomposition of recursive coupling into intra-domain (self-referential) and inter-domain (hetero-referential) components, enabling rigorous treatment of metaphor, analogy, and cross-modal recursion. The latent recursive channel tensor and domain translation tensors provide the substrate for cross-domain mapping, supporting the emergence of metaphoric and analogical structures as stable, hetero-recursive attractors.
+The section also details how recursive coupling decomposes into intra-domain (self-referential) and inter-domain (hetero-referential) components, allowing for rigorous treatment of metaphor, analogy, and cross-modal recursion. The latent recursive channel tensor and domain translation tensors serve as the substrate for cross-domain mapping, supporting the emergence of metaphoric and analogical structures as stable, hetero-recursive attractors.
 
 ---
 
@@ -35,8 +35,8 @@ $$
 
 Where:
 
-* $\psi_i(p)$ denotes the $i$-th component of the semantic field at point $p$,
-* $C_k(p,t)$ is the $k$-th component of the coherence field at $p$ and time $t$.
+- $\psi_i(p)$ denotes the $i$-th component of the semantic field at point $p$,
+- $C_k(p,t)$ is the $k$-th component of the coherence field at $p$ and time $t$.
 
 The mixed partial derivative encodes the nonlocal, bidirectional influence of recursive processes, capturing the manner in which recursive activity at $q$ modulates the coherence structure at $p$ through the semantic field.
 
@@ -56,8 +56,8 @@ where $\epsilon$ is the minimum coherence signal threshold.
 
 Interpretation:
 
-* Concepts with low $D$ (e.g., elementary arithmetic) exhibit shallow recursive structure.
-* Structures with high $D$ (e.g., persistent personal narratives or worldviews) maintain coherence across multiple recursive layers.
+- Concepts with low $D$ (e.g., elementary arithmetic) exhibit shallow recursive structure.
+- Structures with high $D$ (e.g., persistent personal narratives or worldviews) maintain coherence across multiple recursive layers.
 
 ---
 
@@ -71,9 +71,9 @@ $$
 
 where
 
-* $\rho(p,t) = \frac{1}{\det(g_{ij})}$ is the constraint density, with higher values corresponding to regions of greater local semantic mass,
-* $v_i(p,t) = \frac{d}{dt} \psi_i(p,t)$ is the velocity of recursive change in the $i$-th component of the semantic field,
-* $P_{ij}(p,t)$ is the recursive pressure tensor, defined as
+- $\rho(p,t) = \frac{1}{\det(g_{ij})}$ is the constraint density, with higher values corresponding to regions of greater local semantic mass,
+- $v_i(p,t) = \frac{d}{dt} \psi_i(p,t)$ is the velocity of recursive change in the $i$-th component of the semantic field,
+- $P_{ij}(p,t)$ is the recursive pressure tensor, defined as
 
 $$
 P_{ij} = \gamma(\nabla_i v_j + \nabla_j v_i) + \eta g_{ij} \nabla_k v^k
@@ -81,17 +81,17 @@ $$
 
 with
 
-* $\gamma$ denoting the elasticity of recursive loops,
-* $\eta$ representing resistance to bulk recursive collapse,
-* $\nabla_i$ the covariant derivative with respect to the manifold's geometry.
+- $\gamma$ denoting the elasticity of recursive loops,
+- $\eta$ representing resistance to bulk recursive collapse,
+- $\nabla_i$ the covariant derivative with respect to the manifold's geometry.
 
-This tensor establishes the coupling between recursive dynamics and semantic curvature, in direct analogy to the role of the stress-energy tensor in general relativity.
+This tensor describes the coupling between recursive dynamics and semantic curvature, in direct analogy to the role of the stress-energy tensor in general relativity.
 
 ---
 
 ### **4.4 Hetero-Recursive Coupling and Cross-Domain Mapping**
 
-The recursive coupling tensor $R_{ijk}(p, q, t)$ operates both within and across semantic subdomains, thereby enabling the formalization of metaphor, analogy, and cross-modal recursion.
+The recursive coupling tensor $R_{ijk}(p, q, t)$ operates both within and across semantic subdomains, making it possible to formalize metaphor, analogy, and cross-modal recursion.
 
 #### **4.4.1 Domain Structure in Semantic Space**
 
@@ -103,8 +103,8 @@ $$
 
 where
 
-* $\mathcal{M}_d$ denotes a semantic domain with its own intrinsic metric $g_{ij}^{(d)}$,
-* Domains are connected via interface regions equipped with transition functions.
+- $\mathcal{M}_d$ denotes a semantic domain with its own intrinsic metric $g_{ij}^{(d)}$,
+- Domains are connected via interface regions equipped with transition functions.
 
 Examples of such domains include linguistic, visual, embodied, logical, emotional, and narrative spaces, each characterized by distinct semantic organization.
 
@@ -118,22 +118,22 @@ $$
 
 where
 
-* $R_{ijk}^{\text{self}}(p, q, t) = R_{ijk}(p, q, t) \cdot \delta_{d(p),d(q)}$ corresponds to intra-domain (self-referential) recursion,
-* $R_{ijk}^{\text{hetero}}(p, q, t) = R_{ijk}(p, q, t) \cdot (1 - \delta_{d(p),d(q)})$ corresponds to inter-domain (hetero-referential) recursion,
-* $d(p)$ returns the domain index of $p$,
-* $\delta_{d(p),d(q)}$ is the Kronecker delta.
+- $R_{ijk}^{\text{self}}(p, q, t) = R_{ijk}(p, q, t) \cdot \delta_{d(p),d(q)}$ corresponds to intra-domain (self-referential) recursion,
+- $R_{ijk}^{\text{hetero}}(p, q, t) = R_{ijk}(p, q, t) \cdot (1 - \delta_{d(p),d(q)})$ corresponds to inter-domain (hetero-referential) recursion,
+- $d(p)$ returns the domain index of $p$,
+- $\delta_{d(p),d(q)}$ is the Kronecker delta.
 
-This decomposition distinguishes recursive feedback within a domain from cross-domain recursive mapping.
+This decomposition separates recursive feedback within a domain from cross-domain recursive mapping.
 
 #### **4.4.3 Cross-Domain Mapping Formalism**
 
-Hetero-recursive coupling necessitates explicit mechanisms for mapping between distinct semantic spaces. To this end, a domain translation tensor is introduced:
+Hetero-recursive coupling calls for explicit mechanisms to map between distinct semantic spaces. To address this, a domain translation tensor is introduced:
 
 $$
 T_{ij}^{(d \to d')} : T\mathcal{M}_d \to T\mathcal{M}_{d'}
 $$
 
-which maps tangent spaces between domains, thereby enabling coherence in one domain to influence another, even in the presence of differing organizational principles.
+which maps tangent spaces between domains, allowing coherence in one domain to influence another, even when their organizational principles differ.
 
 The cross-domain recursive coupling is then given by
 
@@ -143,18 +143,18 @@ $$
 
 where
 
-* $\chi_{ijl}(p, q, t)$ is the latent recursive channel tensor encoding potential connectivity,
-* $T_{lk}^{(d(q) \to d(p))}$ translates recursive influence from domain $d(q)$ to domain $d(p)$.
+- $\chi_{ijl}(p, q, t)$ is the latent recursive channel tensor encoding potential connectivity,
+- $T_{lk}^{(d(q) \to d(p))}$ translates recursive influence from domain $d(q)$ to domain $d(p)$.
 
 #### **4.4.4 The Role of $\chi_{ijk}$ in Cross-Domain Mapping**
 
-The latent recursive channel tensor $\chi_{ijk}(p, q, t)$ constitutes the substrate for cross-domain recursion, encoding:
+The latent recursive channel tensor $\chi_{ijk}(p, q, t)$ forms the substrate for cross-domain recursion, encoding:
 
 1. The potential connectivity between semantic regions, irrespective of domain,
 2. The channel capacity for recursive flow between points,
 3. The similarity structure that governs analogical mapping.
 
-Its evolution is governed by
+Its evolution is described by
 
 $$
 \frac{d\chi_{ijk}(p, q, t)}{dt} = \alpha \cdot S_{ij}(p, q) \cdot N_k + \beta \cdot H(p, q, t) \cdot G_{ijk} - \gamma \cdot D_{ijk}(p, q)
@@ -162,13 +162,13 @@ $$
 
 where
 
-* $S_{ij}(p, q)$ is the rank-2 semantic similarity tensor,
-* $N_k$ is a basis vector in the $k$-dimension, promoting $S_{ij}$ to rank-3,
-* $H(p, q, t)$ is the scalar historical co-activation strength,
-* $G_{ijk}$ is a rank-3 geometric structure tensor distributing $H$ across dimensions,
-* $D_{ijk}(p, q)$ is the rank-3 domain incompatibility tensor.
+- $S_{ij}(p, q)$ is the rank-2 semantic similarity tensor,
+- $N_k$ is a basis vector in the $k$-dimension, promoting $S_{ij}$ to rank-3,
+- $H(p, q, t)$ is the scalar historical co-activation strength,
+- $G_{ijk}$ is a rank-3 geometric structure tensor distributing $H$ across dimensions,
+- $D_{ijk}(p, q)$ is the rank-3 domain incompatibility tensor.
 
-The construction of these terms ensures tensor rank consistency and proper contribution to the evolution of $\chi_{ijk}$.
+The way these terms are constructed maintains tensor rank consistency and shapes the evolution of $\chi_{ijk}$ appropriately.
 
 ---
 
@@ -202,7 +202,7 @@ Such feedback circuits stabilize cross-domain mappings and can result in:
 2. Conceptual blending: the emergence of hybrid domains at the interface of recursive loops,
 3. Semantic innovation: the formation of novel conceptual structures from previously unconnected domains.
 
-Through these mechanisms, the tensors $R_{ijk}$ and $\chi_{ijk}$ jointly support the full spectrum of recursive phenomena, from self-reference to metaphor and analogical reasoning, within a unified mathematical framework.
+Through these mechanisms, the tensors $R_{ijk}$ and $\chi_{ijk}$ together support the full spectrum of recursive phenomena, from self-reference to metaphor and analogical reasoning, within a unified mathematical framework.
 
 ---
 

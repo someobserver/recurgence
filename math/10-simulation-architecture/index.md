@@ -10,20 +10,20 @@ permalink: /math/10-simulation-architecture/
 
 ---
 
-## Overview
+### Overview
 
-This section establishes the computational and conceptual architecture for simulating Recurgent Field Theory (RFT) on discrete semantic manifolds. The simulation framework operationalizes the continuous mathematics of RFT, enabling the study of semantic dynamics, attractor evolution, and epistemic health in silico.
+This section articulates the computational and conceptual architecture for simulating Recurgent Field Theory (RFT) on discrete semantic manifolds. The simulation framework translates the continuous mathematics of RFT into a form suitable for in silico exploration of semantic dynamics, attractor evolution, and epistemic health.
 
 Key architectural elements:
 1. **Discretization of Semantic Space** — mapping the continuous manifold $\mathcal{M}$ to a graph $G = (V, E)$, with nodes as semantic states and edges as adjacency or transformation potentials.
 2. **Time-Stepped Recursive Updates** — iterative evolution of coherence, recursive depth, semantic mass, and related fields at each node, governed by local and nonlocal coupling.
 3. **Field and Metric Tracking** — monitoring the evolution of core quantities: $C(p, t)$, $D(p, t)$, $M(p, t)$, $W(p, t)$, $g_{ij}(p, t)$, and others.
-4. **Boundary and Initial Conditions** — specification of seed states, metric structure, and coupling tensors for simulation stability and interpretability.
-5. **Visualization Standards** — consistent rendering of fields, flows, and attractor basins to support interpretability and cross-experiment comparability.
+4. **Boundary and Initial Conditions** — specification of seed states, metric structure, and coupling tensors to support simulation stability and interpretability.
+5. **Visualization Standards** — consistent rendering of fields, flows, and attractor basins to facilitate interpretability and cross-experiment comparability.
 6. **Experimental Use Cases** — protocols for probing coherence propagation, attractor migration, constraint relaxation, recursive perturbation, and wisdom tuning.
 7. **Epistemic Engine** — the simulation as a substrate for artificial sensemaking, agent self-modification, and the emergence of generative recursion.
 
-This architecture provides a principled bridge between the abstract formalism of RFT and concrete computational experiments, supporting both theoretical exploration and practical implementation of semantic dynamics.
+This architecture forms a principled bridge between the abstract formalism of RFT and concrete computational experiments, supporting both theoretical exploration and practical implementation of semantic dynamics.
 
 ---
 
@@ -35,6 +35,8 @@ To render RFT to computational analysis, the simulation architecture must satisf
 2. **Recursive Temporal Evolution**: Implement time-stepped update rules reflecting the field equations of RFT.
 3. **Field and Metric Monitoring**: Track the evolution of all primary and emergent fields, as well as relevant geometric and coupling tensors, across discrete iterations.
 4. **Experimental Accessibility**: Permit controlled perturbation, visualization, and attractor analysis within the simulated manifold.
+
+---
 
 ### **10.2 Discretization of the Semantic Manifold**
 
@@ -64,6 +66,8 @@ The topology of $G$ may be:
 - **Static** (e.g., regular lattice, ring, or fixed network) for baseline analyses,
 - **Dynamical** (e.g., subject to rewiring, node/edge addition or deletion) to model attractor migration, bifurcation, or topological phase transitions.
 
+---
+
 ### **10.3 Discrete Temporal Evolution**
 
 At each discrete time step $t \mapsto t+1$, the state of each node $p \in V$ is updated according to the recursive field dynamics:
@@ -78,9 +82,11 @@ where
 - $q \sim p$ denotes all nodes adjacent to $p$ in $G$,
 - The update incorporates both local field gradients and nonlocal recursive couplings.
 
+---
+
 #### **10.3.1 Specification of Initial and Boundary Conditions**
 
-To ensure well-posedness and interpretability, the following conditions are imposed:
+To maintain well-posedness and interpretability, the following conditions are imposed:
 
 - **Initial Conditions**:
   - Coherence: $C(p, 0) = C_0 \exp\left(-\frac{d(p, p_0)^2}{\sigma^2}\right)$, for a designated seed $p_0$,
@@ -90,6 +96,8 @@ To ensure well-posedness and interpretability, the following conditions are impo
 - **Boundary Conditions**:
   - For finite $G$: **Reflective**—recursive influence at the boundary is reflected with damping factor $\gamma$,
   - For unbounded $G$: **Decay**—$\lim_{d(p, p_0) \to \infty} C(p, t) = 0$.
+
+---
 
 #### **10.3.2 Update Constraints and Conservation Laws**
 
@@ -110,6 +118,8 @@ The simulation thus models:
 - Attractor basin dynamics,
 - Modulation by humility and wisdom fields.
 
+---
+
 ### **10.4 Nodewise Field Inventory**
 
 For each $p \in V$, the following quantities are tracked:
@@ -124,6 +134,8 @@ For each $p \in V$, the following quantities are tracked:
 | Gradient Norm     | $\|\nabla C(p, t)\|$ | Rigidity of local coherence                    |
 | Attractor Pull    | $F_i(p, t)$          | Directional flow toward semantic attractors    |
 | Recursive Stress  | $T_{ij}^{\text{rec}}$| Local recursive stress-energy tensor           |
+
+---
 
 ### **10.5 Update Loop**
 
@@ -159,14 +171,18 @@ The simulation framework is designed to elucidate the emergent phenomena predict
 - **Wisdom–Fertility Interplay:** Investigate the regulatory influence of the wisdom field on autopoietic branching, with particular attention to the modulation of recurgent fertility by foresight.
 - **Stability and Collapse:** Determine the conditions under which semantic structures exhibit resilience or instability, including the onset of runaway dynamics or collapse.
 
+---
+
 ### **10.7 Implementation Considerations**
 
 - Employ **JAX** or **PyTorch** as computational backends to facilitate:
   - Automatic differentiation across recursive tensorial flows,
   - Efficient computation of gradients for fields such as $\nabla C$ and $\nabla R$.
 - For large-scale simulations:
-  - Utilize GPU/TPU acceleration to ensure tractability,
+  - Utilize GPU/TPU acceleration to maintain tractability,
   - Integrate graph-based libraries (e.g., TorchGeometric, DGL) for optimized batch operations on discretized manifolds.
+
+---
 
 ### **10.8 Visualization Protocols and Observables**
 
@@ -184,9 +200,13 @@ To render the high-dimensional dynamics of RFT interpretable, the following obse
 - **Topological Snapshots:**
   - Identification of phase transitions and critical points in the manifold.
 
+---
+
 #### **10.8.1 Visualization Standards**
 
-To ensure consistency and facilitate rigorous interpretation, the following conventions are established:
+To promote consistency and support rigorous interpretation, the following conventions are established:
+
+---
 
 ##### **10.8.1.1 Field-to-Color Mappings**
 
@@ -199,10 +219,12 @@ To ensure consistency and facilitate rigorous interpretation, the following conv
 | Recursive Depth $D(p,t)$ | Cividis (indigo → yellow) | $[0, D_{\text{max}}] \mapsto [0, 1]$ | Depth increases with darkness |
 | Phase Parameter $\Theta(p,t)$ | Turbo (blue → green → yellow → red) | $[0, \Theta_{\text{crit}}] \mapsto [0, 1]$ | Red highlights critical phase regions |
 
-For composite renderings, employ alpha blending:
+For composite renderings, use alpha blending:
 - Primary field: $\alpha = 0.7$
 - Secondary field: $\alpha = 0.4$
 - Contour demarcations: $\alpha = 1.0$
+
+---
 
 ##### **10.8.1.2 Recursive Flow Visualization**
 
@@ -227,6 +249,8 @@ Recursive coupling tensors $R_{ijk}$ are visualized as directed graphs with the 
    - Particle emission rate is governed by the autopoietic potential $\Phi(C)$.
    - Color transitions encode phase changes and criticality.
 
+---
+
 ##### **10.8.1.3 Attractor Basin Visualization**
 
 Semantic attractors are rendered as topological features using:
@@ -248,6 +272,8 @@ Semantic attractors are rendered as topological features using:
    - Direct manipulation (e.g., click-and-drag) enables perturbative analysis of basin resilience.
    - Semantic zooming exposes nested attractor hierarchies.
    - Temporal scrubbing facilitates the study of basin evolution.
+
+---
 
 ##### **10.8.1.4 Reference Implementations**
 
@@ -366,6 +392,8 @@ def visualize_attractor_basins(C, V, g_ij, dim_reduction='umap'):
     return fig
 ```
 
+---
+
 ### **10.9 Canonical Experimental Protocols**
 
 | Experimental Paradigm      | Formal Description                                                                 |
@@ -378,14 +406,14 @@ def visualize_attractor_basins(C, V, g_ij, dim_reduction='umap'):
 
 ### **10.10 The Epistemic Engine: Formal Perspective**
 
-The simulation framework herein constitutes a prototype of an **epistemic engine**—a computational substrate for the recursive stabilization and evolution of coherent symbolic systems. Its principal capacities are as follows:
+The simulation framework described here serves as a prototype **epistemic engine**—a computational substrate for the recursive stabilization and evolution of coherent symbolic systems. Its principal capacities include:
 
-- **Recursive Cognitive Substrate:** Implements iterative field-theoretic updates, supporting the emergence and maintenance of semantic coherence within a discretized manifold.
-- **Artificial Agent Dynamics:** Enables the formal study of agents capable of reflective, structured sensemaking, grounded in the recursive architecture of Recurgent Field Theory.
-- **Cultural and Conceptual Evolution:** Provides a controlled environment for the simulation of collective semantic dynamics, attractor migration, and agent self-modification.
+- **Recursive Cognitive Substrate:** Implements iterative field-theoretic updates, allowing for the emergence and maintenance of semantic coherence within a discretized manifold.
+- **Artificial Agent Dynamics:** Facilitates the formal study of agents capable of reflective, structured sensemaking, grounded in the recursive architecture of Recurgent Field Theory.
+- **Cultural and Conceptual Evolution:** Offers a controlled environment for simulating collective semantic dynamics, attractor migration, and agent self-modification.
 
-In this architecture, the dynamics of meaning are not merely heuristic but are rigorously instantiated as field-theoretic processes. The simulation operationalizes the recurgent formalism, enabling the quantitative analysis of coherence stabilization, semantic curvature, and the genesis of generative recursion—thereby establishing a principled bridge between phenomenological structure and computational realization.
-
-<small>Next: [Synthesis](/math/11-synthesis/)</small>
+Within this architecture, the dynamics of meaning are not merely heuristic but are instantiated as field-theoretic processes. The simulation brings the recurgent formalism into operational form, making possible the quantitative analysis of coherence stabilization, semantic curvature, and the genesis of generative recursion—thus building a principled bridge between phenomenological structure and computational realization.
 
 ---
+
+<small>Next: [Synthesis](/math/11-synthesis/)</small>

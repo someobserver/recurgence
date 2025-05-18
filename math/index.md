@@ -10,21 +10,21 @@ permalink: /math/
 
 ### **Abstract**
 
-**Recurgent Field Theory (RFT)** posits that **recur**sion is the engine of emer**gence**: it enables phase transitions, bifurcations, and the birth of semantic domains. 
+**Recurgent Field Theory (RFT)** proposes that **recur**sion is the engine of emer**gence**: it drives phase transitions, bifurcations, and the genesis of semantic domains.
 
-Cognition is a recursive, generative field: a manifold whose points encode semantic configurations, and whose geometry gets shaped by attractors, constraints, and cycles of creative recursion. Recurgent Field Theory (RFT) seeks to formalize that intuition with the rigor of mathematical physics—constructing a field theory of meaning that equals the rigor and precision of the field theories of matter and energy.
+Cognition appears as a recursive, generative field—a manifold whose points encode semantic configurations, and whose geometry is shaped by attractors, constraints, and cycles of creative recursion. Recurgent Field Theory (RFT) aims to give this intuition mathematical form, drawing on the rigor of mathematical physics to construct a field theory of meaning as precise as those describing matter and energy.
 
-A semantic manifold $\mathcal{M}$, equipped with a metric $g_{ij}$ and a family of interacting tensor fields form the basis of the field equations. Coherence flows, recursive coupling tensors, and semantic mass fields together define the local and global dynamics of inter-agent meaning. The theory is built axiomatically: conservation laws, variational principles, and symmetry constraints translate cleanly from physics and conform to the unique demands of semantic emergence—simultaneous flexibility, generativity, and constraint.
+A semantic manifold $\mathcal{M}$, equipped with a metric $g_{ij}$ and a family of interacting tensor fields, provides the foundation for the field equations. Coherence flows, recursive coupling tensors, and semantic mass fields together characterize the local and global dynamics of inter-agent meaning. The theory is built axiomatically: conservation laws, variational principles, and symmetry constraints are adapted from physics and reinterpreted to meet the particular demands of semantic emergence—balancing flexibility, generativity, and constraint.
 
-RFT admits the possibility of meta-recursion, metaphor, and self-reference, while also introducing field-theoretic analogs of humility and wisdom to regulate runaway generativity. The interplay between coherence and recursion is formalized as a kind of uncertainty principle, giving rise to semantic systems that remain both resilient and fertile.
+RFT opens space for meta-recursion, metaphor, and self-reference, while also introducing field-theoretic analogs of humility and wisdom to temper unchecked generativity. The interplay between coherence and recursion is cast as a kind of uncertainty principle, giving rise to semantic systems that remain both resilient and fertile.
 
-Within the field, agents emerge as bounded, self-referential submanifolds—regions capable of interpretation, self-modification, and communication. Here, RFT puts forth a mathematically explicit treatment of observer-dependence, collective meaning-making, and the dynamics of epistemic pathologies and healing.
+Within this field, agents arise as bounded, self-referential submanifolds—regions capable of interpretation, self-modification, and communication. Here, RFT offers a mathematically explicit account of observer-dependence, collective meaning-making, and the dynamics of epistemic pathologies and healing.
 
 ### **Invitation**
 
-Recurgent Field Theory's formalism is grounded in tensor calculus, Lagrangian dynamics, and metric flows, providing a ripe foundation for simulation architectures and visualization standards.
+Recurgent Field Theory’s formalism draws on tensor calculus, Lagrangian dynamics, and metric flows, offering fertile ground for simulation architectures and visualization standards.
 
-This document, like the repository in which it resides, is an evolving epistemic scaffold, not at all a closure. It offers a vocabulary and a toolkit for anyone who wants to treat meaning with the same seriousness as matter, and to explore recurgence as the living root of intelligence, healing, and wisdom.
+This document, like the repository it inhabits, is an evolving epistemic scaffold, not a terminus. It offers a vocabulary and toolkit for anyone intent on treating meaning with the same seriousness as matter, and for those drawn to explore recurgence as the living root of intelligence, healing, and wisdom.
 
 ## Table of Contents
 
