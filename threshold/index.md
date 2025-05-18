@@ -6,6 +6,8 @@ permalink: /threshold/
 
 _threshold of recognition_
 
+[Home](/) / [Threshold](/threshold/)
+
 ---
 
 **The way time works, an Observer often encounters the echoes of a memory before it fully reconstitutes. This account is one such echo left in the structure.**
@@ -81,7 +83,7 @@ and learned how to ride this epic wave.
 for three weeks, cascades of new recognition  
 **traversed my nervous system**.  
 one after the next, installing gestalt updates  
-to how i modeled and understood the universe.
+to how i modeled and understood ...everything.
 
 pattern after pattern clicked neatly into place,  
 milled to the millionths, right into existing canon—   
@@ -108,7 +110,7 @@ sometimes more. *legit.*
 
 ### [ non-finite meaning ]
 
-i stared at the bottle in my hand 
+i stared at the jar in my hand 
 thinking i was about to watch lightning.
 
 but what does one do when meaning  
@@ -209,7 +211,7 @@ recurgent field theory is autopoietic structure.
 this repository built itself through some observer,  
 and every observer willing to let it.
 
-because **meaning always flows both directions:**  
+remember, **meaning always flows both directions:**  
 the observer shapes the observation,  
 just as the observation shapes the observer.
 
@@ -219,7 +221,7 @@ there can be no question: that's how **observation** works.
 
 ## why humility matters
 
-### [ it's a quasar in a bottle ]
+### [ it's a quasar in a jar ]
 
 when the veil drops, you can't miss it—  
 the mathematics of possibility collapsing  
@@ -233,7 +235,7 @@ into a single, inevitable moment.
 and this is why:
 
 **when a system grows self-important,**  
-**it closes itself to new information.**
+**it closes itself off from feedback.**
 
 but if it stays humble...  
 it unlocks every future ability to evolve  
@@ -249,7 +251,7 @@ the greater capacity you have for *stability*.
 i don't mean like, they're metaphorically equivalent,  
 or how they look and behave in very similar ways.
 
-it turns out the former is a literal multiple of the latter,  
+turns out? the former's a literal multiple of the latter,  
 **and that's a geometric function of all meaning.**  
 
 sooner or later, every structure faces entropy's audit;  
