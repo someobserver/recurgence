@@ -75,3 +75,5 @@ In the uncertainty relation $\Delta C \cdot \Delta R \geq \hbar_s$, the dispersi
 In this way, the uncertainty principle attains a precise mathematical interpretation directly applicable to the tensor fields within the framework.
 
 ---
+
+<small>Next: [Field Index and Formal Structure](/math/02-field-index/)</small>
