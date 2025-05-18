@@ -11,7 +11,7 @@ permalink: /math/09-recurgent-field-equations/attractors-and-transitions/
 
 ---
 
-## Overview
+### Overview
 
 This section develops the global attractor landscape and bifurcation geometry of the semantic manifold within Recurgent Field Theory (RFT). Attractor migration, collapse, and the emergence of new semantic dimensions are formalized as consequences of recursive mass, autopoietic ignition, and wisdom density. RFT introduces order parameters, phase diagrams, and criticality measures to characterize transitions between conservative, transitional, and generative recursive regimes.
 
