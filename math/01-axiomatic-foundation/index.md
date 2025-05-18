@@ -96,7 +96,7 @@ In the uncertainty relation $\Delta C \cdot \Delta R \geq \hbar_s$, the dispersi
    $$I(C;R) \leq H(C) + H(R) - \log_2(1/\hbar_s)$$
    where $H(X)$ represents the entropy of field $X$ and $I(C;R)$ is the mutual information between fields.
 
-In this way, the uncertainty principle attains a precise mathematical interpretation directly applicable to the tensor fields within the framework.
+In this way, the uncertainty principle attains a precise mathematical interpretation directly applicable to the tensor fields within the Recurgent Field Theory.
 
 ---
 

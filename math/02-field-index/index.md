@@ -334,7 +334,7 @@ In simulation contexts, both fields are typically tracked simultaneously, with $
 
 #### **2.3.9 Vector Fields and Derived Scalar Measures**
 
-To maintain consistent tensor properties throughout the framework, care must be taken when using vector fields in contexts requiring scalar values:
+To maintain consistent tensor properties throughout RFT, care must be taken when using vector fields in contexts requiring scalar values:
 
 **Coherence Field Scalar Measures**:  
 The coherence field $C_i(p,t)$ is fundamentally a vector field (rank-1 tensor), but several functions in the framework require scalar measures derived from it:
@@ -361,7 +361,7 @@ $$\frac{\partial \Phi(C_{mag})}{\partial C_i} = \frac{\partial \Phi}{\partial C_
 
 This ensures that gradients of scalar potentials correctly influence vector field dynamics in a coordination-independent manner.
 
-All equations in the framework should be interpreted with this convention unless explicitly stated otherwise.
+All equations in RFT should be interpreted with this convention unless explicitly stated otherwise.
 
 ---
 
