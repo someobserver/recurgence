@@ -10,7 +10,7 @@ permalink: /math/07-autopoietic-function/
 
 ---
 
-## Overview
+### Overview
 
 This section formalizes the **autopoietic function** $\Phi(C)$ as the generative engine of Recurgent Field Theory (RFT), governing phase transitions in the semantic manifold. The autopoietic potential defines the threshold at which coherence becomes self-amplifying, initiating qualitative shifts in recursive dynamics and enabling the emergence of new semantic structures.
 

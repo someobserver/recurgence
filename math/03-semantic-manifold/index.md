@@ -10,7 +10,7 @@ permalink: /math/03-semantic-manifold/
 
 ---
 
-## Overview
+### Overview
 
 This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory (RFT). Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ determines the configuration space for semantic states and governs their evolution under recursive processes.
 

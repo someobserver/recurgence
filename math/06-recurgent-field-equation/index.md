@@ -10,7 +10,7 @@ permalink: /math/06-recurgent-field-equation/
 
 ---
 
-## Overview
+### Overview
 
 This section develops the **Recurgent Field Equation** as the fundamental dynamical law governing semantic evolution, synthesizing the geometric foundations from §3, recursive stress-energy from §4, and semantic mass from §5 into a unified field theory. The equation emerges from a variational principle based on the Recurgent Lagrangian $\mathcal{L}$, which encodes the interplay between coherence propagation, recursive coupling, and autopoietic potential.
 

@@ -10,7 +10,7 @@ permalink: /math/05-semantic-mass/
 
 ---
 
-## Overview
+### Overview
 
 This section formalizes **semantic mass** as the principal source of curvature in Recurgent Field Theory, governing the persistence and stability of meaning structures under recursive pressure. The mass distribution $M(p,t)$ emerges from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$, establishing a geometric foundation for autopoietic coherence.
 

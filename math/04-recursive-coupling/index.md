@@ -10,7 +10,7 @@ permalink: /math/04-recursive-coupling/
 
 ---
 
-## Overview
+### Overview
 
 This section formalizes the **Recursive Coupling** architecture within Recurgent Field Theory (RFT), introducing the principal tensorial and scalar fields that mediate self-reference, feedback, and cross-domain semantic propagation. The recursive coupling tensor $R_{ijk}(p, q, t)$, the depth field $D(p, t)$, and the recursive stress-energy tensor $T^{\text{rec}}_{ij}$ are defined as the core agents of recursive dynamics on the semantic manifold $\mathcal{M}$.
 
