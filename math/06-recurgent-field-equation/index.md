@@ -34,15 +34,15 @@ The dynamical law of RFT is now fully specified: semantic fields evolve by extre
 The Lagrangian density $\mathcal{L}$ on the semantic manifold $\mathcal{M}$ is defined to encode the dynamics of the coherence field, recurgent generativity, and constraint enforcement:
 
 $$
-\mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C_{mag}) + \Phi(C_{mag}) - \lambda \cdot \mathcal{H}[R]
+\mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C_{\mathrm{mag}}) + \Phi(C_{\mathrm{mag}}) - \lambda \cdot \mathcal{H}[R]
 $$
 
 where:
 
 - $C_k(p, t)$: Coherence vector field at point $p$ and time $t$,
-- $C_{mag}(p, t) = \sqrt{g^{ij}(p, t) C_i(p, t) C_j(p, t)}$: Scalar coherence magnitude,
-- $V(C_{mag})$: Attractor potential stabilizing the coherence field,
-- $\Phi(C_{mag})$: Autopoietic recurgent potential,
+- $C_{\mathrm{mag}}(p, t) = \sqrt{g^{ij}(p, t) C_i(p, t) C_j(p, t)}$: Scalar coherence magnitude,
+- $V(C_{\mathrm{mag}})$: Attractor potential stabilizing the coherence field,
+- $\Phi(C_{\mathrm{mag}})$: Autopoietic recurgent potential,
 - $\mathcal{H}[R]$: Humility constraint functional, penalizing excessive recurgence,
 - $\lambda$: Humility weight parameter.
 
@@ -50,9 +50,9 @@ The first term represents the kinetic energy associated with spatial gradients o
 
 > **Remark on Real and Complex Coherence Fields:** The Lagrangian above is formulated for a real coherence field $C_i$. For systems exhibiting phase dynamics (e.g., solitonic solutions, see Section 7.10.1), a complexified Lagrangian is employed:
 > $$
-> \mathcal{L}_C = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^{k*}) - V(C_{mag}) + \Phi(C_{mag}) - \lambda \cdot \mathcal{H}[R]
+> \mathcal{L}_C = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^{k*}) - V(C_{\mathrm{mag}}) + \Phi(C_{\mathrm{mag}}) - \lambda \cdot \mathcal{H}[R]
 > $$
-> where $C^{k*}$ denotes the complex conjugate of $C^k$ and $C_{mag} = \sqrt{g^{ij} C_i C_j^*}$. This extension is required for describing wave-like and phase-dependent recurgent phenomena.
+> where $C^{k*}$ denotes the complex conjugate of $C^k$ and $C_{\mathrm{mag}} = \sqrt{g^{ij} C_i C_j^*}$. This extension is required for describing wave-like and phase-dependent recurgent phenomena.
 
 ---
 
@@ -79,7 +79,7 @@ $$
 which, for the Lagrangian above, takes the explicit form
 
 $$
-\Box C^i + \frac{\partial V(C_{mag})}{\partial C_i} - \frac{\partial \Phi(C_{mag})}{\partial C_i} + \lambda \cdot \frac{\partial \mathcal{H}[R]}{\partial C_i} = 0
+\Box C^i + \frac{\partial V(C_{\mathrm{mag}})}{\partial C_i} - \frac{\partial \Phi(C_{\mathrm{mag}})}{\partial C_i} + \lambda \cdot \frac{\partial \mathcal{H}[R]}{\partial C_i} = 0
 $$
 
 where
@@ -89,11 +89,11 @@ where
 The derivatives of the scalar potentials with respect to the vector field components are computed via the chain rule:
 
 $$
-\frac{\partial V(C_{mag})}{\partial C_i} = \frac{dV}{dC_{mag}} \cdot \frac{\partial C_{mag}}{\partial C_i} = \frac{dV}{dC_{mag}} \cdot \frac{g^{ij} C_j}{C_{mag}}
+\frac{\partial V(C_{\mathrm{mag}})}{\partial C_i} = \frac{dV}{dC_{\mathrm{mag}}} \cdot \frac{\partial C_{\mathrm{mag}}}{\partial C_i} = \frac{dV}{dC_{\mathrm{mag}}} \cdot \frac{g^{ij} C_j}{C_{\mathrm{mag}}}
 $$
 
 $$
-\frac{\partial \Phi(C_{mag})}{\partial C_i} = \frac{d\Phi}{dC_{mag}} \cdot \frac{\partial C_{mag}}{\partial C_i} = \frac{d\Phi}{dC_{mag}} \cdot \frac{g^{ij} C_j}{C_{mag}}
+\frac{\partial \Phi(C_{\mathrm{mag}})}{\partial C_i} = \frac{d\Phi}{dC_{\mathrm{mag}}} \cdot \frac{\partial C_{\mathrm{mag}}}{\partial C_i} = \frac{d\Phi}{dC_{\mathrm{mag}}} \cdot \frac{g^{ij} C_j}{C_{\mathrm{mag}}}
 $$
 
 The humility constraint term involves a more intricate dependence, as $R$ is a functional of $C$ via the underlying semantic field $\psi$:
@@ -106,7 +106,7 @@ The final term thus encodes the indirect coupling between $C_i$ and $R_{jkl}$, m
 
 Given the evolution equation for $R$,
 $$
-\frac{dR_{ijk}}{dt} = \Phi(C_{mag}) \cdot \chi_{ijk},
+\frac{dR_{ijk}}{dt} = \Phi(C_{\mathrm{mag}}) \cdot \chi_{ijk},
 $$
 the humility constraint $\mathcal{H}[R]$ introduces a nontrivial feedback mechanism, whereby the present state of coherence modulates the future structure of recursive coupling.
 
@@ -141,12 +141,12 @@ $$
 where the semantic velocity field $v_i(p, t)$ is given by
 
 $$
-v_i(p, t) = \alpha \cdot \nabla_i C_{mag}(p, t) + \beta \cdot F_i(p, t) + \gamma \cdot \mathcal{R}_i[\psi](p, t)
+v_i(p, t) = \alpha \cdot \nabla_i C_{\mathrm{mag}}(p, t) + \beta \cdot F_i(p, t) + \gamma \cdot \mathcal{R}_i[\psi](p, t)
 $$
 
 with
 
-- $\alpha \cdot \nabla_i C_{mag}(p, t)$: Gradient-driven flow toward regions of higher coherence,
+- $\alpha \cdot \nabla_i C_{\mathrm{mag}}(p, t)$: Gradient-driven flow toward regions of higher coherence,
 - $\beta \cdot F_i(p, t)$: Recursive force arising from the surrounding semantic mass,
 - $\gamma \cdot \mathcal{R}_i[\psi](p, t)$: Direct recursive feedback.
 

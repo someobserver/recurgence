@@ -36,16 +36,16 @@ A critical transition in the system occurs when the coherence magnitude surpasse
 The autopoietic potential is defined as a scalar field over the semantic manifold $\mathcal{M}$:
 
 $$
-\Phi(C_{mag}(p,t)) =
+\Phi(C_{\mathrm{mag}}(p,t)) =
 \begin{cases}
-\alpha \cdot (C_{mag}(p,t) - C_{\text{threshold}})^{\beta} & \text{if } C_{mag}(p,t) \geq C_{\text{threshold}} \\
+\alpha \cdot (C_{\mathrm{mag}}(p,t) - C_{\text{threshold}})^{\beta} & \text{if } C_{\mathrm{mag}}(p,t) \geq C_{\text{threshold}} \\
 0 & \text{otherwise}
 \end{cases}
 $$
 
 where
 
-* $C_{mag}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}$ is the scalar coherence magnitude.
+* $C_{\mathrm{mag}}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}$ is the scalar coherence magnitude.
 
 All scalar functions of vector or tensor fields in this framework (including $V(C)$, $\Phi(C)$, etc.) are defined on scalar magnitudes derived from these fields, which maintains dimensional consistency throughout the theory.
 
@@ -53,8 +53,8 @@ All scalar functions of vector or tensor fields in this framework (including $V(
 
 ### **7.3 Geometric and Physical Interpretation**
 
-* For $C_{mag}(p,t) < C_{\text{threshold}}$, coherence requires external input to persist (maintenance regime).
-* For $C_{mag}(p,t) \geq C_{\text{threshold}}$, coherence generates energy for further recursive structuring (generative regime).
+* For $C_{\mathrm{mag}}(p,t) < C_{\text{threshold}}$, coherence requires external input to persist (maintenance regime).
+* For $C_{\mathrm{mag}}(p,t) \geq C_{\text{threshold}}$, coherence generates energy for further recursive structuring (generative regime).
 
 This formalism is structurally analogous to phenomena such as:
 
@@ -273,13 +273,13 @@ With this construction, the autopoietic potential directly contributes to the fi
 For certain semantic phenomena, a complex field representation is required. The complex extension of the Lagrangian is:
 
 $$
-\mathcal{L}_C = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^{k*}) - V(C_{mag}) + \Phi(C_{mag}) - \lambda \cdot \mathcal{H}[R]
+\mathcal{L}_C = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^{k*}) - V(C_{\mathrm{mag}}) + \Phi(C_{\mathrm{mag}}) - \lambda \cdot \mathcal{H}[R]
 $$
 
 where
 
 * $C^{k*}$ is the complex conjugate of $C^k$,
-* $C_{mag} = \sqrt{g^{ij}C_i C_j^*}$ is the complex magnitude.
+* $C_{\mathrm{mag}} = \sqrt{g^{ij}C_i C_j^*}$ is the complex magnitude.
 
 This extension admits soliton solutions of the form:
 
@@ -298,7 +298,7 @@ where
 Soliton solutions represent stable, localized coherence packets that propagate without dispersion. The condition for soliton formation is:
 
 $$
-\Phi(C_{mag}) \approx -\frac{1}{2}g^{ij}(\nabla_i C_k)(\nabla_j C^{k*}) \quad \text{(at critical amplitude)}
+\Phi(C_{\mathrm{mag}}) \approx -\frac{1}{2}g^{ij}(\nabla_i C_k)(\nabla_j C^{k*}) \quad \text{(at critical amplitude)}
 $$
 
 Solitons offer a mechanism for the stable propagation of semantic patterns across contexts, preserving structural integrity.

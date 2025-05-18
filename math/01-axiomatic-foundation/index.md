@@ -88,7 +88,7 @@ The flow of time in recurgent systems displays a fundamental asymmetry: causalit
 In the uncertainty relation $\Delta C \cdot \Delta R \geq \hbar_s$, the dispersion measure $\Delta X$ for a field $X$ can be operationalized in several ways: 
 
 1. For vector field $C_i$ and tensor $R_{ijk}$, $\Delta X$ can be defined as the standard deviation of their respective scalar magnitudes: 
-   $$\Delta C = \sigma(C_{mag})$$
+   $$\Delta C = \sigma(C_{\mathrm{mag}})$$
    $$\Delta R = \sigma(R_{mag})$$ 
    where $R_{mag} = \sqrt{R_{ijk}R^{ijk}}$
 

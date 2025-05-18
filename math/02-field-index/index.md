@@ -83,7 +83,7 @@ $$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
 $$\frac{dW}{dt} = \alpha C \cdot \frac{d(\nabla_f R)}{dt} + \beta \nabla_f R \cdot \frac{dC}{dt} + \gamma C \cdot \nabla_f R \cdot \frac{dP}{dt}$$
 
 Where scalar measures are used for consistency:
-* $C$ refers to the scalar magnitude $C_{mag} = \sqrt{g^{ij}C_i C_j}$
+* $C$ refers to the scalar magnitude $C_{\mathrm{mag}} = \sqrt{g^{ij}C_i C_j}$
 * $\nabla_f R$ refers to the scalar magnitude of the forecast gradient
 * $P$ refers to the scalar magnitude of the pressure tensor $P_{mag} = \sqrt{g^{ij}g^{kl}P_{ik}P_{jl}}$
 
@@ -339,7 +339,7 @@ To maintain consistent tensor properties throughout RFT, care must be taken when
 **Coherence Field Scalar Measures**:  
 The coherence field $C_i(p,t)$ is fundamentally a vector field (rank-1 tensor), but several functions in the framework require scalar measures derived from it:
 
-$$C_{mag}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}$$
+$$C_{\mathrm{mag}}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}$$
 
 This scalar magnitude measure quantifies the total coherence strength independent of direction. Additionally, a normalized coherence projection may be defined:
 
@@ -350,14 +350,14 @@ Where $v^i(p,t)$ is a local reference direction (often the semantic velocity fie
 **Usage in Scalar Functions and Thresholds**:  
 All potential functions and thresholds use these scalar measures rather than the vector field directly:
 
-- Attractor potential: $V(C) := V(C_{mag})$
-- Autopoietic potential: $\Phi(C) := \Phi(C_{mag})$
-- Thresholds: $C_{mag} > C_{threshold}$
+- Attractor potential: $V(C) := V(C_{\mathrm{mag}})$
+- Autopoietic potential: $\Phi(C) := \Phi(C_{\mathrm{mag}})$
+- Thresholds: $C_{\mathrm{mag}} > C_{threshold}$
 
 **Scalar-to-Vector Influences**:  
 When scalar functions influence vector dynamics, the effect is distributed using tensor promotion mechanisms:
 
-$$\frac{\partial \Phi(C_{mag})}{\partial C_i} = \frac{\partial \Phi}{\partial C_{mag}} \cdot \frac{\partial C_{mag}}{\partial C_i} = \frac{\partial \Phi}{\partial C_{mag}} \cdot \frac{g^{ij}C_j}{C_{mag}}$$
+$$\frac{\partial \Phi(C_{\mathrm{mag}})}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{\partial C_{\mathrm{mag}}}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{g^{ij}C_j}{C_{\mathrm{mag}}}$$
 
 This allows gradients of scalar potentials to shape vector field dynamics in a way that does not depend on the choice of coordinates.
 
@@ -377,12 +377,12 @@ $$R_{ijk}(p, q, t) = \frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi
 provides a *measurement interpretation* or *operational definition* of $R_{ijk}$—that is, how recursive coupling can be detected and measured through its effects on the coherence field.
 
 2. **Independent Dynamical Field**: For the purposes of time evolution, $R_{ijk}$ is treated as an independent field governed by:
-$$\frac{dR_{ijk}(p,q,t)}{dt} = \Phi(C_{mag}(p,t)) \cdot \chi_{ijk}(p,q,t)$$
+$$\frac{dR_{ijk}(p,q,t)}{dt} = \Phi(C_{\mathrm{mag}}(p,t)) \cdot \chi_{ijk}(p,q,t)$$
 
 **Resolution of Apparent Contradiction**:  
 This dual perspective is reconciled by imposing a *consistency requirement*:
 
-$$\frac{d}{dt}\left(\frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{mag}(p,t)) \cdot \chi_{ijk}(p,q,t)$$
+$$\frac{d}{dt}\left(\frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{\mathrm{mag}}(p,t)) \cdot \chi_{ijk}(p,q,t)$$
 
 The dynamics of $C_k$ and $\psi_i$ must satisfy this constraint. In practice, the evolution of $\psi_i$ includes terms that maintain this relationship. Consistency is achieved through the coupled field system, rather than by treating $R_{ijk}$ as strictly derived.
 

@@ -32,12 +32,12 @@ The recursive coupling tensor $R_{ijk}(p, q, t)$ exhibits a dual mathematical ch
    $$
 2. **Dynamical Evolution:** As a field evolving according to
    $$
-   \frac{dR_{ijk}(p, q, t)}{dt} = \Phi(C_{mag}(p, t)) \cdot \chi_{ijk}(p, q, t)
+   \frac{dR_{ijk}(p, q, t)}{dt} = \Phi(C_{\mathrm{mag}}(p, t)) \cdot \chi_{ijk}(p, q, t)
    $$
 
 For the theory to remain coherent, these two perspectives must be brought into alignment. The compatibility condition reads:
 $$
-\frac{d}{dt}\left(\frac{\partial^2 C_k(p, t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{mag}(p, t)) \cdot \chi_{ijk}(p, q, t)
+\frac{d}{dt}\left(\frac{\partial^2 C_k(p, t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{\mathrm{mag}}(p, t)) \cdot \chi_{ijk}(p, q, t)
 $$
 
 This requirement places nontrivial constraints on the dynamics of the underlying fields $\psi_i$. In particular, it may call for additional terms in the evolution equations for $\psi_i$, and may depend on a separation of timescales between rapid field adjustments and slower structural evolution. The precise analytic mechanism by which this compatibility is realized remains an open subject of investigation.
