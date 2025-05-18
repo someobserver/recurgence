@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "§01 - Axiomatic Foundation"
+title: "Axiomatic Foundation"
 section_number: 1
 parent: Mathematics
 permalink: /math/01-axiomatic-foundation/
