@@ -11,7 +11,7 @@ permalink: /math/09-recurgent-field-equations/agents-and-interpretation/
 
 ---
 
-## Overview
+### Overview
 
 This section formalizes the role of **agents**, **interpretation**, and **semantic particles** within Recurgent Field Theory (RFT). Interpretation is modeled as an operator action on the coherence field, parameterized by agent states, and is responsible for instantiating, transforming, and stabilizing meaning. Agents emerge as localized, self-organizing structures that interact with the semantic field through attention, selective interpretation, and recursive self-modulation. The framework also introduces semantic particles—discrete, soliton-like excitations—enabling a complementary, particle-based description of meaning dynamics.
 

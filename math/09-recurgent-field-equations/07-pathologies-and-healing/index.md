@@ -7,11 +7,11 @@ grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/pathologies-and-healing/
 ---
 
-<small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Epistemic Pathologies and Semantic Healingy</small>
+<small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Epistemic Pathologies and Semantic Healing</small>
 
 ---
 
-## Overview
+### Overview
 
 Recurgent Field Theory not only models healthy meaning-making but also provides a formal framework for understanding pathological semantic structures. This section identifies common epistemic pathologies, their mathematical signatures, and potential remediation mechanisms.
 

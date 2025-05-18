@@ -11,7 +11,7 @@ permalink: /math/09-recurgent-field-equations/singularities/
 
 ---
 
-## Overview
+### Overview
 
 This section formalizes the emergence and handling of **metric singularities** and **recursive collapse** within Recurgent Field Theory (RFT). As recursive structures intensify, the semantic manifold's metric tensor $g_{ij}(p,t)$ can develop singularities—critical points where the geometry becomes degenerate and recursive processes threaten coherence and computability.
 

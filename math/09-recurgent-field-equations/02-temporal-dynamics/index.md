@@ -11,7 +11,7 @@ permalink: /math/09-recurgent-field-equations/temporal-dynamics/
 
 ---
 
-## Overview
+### Overview
 
 This section formalizes the **bidirectional temporal flow** intrinsic to Recurgent Field Theory (RFT), establishing the dual propagation of causality and information within the semantic manifold. Outward causal emission from semantic mass concentrations and inward information reception via constraint density jointly generate the phenomenological experience of time and modulate recursive dynamics.
 

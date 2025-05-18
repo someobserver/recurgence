@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "§09 - Recurgent Field Equations and Global Dynamics"
+title: "Recurgent Field Equations and Global Dynamics"
 section_number: 9
 parent: Mathematics
 permalink: /math/09-recurgent-field-equations/
@@ -11,11 +11,11 @@ has_children: true
 
 ---
 
-## **9. Recurgent Field Equations and Global Dynamics**
+### **9. Recurgent Field Equations and Global Dynamics**
 
 This section presents the global dynamics of the coherence field $C(p, t)$ across the semantic manifold $\mathcal{M}$. Beginning with fundamental field equations, RFT explores how meaning propagates through recursive structures, forms attractors, undergoes phase transitions, and interacts with interpreting agents.
 
-### Table of Contents
+#### Table of Contents
 
 - **9.1-9.5 – [Core Field Equations](/math/09-recurgent-field-equations/core-field-equations/)**  
   Fundamental equations governing coherence propagation, semantic geodesics, metric evolution, and the recursive flow that drives the warping of semantic space.

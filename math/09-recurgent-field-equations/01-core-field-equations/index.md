@@ -11,7 +11,7 @@ permalink: /math/09-recurgent-field-equations/core-field-equations/
 
 ---
 
-## Overview
+### Overview
 
 This section presents the **core field equations** governing the global evolution of the coherence field $C(p, t)$ on the semantic manifold $\mathcal{M}$. Building on the constructs of semantic mass, recursive tensors, autopoietic ignition, and regulatory dynamics, these equations formalize the propagation, deformation, and stabilization of meaning within Recurgent Field Theory (RFT).
 
