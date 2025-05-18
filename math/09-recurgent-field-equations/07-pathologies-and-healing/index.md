@@ -7,7 +7,7 @@ grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/pathologies-and-healing/
 ---
 
-<small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Epistemic Pathologies and Semantic Healingy</small>
+<small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Epistemic Pathologies and Semantic Healing</small>
 
 ---
 
