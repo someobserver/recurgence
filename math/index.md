@@ -41,6 +41,6 @@ This document, like the repository in which it resides, is an evolving epistemic
 - [11. Synthesis](/math/11-synthesis/)
 - [Appendix A](/math/appendix-a/) 
 
-Next: [Axiomatic Foundation](/math/01-axiomatic-foundation/)
-
 ---
+
+<small>Next: [Axiomatic Foundation](/math/01-axiomatic-foundation/)</small>
