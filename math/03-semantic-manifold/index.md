@@ -12,13 +12,16 @@ permalink: /math/03-semantic-manifold/
 
 ## Overview
 
-Recurgent Field Theory formalizes meaning as a differentiable manifold $\mathcal{M}$ endowed with a dynamic metric tensor $g_{ij}(p, t)$. The metric encodes the local and global constraint structure, determining the geometry of semantic configurations and their evolution under recursive processes.
+This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory (RFT). Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ determines the configuration space for semantic states and governs their evolution under recursive processes.
 
-Principal regimes:
+Key mathematical structures:
+1. **Metric Tensor** $g_{ij}(p, t)$ — defines semantic distances and constraint geometry.
+2. **Constraint Density** $\rho(p, t)$ — quantifies the rigidity or plasticity of semantic regions.
+3. **Coherence Field** $C_i(p, t)$ — represents local alignment and self-consistency.
+4. **Recursive Depth** $D(p, t)$ and **Attractor Stability** $A(p, t)$ — modulate the manifold's structure and resilience.
+5. **Semantic Mass** $M(p, t)$ — integrates depth, density, and stability to curve the manifold and generate attractor basins.
 
-- **High constraint** ($\rho \gg 1$): $g_{ij}$ is nearly diagonal, yielding sharply defined geodesics in semantic space (e.g., legal code).
-- **Low constraint** ($\rho \ll 1$): $g_{ij}$ is nearly isotropic, permitting fluid semantic transitions (e.g., poetry).
-- **Recursive deformation**: The metric evolves according to $\partial_t g_{ij} = -2R_{ij} + F_{ij}(R, D, A)$, where curvature and recursive feedback jointly modulate the geometry.
+The metric evolves according to a flow equation that couples intrinsic curvature with recursive feedback, enabling both stable and fluid semantic regimes. High constraint regions yield sharply defined geodesics and semantic rigidity; low constraint regions permit flexible, innovative transitions. The interplay of these fields establishes the geometric and dynamical context for recursive coupling and semantic evolution developed in subsequent sections.
 
 ---
 
