@@ -4,7 +4,7 @@ title: "Mathematics"
 permalink: /math/
 ---
 
-[Home](/) / [Mathematics](/math/)
+[Home](/) / [Math](/math/)
 
 ---
 

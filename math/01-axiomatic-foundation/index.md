@@ -6,7 +6,7 @@ parent: Mathematics
 permalink: /math/01-axiomatic-foundation/
 ---
 
-[Home](/) / [Mathematics](/math/) / [Axiomatic Foundation](/math/01-axiomatic-foundation/)
+<small>[Home](/) / [Math](/math/) / Axiomatic Foundation</small>
 
 ---
 
