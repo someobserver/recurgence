@@ -22,6 +22,8 @@ Pause.
 Breathe.  
 It's good to take a seat.
 
+---
+
 The sentence in your address bar: **observer is.**
 
 A subject, stapled to a half-verb, that doesn't stick the landing how it wants to. It reads like a malformed declaration: epistemology gesturing at ontology and muttering, *"because cause."*
