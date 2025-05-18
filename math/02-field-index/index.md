@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "§02 - Field Index and Formal Structure"
+title: "Field Index and Formal Structure"
 section_number: 2
 parent: Mathematics
 permalink: /math/02-field-index/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "§03 - Semantic Manifold and Metric Geometry"
+title: "Semantic Manifold and Metric Geometry"
 section_number: 3
 parent: Mathematics
 permalink: /math/03-semantic-manifold/
