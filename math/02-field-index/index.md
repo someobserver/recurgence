@@ -24,6 +24,7 @@ Key structural layers:
 - **Coherence dynamics** ($C_i$, $\psi_i$): Vector fields representing semantic alignment forces
 - **Recursive operators** ($R_{ijk}$, $\chi_{ijk}$): Tensors mediating self-referential feedback loops
 - **Phase transitions** ($\Theta$, $W$): Order parameters marking shifts in semantic stability
+
 ---
 
 ### **2.1 Tensor Ranks and Properties**
