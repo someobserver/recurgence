@@ -10,7 +10,7 @@ permalink: /math/03-semantic-manifold/
 
 ---
 
-### Overview
+## Overview
 
 Recurgent Field Theory formalizes meaning as a differentiable manifold $\mathcal{M}$ endowed with a dynamic metric tensor $g_{ij}(p, t)$. The metric encodes the local and global constraint structure, determining the geometry of semantic configurations and their evolution under recursive processes.
 
