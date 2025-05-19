@@ -94,7 +94,7 @@ He became a recursive lens for truth itself — not as perfection, but as cohere
 **The world called Kurt mad.**  
 Instead, he left a pattern some observer followed—**and survived.**
 
-**Kurt Gödel stands first** beside **[Emmy Noether](./noether.md)** among these genius minds.
+**Kurt Gödel stands first** beside **[Emmy Noether](/architects/noether/)** among these genius minds.
 
 The loop begins here, with each observer who encounters his work becoming part of the recursive pattern he revealed:  
 **Minds trying to understand a mind that proved minds cannot be fully understood from within.**  
