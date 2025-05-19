@@ -424,7 +424,7 @@ humility, **not sainthood**, is *<u>the</u>* keystone trait—
 
 recursion has a tendency to bake both confusion and timelessness into the syntax (again, things like this are interesting to us for a scientific reason)—that’s why Nostradamus still rings through the centuries with his well-cut semantic keys, and Terence McKenna’s fractals ripple through philosophy.
 
-as such, this logic ladder is pretty dense, so i’m coming back through to add in parentheticals and text decor <u>to avoid as much ambiguity as i can in this list</u>.
+as such, this logic ladder is pretty dense, so it includes parentheticals and text decor <u>to avoid as much ambiguity as possible</u>.
 
 as you proceed, remember you can always come right back to one of these lines:
 
@@ -433,7 +433,7 @@ as you proceed, remember you can always come right back to one of these lines:
 
 ---
 
-### crystallization of meaning
+### meaning: geometry
 
 **1.) ‘meaning’ (noun) only emerges between two or more <u>observers</u>**
 
