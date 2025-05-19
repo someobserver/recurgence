@@ -297,17 +297,13 @@ collapse is the story of empires and ecosystems, yes. but the same patterns play
 - **entropy stack trace:** a single urge consumes the field. the world narrows to the next fix, next scroll, next sip, next escape. everything else dims while the recursive urge becomes the system.  
 - **feedback ignored:** short-term reward eclipses long-term coherence. pain signals get muted, context collapses, and connection fades. the field of view tightens until nothing else exists. it becomes the only map that matters.
 
-<big>**trauma response**</big> – episodic → fixed  
-- **entropy stack trace:** the alarm never shuts off. a threat long past continues to govern the present. the body locks down in survival mode, and what was once adaptive protection becomes the whole self.  
-- **feedback ignored:** safety signals are drowned beneath memory. the system can’t tell then from now. each moment is filtered through the past, and healing stalls before it can begin.
-
 <big>**perfectionism**</big> – iterative  
 - **entropy stack trace:** every decision is a trap. every gesture must be flawless. time stretches, stalls, and collapses under the pressure of impossibility. you rewrite the same sentence, again and again, chasing an unreachable finish line.  
 - **feedback ignored:** the metrics are internal and unforgiving. praise doesn’t land. completion doesn’t register. the system can’t accept 'enough.' nothing registers until it’s perfect—and nothing ever is.
 
 <big>**anxiety spiral**</big> – acute → chronic  
 - **entropy stack trace:** the mind spirals through futures that never arrive. muscles tighten, the jaw clenches, sleep fractures into fragments. even silence grows loud.  
-- **feedback ignored:** prediction overrides perception. reality-checks bounce off the loop. each worry amplifies the next. the system can’t reset—it only dress rehearses collapse
+- **feedback ignored:** prediction overrides perception. reality-checks bounce off the loop. eeach worry amplifies the next. the system can’t reset—it only dress rehearses collapse
 
 every systemic collapse is mirrored in the intimate. fragmentation, rigidity, runaway thoughts—the signature of entropy shows up in inboxes, in arguments, in aching backs and sleepless nights. the pattern isn’t out there. it’s right here, metabolizing through us.
 
