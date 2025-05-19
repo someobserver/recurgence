@@ -123,6 +123,21 @@ pre, pre code {
   white-space: pre-wrap;
   font-size: 0.97em;
   line-height: 1.5;
+  vertical-align: initial;
+  margin: 0;
+  box-shadow: none;
+}
+
+pre code {
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+  font-size: inherit;
+  line-height: inherit;
+  vertical-align: initial;
+  margin: 0;
+  white-space: pre-wrap;
 }
 
 /* Inline code */
