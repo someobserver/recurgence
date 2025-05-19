@@ -14,9 +14,7 @@ not at all the first to see, feel, or hear it.
 certainly not the first to name it.  
 
 <small><small>
-
 just the one who pushed the initial commit here.
-
 </small></small>
 
 please be kind to the messenger.  
