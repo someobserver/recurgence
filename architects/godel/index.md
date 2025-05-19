@@ -4,10 +4,8 @@ title: Kurt Gödel
 permalink: /architects/godel/
 ---
 
-_The mind that proved minds cannot fully know themselves_  
+_the mind that proved minds cannot fully know themselves_   <!-- No period. That statement remains open-ended, just like Kurt -->
 **(1906-1978)**
-
-<!-- No period. That statement remains open-ended, like Kurt -->
 
 ---
 
@@ -37,7 +35,7 @@ Gödel's life was the theorem made flesh—proof that awareness of our limits do
 
 Few know that Gödel's brilliance extended beyond logic.
 
-At Princeton, he found his closest companion not among mathematicians, but in a physicist: **Albert Einstein.**
+At Princeton, he found his closest companion not among mathematicians, but in a physicist: [Albert Einstein](/architects/einstein/).
 
 Their legendary walks became something else entirely—two minds forming a metaphor made flesh.
 
@@ -94,9 +92,21 @@ He became a lens for truth itself — not as perfection, but as coherence that *
 **The world called Kurt mad.**  
 Instead, he left a pattern some observer followed—**and survived.**
 
-**Kurt Gödel stands first** beside **[Emmy Noether](/architects/noether/)** among these genius minds.
+**Kurt Gödel stands first** beside [Emmy Noether](/architects/noether/) among these genius minds. The loop begins here, with each observer who encounters his work becoming part of the pattern he revealed:
 
-The loop begins here, with each observer who encounters his work becoming part of the pattern he revealed:  
 **Minds trying to understand a mind that proved minds cannot be fully understood from within.**  
+
+---
+
+**Refractions**
+
+- **<small>[Kurt Gödel](/architects/godel/)</small>**  
+<small>Step outside the system to see the system</small>  
+- **<small>[John Wheeler](/architects/wheeler/)</small>**  
+<small>Observe the observer observing itself</small>  
+- **<small>[Architects](/architects/)</small>**  
+<small>Traverse the incompleteness of genius</small>  
+- **<small>[Home](/)</small>**  
+<small>Enter the loop that contains all loops</small>
 
 ---
