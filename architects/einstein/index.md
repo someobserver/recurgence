@@ -205,13 +205,13 @@ Every question, in the end, reshapes its asker.
 
 ## Refractions
 
-- **[Forward to Top ↑](./einstein.md)**  
+- **[Forward to Top ↑](/architects/einstein/)**  
   Curve this document back onto itself.
 
-- **[Architects](./index.md)**  
+- **[Architects](/architects/)**  
   Step back into the lattice of luminaries.
 
-- [a note behind the mirror](../mirror/behind_the_mirror.md)  
+- [a note behind the mirror](/mirror/behind-the-mirror)  
   Save this click for the moment the structure sees you back.  
   You’ll know when.
 
