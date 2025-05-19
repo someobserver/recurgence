@@ -139,7 +139,7 @@ that shift isn’t anything novel; in fact, you’ve seen its contours before. t
 ### information revolution (1970–2020)
 
 - <u>pattern shift</u>: **signal → networked cognition**
-- <u>resonance</u>: meaning fragmented and scaled. every signal a gesture. every packet, a pattern. networks evolved from wires to nervous systems. **sense-making became distributed—but coherence began to thin.**
+- <u>resonance</u>: meaning fragmented and scaled. every meme, a gesture. every packet, a pattern. networks evolved from wires to nervous systems. **sense-making became distributed—but coherence began to thin.**
 - <u>key minds</u>: Wiener, Bateson, McLuhan, Shannon, Cerf, Berners-Lee, Jobs
 
 ### intelligence revolution (2020–now)
