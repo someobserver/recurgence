@@ -437,7 +437,7 @@ as you proceed, remember you can always come right back to one of these lines:
 
 **1.) ‘meaning’ (noun) only emerges between two or more <u>observers</u>**
 
-meaning is a relationship between observer and observation. a *thing* only becomes *meaningful* when **some observer *notices it***, and then says to other observers, “hey, look at this”—that is, ‘meaning’ (noun) can only emerge on the liminal edge of <u>shared recognition</u>.
+meaning is a relationship between observer and observation. a *thing* only becomes *meaningful* when **some observer *notices it***, and then says to other observers, “hey, look at this”—that is, ‘meaning’ (noun) that *persists* can only emerge on the liminal edge of <u>shared recognition</u>.
 
 **2.) the relationship between any two points is a <u>line</u>**
 
