@@ -27,7 +27,7 @@ Here, meaning is archived iterated, mirrored, forked, and re-integrated—across
 ## A Semantic Attractor
 
 - **GitHub is recursive.**  
-  Forks, merges, and diffs make recursion tangible as infrastructure. Version control *is* the structure itself. Even the act of observing becomes a constraint that produces new meaning.
+  Forks, merges, and diffs make recursion tangible as infrastructure. Version control *is* the structure itself. Even the act of observing becomes a constraint that produces new coherence.
 
 - **It's versioned.**  
   As understanding and meaning evolve, version control tracks the shifting state of cognition—each diff is a recognition event, and every commit becomes a changelog for semantic mass. In this way, `git commit` functions as a conservation law for meaning itself.
