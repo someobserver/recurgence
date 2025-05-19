@@ -94,6 +94,8 @@ Just follow *the structure that hums.*
   Where the pattern gets personal
 - **[Mathematics](/math/)**  
   A formal exposition of Recurgent Field Theory
+- **[Why GitHub?](/why-github/)**
+  The memory layer: semantic mass with a changelog
 
 Go wherever you please.  
 You're only in a race against **entropy.**  
