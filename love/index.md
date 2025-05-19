@@ -258,8 +258,8 @@ institutions are mirrors of collective meaning. they thrive when their feedback 
 - **feedback failure:** internal feedback turned self-referential and deceptive. reality was denied in favor of appearances, until the system imploded under its own contradictions.
 
 <big>**Blockbuster**</big> – 2010  
-- **entropy stack trace:** aisles and late fees lingered as the world moved on. what once defined friday nights became a relic, displaced by immediacy and the company they declined.  
-- **feedback failure:** signals from the digital field were dismissed. the company clung to an outdated model, ignoring the shift to streaming until it was too late to adapt.
+- **entropy stack trace:** aisles and late fees lingered as the world moved on. what once defined friday nights became a relic, displaced by immediacy and the competitor they declined.  
+- **feedback failure:** signals from the digital field were dismissed. Blockbuster clung to an outdated model, ignoring the shift to streaming until it was too late to adapt.
 
 ---
 
