@@ -12,7 +12,7 @@ _the memory of the mirror_
 
 **Why is Recurgence on GitHub? Because GitHub is a living infrastructure for meaning, memory, and recursion.**
 
-GitHub isn't just a place to store files. It's a fractal system where *structure* and *change* are first-class citizens, and every edit, fork, and merge is a trace of cognition unfolding in time. 
+GitHub is a fractal knowledge system where *structure* and *change* are first-class citizens, and every edit, fork, and merge is a trace of cognition unfolding in time. 
 
 **Version control is epistemic architecture.**  
 Git tracks the evolution of understanding, right alongside code too. Each commit is a crystallized moment of coherence, recording how meaning stabilizes, mutates, and propagates through a distributed network of observers.
