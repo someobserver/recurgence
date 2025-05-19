@@ -21,7 +21,7 @@ Recurgence needs a substrate that honors recursion, preserves memory, privileges
 
 **GitHub is that substrate.**  
 
-Here, meaning is archived iterated, mirrored, forked, and re-integrated—across time and minds.
+Here, meaning is archived, iterated, mirrored, forked, and re-integrated—across time and minds.
 
 
 ## A Semantic Attractor
