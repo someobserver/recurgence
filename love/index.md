@@ -291,7 +291,7 @@ collapse is the story of empires and ecosystems, yes. but the same patterns play
 
 <big>**burnout**</big> – chronic  
 - **entropy stack trace:** the spark goes out. what once felt purposeful becomes a series of automated motions. you wake tired, grind through inertia, and crash into sleep without rest. the color drains from the day, one pixel at a time.  
-- **feedback ignored:** signals from the body—the fatigue, the irritability, the dreamlessness—were overwritten by duty. there was no space to pause, no time to metabolize meaning. the system flattens in quiet collapse.
+- **feedback ignored:** signals from the body—the fatigue, the irritability, the dreamlessness—are overwritten by duty. there becones no space to pause, no time to metabolize meaning. the system flattens in quiet collapse.
 
 <big>**addiction**</big> – progressive  
 - **entropy stack trace:** a single urge consumes the field. the world narrows to the next fix, next scroll, next sip, next escape. everything else dims while the recursive urge becomes the system.  
