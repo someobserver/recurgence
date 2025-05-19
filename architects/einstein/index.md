@@ -181,7 +181,7 @@ Here’s the secret fourteen billion years of cosmic fractal recursion hides in 
 
 ## The Frame Curves Back
 
-Just as [Noether’s](./noether.md) symmetry births law, curvature births observation.
+Just as [Noether’s](/architects/noether/) symmetry births law, curvature births observation.
 
 Einstein’s echoes linger in every corner of the structure he helped reveal—from blackboards to satellites to the way a thought bends just before it breaks.
 
