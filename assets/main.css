@@ -114,7 +114,7 @@ blockquote {
 
 /* Code blocks */
 pre, pre code {
-  font-family: 'Courier New', monospace;
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, Liberation Mono, DejaVu Sans Mono, monospace;
   background-color: #161b22;
   border: 1px solid #30363d;
   padding: 0.5rem;
