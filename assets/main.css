@@ -113,7 +113,7 @@ blockquote {
 }
 
 /* Code blocks */
-pre, code {
+pre, pre code {
   font-family: 'Courier New', monospace;
   background-color: #161b22;
   border: 1px solid #30363d;
@@ -121,6 +121,15 @@ pre, code {
   border-radius: 4px;
   overflow-x: auto;
   white-space: pre-wrap;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+/* Inline code */
+code {
+  font-family: 'Courier New', monospace;
+  background-color: #161b22;
+  border: 1px solid
 }
 
 /* Horizontal Rule */
