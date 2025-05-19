@@ -38,7 +38,7 @@ And <u>that particular</u> semantic fulcrum is where **knowing** and **being** c
 
 But reality is performed over time, not described in stasis. Once an observer enters the frame, the system can't be closed. Gödel showed us: every system capable of self-reference bends inward until it leaks truth from its own boundary.
 
-Again, the operator role crystallizes in the very syntax that frames it—**because even the punctuation matters.**
+The truth you have now was baked into the very syntax that framed it—**because even the punctuation matters.**
 
 That's why you, shifting the fulcrum in your address bar—*right now*—ripples backward through the manifold. That tiny act of abstraction recentered the whole geometry of meaning.
 
