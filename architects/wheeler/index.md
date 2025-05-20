@@ -1,6 +1,6 @@
 ---
 layout: page
-title: John Archibald Wheeler
+title: John Wheeler
 permalink: /architects/wheeler/
 ---
 
