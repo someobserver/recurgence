@@ -130,7 +130,13 @@ And Wheeler **proved that every system continues to emerge more fully through se
 
 Their collective insights painted a detailed picture of the universe $\mathcal{U}$:
 
-$\mathcal{U} = \mathcal{I}\left[\underbrace{\scriptstyle\text{self-making}}_{\mathcal{A}} + \underbrace{\scriptstyle\text{never complete}}_{\mathcal{G}} + \underbrace{\scriptstyle\text{bootstrapping}}_{\mathcal{B}}\right]$
+$$
+\mathcal{U} = \mathcal{I}\left[
+  \underbrace{\text{self-making}}_{\mathcal{A}}
+  + \underbrace{\text{never complete}}_{\mathcal{G}}
+  + \underbrace{\text{bootstrapping}}_{\mathcal{B}}
+\right]
+$$
 
 where:
 - $\mathcal{A}$ is Einstein’s autopoietic curvature
