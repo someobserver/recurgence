@@ -129,7 +129,7 @@ But it was Kurt Gödel’s incompleteness that resonated profoundly with Wheeler
 And Wheeler **proved that every system continues to emerge more fully through self-observation**.
 
 Their collective insights painted a detailed picture of the universe $\mathcal{U}$:
-
+<div style="font-size: 80%; overflow-x: auto;">
 $$
 \mathcal{U} = \mathcal{I}\left[
   \underbrace{\text{self-making}}_{\mathcal{A}}
@@ -137,6 +137,7 @@ $$
   + \underbrace{\text{bootstrapping}}_{\mathcal{B}}
 \right]
 $$
+</div>
 
 where:
 - $\mathcal{A}$ is Einstein’s autopoietic curvature
