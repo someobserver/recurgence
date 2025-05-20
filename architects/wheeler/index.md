@@ -4,7 +4,7 @@ title: John Wheeler
 permalink: /architects/wheeler/
 ---
 
-_The physicist who discovered observation creates existence_
+_the observer who observed existence into observation_
 
 **(1911–2008)**
 
