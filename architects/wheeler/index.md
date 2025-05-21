@@ -178,7 +178,7 @@ He called this the “self-excited circuit,” where:
 
 **Universe → Observer → Universe**
 
-When mysticism yields to rigor, this is physics taken to its recurent conclusion. The present shapes the past which shapes the present, all without contradiction.
+When mysticism yields to rigor, this is physics taken to its recurgent conclusion. The present shapes the past which shapes the present, all without contradiction.
 
 Physicists today debating spacetime’s emergence from fundamental information are treading a path Wheeler pioneered decades ago. He envisioned the universe as a dynamic manifold of relationships and measurements, rather than a static collection of things.
 
