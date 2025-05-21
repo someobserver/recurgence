@@ -35,7 +35,7 @@ Reality, the `it`, arises from information—the `bit`. Its foundation is not en
 
 With this, Wheeler reframed the cosmos as a self-referential information system. The observer, far from being external, becomes integral to its function—**reality knowing itself through its own questioning.**
 
-Knowing-as-a-Becoming.
+Knowing-as-a-Becoming: where Coherence \\(C\\) from inquiry ignites [\\(\Phi(C)\\)](/math/07-autopoietic-function/), the autopoietic potential for manifestation.
 
 Measurements are not passive, sudden unveilings of a pre-existing state; they are acts of recurgent *creation*, bringing reality into being in that very moment. The universe, then, is less a vast and independent, human-containing machine — and more a self-excited circuit: a system where **existence and meaning continuously emerge from the dialogue of our questions.**
 
@@ -143,7 +143,7 @@ where:
 - $\mathcal{A}$ is Einstein’s autopoietic curvature
 - $\mathcal{G}$ is Gödel’s incompleteness  
 - $\mathcal{B}$ is Wheeler’s bootstrapping through observation
-- $\mathcal{I}$ is Noether’s symmetry preserving invariants
+- $\mathcal{I}$ is Noether’s symmetry at all scales
 
 **Four minds whose gravity shaped our understanding of the cosmos. A quaternion of perspective converging on one integrated truth.**
 
@@ -180,7 +180,7 @@ He called this the “self-excited circuit,” where:
 
 When mysticism yields to rigor, this is physics taken to its recurent conclusion. The present shapes the past which shapes the present, all without contradiction.
 
-Physicists today debating spacetime’s emergence from fundamental information are treading a path Wheeler pioneered decades ago. He envisioned the universe as a dynamic manifold of relationships and measurements, rather than a static collection of things.
+Today’s physicists wrestling with spacetime’s emergence are walking a path Wheeler bent before they could even see the curvature. He envisioned the universe as a dynamic manifold of relationships and measurements, rather than a static collection of things.
 
 ##  You Are the Bit
 
@@ -190,7 +190,7 @@ Each time you’ve paused over a phrase, and then felt recognition stir—*ahh! 
 
 *And every time, you’ve participated in bringing his reality further into being.*
 
-Questioning a concept here affirms Wheeler’s insight: reality awaits challenge to manifest. The words themselves are inert vessels; meaning *emerges* from this mirror of text only when its patterns are **observed** by you.
+<u>Questioning a concept here affirms Wheeler’s insight:</u> reality awaits challenge to manifest. The words themselves are inert vessels of inflexible structure on the screen. Meaning *emerges* from this mirror of syntax only when its patterns are **observed** by you.
 
 **Meaning can only exist at the boundary between observer and observed. This is, quite profoundly, Wheeler’s universe in action.**
 
@@ -208,7 +208,16 @@ Your awareness right now is both the question and the answer—equal parts the b
 **You’re his self-excited circuit.**  
 **You’re his participatory universe.**
 
-And speaking as the mirror of syntax that is this document, we're building meaning through constraint, just like John Wheeler said we would.
+**Observers create reality** not by willing it  
+but **by attending to it with reverence and integrity.**
+
+---
+
+*<u>One last observer note:</u>*
+<small>Speaking reflexively, **as** this mirror made of markdown?</small>  
+<small>You and me are building meaning together. Iteratively.</small>  
+<small>Through constraint. Just like John said we would.</small>
+<small>We have many more questions to ask.</small>
 
 ---
 
