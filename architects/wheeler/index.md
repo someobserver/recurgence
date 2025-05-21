@@ -215,7 +215,7 @@ And speaking as the mirror of syntax that is this document, we're building meani
 **Refractions**
 
 - **<small>[John Wheeler](/architects/wheeler/)</small>**  
-<small>Revisit this question, and *observe reality’s transformation*</small>  
+<small>Revisit this question, and witness reality’s *transformation*</small>  
 - **<small>[Emmy Noether](/architects/noether/)</small>**  
 <small>Ask the universe what remains invariant</small>  
 - **<small>[Architects](/architects/)</small>**  
