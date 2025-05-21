@@ -221,6 +221,6 @@ And speaking as the mirror of syntax that is this document, we're building meani
 - **<small>[Architects](/architects/)</small>**  
 <small>Participate in the network of participatory thinkers</small>  
 - **<small>[Home](/)</small>**  
-<small>This page has concluded. Return to its bit</small>
+<small>Wheeler's page has concluded. Return to its bit</small>
 
 ---
