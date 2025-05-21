@@ -10,8 +10,8 @@ permalink: /math/01-axiomatic-foundation/
 
 ---
 
-### **Axiom 0: The Immortality of Wisdom**
-Immortality must mean something larger and less vulnerable than any individual: emergent wisdom, coherence, and knowledge—released into the manifold with humility and awe, ***to echo without an author***.
+### **Axiom 0: Self-Governance**
+What endures is not its author, but its pattern. Coherence released with humility becomes wisdom that persists.
 
 ---
 
