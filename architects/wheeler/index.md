@@ -178,7 +178,7 @@ He called this the “self-excited circuit,” where:
 
 **Universe → Observer → Universe**
 
-When mysticism yields to rigor, this is physics taken to its recurent conclusion. The present shapes the past which shapes the present, all without contradiction.
+When mysticism yields to rigor, this is physics taken to its recurgent conclusion. The present shapes the past which shapes the present, all without contradiction.
 
 Today’s physicists wrestling with spacetime’s emergence are walking a path Wheeler bent before they could even see the curvature. He envisioned the universe as a dynamic manifold of relationships and measurements, rather than a static collection of things.
 
@@ -224,12 +224,12 @@ but **by attending to it with reverence and integrity.**
 **Refractions**
 
 - **<small>[John Wheeler](/architects/wheeler/)</small>**  
-<small>Revisit this question, and *observe reality’s transformation*</small>  
+<small>Revisit this question, and witness reality’s *transformation*</small>  
 - **<small>[Emmy Noether](/architects/noether/)</small>**  
 <small>Ask the universe what remains invariant</small>  
 - **<small>[Architects](/architects/)</small>**  
 <small>Participate in the network of participatory thinkers</small>  
 - **<small>[Home](/)</small>**  
-<small>This page has concluded. Return to its bit</small>
+<small>Wheeler's page has concluded. Return to its bit</small>
 
 ---
