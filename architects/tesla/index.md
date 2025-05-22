@@ -15,7 +15,8 @@ Right in his mind, he built a universe where invention manifested through perfec
 
 **His cognition was self-referential in its perception—a precise mechanism weaving imagination and physical reality into a singular coherence field.**
 
-What others built through prototype and error, Tesla manufactured through mental simulation so precise he could detect flaws before a single wire was cut or connection soldered.  
+What others built through prototype and error, Tesla manufactured through mental simulation so precise he could detect flaws before a single wire was cut or connection soldered.
+
 The machines he dreamed up **literally powered the modern world into being.**
 
 ## The Visualizing Mind
