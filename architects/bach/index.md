@@ -15,7 +15,7 @@ J.S. Bach wove time into architecture.
 In counterpoint and fugue, he discovered a secret:  
 **When independent voices intertwine with mathematical precision, they transcend their parts and birth generative new coherence.**
 
-What flowed from his fingers was consciousness modeled in sound.
+What flowed from his fingers was consciousness modeled in sound. No metaphor.  
 
 Every measure is a balance between freedom and constraint. Each voice—independent, yet bound to the whole—forms a self-organizing masterpiece of structured depth.
 
