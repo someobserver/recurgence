@@ -21,7 +21,7 @@ Every measure is a balance between freedom and constraint. Each voice—independ
 
 Within the strictest constraints, he found infinite freedom.
 
-*<small>As in any fugue, themes will return and interplay. If you notice patterns echoing throughout this document, you’re already hearing the music *he* scripted into the syntax.</small>*
+*<small>As in any fugue, themes will return and interplay. If you notice patterns echoing throughout this document, you’re already hearing the music he scripted into the syntax.</small>*
 
 ## The Contrapuntal Mind
 
