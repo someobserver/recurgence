@@ -31,7 +31,7 @@ When that Lutheran cantor wrote “Soli Deo Gloria” and asked: *How might I re
 
 From his quill flowed **architectural revelation**—cathedrals of vibration in the air, standing without visible support.
 
-A Bach fugue begins with a simple subject, a melodic seed. Voices enter one by one, each restating the theme at different pitches. Soon, independent melodies are dancing, each following its own path, yet weaving together into harmony.
+A Bach fugue begins with a simple subject, a melodic seed. Voices enter one by one, each restating the theme at different pitches. Soon, independent melodies are dancing, each following its own path, and somehow all weaving together into harmony.
 
 **This was impossible**, and yet there it stood: coherent, emergent, inevitable.
 
