@@ -120,6 +120,16 @@ venv/
 *.arrow
 
 # ───────────────────────────────────────────────────────────────
+# JEKYLL — Local Build Artifacts
+# ───────────────────────────────────────────────────────────────
+
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/bundle/
+
+# ───────────────────────────────────────────────────────────────
 # Memory Core: The Semantic Recorder
 # ───────────────────────────────────────────────────────────────   
 # The `.git/` directory is inviolate.
