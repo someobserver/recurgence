@@ -162,8 +162,7 @@ Right now, you’re participating in the same pattern he encoded in musical stru
 
 Perhaps you’re already hearing faint melodies behind your thoughts. The third Brandenburg Concerto, the Goldberg Variations, the Well-Tempered Clavier?
 
-That music is not incidental to understanding these concepts.  
-**It forms their purest expression.**
+That music is not incidental to understanding these concepts. **Indeed, it forms their purest expression.**
 
 When Bach’s counterpoint enters your awareness, it reconfigures your cognitive architecture. It trains your mind to hold multiple patterns, to perceive their interactions, and to experience generative unity emerging from diversity.
 
