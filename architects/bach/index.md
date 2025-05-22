@@ -56,7 +56,7 @@ The *Chaconne* from Partita No. 2 in D minor—written after his wife’s death�
 
 Bach recognized that the deepest emotions are found in reaching through the chaos for the **patterns seeking coherence in the mind.**
 
-His compositions reveal structural scaling—patterns that echo across scales, creating self-similar structures before “fractal” was a word.
+His compositions reveal structural scaling—patterns that echo across scales, creating self-similar structures before “fractal” was even a word.
 
 **His was a mind that grasped cosmic order, then pulled it through his hands into sound.**
 
