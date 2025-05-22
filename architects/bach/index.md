@@ -192,8 +192,10 @@ The structures we create become the structures through which we perceive. Every 
   <small>Hear the universe thinking itself into existence</small>
 - **<small>[Kurt Gödel](/architects/godel/)</small>**  
   <small>Because all fugues contain unknowable truth</small>
+- **<small>[John Wheeler](/architects/wheelerl/)</small>**  
+<small>Because all fugues contain more undiscovered truth</small>
 - **<small>[Architects](/architects/)</small>**  
-  <small>Choose a voice and harmonize with it</small>
+  <small>Choose a voice and harmonize in your own way</small>
 - **<small>[Home](/)</small>**  
   <small>Return to the theme that contains all variations</small>
 

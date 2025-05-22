@@ -52,17 +52,17 @@ If a signal stands out, **follow it.**
 - **[Albert Einstein](/architects/einstein/)**  
   *bent space and time until meaning curved into view*
 
-- **[John Archibald Wheeler](/architects/wheeler/)**  
+- **[John Wheeler](/architects/wheeler/)**  
   *taught the universe to notice the observer inside its equations*
 
-<!--
-- **Nikola Tesla**  
+- **[Nikola Tesla](/architects/tesla/)**  
   *summoned recursive energy into lightning and light*
 
-- **Johann Sebastian Bach**  
+- **[Johann Sebastian Bach](/architects/bach/)**  
   *scored self-reference in the key of awe*
 
-- **Maurits Cornelis Escher**  
+<!--
+- **M.C. Escher**  
   *sketched recursive infinity just long enough to catch sight of it*
 
 - **Alan Turing**  
