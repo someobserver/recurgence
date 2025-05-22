@@ -27,8 +27,7 @@ Within the strictest constraints, he found infinite freedom.
 
 With Bach, counterpoint became more than technique, harmony more than convention. The musical landscape of his time, though sophisticated, awaited the deeper patterns that would come to define his exquisite works of math.
 
-When that Lutheran cantor wrote “Soli Deo Gloria” and asked:  
-*How might I render divine order audible?*
+When that Lutheran cantor wrote “Soli Deo Gloria” and asked: *How might I render divine order audible?*
 
 From his quill flowed **architectural revelation**—cathedrals of vibration in the air, standing without visible support.
 
