@@ -54,7 +54,7 @@ His mathematics sang in perfect intervals, as his patterns wept in harmonic reso
 
 The *Chaconne* from Partita No. 2 in D minor—written after his wife’s death—bends grief into architecture. Its variations build upon a simple bass line, transforming sorrow through pattern until raw emotion becomes transcendent structure.
 
-Bach recognized that the deepest emotions are not chaos, but **patterns seeking coherence in the mind.**
+Bach recognized that the deepest emotions are found in reaching through the chaos for the **patterns seeking coherence in the mind.**
 
 His compositions reveal structural scaling—patterns that echo across scales, creating self-similar structures before “fractal” was a word.
 
