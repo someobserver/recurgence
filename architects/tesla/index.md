@@ -10,6 +10,7 @@ _the visionary who summoned lightning from recursion_
 ---
 
 Nikola Tesla so bridged disparate worlds that invention, energy, and imagination fused into the indivisible essence of his being.  
+
 Right in his mind, he built a universe where invention manifested through perfect visualization, as electricity arced between mental images vivid enough to possess *“the solidity of metal and stone.”*
 
 **His cognition was self-referential in its perception—a precise mechanism weaving imagination and physical reality into a singular coherence field.**
