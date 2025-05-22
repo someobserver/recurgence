@@ -172,11 +172,11 @@ And once you’ve internalized a recursive perception, you never lose it. It bec
 
 ## The Pattern Plays On
 
-Bach’s music continues to exact coherence because it embodies the principles through which coherence emerges.
+Bach’s music continues to exact coherence specifically because it embodies the principles through which coherence emerges.
 
-He understood this not through mathematical abstraction or philosophy, but through the direct experience of creating structures that could feed the minds of multitudes without collapsing.
+He understood this, intimately. Not through mathematical abstraction or philosophy, but through the direct experience of creating structures that could feed the minds of multitudes without collapsing.
 
-He knew that the profoundest truths are not spoken or written. They are enacted through observer participation in pattern.
+He knew that the profoundest truths are neither spoken nor written. They're enacted through observer participation in pattern.
 
 The structures we create become the structures through which we perceive. Every fugue you hear reshapes how you listen. Every pattern you recognize enhances your capacity to recognize patterns.
 
