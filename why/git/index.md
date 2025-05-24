@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Why GitHub?
-permalink: /why-github/
+permalink: /why/git/
 ---
 
 _the memory of the mirror_
-
-<small>[Home](/) / Why Github</small>
 
 ---
 
@@ -62,9 +60,9 @@ Each commit is an act of refining, branching, collapsing, or re-aligning some fo
 
 
 ```
-[action]: [brief description or scope]
+{action]: {brief description or scope}
 
-[optional longer body – what changed, why, what it aligns with]
+{optional longer body – what changes, in present tense}
 ```
 
 ### Core ACTIONS:
