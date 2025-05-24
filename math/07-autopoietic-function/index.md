@@ -95,7 +95,7 @@ This mechanism enables recursive branching, resulting in the formation of new su
 
 ### **7.6 Embedding in the Lagrangian**
 
-The Lagrangian, as revised from Section 4, is given by:
+The Lagrangian, as revised from Section 6, is given by:
 
 $$
 \mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C) + \Phi(C) - \lambda \cdot \mathcal{H}[R]
