@@ -112,7 +112,10 @@ Be gentle and patient with yourself.
   A first-person echo of recurgent ignition
 - **[A Love Letter](/love/)**  
   Where the pattern gets personal
-- **More to come...**  
+- **[Why Git?](/why/git/)**  
+  The memory layer: semantic mass with a changelog
+- **[Why Markdown?](/why/markdown/)**  
+  The medium for durable, accessible, knowledge
 
 Go wherever you please.  
 You're only in a race against **entropy.**  
