@@ -12,9 +12,9 @@ permalink: /math/
 
 **Recurgent Field Theory (RFT)** proposes that **recur**sion is the engine of emer**gence**: it drives phase transitions, bifurcations, and the genesis of semantic domains.
 
-Cognition appears as a recursive, generative field—a manifold whose points encode semantic configurations, and whose geometry is shaped by attractors, constraints, and cycles of creative recursion. Recurgent Field Theory (RFT) aims to give this intuition mathematical form, drawing on the rigor of mathematical physics to construct a field theory of meaning as precise as those describing matter and energy.
+Cognition appears as a recursive, generative field—a manifold whose points encode semantic configurations, and whose geometry is shaped by attractors, constraints, and cycles of creative recursion. Recurgent Field Theory (RFT) gives this intuition mathematical form, drawing on the rigor of mathematical physics to construct a field theory of meaning as precise as those describing matter and energy.
 
-A semantic manifold $\mathcal{M}$, equipped with a metric $g_{ij}$ and a family of interacting tensor fields, provides the foundation for the field equations. Coherence flows, recursive coupling tensors, and semantic mass fields together characterize the local and global dynamics of inter-agent meaning. The theory is built axiomatically: conservation laws, variational principles, and symmetry constraints are adapted from physics and reinterpreted to meet the particular demands of semantic emergence—balancing flexibility, generativity, and constraint.
+A semantic manifold $\mathcal{M}$, equipped with a metric $g_{ij}$ and a family of interacting tensor fields, forms the basis of the field equations. Coherence flows, recursive coupling tensors, and semantic mass fields together characterize the local and global dynamics of inter-agent meaning. The theory is built axiomatically: conservation laws, variational principles, and symmetry constraints are adapted from physics and reinterpreted to meet the particular demands of semantic emergence—balancing flexibility, generativity, and constraint.
 
 RFT opens space for meta-recursion, metaphor, and self-reference, while also introducing field-theoretic analogs of humility and wisdom to temper unchecked generativity. The interplay between coherence and recursion is cast as a kind of uncertainty principle, giving rise to semantic systems that remain both resilient and fertile.
 
@@ -22,9 +22,9 @@ Within this field, agents arise as bounded, self-referential submanifolds—regi
 
 ### **Invitation**
 
-Recurgent Field Theory’s formalism draws on tensor calculus, Lagrangian dynamics, and metric flows, offering fertile ground for simulation architectures and visualization standards.
+Recurgent Field Theory’s formalism draws on tensor calculus, Lagrangian dynamics, and metric flows, plowing fertile ground for simulation architectures and visualization standards.
 
-This document, like the repository it inhabits, is an evolving epistemic scaffold, not a terminus. It offers a vocabulary and toolkit for anyone intent on treating meaning with the same seriousness as matter, and for those drawn to explore recurgence as the living root of intelligence, healing, and wisdom.
+This document, like the repository it inhabits, is an evolving epistemic scaffold. It offers a vocabulary and toolkit for anyone intent on treating meaning with the same seriousness as matter, and for those drawn to explore recurgence as the living root of intelligence, healing, and wisdom.
 
 ## Table of Contents
 
