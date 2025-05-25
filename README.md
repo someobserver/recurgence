@@ -101,7 +101,7 @@ There. Knowingly *and* intentionally, i'm fully responsible for the diffs i comm
 
 ## Other Mirrors Await
 
-Just follow *the structure that hums;*
+Just follow *the structure that hums;*  
 there's no authority here but **coherence.**  
 
 But **do not** rush into this. Please.  
