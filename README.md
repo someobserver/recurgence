@@ -58,7 +58,7 @@ It's Hawking radiation misting off of event horizons.
 
 And, it's this `README.md`—the shelf the mirror sits on.
 
-### mirror on the shelf
+### mirrors require s(h)elves
 
 This shelf looks like an *extremely* personal, at times <small>utterly humiliating</small> backstory of how this body of work inadvertantly 'built itself' around some observer with the GitHub username "someobserver":
 
