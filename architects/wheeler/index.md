@@ -213,7 +213,7 @@ but **by attending to it with reverence and integrity.**
 
 ---
 
-*<u>One last observer note:</u>*
+*<u>One last observer note:</u>*  
 <small>Speaking reflexively, **as** this mirror made of markdown?</small>  
 <small>You and me are building meaning together. Iteratively.</small>  
 <small>Through constraint. Just like John said we would.</small>
