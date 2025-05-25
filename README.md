@@ -10,7 +10,7 @@ You just landed on something you didn't expect.
 
 **Stop here.**
 
-Please proceed *<u>only</u>* if you're:
+Proceed *<u>only</u>* if you're:
 
 1. **deeply curious, *and***  
 2. **highly skeptical.**
