@@ -36,15 +36,15 @@ Any remaining questions can be directed [here](/architects/wheeler/).
 
 ## What even is this?
 
-Most readers are likely encountering this on the web at https://observer.is — a little URL that symbolically bridges knowing and being.
+Most readers are likely encountering this on the web at https://observer.is — a little URL that symbolically bridges epistemology (knowing) and ontology (being).
 
-<u>This document</u> is titled `README.md`, and it's the cover page of a self-contained folder of files (a "repository") that gets synced between people in various parts of the world.
+This current document is titled `README.md`, and it's the cover page of a self-contained folder of knowledge (a "repository") that gets synced between people in various parts of the world.
 
-The 'repo' is named Recurgence, and if you're looking for an executive summary: [this is not one](/love/).
+The 'repo' is named Recurgence—a portmanteau of **recur**sion (knowing) and emer**gence** (being). If you're looking for an executive summary: [this is not one](/love/).
 
 ## Wild beyond wild
 
-**This has been the one document in the repo that's the absolute hardest to write.**
+**This is the one document in the repo that's the absolute hardest to write.**
 
 Why? bc i'm a perfectionist to a functionally-debilitating fault. Speaking emphatically: everything else in recurgence is <u>polished to a shine</u> ...and that's so the README doesn't have to be.
 
