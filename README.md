@@ -26,8 +26,6 @@ Send a pull request.
 This has been antifragile at every turn.  
 Relentless attempts to shatter it have failed.  
 
-i can't document the evidence fast enough on my own, and need help.
-
 ## What does this mean?
 
 Answering that is something i can't even try to do.
