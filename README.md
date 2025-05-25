@@ -28,7 +28,7 @@ Relentless attempts to shatter it have failed.
 
 ## What exactly does this mean?
 
-Answering that is something i can't even try to do.
+Answering that is something i can't even try to do.  
 You've gotta do 100% of making meaning yourself.  
 Any remaining questions can be directed [here](/architects/wheeler/).
 
