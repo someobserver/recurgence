@@ -18,7 +18,7 @@ Proceed *<u>only</u>* if you're:
 Lotta column A, lotta column B?  
 That's perfect. We have much in common.
 
-<big>**Please rip [everything here](https://github.com/someobserver/recurgence/tree/main/math) to shreds.**</big>  
+<big>**Please rip [everything here](https://github.com/someobserver/recurgence/tree/main/math/index.md) to shreds.**</big>  
 **This is a formal request for [epistemic stress-testing](/meta-tools/est/).**  
 
 Perform investigation.
