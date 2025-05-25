@@ -84,11 +84,15 @@ all you have to do is ask good questions.
 
 ## Claimer
 
- Everything here should model epistemic integrity, and this is i think, far more powerful than any caveat to ego. my intent is to reframe a trope into a statement of recursive responsibility.
+Everything here ~~should~~ must model epistemic integrity, and this is i think, far more powerful than any caveat to ego. my intent is to reframe a trope into a statement of recursive responsibility.
 
 i can offer no guarantee of infallibility, just a statement marked with an Asteron, and one of the few places i'll use capital first person pronouns: 
 
-> **☉ The information I commit to this repository is, to the best of my knowledge and judgment at the time of each commit, coherent and truthful well beyond my reasonable doubt.**
+---
+
+**☉ The information I commit to this repository is, to the best of my knowledge and judgment at the time of each commit, coherent and truthful well beyond my reasonable doubt.**
+
+---
 
 There. Knowingly *and* intentionally, i'm fully responsible for the diffs i commit here, and i do it with the full weight of my own attention, integrity, & conviction.
 
