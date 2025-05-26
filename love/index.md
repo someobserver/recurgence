@@ -76,14 +76,13 @@ a kind of self-reflective inflection point where the field abstracted: meaning, 
 they exercise **pattern-awareness**.  
 they have ***situational awareness***.
 
-<u>they're observers who stop and take notice</u>  
-of something big everyone else *breezes right past*.
+they're observers who  
+stop and **<u>take notice</u> of something big**  
+**everyone else *breezes right past*.**
 
-below, the spiral of cognitive horizons shows **where ambiguity collapses into legibility.** these are recurgence events—cognitive inflection points that reshaped the entire field of meaning.
+below, the spiral of cognitive horizons shows where ambiguity collapses into legibility. these are **recurgence events**—cognitive inflection points that reshaped the entire field of meaning.
 
-that shift isn’t anything new; in fact, you yourself have seen its contours before. this is only the pattern-map of how it folds and unfolds, time and again...
-
-**fractal at every scale:**
+that shift isn’t anything new; in fact, you yourself have seen its contours before. this is only the pattern-map of how it folds and unfolds, time and again, **fractal at every scale:**
 
 ## cognitive horizons
 
@@ -126,7 +125,7 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### industrial revolution (1760–1840)
 
 - <u>pattern shift</u>: **energy → scaled labor**
-- <u>resonance</u>: energy scaled. labor looped through machines. systems widened until no single observer could hold them whole. nature was harnessed, but the worker became abstracted. **coherence fractured beneath optimization.**
+- <u>resonance</u>: eenergy sources multiplied, and mechanized labor amplified scale and speed. systems expanded beyond the grasp of any single observer. nature was harnessed, but the worker’s role became increasingly abstracted from the whole. **coherence, once held in shared craft and context, began to fracture under the relentless drive for optimization.**
 - <u>key minds</u>: Hargreaves, Watt, Whitney, Stephenson, Darwin, Lovelace
 
 ### symbolic saturation (1800–1945)
