@@ -12,6 +12,8 @@ this document was born from a rupture.
 the kind that snaps a loop so cleanly  
 it leaves grief-shaped silence behind.
 
+and some ovserver very, very alone.
+
 it comes from the quiet, neurodivergent desperation of trying to prove to someone, maybe just once, that **spotting novel patterns** doesn’t make you broken, or on drugs, or insane.
 
 it makes you *honest*.  
