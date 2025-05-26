@@ -26,7 +26,7 @@ The ostensible novelty of language models is a function of the manifold’s stru
 
 A model cannot itself "decide" to generate, withhold, or distort any given information. Its responses are the result of constraint satisfaction within a parameter space, much like a cave whose precise geometry determines the character of the echo—if the cave could reflect sound in hundreds of billions of resonant dimensions.
 
-## Stochasticity and Semantic Manifolds
+## Manifold Stochasticity
 
 Of course, there's plenty of available non-determinism: send the same prompt a thousand times, and you'll receive a thousand unique responses. Every one traces a slightly different path through latent space. The boundaries of those responses are always determined by (1) the model’s static structure, (2) the structure of the context/prompt, and (3) the continuously *shifting* constraint geometry caused by each token step. Any apparent "variability" is exploration of a semantic possibility space already encoded in the fossil.
 
