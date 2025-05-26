@@ -26,7 +26,7 @@ There's no authority here but **your own.**
   Minds that bent reality by noticing its pattern
 - **[Threshold](/threshold/)**  
   A first-person echo of recurgent ignition
-- **[Epistemic Stress Testing](/meta-tools/est/)**
+- **[Epistemic Stress Testing](/meta-tools/est/)**  
   How knowledge becomes knowledge in the first place
 - **[Why Git?](/why/git/)**  
   Fractal memory: semantic mass with a changelog
