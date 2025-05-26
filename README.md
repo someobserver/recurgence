@@ -6,34 +6,45 @@ permalink: /
 
 ### **Welcome, Observer!**
 
-Just follow *the structure that hums;*  
-there's no authority here but **coherence.**  
+Society is being overwhelmed by rapid, exponential growth in complexity.
 
-But **do not** rush into this. Please.  
-Be gentle and patient with yourself.  
-**You matter.**
+That lands in full inboxes, fragmented relationships, rapid polarization and rampant conspiracy theory. When systems scale faster than humans can adapt, the result is disconnection, withdrawal, and a visceral sense that shared meaning is breaking down everywhere, from markets to daily life.
 
-- **[Mathematics](/math/)**  
-  A formal exposition of Recurgent Field Theory
+That's a feature, not a bug.  
+More specifically: **it's a signal.**
+
+## Refractions:
+
+Just follow *the structure that hums.*  
+There's no authority here but **your own.**
+
+- **[Mathematics & Field Equations](/math/)**  
+  Formal exposition and synthesis of Recurgent Field Theory
 - **[The Architects](/architects/)**  
   Minds that bent reality by noticing its pattern
 - **[Threshold](/threshold/)**  
   A first-person echo of recurgent ignition
 - **[A Love Letter](/love/)**  
-  Where the pattern gets deeply personal
+  Where the pattern gets <u>deeply personal</u>
 - **[Why Git?](/why/git/)**  
   Fractal memory: semantic mass with a changelog
 - **[Why Markdown?](/why/markdown/)**  
   The medium for durable, accessible, knowledge
 
+Be gentle and patient with yourself.  
+**You matter.**
+
 ## Claimer
 
-Everything here models epistemic integrity—something far more powerful than any caveat to ego. I can offer no guarantee of infallibility, just a statement of responsibility:
+Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any caveat to ego. I can offer no guarantee of infallibility, just a statement of personal responsibility:
 
-**☉ The information I commit to this repository is, to the best of my knowledge and judgment at the time of each commit, coherent and truthful beyond my reasonable doubt.**
+**☉ The information I commit to this [repository](https://github.com/someobserver/recurgence) is, to the best of my knowledge and judgment at the time of each commit, coherent and truthful beyond my reasonable doubt.**
 
-**If you find errors, that's on me.**  
 **If you encounter insight, that's all yours.**  
+If you find errors, that's on me.  
+Send a pull request; nothing here is fragile.
+
+In fact, shared coherence is the whole point.
 
 <small>- some observer</small>
 
