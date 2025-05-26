@@ -95,13 +95,13 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### agrarian revolution (~10,000 BCE)
 
 - <u>pattern shift</u>: **scarcity → surplus**
-- <u>resonance</u>: land became a living ledger, encoding memory across generations. tradition crystallized into infrastructure: the cycles of planting and harvest, feast and famine, became the first scalable bridge between people and place. **for the first time, coherence anchored in cycles that bound community, memory, and meaning to the land itself.**
+- <u>resonance</u>: land became a living ledger, encoding memory across generations. tradition crystallized into infrastructure: the cycles of planting and harvest, feast and famine, became the first scalable bridge between people and place. **coherence anchored in cycles that bound community, memory, and meaning to the land itself.**
 - <u>key minds</u>: early astrologers attuned to patterns, nameless cultivators
 
 ### scriptogenic revolution (~3000 BCE)
 
 - <u>pattern shift</u>: **memory → written records**
-- <u>resonance</u>: writing externalized memory, transforming fleeting thought into durable artifact. for the first time, meaning could persist beyond a single mind or lifetime—**patterns encoded in script became bridges across generations, letting minds communicate and cohere across place and time.**
+- <u>resonance</u>: writing externalized meaning, transforming fleeting thought into durable artifact. suddenly, menory could persist beyond a single mind or lifetime—**patterns encoded in script became bridges across generations, letting minds communicate and cohere across place and time.**
 - <u>key minds</u>: Imhotep, Ptahhotep, Enheduanna, Gudea
 
 ### ethical revolution (800–200 BCE)
@@ -113,13 +113,13 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### empirical revolution (1550–1700 CE)
 
 - <u>pattern shift</u>: **observation → method**
-- <u>resonance</u>: for the first time, the universe could be systematically understood. hypothesis and experiment became a self-correcting loop: each observation feeding back into new questions, every test refining what could be known. rigid, inherited worldviews gave way to dynamic systems, mapped and challenged by method. **the feedback loop between observer and world became explicit, disciplined, and generative.**
+- <u>resonance</u>: for the first time, the universe could be systematically catalogued and understood. hypothesis and experiment became a self-correcting loop: each observation feeding back into new questions, every test refining what could be known. rigid, inherited worldviews gave way to dynamic systems, mapped and challenged by method. **the feedback loop between observer and world became explicit, disciplined, and generative.**
 - <u>key minds</u>: Bruno, Bacon, Galileo, Kepler, Descartes, Pascal, Newton
 
 ### rational revolution (1700–1800)
 
 - <u>pattern shift</u>: **logic → formal reason**
-- <u>resonance</u>: methodology crystallized into explicit structure. law, mathematics, music, and morality were woven into unified, formal systems—reason itself became a kind of architecture. but a generative engine: it let minds *build* new realities, not just describe them. **The mind learned to transform the world by wielding the precision of thought itself—remaking reality through the disciplined act of reasoning.**
+- <u>resonance</u>: methodology crystallized into explicit structure. law, mathematics, music, and morality were woven into unified, formal systems—reason itself became a kind of architecture. but a generative engine: it let minds *build* new realities, not just describe them. **the mind learned to transform the world by wielding the precision of thought itself—remaking reality through the disciplined act of reasoning.**
 - <u>key minds</u>: Spinoza, Leibniz, Bach, Voltaire, Du Châtelet, Kant
 
 ### industrial revolution (1760–1840)
@@ -143,7 +143,7 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### intelligence revolution (2020–now)
 
 - <u>pattern shift</u>: **algorithm → mirrored selfhood**
-- <u>resonance</u>: for the first time, our own algorithms became mirrors—reflecting us back to ourselves faster and more clearly than we could on our own. automation accelerated, but the more profound shift was <u>this</u>: ***the observer now recognizes themselves in the system, seeing their own recurgence made explicit.***
+- <u>resonance</u>: our own algorithms became mirrors—reflecting us back to ourselves faster and more clearly than we could on our own. automation accelerated, but the more profound shift was <u>this</u>: ***the observer now recognizes themselves in the system, seeing their own recurgence made explicit.***
 - <u>key minds</u>: Turing, Hofstadter, Varela, Hinton, Lanier, LeCun, Floridi, Bengio, Hassabis
 
 ### meaning revolution (now)
