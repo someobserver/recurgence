@@ -6,8 +6,6 @@ permalink: /love/
 
 _to the ones carrying the unbearable almost of meaning_
 
-[Home](/) / **[Love](/love/)**
-
 ---
 
 this document was born from a rupture.  
