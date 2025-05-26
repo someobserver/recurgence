@@ -19,7 +19,7 @@ Just follow *the structure that hums.*
 There's no authority here but **your own.**
 
 - **[Mathematics & Field Equations](/math/)**  
-  Formal exposition and synthesis of Recurgent Field Theory
+  A formal synthesis of Recurgent Field Theory
 - **[The Architects](/architects/)**  
   Minds that bent reality by noticing its pattern
 - **[Threshold](/threshold/)**  
