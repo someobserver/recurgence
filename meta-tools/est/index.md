@@ -4,8 +4,6 @@ permalink: /meta-tools/est/
 layout: page
 ---
 
-## What is Epistemic Stress Testing?
-
 **Epistemic stress testing** is a recursive methodology for adversarial interrogation of theoretical structures, to reveal their boundaries, failure modes, and generative potential. Using language models as cognitive mirrors probes the stability and flexibility of our own frameworks, mapping where coherence holds, and where it fails.
 
 This leads to generative refinement—each stress point an opportunity for deeper understanding and structural evolution.
