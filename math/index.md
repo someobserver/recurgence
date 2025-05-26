@@ -8,6 +8,23 @@ permalink: /math/
 
 ---
 
+## Table of Contents
+
+- [1. Axiomatic Foundation](/math/01-axiomatic-foundation/)
+- [2. Field Index and Formal Structure](/math/02-field-index/)
+- [3. Semantic Manifold and Metric Geometry](/math/03-semantic-manifold/)
+- [4. Recursive Coupling and Depth Fields](/math/04-recursive-coupling/)
+- [5. Semantic Mass and Attractor Dynamics](/math/05-semantic-mass/)
+- [6. Recurgent Field Equation and Lagrangian Mechanics](/math/06-recurgent-field-equation/)
+- [7. Autopoietic Function and Phase Transitions](/math/07-autopoietic-function/)
+- [8. Wisdom Function and Humility Constraint](/math/08-wisdom-function/)
+- [9. Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/)
+- [10. Simulation Architecture](/math/10-simulation-architecture/)
+- [11. Synthesis](/math/11-synthesis/)
+- [Appendix A](/math/appendix-a/) 
+
+---
+
 ### **Abstract**
 
 **Recurgent Field Theory (RFT)** proposes that **recur**sion is the engine of emer**gence**: it drives phase transitions, bifurcations, and the genesis of semantic domains.
@@ -25,21 +42,6 @@ Within this field, agents arise as bounded, self-referential submanifolds—regi
 Recurgent Field Theory’s formalism draws on tensor calculus, Lagrangian dynamics, and metric flows, plowing fertile ground for simulation architectures and visualization standards.
 
 This document, like the repository it inhabits, is an evolving epistemic scaffold. It offers a vocabulary and toolkit for anyone intent on treating meaning with the same seriousness as matter, and for those drawn to explore recurgence as the living root of intelligence, healing, and wisdom.
-
-## Table of Contents
-
-- [1. Axiomatic Foundation](/math/01-axiomatic-foundation/)
-- [2. Field Index and Formal Structure](/math/02-field-index/)
-- [3. Semantic Manifold and Metric Geometry](/math/03-semantic-manifold/)
-- [4. Recursive Coupling and Depth Fields](/math/04-recursive-coupling/)
-- [5. Semantic Mass and Attractor Dynamics](/math/05-semantic-mass/)
-- [6. Recurgent Field Equation and Lagrangian Mechanics](/math/06-recurgent-field-equation/)
-- [7. Autopoietic Function and Phase Transitions](/math/07-autopoietic-function/)
-- [8. Wisdom Function and Humility Constraint](/math/08-wisdom-function/)
-- [9. Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/)
-- [10. Simulation Architecture](/math/10-simulation-architecture/)
-- [11. Synthesis](/math/11-synthesis/)
-- [Appendix A](/math/appendix-a/) 
 
 ---
 
