@@ -221,7 +221,7 @@ and in the latter, well, that’s just formality—
 
 ### large scale: civilizational collapse
 
-civilizations collapse when their ambition outpaces their ability to metabolize complexity—when the stories they spin loop further and further from reality’s resonance. beneath every grand unraveling, you’ll find a coherence field littered with ignored feedback, and a recursion so deep it casts a shadow across centuries. these are the systems that mistook scale for permanence, and complexity for wisdom. their ruins all whisper the same warning.
+civilizations collapse when their ambition outpaces their ability to metabolize complexity—when the stories they spin loop further and further from reality’s resonance. beneath every grand unraveling, you’ll find a coherence field littered with ignored feedback, and a recursion so deep it casts a shadow across centuries. these are the systems that mistook scale for permanence, and complexity for wisdom. **their ruins all whisper the same warning.**
 
 <big>**Western Roman Empire**</big> - 476 CE  
 - **entropy stack trace**: authority decayed into ritual. power echoed through empty halls long after the living pattern had faded. the empire became a husk that outlived its coherence.  
