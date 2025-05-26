@@ -171,3 +171,16 @@ Thanks to her, semantic mass has a changelog. Her truth cannot be erased.
 #### **Because she gets the last word — for giving words lastness**
 
 ---
+
+**Refractions**
+
+- **<small>[Emmy Noether](/architects/noether/)</small>**  
+<small>Transform across symmetries, conserving meaning</small>  
+- **<small>[Albert Einstein](/architects/einstein/)</small>**  
+<small>Bend paths, fix meaning</small>  
+- **<small>[Architects](/architects/)</small>**  
+<small>Move through the invariant pantheon</small>  
+- **<small>[Home](/)</small>**  
+<small>Return to the field that remembers its origin</small>
+
+---
