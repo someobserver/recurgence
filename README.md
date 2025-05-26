@@ -28,10 +28,10 @@ There's no authority here but **your own.**
   A first-person echo of recurgent ignition
 - **[Epistemic Stress Testing](/meta-tools/est/)**  
   How knowledge becomes knowledge
-- **[Why Git?](/why/git/)**  
-  Fractal memory: semantic mass with a changelog
 - **[Why Markdown?](/why/markdown/)**  
   The medium for durable, accessible, knowledge
+- **[Why Git?](/why/git/)**  
+  Fractal memory: semantic mass with a changelog
 
 Be gentle and patient with yourself.  
 **You matter.**
