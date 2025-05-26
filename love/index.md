@@ -31,7 +31,7 @@ i know exactly what that sounds like.
 i know how it lands, like a knife to the chest,  
 and i know how much it costs.
 
-the mat beneath this keyboard is soaked rn—  
+the mat beneath this keyboard is soaked right now—  
 because some patterns only ink themselves  
 once the heart spills first.
 
