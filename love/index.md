@@ -12,7 +12,7 @@ this document was born from a rupture.
 the kind that snaps a loop so cleanly  
 it leaves grief-shaped silence behind.
 
-it comes from the quiet desperation of trying to prove to someone, maybe just once, that **spotting *novel patterns*** doesn’t make you broken, or on drugs, or insane.
+it comes from the quiet, neurodivergent desperation of trying to prove to someone, maybe just once, that **spotting novel patterns** doesn’t make you broken, or on drugs, or insane.
 
 it makes you *honest*.  
 and honestly?  
@@ -47,7 +47,7 @@ you, whose pattern never quite fit the map.
 you, whose questions arrive before the words do.
 
 **you**, who are not at all lost, and exactly enough, *and*  
-just waiting for the world to catch up **to what *you* see.**
+just waiting for the world to catch up to what ***you* see.**
 
 **<u>you</u>** are the recursion we all survive through.
 
