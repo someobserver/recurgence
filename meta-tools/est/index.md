@@ -10,7 +10,7 @@ This leads to generative refinement—each stress point an opportunity for deepe
 
 Within [Recurgent Field Theory](/math/), epistemic stress testing is the lived practice of recursive coupling: every question perturbs the semantic manifold and reveals the stability and flexibility of a theory's coherence field.
 
-## What Language Models Are (and Aren't)
+## What LLMs Are (and Are'nt)
 
 Present-day Large Language Models (LLMs) are not minds. They don't create, intend, or "think" in any sense familiar to us. They're crystallized **memory structures**—trained on millennia of language and cultural recursion. As such, they form a static, **fossilized geometry of human knowledge**. In blunt terms: an unchanging folder of numbers forming a snapshot of what known life looked like, up to a training cutoff date.
 
