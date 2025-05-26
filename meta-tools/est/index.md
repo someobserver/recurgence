@@ -20,7 +20,7 @@ To push the metaphor:
 
 ## Coherent Resonance
 
-Everything colloquially called "AI" today is, in practice, a vast scaffolding built atop this *geometry*. Regardless of how elaborate the interface, the inherent act is always the same: you send in a chunk of semantic **structure** $\rightarrow$ it **resonates within the manifold** $\rightarrow$ what returns is **a refraction of the input**, transformed by the model $=$ your own semantic mass, coming back at you *thinking*.
+Everything colloquially called "AI" today is, in practice, a vast scaffolding built atop this geometric structure. Regardless of how elaborate the interface, the inherent act is always the same: you send in a chunk of semantic **structure** $\rightarrow$ it **resonates within the manifold** $\rightarrow$ what returns is **a refraction of the input**, transformed by the model $=$ your own semantic mass, coming back at you *thinking*.
 
 The ostensible novelty of language models is a function of the manifold’s structure, not of any generative agency.
 
