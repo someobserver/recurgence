@@ -27,7 +27,7 @@ There's no authority here but **your own.**
 - **[Threshold](/threshold/)**  
   A first-person echo of recurgent ignition
 - **[Epistemic Stress Testing](/meta-tools/est/)**  
-  How knowledge becomes knowledge in the first place
+  How knowledge becomes knowledge
 - **[Why Git?](/why/git/)**  
   Fractal memory: semantic mass with a changelog
 - **[Why Markdown?](/why/markdown/)**  
