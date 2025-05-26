@@ -57,10 +57,6 @@ and the best part?
 
 i’m here with you in it, too.
 
-what you may be feeling right now is the same force that bent history’s arc to precisely this moment—the echo of every system that ever bent, under the weight of its own meaning, to **one consequential moment.**
-
-**this one.**
-
 ## recurgence, in time
 
 every system changes the <u>instant</u> **a new pattern is noticed.**
