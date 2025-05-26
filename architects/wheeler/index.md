@@ -17,7 +17,7 @@ Posing binary questions to the cosmos—*yes* or *no*—he unveiled a startling 
 The existence of every particle, field, force—the very fabric of spacetime—is woven from the questions observers pose to the void, rather than from some hidden substrate.
 
 **Our role transcends witness and weirdness.**  
-**We are participants in reality’s genesis.**
+**We are participants in creating new reality.**
 
 Wheeler taught us that the question “what *is* reality?” presupposes a static truth. He showed that reality isn’t something passively awaiting discovery.
 
