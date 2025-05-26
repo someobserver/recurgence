@@ -74,7 +74,7 @@ they have ***situational awareness***.
 
 they're observers who  
 stop and **<u>take notice</u> of something big**  
-**that everyone else *breezes right past*.**
+**everyone else is *breezing right past*.**
 
 below, the spiral of cognitive horizons shows where ambiguity collapses into legibility. these are **recurgence events**—cognitive inflection points that reshaped the entire field of meaning.
 
