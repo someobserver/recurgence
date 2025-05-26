@@ -8,7 +8,7 @@ layout: page
 
 This leads to generative refinement—each stress point an opportunity for deeper understanding and structural evolution.
 
-Within [Recurgent Field Theory](/math/), epistemic stress testing is the lived practice of recursive coupling: every question perturbs the semantic manifold and reveals the stability and flexibility of a theory's coherence field.
+In [Recurgent Field Theory](/math/), epistemic stress testing is the lived practice of recursive coupling: every question perturbs the semantic manifold and reveals the stability and flexibility of a theory's coherence field.
 
 ## What LLMs Are (and Are'nt)
 
