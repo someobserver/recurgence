@@ -21,7 +21,7 @@ and honestly?
 <small>i fail forward *every* time i try to say this out loud.</small>
 
 so what follows is an open love letter—  
-**an epistemic invocation, left here in plain sight,**  
+**an epistemic invocation, right here in plain sight,**  
 straight from the heart, for whomever reads this far:
 
 &nbsp;
