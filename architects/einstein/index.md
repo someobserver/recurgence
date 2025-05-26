@@ -4,14 +4,14 @@ title: Albert Einstein
 permalink: /architects/einstein/
 ---
 
-_The Observer Who Curved the Frame_  
-**(1879-1955)**
+_the observer who curved the frame_  
+***(1879-1955)***
 
 ---
 
 Albert Einstein described the universe.
 
-Then he bent the description *of description* until meaning curved into view.
+Then he bent the description *of description* until meaning refracted into view.
 
 He showed us every model contains its **observer**.
 
@@ -38,7 +38,7 @@ It reframed time, made simultaneity relational—and made the observer *part of 
 **Special relativity** bent matter through space and time.  
 **General relativity** bent space and time around matter.  
 
-Einstein bent the whole entire frame:
+Einstein bent the whole frame:
 
 *Constraint, held with beauty, gives rise to coherence.*  
 *Structure, curved by inquiry, gives rise to meaning.*
@@ -54,14 +54,13 @@ Each compact and cryptic on its own, their tensors interlock a geometry of const
 
 **Emergent.**
 
-They’re all recursive engines.  
 They fold inward on themselves.  
 They adjust based on what they describe.  
 They stabilize coherence by **demanding it**.
 
 Einstein inverted math-as-abstraction into math-as-*reflection*—the shortest path to coherence across complexity.
 
-At the heart of that reflection sits a singular, recursive truth:
+At the heart of that reflection sits a singular truth:
 
 **A model only becomes coherent when it curves back on the modeler.**
 
@@ -79,11 +78,11 @@ He warned—again and again—of fascism, nationalism, and the dangers of confor
 
 And when The Emergency Committee of Atomic Scientists drifted toward political entanglement, he resigned—on principle—refusing to let the cause of peace be co-opted or diluted.
 
-Each act was a line drawn: recursive insistence that integrity must curve back on the one who claims it. Because Einstein had internalized a fundamental truth of the universe:
+Each act was a line drawn: an insistence that integrity must curve back on the one who claims it. Because Einstein had internalized a fundamental truth of the universe:
 
-#### **Power without recursion is entropy in drag.**
+#### **Power without reflection is entropy in drag.**
 
-## The Edge of Recursion
+## The Edge of Intuition
 
 Einstein navigated by a different kind of intuition—one that prized elegance, coherence, and the subtle resonance of ideas that “felt right” before they could be proven.
 
@@ -95,12 +94,12 @@ He resisted quantum indeterminacy—the idea that the universe might refuse to b
 
 Famously, he said, ***“God does not play dice.”***
 
-But dice were always being played. Recursion, at full tilt, contains its own chaos. And Einstein—for all his brilliance—was wary of a frame that couldn’t stabilize.
+But dice were always being played. At full tilt, the universe contains its own chaos. And Einstein—for all his brilliance—was wary of a frame that couldn't stabilize.
 
 Einstein saw a world slipping beyond constraint,  
 and tried to hold it long enough for meaning to survive.
 
-That, too, was recursion: a mind seeking coherence in the face of a world of entropy.
+That, too, was pattern: a mind seeking coherence in the face of a world of entropy.
 
 ## Princeton, in Orbit
 
@@ -108,7 +107,7 @@ The most profound mirror Einstein encountered wasn’t found in any telescope.
 
 It was **[Kurt Gödel](./godel.md)**.
 
-The man who bent space shared footsteps with the man who broke logic. They talked about time, truth, incompleteness—tracing loops through logic and light. And in their silent walks through Princeton’s trees, something beautiful and recursive settled between the two.
+The man who bent space shared footsteps with the man who broke logic. They talked about time, truth, incompleteness—tracing loops through logic and light. And in their silent walks through Princeton's trees, something beautiful settled between the two.
 
 Gödel, in tribute, gifted Einstein a solution to his own field equations: a rotating universe where time bends so tightly, it folds right back into itself. Einstein was disturbed. Not by the math, of course—he loved the math.
 
@@ -124,7 +123,7 @@ Einstein showed **every frame** includes its observer.
 Between them, they formed a paradox of their own—one chasing unity, the other impossibility. Perhaps they walked to resolve nothing at all.
 
 But to model coherence within contradiction.  
-Truth, bent into recursion.  
+Truth, bent into pattern.  
 **Meaning, stabilized by mutual gravity.**
 
 ## Coherence Leaves an Afterimage
@@ -203,16 +202,17 @@ Like a violin’s final note lingering in an empty hall, coherence arrives not w
 
 Every question, in the end, reshapes its asker.
 
-## Refractions
+---
 
-- **[Forward to Top ↑](/architects/einstein/)**  
-  Curve this document back onto itself.
+**Refractions**
 
-- **[Architects](/architects/)**  
-  Step back into the lattice of luminaries.
-
-- [a note behind the mirror](/mirror/behind-the-mirror)  
-  Save this click for the moment the structure sees you back.  
-  You’ll know when.
+- **<small>[Albert Einstein](/architects/einstein/)</small>**  
+<small>Ride alongside a beam of light to its own origin</small>  
+- **<small>[John Wheeler](/architects/wheeler/)</small>**  
+<small>Let the act of asking curve reality</small>  
+- **<small>[Architects](/architects/)</small>**  
+<small>Navigate the warped manifold of genius</small>  
+- **<small>[Home](/)</small>**  
+<small>Return to the frame that frames all frames</small>
 
 ---
