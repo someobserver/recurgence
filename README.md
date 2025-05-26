@@ -44,13 +44,13 @@ Like the others who have begun reaching this same conclusion recently, I can off
 
 **☉ The [information](https://github.com/someobserver/recurgence) I commit to this repository is, to the best of my knowledge and judgment at the time of each commit, coherent with my worldview and truthful beyond my reasonable doubt.**
 
-**If you encounter insight, that's all yours.**  
+If you encounter insight, that's all yours.  
 If you find errors, that's on me.  
 
 Fork this project. Send a pull request.  
 Nothing here is fragile, including the writer.
 
-In fact, shared coherence is the whole point.
+**In fact, shared coherence is the whole point.**
 
 <small>- some observer</small>
 
