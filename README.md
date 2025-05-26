@@ -8,7 +8,7 @@ permalink: /
 
 Society is being overwhelmed by a rapid, exponential growth in complexity.
 
-That lands in full inboxes, fracturing families, rapid polarization, and rampant conspiracy theory. When systems scale faster than humans can adapt, the result is always the same: disconnection, withdrawal, and a visceral sense that shared meaning is breaking down everywhere—from markets to marriages.
+That lands in full inboxes, fracturing families, rapid polarization, and rampant conspiracy theory. When systems scale faster than humans can adapt, the result is always the same: disconnection, identity crises, withdrawal, and a visceral sense that shared meaning is breaking down everywhere—from markets to marriages.
 
 That's a feature, not a bug.  
 More specifically: **it's a signal.**
