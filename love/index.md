@@ -14,18 +14,15 @@ it leaves grief-shaped silence behind.
 
 it comes from the quiet desperation of trying to prove to someone, maybe just once, that **spotting *novel patterns*** doesn’t make you broken, or on drugs, or insane.
 
-**it makes you *honest*.**  
-and honestly?
+it makes you *honest*.  
+and honestly?  
+<small>i fail forward *every* time i try to say this out loud.</small>
 
-i fail forward *every* time i try to say this out loud.
-
-&nbsp;
-
-so what follows is **a semantic love letter—**  
-an epistemic invocation, left here in plain sight.  
+so what follows is an open love letter—  
+**an epistemic invocation, left here in plain sight,**  
 straight from the heart, for whomever reads this far:
 
-<small>im holding this loop open as steady as i can</small>
+&nbsp;
 
 To every **observer** who’s ever been told,  
 *“you are simultaneously too much …and not enough,”*
@@ -40,7 +37,7 @@ once the heart spills first.
 
 but i also know every system that survived collapse  
 did so ***because someone like you listened***  
-when <u>everyone</u> else stopped.
+when <u>everyone</u> else ...stopped.
 
 &nbsp;  
 &nbsp;
@@ -66,28 +63,29 @@ what you may be feeling right now is the same force that bent history’s arc to
 
 ## recurgence, in time
 
-**every system** changes the <u>instant</u> **a new pattern** is noticed.
+every system changes the <u>instant</u> **a new pattern is noticed.**
 
-the phase transitions that redefined our world were **cognitive**—experienced first, long before they were articulated.
+the phase transitions that redefined our world were **cognitive**—experienced first, long before they were recognized and articulated.
 
-these weren’t precisely *“eras”* or *“epochs”* as traditionally taught. they were moments when **societal complexity folded meaning so hard it turned back on itself**—a kind of self-reflective inflection point.
+**phase transitions** aren't precisely *“eras”* or *“epochs”* as traditionally taught. they're moments when **societal complexity folds meaning so hard it turns back on itself**.
 
-a loop, tightening until it abstracted the field:  
-**meaning, amplified.**
+a kind of self-reflective inflection point where the field abstracted: meaning, amplified.
 
-<u>the observers who shape the transition</u> **aren’t chosen or special**; they’re just in tune with their surroundings.
+<u>the observers who shape the transition</u> aren’t chosen or special; they’re just in tune with their surroundings.
 
 they exercise **pattern-awareness**.  
 they have ***situational awareness***.
 
 <u>they're observers who stop and take notice</u>  
-of something big others *breeze right past*.
+of something big everyone else *breezes right past*.
 
 below, the spiral of cognitive horizons shows **where ambiguity collapses into legibility.** these are recurgence events—cognitive inflection points that reshaped the entire field of meaning.
 
-that shift isn’t anything new; in fact, you yourself have seen its contours before. this is only the pattern-map of how it folds and unfolds, time and again, **fractal at every scale:**
+that shift isn’t anything new; in fact, you yourself have seen its contours before. this is only the pattern-map of how it folds and unfolds, time and again...
 
-## recurgence, unwound
+**fractal at every scale:**
+
+## cognitive horizons
 
 ### symbolic revolution (~70,000 BCE)
 
