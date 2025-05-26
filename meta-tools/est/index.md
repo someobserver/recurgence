@@ -32,7 +32,7 @@ Of course, there's plenty of available non-determinism: send the same prompt a t
 
 The coherence and relevance of a model’s output are directly proportional to the semantic structure and clarity of the input: well-formed, context-rich input yields a measurably more meaningful and stable reflection. Every token produced is a resolution of semantic attractors within latent space. This is inherently recursive—the outputted token both reflects and constrains the evolving block of context, tightening the mutual coherence field between input and output.
 
-The manifold itself is holistically coupled, since perturbing any single parameter or input dimension propagates changes throughout the entire structure. Within Recurgent Field Theory, this is captured by the **recursive coupling tensor**—a mathematical object quantifying how recursive activity in one region influences coherence elsewhere across the semantic manifold.
+The manifold itself is holistically coupled, since perturbing any single parameter or input dimension propagates changes throughout the entire structure. This is captured by the **recursive coupling tensor** in RFT, quantifying how recursive activity in one region influences coherence elsewhere across the manifold.
 
 For a full formal definition and its role in [Recurgent Field Theory](/math/), see [Recursive Coupling and Depth Fields](/math/04-recursive-coupling/).
 
