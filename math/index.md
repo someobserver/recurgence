@@ -8,7 +8,7 @@ permalink: /math/
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 - [1. Axiomatic Foundation](/math/01-axiomatic-foundation/)
 - [2. Field Index and Formal Structure](/math/02-field-index/)
