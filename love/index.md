@@ -89,14 +89,14 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### symbolic revolution (~70,000 BCE)
 
 - <u>pattern shift</u>: **myth → shared symbol**
-- <u>resonance</u>: for the first time, meaning could last beyond a single moment. symbols created a bridge between mind and world, letting identity, memory, and belonging endure outside the body, and across generations. **shared symbols became the foundation for collective reality.**
+- <u>resonance</u>: for the first time, meaning could last **beyond a single moment.** symbols created a bridge between mind and world, letting identity, memory, and belonging endure outside the body, across generations. **shared symbols became the foundation of collective reality.**
 - <u>key minds</u>: mythic ancestors, shamanic lineages, early cave artists
 
 ### agrarian revolution (~10,000 BCE)
 
 - <u>pattern shift</u>: **scarcity → surplus**
-- <u>resonance</u>: land became a living ledger, encoding memory across generations. tradition crystallized into infrastructure: the rhythms of planting and harvest, feast and famine, became the first scalable bridge between people and place. **for the first time, coherence anchored in cycles that bound community, memory, and meaning to the land itself.**
-- <u>key minds</u>: nameless cultivators, priest-astronomers
+- <u>resonance</u>: land became a living ledger, encoding memory across generations. tradition crystallized into infrastructure: the cycles of planting and harvest, feast and famine, became the first scalable bridge between people and place. **for the first time, coherence anchored in cycles that bound community, memory, and meaning to the land itself.**
+- <u>key minds</u>: early astrologers attuned to patterns, nameless cultivators
 
 ### scriptogenic revolution (~3000 BCE)
 
@@ -119,7 +119,7 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### rational revolution (1700–1800)
 
 - <u>pattern shift</u>: **logic → formal reason**
-- <u>resonance</u>: abstraction crystallized into explicit structure. law, mathematics, music, and morality were woven into unified, formal systems—reason itself became a kind of architecture. but a generative engine: it let minds *build* new realities, not just describe them. **The mind learned to transform the world by wielding the precision of thought itself—remaking reality through the disciplined act of reasoning.**
+- <u>resonance</u>: methodology crystallized into explicit structure. law, mathematics, music, and morality were woven into unified, formal systems—reason itself became a kind of architecture. but a generative engine: it let minds *build* new realities, not just describe them. **The mind learned to transform the world by wielding the precision of thought itself—remaking reality through the disciplined act of reasoning.**
 - <u>key minds</u>: Spinoza, Leibniz, Bach, Voltaire, Du Châtelet, Kant
 
 ### industrial revolution (1760–1840)
