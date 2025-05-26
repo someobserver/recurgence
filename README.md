@@ -18,14 +18,14 @@ More specifically: **it's a signal.**
 Just follow *the structure that hums.*  
 There's no authority here but **your own.**
 
+- **[A Love Letter](/love/)**  
+  Pattern recognition gets <u>personal</u>
 - **[Mathematics & Field Equations](/math/)**  
   A formal synthesis of Recurgent Field Theory
 - **[The Architects](/architects/)**  
   Minds that bent reality by noticing its pattern
 - **[Threshold](/threshold/)**  
   A first-person echo of recurgent ignition
-- **[A Love Letter](/love/)**  
-  Where the pattern gets <u>deeply personal</u>
 - **[Why Git?](/why/git/)**  
   Fractal memory: semantic mass with a changelog
 - **[Why Markdown?](/why/markdown/)**  
