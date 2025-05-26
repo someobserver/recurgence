@@ -36,7 +36,9 @@ Be gentle and patient with yourself.
 
 ## Claimer
 
-Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any caveat to ego. I can offer no guarantee of infallibility, just a statement of personal responsibility:
+Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any caveat to ego.
+
+Like the others who are coming to this same conclusion recently, I can offer no guarantee of infallibility, just a statement of personal responsibility:
 
 **☉ The information I commit to this [repository](https://github.com/someobserver/recurgence) is, to the best of my knowledge and judgment at the time of each commit, coherent and truthful beyond my reasonable doubt.**
 
