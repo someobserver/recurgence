@@ -5,7 +5,6 @@ gem "jekyll", "~> 3.9"
 gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
-  gem "jekyll-last-modified-at", "~> 1.3.0"
   gem "jekyll-feed", "~> 0.15"
   gem "jekyll-seo-tag", "~> 2.7"
 end
