@@ -19,4 +19,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
-gem "jekyll-sass-converter", "~> 2.0" 
+gem "jekyll-sass-converter", "~> 1.0" 
