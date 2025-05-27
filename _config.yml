@@ -12,6 +12,9 @@ kramdown:
   input: GFM
   math_engine: mathjax
 
+plugins:
+  - jekyll-last-modified-at
+
 # Exclude from processing
 exclude:
   - .git/
