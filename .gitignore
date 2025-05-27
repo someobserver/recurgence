@@ -13,6 +13,7 @@
 private/
 *.private
 working/
+archive/
 
 # ───────────────────────────────────────────────────────────────
 # MEDIA FILES — Raw Signal, Non-textual, Unstructured
