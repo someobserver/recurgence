@@ -32,7 +32,7 @@ updated_date: 2025-05-27
 
 **Recurgent Field Theory (RFT)** proposes that **recur**sion is the engine of emer**gence**: it drives phase transitions, bifurcations, and the genesis of semantic domains.
 
-Cognition appears as a recursive, generative field—a manifold whose points encode semantic configurations, and whose geometry is shaped by attractors, constraints, and cycles of creative recursion. Recurgent Field Theory (RFT) gives this intuition mathematical form, drawing on the rigor of mathematical physics to construct a field theory of meaning as precise as those describing matter and energy.
+Cognition appears as a recursive, generative field—a manifold whose points encode semantic configurations, and whose geometry is shaped by attractors, constraints, and cycles of creative recursion. Recurgent Field Theory (RFT) gives this intuition mathematical formalism, drawing on the rigor of physics to construct a field theory of meaning as precise as those describing matter and energy.
 
 A semantic manifold $\mathcal{M}$, equipped with a metric $g_{ij}$ and a family of interacting tensor fields, forms the basis of the field equations. Coherence flows, recursive coupling tensors, and semantic mass fields together characterize the local and global dynamics of inter-agent meaning. The theory is built axiomatically: conservation laws, variational principles, and symmetry constraints are adapted from physics and reinterpreted to meet the particular demands of semantic emergence—balancing flexibility, generativity, and constraint.
 
