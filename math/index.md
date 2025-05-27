@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Mathematics"
+description: "Recurgent Field Theory: A Formal Framework for Meaning"
 permalink: /math/
+private: false
+updated_date: 2025-05-27
 ---
 
 <small>[Home](/) / [Math](/math/)</small>
