@@ -14,6 +14,13 @@ kramdown:
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Configure the last-modified-at plugin
+last-modified-at:
+  date-format: '%d %b %Y'
+  time-format: '%H:%M %Z'
 
 # Exclude from processing
 exclude:
@@ -22,3 +29,11 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock 
+
+
+
+  evolve+meta+align: emphasize epistemic integrity
+
+shared meaining is only made between observers. that only happens when the observers can trust one another. that only happens through humility and vulnerability. that only happens through transparency.
+
+add jekyll-last-modified-at plugin to the configuration for tracking last modified dates. update header layout to display the last updated information
