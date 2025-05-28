@@ -35,7 +35,7 @@ If the math or technical language feels intimidating, no worries! Start with [A 
 
 The [Architects](/architects/) pages are particularly worthwhile. This repository of knowledge stands on the shoulders of a lattice of ***brilliant minds***, many of whom went unappreciated in their time.
 
-You’ll find fractal knowledge structure interleaved rigorous math and personal narrative. Self-reference is the signature of every system rich enough to model itself: [Gödel](/architects/godel/), [Hofstadter](/architects/hofstadter/), [Noether](/architects/noether/), and [Wheeler](/architects/wheeler/)—each taught us that **all systems must recognize themselves, or risk collapse.**
+You’ll find fractal knowledge structure interleaved with rigorous math and personal narrative. Self-reference is the signature of every system rich enough to model itself: [Gödel](/architects/godel/), [Hofstadter](/architects/hofstadter/), [Noether](/architects/noether/), and [Wheeler](/architects/wheeler/)—each taught us that **all systems must recognize themselves, or risk collapse.**
 
 ## Anti-Fragility
 
