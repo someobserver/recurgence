@@ -19,7 +19,7 @@ If that's you, then you're battling an out-of-control inbox (increasingly), you'
 
 The good news? You're far from alone.
 
-**Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence thins with equal acceleration, and relationships begin to drift.
+**Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence is thinning with equal acceleration, and relationships are startung to noticeably drift.
 
 Eventually, meaning itself starts to feel like it’s fragmenting in your hands.
 
