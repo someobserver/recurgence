@@ -8,8 +8,6 @@ created_date: 2025-05-27
 updated_date: 2025-05-28
 ---
 
-_reflecting the semantic terrian_
-
 <small>[Home](/) / Explanations</small>
 
 ## Overview
