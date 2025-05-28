@@ -41,3 +41,5 @@ Results show RFT can reproduce observed galactic rotation curves with high preci
 ---
 
 **Note**: All simulation results should be interpreted in the context of the broader Recurgent Field Theory framework as a whole, detailed in the [Mathematics](/math/) section. 
+
+---
