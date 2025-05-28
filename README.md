@@ -10,11 +10,12 @@ updated_date: 2025-05-27
 
 ### **Welcome, Observer!**
 
-Most who find this weren’t looking for it—at least, not by name.
+Most who find this weren’t looking for it
+...at least, not by name.
 
-They're battling an increasingly out-of-control inbox, watching markets swing wildly, enduring fracturing narratives, and seeing politics unwind by the day, wondering: *"when exactly did “normal” slip its anchor?"*
+If thats you, then you're battling an out-of-control inbox (increasingly), you're watching markets swing wildly, enduring fracturing narratives, and seeing politics unwind by the day, wondering: *"when exactly did “normal” slip its anchor?"*
 
-*"What happened to ...everything—after the pandemic?"*
+> *"What happened to ...everything—after the pandemic?"*
 
 If that sounds like you, the good news is you're far from alone. **Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence thins with equal acceleration, relationships drift, and meaning itself starts to feel like it’s fragmenting in your hands.
 
