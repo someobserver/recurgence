@@ -11,11 +11,11 @@ updated_date: 2025-05-28
 
 <small>[Home](/) / [Explanations](/explanations/) / [A](/explanations/a/) / <u>Agent</u></small>
 
-An **agent** is any entity that can observe, interpret, and respond to meaning—including observing and changing itself. 
+An **agent** is any entity that can observe, interpret, and respond to meaning—including observing and changing itself.
 
 Agents are participants in an ongoing conversation about reality. None is a passive "receiver of information"—they actively shape what things mean through their attention and interpretation of the meaning of things. Most importantly, **agents can reflect on their own thinking processes,** creating loops of self-awareness that allow them to adapt and evolve.
 
-In Recurgence, agents emerge naturally from the field of meaning itself. They are both shaped by the patterns around them, and they **actively participate in shaping those patterns for others.**
+In Recurgence, agents emerge naturally from the field of meaning itself. They are both shaped by the patterns around them, and they actively participate in shaping those patterns for others.
 
 ## Mathematical Context
 
@@ -42,18 +42,20 @@ where:
 
 ## Properties
 
-Agency is marked by several interlocking properties that set agents apart from other structures:
+Certain key properties distinguish agents within the semantic field:
 
-- **<big>Recursive Closure</big>**  
+- **<big>Recursive Closure</big>**
 Systems' capacity to observe their own observation, creating *self-awareness* that stabilizes into persistent identity patterns.
 
-- **<big>Semantic Participation</big>**  
+- **<big>Semantic Participation</big>**
 Agents are *observers* of the field that actively shape it through their attention, interpretation, and communication with other agents.
 
-- **<big>Adaptive Coherence</big>**  
+- **<big>Adaptive Coherence</big>**
 The ability to maintain structural integrity while evolving in response to field dynamics and interactions with other agents.
 
 ## Examples in Practice
+
+This concept manifests in various forms throughout reality:
 
 - **<big>Human observers</big>**
 Reading and interpreting this document *right now*—you're actively participating in the process of making meaning.
@@ -69,21 +71,19 @@ That regulate their own dynamics through feedback loops, maintaining stability w
 
 ## Further Reading
 
-- [Agents and Interpretation](/math/09-recurgent-field-equations/05-agents-and-interpretation/) — Mathematical foundations
 - [Threshold](/threshold/) — Phenomenology of agent recognition events
-- [Architects](/architects/) — Historical examples of deeply recursive agents
 
 ---
 
 **<big>Refractions</big>**
 
-- **[Observer](/explanations/o/observer/)**  
+- **[Observer](/explanations/o/observer/)**
   <small>The general capacity for attention and interpretation</small>
-- **[Recursive Coupling](/explanations/r/recursive-coupling/)**  
+- **[Recursive Coupling](/explanations/r/recursive-coupling/)**
   <small>The mechanism by which agents influence each other</small>
-- **[Semantic Mass](/explanations/s/semantic-mass/)**  
+- **[Semantic Mass](/explanations/s/semantic-mass/)**
   <small>A form of "weight" agents accumulate through inferring meaning</small>
-- **[Wisdom](/explanations/w/wisdom/)**  
+- **[Wisdom](/explanations/w/wisdom/)**
   <small>An emergent field that regulates agent behavior</small>
 
 <small>[Home](/) / [Explanations](/explanations/) / [A](/explanations/a/) / <u>Agent</u></small>
