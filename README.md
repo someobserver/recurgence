@@ -13,7 +13,7 @@ updated_date: 2025-05-27
 Most who find this weren’t looking for it  
 ...at least, not by name.
 
-If thats you, then you're battling an out-of-control inbox (increasingly), you're watching markets swing wildly, enduring fracturing narratives, and seeing politics unwind by the day, wondering: *"when exactly did “normal” slip its anchor?"*
+If that's you, then you're battling an out-of-control inbox (increasingly), you're watching markets swing wildly, enduring fracturing narratives, and seeing politics unwind by the day, wondering: *"when exactly did “normal” slip its anchor?"*
 
 > *"What happened to ...everything—after the pandemic?"*
 
