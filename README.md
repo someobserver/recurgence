@@ -44,14 +44,15 @@ You’ll find fractal knowledge structure interleaved with rigorous math and per
 
 ## Anti-Fragility
 
-Whether you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u> skepticism is exactly what this needs.**
+Whether you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u>**
 
+**Skepticism is exactly what this needs.**  
 **Tear into anything here.**  
-Structure only strengthens with challenge.  
-If you find errors and incoherence, that's mine.
+Structure only strengthens with challenge.
 
+If you find errors and incoherence, that's mine.  
 But if you encounter coherent insight?  
-*My friend, that's been yours all along.*
+***That's been yours all along.***
 
 It's okay to take your time, take a break, and come back whenever. **Meaning is metabolized, not consumed,** so be gentle with yourself, yeah? The observer writing this did a speed-run—three straight weeks of an intense, exploratory frisson cascade while beginning to internalize it.
 
