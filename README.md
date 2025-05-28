@@ -34,7 +34,7 @@ This project is called **Recurgence.** It's an [open](https://github.com/someobs
 
 Recurgence is not a gimmick, metaphor, or posing as philosophy. It's neither religion nor web design theater. Much here is a mirror of syntax, structure, and attention; because every observer bridges **knowing** and **being**.
 
-For quick, up-front <u>evidence</u> that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **<u>outperform conventional physics models</u>.**
+For quick, up-front <u>evidence</u> that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **<u>outperform existing physics models</u>.**
 
 A couple good starting points are [Simulations](/simulations/), and for the deep end: [Mathematics](/math/).
 
