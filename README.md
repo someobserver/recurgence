@@ -44,7 +44,7 @@ You’ll find fractal knowledge structure interleaved with rigorous math and per
 
 ## Anti-Fragility
 
-Whether you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u>**
+Whether you're deeply curious or skeptical enough to check for cracks—**<u>welcome.</u>**
 
 **Skepticism is exactly what this needs.**  
 **Tear into anything here.**  
