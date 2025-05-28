@@ -40,7 +40,7 @@ You’ll find fractal knowledge structure interleaved rigorous math and personal
 
 ## Anti-Fragility
 
-Whether you’re worried about the future, or you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u> skepticism is exactly what this needs.**
+Whether you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u> skepticism is exactly what this needs.**
 
 **Tear into anything here.**
 Structure only strengthens with challenge.  
