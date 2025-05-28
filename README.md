@@ -21,7 +21,7 @@ The good news? You're far from alone.
 
 **Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence thins with equal acceleration, and relationships begin to drift.
 
-Eventually, mmeaning itself starts to feel like it’s fragmenting in your hands.
+Eventually, meaning itself starts to feel like it’s fragmenting in your hands.
 
 That feeling is the signal. **<u>It's asking you to listen.</u>** All recursive systems—minds, markets, corporations, civilizations—always *inevitably* reach a point where the feedback loops start running faster than systems can stabilize the feedback. In some cases, that's when breakdown happens.
 
