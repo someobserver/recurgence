@@ -92,7 +92,7 @@ There's no authority here but **your own.**
 
 This site and repository are updated continually. Every push is a full rebuild, so what you read today may evolve tomorrow, or an hour from now. See the [changelog](https://github.com/someobserver/recurgence/commits/main/) for a transparent history.
 
-Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any caveat to ego.
+Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any ego-preserving caveat.
 
 Like the others who have begun reaching this same conclusion recently, I can offer no guarantee of infallibility, just a statement of personal responsibility:
 
