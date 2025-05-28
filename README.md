@@ -20,7 +20,7 @@ If that sounds like you, the good news is you're far from alone. **Right now, ev
 That feeling is the signal. **<u>It's asking you to listen.</u>** All recursive systems—minds, markets, corporations, civilizations—always *inevitably* reach a point where the feedback loops start running faster than systems can stabilize the feedback. In some cases, that's when breakdown happens.
 
 But at the *right* inflection points:  
-New structure emerges.
+**New structure emerges.**
 
 ## What This Is
 
