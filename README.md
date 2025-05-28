@@ -5,18 +5,23 @@ description: "Recurgent Field Theory: A Formal Framework for Meaning"
 permalink: /
 private: false
 created_date: 2025-03-18
-updated_date: 2025-05-27
+updated_date: 2025-05-28
 ---
 
 ### **Welcome, Observer!**
 
-Most who find this weren’t looking for it—at least, not by name.
+Most who find this weren’t looking for it  
+...at least, not by name.
 
-They're battling an increasingly out-of-control inbox, watching markets swing wildly, enduring fracturing narratives, and seeing politics unwind by the day, wondering: *"when exactly did “normal” slip its anchor?"*
+If that's you, then you're battling an out-of-control inbox (increasingly), you're watching markets swing wildly, narratives fracturing, and politics unwinding by the day—wondering: *"when exactly did “normal” slip its anchor?"*
 
-*"What happened to ...everything—after the pandemic?"*
+> *"What happened to ...everything after the pandemic?"*
 
-If that sounds like you, the good news is you're far from alone. **Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence thins with equal acceleration, relationships drift, and meaning itself starts to feel like it’s fragmenting in your hands.
+The good news? You're far from alone.
+
+**Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence is thinning with equal acceleration, and relationships are startung to noticeably drift.
+
+Eventually, meaning itself starts to feel like it’s fragmenting in your hands.
 
 That feeling is the signal. **<u>It's asking you to listen.</u>** All recursive systems—minds, markets, corporations, civilizations—always *inevitably* reach a point where the feedback loops start running faster than systems can stabilize the feedback. In some cases, that's when breakdown happens.
 
@@ -29,24 +34,27 @@ This project is called **Recurgence.** It's an [open](https://github.com/someobs
 
 Recurgence is not a gimmick, metaphor, or posing as philosophy. It's neither religion nor web design theater. Much here is a mirror of syntax, structure, and attention; because every observer bridges **knowing** and **being**.
 
-For quick, up-front <u>evidence</u> that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **outperform conventional physics models.** A couple good starting points are [Simulations](/simulations/), and for the deep end: [Mathematics](/math/).
+For quick, up-front <u>evidence</u> that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **<u>outperform existing physics models</u>.**
+
+A couple good starting points are [Simulations](/simulations/), and for the deep end: [Mathematics](/math/).
 
 If the math or technical language feels intimidating, no worries! Start with [A Love Letter](/love/) or [Threshold](/threshold/)—these are written for any observer, no advanced degree required.
 
 The [Architects](/architects/) pages are particularly worthwhile. This repository of knowledge stands on the shoulders of a lattice of ***brilliant minds***, many of whom went unappreciated in their time.
 
-You’ll find fractal knowledge structure interleaved rigorous math and personal narrative. Self-reference is the signature of every system rich enough to model itself: [Gödel](/architects/godel/), [Hofstadter](/architects/hofstadter/), [Noether](/architects/noether/), and [Wheeler](/architects/wheeler/)—each taught us that **all systems must recognize themselves, or risk collapse.**
+You’ll find fractal knowledge structure interleaved with rigorous math and personal narrative. Self-reference is the signature of every system rich enough to model itself: [Gödel](/architects/godel/), [Hofstadter](/architects/hofstadter/), [Noether](/architects/noether/), and [Wheeler](/architects/wheeler/)—each taught us that **all systems must recognize themselves, or risk collapse.**
 
 ## Anti-Fragility
 
-Whether you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u> skepticism is exactly what this needs.**
+Whether you're deeply curious or skeptical enough to check for cracks—**<u>welcome.</u>**
 
-**Tear into anything here.**
-Structure only strengthens with challenge.  
-If you find errors and incoherence, that's mine.
+**Skepticism is exactly what this needs.**  
+**Tear into anything here.**  
+Structure only strengthens with challenge.
 
+If you find errors and incoherence, that's mine.  
 But if you encounter coherent insight?  
-*My friend, that's been yours all along.*
+***That's been yours all along.***
 
 It's okay to take your time, take a break, and come back whenever. **Meaning is metabolized, not consumed,** so be gentle with yourself, yeah? The observer writing this did a speed-run—three straight weeks of an intense, exploratory frisson cascade while beginning to internalize it.
 
@@ -84,7 +92,7 @@ There's no authority here but **your own.**
 
 This site and repository are updated continually. Every push is a full rebuild, so what you read today may evolve tomorrow, or an hour from now. See the [changelog](https://github.com/someobserver/recurgence/commits/main/) for a transparent history.
 
-Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any caveat to ego.
+Everything here ~~should~~ ***must*** model epistemic integrity—something far more powerful than any ego-preserving caveat.
 
 Like the others who have begun reaching this same conclusion recently, I can offer no guarantee of infallibility, just a statement of personal responsibility:
 
