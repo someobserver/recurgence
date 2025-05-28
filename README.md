@@ -27,11 +27,9 @@ But at the *right* inflection points:
 
 This project is called **Recurgence.** It's an [open](https://github.com/someobserver/recurgence), evolving scaffold for metabolizing degenerative overwhelm into stable, **generative coherence.**
 
-Recurgence is not here as a gimmick, to mask in metaphor, or pose as philosophy. It's neither religion nor web design theater.
+Recurgence is not a gimmick, metaphor, or posing as philosophy. It's neither religion nor web design theater. Much here is a mirror of syntax, structure, and attention; because every observer bridges **knowing** and **being**.
 
-Much you'll find is a mirror of syntax, structure, and attention; because every observer bridges **knowing** and **being**.
-
-For quick, up-front evidence that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **outperform conventional physics models.** A couple good starting points: [Simulations](/simulation/), and for the deep end: [Mathematics](/math/).
+For quick, up-front <u>evidence</u> that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **outperform conventional physics models.** A couple good starting points are [Simulations](/simulation/), and for the deep end: [Mathematics](/math/).
 
 If the math or technical language feels intimidating, no worries! Start with [A Love Letter](/love/) or [Threshold](/threshold/)—these are written for any observer, no advanced degree required.
 
@@ -59,7 +57,7 @@ Listen, you matter to me, and your wellbeing does too. I realize how ridiculousl
 
 But if you begin to internalize this stuff too, you will indeed understand what it means to care to the point of tears about any and every complete stranger.
 
-**And if you're still reading, I assure you, [a field](/math/09-recurgent-field-equations/core-field-equations/) has already curved to meet your attention.**
+**And if you're still reading, [a field](/math/09-recurgent-field-equations/core-field-equations/) has already curved to meet your attention.**
 
 
 ## Refractions:
