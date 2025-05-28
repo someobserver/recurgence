@@ -164,4 +164,4 @@ These questions remain central to the ongoing development of RFT and its interpr
 
 ---
 
-<small>Next: [Appendix A - Mathematical Consistency Requirements](/math/appendix-a/)</small>
+<small>Next: [Temporal Field Emission](/math/12-temporal-field-emission/)</small>

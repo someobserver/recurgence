@@ -24,6 +24,7 @@ updated_date: 2025-05-27
 - [9. Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/)
 - [10. Simulation Architecture](/math/10-simulation-architecture/)
 - [11. Synthesis](/math/11-synthesis/)
+- [12. Temporal Field Emission](/math/12-temporal-field-emission/)
 - [Appendix A](/math/appendix-a/) 
 
 ---
