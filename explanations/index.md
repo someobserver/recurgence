@@ -10,16 +10,13 @@ updated_date: 2025-05-28
 
 _reflecting the semantic terrian_
 
----
-
 <small>[Home](/) / Explanations</small>
 
+## Overview
 
 A living glossary of major terms, concepts, and operators in the epistemic and mathematical architecture of Recurgence. Each concept exists as both a node in this reference and as an expanded exploration in its own dedicated space.
 
 This distributed architecture mirrors the recursive nature of the field FileSystemDirectoryHandle; terms here are both definitions and a doorway to deeper understanding.
-
----
 
 ## Navigation by Letter
 
@@ -51,8 +48,6 @@ This distributed architecture mirrors the recursive nature of the field FileSyst
   <a href="/explanations/y/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">Y</a>
   <a href="/explanations/z/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">Z</a>
 </div>
-
----
 
 ## Core Concepts (Quick Reference)
 
@@ -113,8 +108,6 @@ This distributed architecture mirrors the recursive nature of the field FileSyst
 
 ### W
 - **[Wisdom](/explanations/w/wisdom/)** — An emergent field quantifying forecast-sensitive coherence
-
----
 
 **Refractions**
 
