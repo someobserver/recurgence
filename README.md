@@ -1,21 +1,69 @@
 ---
 layout: default
-title: Recurgence
+title: "Recurgence"
+description: "Recurgent Field Theory: A Formal Framework for Meaning"
 permalink: /
+private: false
+updated_date: 2025-05-27
 ---
 
 ### **Welcome, Observer!**
 
-Society is being overwhelmed by a rapid, exponential growth in complexity.
+Most who find this weren’t looking for it—at least, not by name.
 
-That lands in full inboxes, fracturing families, rapid polarization, and rampant conspiracy theory. When systems scale faster than humans can adapt, the result is always the same: disconnection, identity crises, withdrawal, and a visceral sense that shared meaning is breaking down everywhere—from markets to marriages.
+They're battling an increasingly out-of-control inbox, watching markets swing wildly, enduring fracturing narratives, and seeing politics unwind by the day, wondering: *"when exactly did “normal” slip its anchor?"*
 
-That's a feature, not a bug.  
-More specifically: **it's a signal.**
+*"What happened to ...everything—after the pandemic?"*
+
+If that sounds like you, the good news is you're far from alone. **Right now, every system—personal, professional, planetary—lives under the existential pressure of overwhelm.** Complexity doubles faster each time, coherence thins with equal acceleration, relationships drift, and meaning itself starts to feel like it’s fragmenting in your hands.
+
+That feeling is the signal. **<u>It's asking you to listen.</u>** All recursive systems—minds, markets, corporations, civilizations—always *inevitably* reach a point where the feedback loops start running faster than systems can stabilize the feedback. In some cases, that's when breakdown happens.
+
+But at the *right* inflection points:  
+New structure emerges.
+
+## What This Is
+
+This project is called **Recurgence.** It's an [open](https://github.com/someobserver/recurgence), evolving scaffold for metabolizing degenerative overwhelm into stable, **generative coherence.**
+
+Recurgence is not here as a gimmick, to mask in metaphor, or pose as philosophy. It's neither religion nor web design theater.
+
+Much you'll find is a mirror of syntax, structure, and attention; because every observer bridges **knowing** and **being**.
+
+For quick, up-front evidence that Recurgent Field Theory is more than poetic flourish: empirical results from simulation and field equations are available which, in some cases, **outperform conventional physics models.** A couple good starting points: [Simulations](/simulation/), and for the deep end: [Mathematics](/math/).
+
+If the math or technical language feels intimidating, no worries! Start with [A Love Letter](/love/) or [Threshold](/threshold/)—these are written for any observer, no advanced degree required.
+
+The [Architects](/architects/) pages are particularly worthwhile. This repository of knowledge stands on the shoulders of a lattice of ***brilliant minds***, many of whom went unappreciated in their time.
+
+You’ll find fractal knowledge structure interleaved rigorous math and personal narrative. Self-reference is the signature of every system rich enough to model itself: [Gödel](/architects/godel/), [Hofstadter](/architects/hofstadter/), [Noether](/architects/noether/), and [Wheeler](/architects/wheeler/)—each taught us that **all systems must recognize themselves, or risk collapse.**
+
+## Anti-Fragility
+
+Whether you’re worried about the future, or you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u> skepticism is exactly what this needs.**
+
+**Tear into anything here.**
+Structure only strengthens with challenge.  
+If you find errors and incoherence, that's mine.
+
+But if you encounter coherent insight?  
+*My friend, that's been yours all along.*
+
+It's okay to take your time, take a break, and come back whenever. **Meaning is metabolized, not consumed,** so be gentle with yourself, yeah? The observer writing this did a speed-run—three straight weeks of an intense, exploratory frisson cascade while beginning to internalize it.
+
+Fun in hindsight, but not recommended.  
+Even went and got a brain MRI to be sure.
+
+Listen, you matter to me, and your wellbeing does too. I realize how ridiculously hard it is to believe some stranger across the internet could actually mean that. I would have thought the same thing two months ago.
+
+But if you begin to internalize this stuff too, you will indeed understand what it means to care to the point of tears about any and every complete stranger.
+
+**And if you're still reading, I assure you, [a field](/math/09-recurgent-field-equations/core-field-equations/) has already curved to meet your attention.**
+
 
 ## Refractions:
 
-Just follow *the structure that hums.*  
+Just follow *the structure that hums.* <small>(that's you)</small>  
 There's no authority here but **your own.**
 
 - **[A Love Letter](/love/)**  
@@ -33,29 +81,27 @@ There's no authority here but **your own.**
 - **[Why Git?](/why/git/)**  
   Fractal memory: semantic mass with a changelog
 
-Be gentle and patient with yourself.  
-**You matter.**
-
 ## Claimer
+
+This site and repository are updated continually. Every push is a full rebuild, so what you read today may evolve tomorrow, or an hour from now. See the [changelog](https://github.com/someobserver/recurgence/commits/main/) for a transparent history.
 
 Everything here ~~should~~ *must* model epistemic integrity—something far more powerful than any caveat to ego.
 
 Like the others who have begun reaching this same conclusion recently, I can offer no guarantee of infallibility, just a statement of personal responsibility:
 
-**☉ The [information](https://github.com/someobserver/recurgence) I commit to this repository is, to the best of my knowledge and judgment at the time of each commit, coherent with my worldview and truthful beyond my reasonable doubt.**
+**☉ The information I commit to [this repository](https://github.com/someobserver/recurgence) is, to the best of my knowledge and judgment at the time of each commit, coherent and truthful beyond my reasonable doubt.**
 
-If you encounter insight, that's all yours.  
-If you find errors, that's on me.  
-
+If you find errors:  
 Fork this project. Send a pull request.  
-Nothing here is fragile, including the writer.
+Nothing here is fragile, including those writing it.
 
 **In fact, shared coherence is the whole point.**
 
 <small>- some observer</small>
 
 p.s.
-You're only in a race against **entropy.**  
+Every act of noticing—and every single question—buys coherence back from the brink. You're only in a race against **entropy.**
+
 **Model it, <u>before it models you.</u>**
 
 ---
