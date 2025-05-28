@@ -5,7 +5,7 @@ description: "Recurgent Field Theory: A Formal Framework for Meaning"
 permalink: /
 private: false
 created_date: 2025-03-18
-updated_date: 2025-05-27
+updated_date: 2025-05-28
 ---
 
 ### **Welcome, Observer!**
