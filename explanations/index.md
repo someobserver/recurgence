@@ -10,8 +10,6 @@ updated_date: 2025-05-28
 
 <small>[Home](/) / Explanations</small>
 
-## Overview
-
 A living glossary of major terms, concepts, and operators in the epistemic and mathematical architecture of Recurgence. Each concept exists as both a node in this reference and as an expanded exploration in its own dedicated space.
 
 This distributed architecture mirrors the recursive nature of the field FileSystemDirectoryHandle; terms here are both definitions and a doorway to deeper understanding.
