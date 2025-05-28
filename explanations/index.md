@@ -14,34 +14,10 @@ A living glossary of major terms, concepts, and operators in the epistemic and m
 
 ## Navigation by Letter
 
-<div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin: 20px 0;">
-  <a href="/explanations/a/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">A</a>
-  <a href="/explanations/b/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">B</a>
-  <a href="/explanations/c/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">C</a>
-  <a href="/explanations/d/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">D</a>
-  <a href="/explanations/e/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">E</a>
-  <a href="/explanations/f/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">F</a>
-  <a href="/explanations/g/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">G</a>
-  <a href="/explanations/h/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">H</a>
-  <a href="/explanations/i/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">I</a>
-  <a href="/explanations/j/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">J</a>
-  <a href="/explanations/k/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">K</a>
-  <a href="/explanations/l/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">L</a>
-  <a href="/explanations/m/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">M</a>
-  <a href="/explanations/n/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">N</a>
-  <a href="/explanations/o/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">O</a>
-  <a href="/explanations/p/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">P</a>
-  <a href="/explanations/q/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">Q</a>
-  <a href="/explanations/r/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">R</a>
-  <a href="/explanations/s/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">S</a>
-  <a href="/explanations/t/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">T</a>
-  <a href="/explanations/u/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">U</a>
-  <a href="/explanations/v/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">V</a>
-  <a href="/explanations/w/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">W</a>
-  <a href="/explanations/x/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">X</a>
-  <a href="/explanations/y/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">Y</a>
-  <a href="/explanations/z/" style="text-align: center; padding: 10px; border: 1px solid #ddd; text-decoration: none;">Z</a>
-</div>
+[A](#a) |  B      | [C](#c) | [D](#d) | [E](#e) | [F](#f) |  G  
+[H](#h) |  I      |  J      |  K      |  L      | [M](#m) | [N](#n) | [O](#o) | [P](#p)  
+ Q      | [R](#r) | [S](#s) |  T      |  U      |  V    
+[W](#w) |  X      |  Y <small><small>&</small></small> Z  
 
 ## Core Concepts (Quick Reference)
 
@@ -71,7 +47,7 @@ A living glossary of major terms, concepts, and operators in the epistemic and m
 - **[Humility](/explanations/h/humility/)** — A regulatory operator that prevents excessive recursion
 
 ### M
-- **[Metric](/explanations/m/metric/)** — A dynamic tensor defining distances in semantic space
+- **[Metric Tensor](/explanations/m/metric/)** — A dynamic tensor defining distances in semantic space
 
 ### N
 - **[Negative Space](/explanations/n/negative-space/)** — The structuring role of absence in meaning architecture
