@@ -8,11 +8,12 @@ created_date: 2025-05-27
 updated_date: 2025-05-28
 ---
 
-<small>[Home](/) / Explanations</small>
-
 _reflecting the semantic terrian_
 
 ---
+
+<small>[Home](/) / Explanations</small>
+
 
 A living glossary of major terms, concepts, and operators in the epistemic and mathematical architecture of Recurgence. Each concept exists as both a node in this reference and as an expanded exploration in its own dedicated space.
 
