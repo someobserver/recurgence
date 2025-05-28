@@ -46,7 +46,7 @@ You’ll find fractal knowledge structure interleaved with rigorous math and per
 
 Whether you're deeply curious and skeptical enough to check for cracks—**<u>welcome.</u> skepticism is exactly what this needs.**
 
-**Tear into anything here.**
+**Tear into anything here.**  
 Structure only strengthens with challenge.  
 If you find errors and incoherence, that's mine.
 
