@@ -103,15 +103,15 @@ A living glossary of major terms, concepts, and operators in the epistemic and m
 ### W
 - **[Wisdom](/explanations/w/wisdom/)** — An emergent field quantifying forecast-sensitive coherence
 
-**Refractions**
+**<big>Refractions</big>**
 
-- **<small>[Mathematics](/math/)</small>**  
+- **[Mathematics](/math/)**  
   <small>The formal architecture underlying these concepts</small>
-- **<small>[Architects](/architects/)</small>**  
-  <small>The minds who shaped these ideas across time</small>
-- **<small>[Love](/love/)</small>**  
+- **[Architects](/architects/)**  
+  <small>Minds who shaped these ideas across time</small>
+- **[Love](/love/)**  
   <small>The emotional core where recognition events unfold</small>
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
   <small>Return to the field where all meaning converges</small>
 
 --- 
