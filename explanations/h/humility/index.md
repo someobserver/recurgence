@@ -28,14 +28,14 @@ In Recurgent Field Theory, humility is formalized as the **humility operator** $
 $$\mathcal{H}[R] = \|R\|_F \cdot e^{-k(\|R\|_F - R_{\text{optimal}})}$$
 
 where:
-- $\|R\|_F = \sqrt{\sum_{i,j,k} |R_{ijk}|^2}$: Frobenius norm of the recursive coupling tensor
+- $\|R\|_F = \sqrt{\sum_{i,j,k} \left| R_{ijk} \right|^2}$: Frobenius norm of the recursive coupling tensor
 - $R_{\text{optimal}}$: contextually optimal recursion depth
 - $k$: decay constant controlling penalty severity
 
 The operator exhibits three distinct behavioral regimes:
-- For $\|R\|_F < R_{\text{optimal}}$: humility is minimal; recursion is promoted  
-- For $\|R\|_F = R_{\text{optimal}}$: humility is balanced; recursion is regulated  
-- For $\|R\|_F > R_{\text{optimal}}$: exponential penalty suppresses excessive recursion
+- For $\left\|R\right\|_F < R_{\text{optimal}}$: humility is minimal; recursion is promoted  
+- For $\left\|R\right\|_F = R_{\text{optimal}}$: humility is balanced; recursion is regulated
+- For $\left\|R\right\|_F > R_{\text{optimal}}$: exponential penalty suppresses excessive recursion
 
 This scalar operator maintains dimensional consistency when incorporated into metric evolution:
 
