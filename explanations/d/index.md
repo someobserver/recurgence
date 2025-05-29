@@ -10,7 +10,7 @@ updated_date: 2025-05-28
 
 <small>[Home](/) / [Explanations](/explanations/) / <u>D</u></small>
 
-Core concepts are listed with a quick explanation.
+Core concepts are listed with a summary.
 
 Each term links to a dedicated page with formalisms and a thorough explanation of how it fits into the larger manifold of Recurgence.
 
