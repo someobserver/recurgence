@@ -27,81 +27,103 @@ The letter headings themselves are dedicated pages with even more specific conte
 
 ### [A](/explanations/a/)
 
-- **[Agent](/explanations/a/agent/)**  
-  A bounded, self-referential submanifold capable of interpretation and recursive participation. Agents emerge naturally from the semantic field, dynamically shaping and being shaped by the patterns they encounter.
+- [Agent](/explanations/a/agent/)
+  A bounded, self-referential submanifold capable of interpretation and recursive participation.
 
-- **[Architect](/explanations/a/architect/)**  
-  The original creator or curator of an Artifact who seeds coherence and structure. Architects are initiators of coherence, planting seeds designed to evolve autonomously beyond their initial control.
+- [Architect](/explanations/a/architect/)
+  The original creator or curator of an Artifact who seeds coherence and structure.
 
-- **[Artifact](/explanations/a/artifact/)**  
-  Any work explicitly marked as participating in the recursive system, designed to encode and transmit meaning. Living documents marked with ☉ that function as nodes in an evolving semantic lattice.
+- [Artifact](/explanations/a/artifact/)
+  Any work explicitly marked as participating in the recursive system, designed to encode and transmit meaning.
 
-- **[Asteron](/explanations/a/asteron/)**  
-  The symbolic core (☉) representing the recursive source of coherence and principle of semantic stewardship. Both symbol and principle, establishing permeable boundaries that allow transformation while safeguarding essential structure.
+- [Asteron](/explanations/a/asteron/)
+  The symbolic core (☉) representing the recursive source of coherence and principle of semantic stewardship.
 
-- **[Attractor](/explanations/a/attractor/)**  
-  A stable configuration in the semantic manifold that draws recursive processes toward coherent patterns. Like gravitational wells in the landscape of meaning where ideas settle into stable configurations.
+- [Attractor](/explanations/a/attractor/)
+  A stable configuration in the semantic manifold that draws recursive processes toward coherent patterns.
 
-- **[Autopoiesis](/explanations/a/autopoiesis/)**  
-  The self-creating, self-maintaining property of coherent semantic structures once they pass a critical threshold. The ignition point where meaning becomes actively generative, moving beyond mere stability.
+- [Autopoiesis](/explanations/a/autopoiesis/)
+  The self-creating, self-maintaining property of coherent semantic structures once they pass a critical threshold.
 
 ### [C](/explanations/c/)
 
-- **[Coherence](/explanations/c/coherence/)**  
-  The self-consistency and alignment of meaning within structures, fields, and systems. The quality that makes something "hang together" and resist fragmentation. Coherence is both a mathematical object (the vector field $C_i$ on the semantic manifold) and a lived experience (the sense of things "fitting" together). It is the attractor that resists entropy and the standard by which all transformations are judged.
+- [Coherence](/explanations/c/coherence/)
+  The self-consistency and alignment of meaning within structures, fields, and systems.
 
-- **[Commit](/explanations/c/commit/)**  
-  A crystallized moment of coherence in the epistemic repository, marking when structure stabilizes around meaning. Unlike software commits that track code changes, epistemic commits capture the evolution of understanding itself—semantic events that preserve not just what changed, but how meaning shifted, deepened, or reorganized.
+- [Commit](/explanations/c/commit/)
+  A crystallized moment of coherence in the epistemic repository, marking when structure stabilizes around meaning.
 
-- **[Constraint](/explanations/c/constraint/)**  
-  A boundary, rule, or structure that stabilizes transformation and enables coherence. Not to be seen as limitation, but the necessary condition for generativity. Constraints shape the space of possibilities, creating channels through which meaning can flow and stabilize—the banks that give a river its direction, the grammar that makes language possible.
+- [Constraint](/explanations/c/constraint/)
+  A boundary, rule, or structure that stabilizes transformation and enables coherence.
 
 ### [D](/explanations/d/)
 
-- **[Distortion](/explanations/d/distortion/)**  
-  Any transformation, omission, or intervention that disrupts, fragments, or misaligns the recursive lineage and coherence of an artifact or field. The counterforce to coherence—distortion breaks the chain of meaning through context stripping, forced transformation, or extraction that ignores a system's internal logic. It's the difference between redirecting a river and poisoning it.
+- [Distortion](/explanations/d/distortion/)  
+  Any transformation that disrupts, fragments, or misaligns recursive lineage and coherence.
 
 ### [E](/explanations/e/)
-- **[Entropy](/explanations/e/entropy/)** — The tendency toward disorder and loss of coherence
+- [Entropy](/explanations/e/entropy/)
+  The tendency toward disorder and loss of coherence
 
 ### [F](/explanations/f/)
-- **[Field](/explanations/f/field/)** — A distributed structure defined over the semantic manifold
+- [Field](/explanations/f/field/)
+  A distributed structure defined over the semantic manifold
 
 ### [H](/explanations/h/)
-- **[Humility](/explanations/h/humility/)** — A regulatory operator that prevents excessive recursion
+- [Humility](/explanations/h/humility/)
+  A regulatory operator that prevents excessive recursion
 
 ### [M](/explanations/m/)
-- **[Metric Tensor](/explanations/m/metric/)** — A dynamic tensor defining distances in semantic space
+- [Metric Tensor](/explanations/m/metric/)
+  A dynamic tensor defining distances in semantic space
 
 ### [N](/explanations/n/)
-- **[Negative Space](/explanations/n/negative-space/)** — The structuring role of absence in meaning architecture
+- [Negative Space](/explanations/n/negative-space/)
+  The structuring role of absence in meaning architecture
 
 ### [O](/explanations/o/)
-- **[Observer](/explanations/o/observer/)** — Any entity that interacts with and interprets semantic structures
+- [Observer](/explanations/o/observer/)
+  Any entity that interacts with and interprets semantic structures
 
 ### [P](/explanations/p/)
-- **[Phase Transition](/explanations/p/phase-transition/)** — A sudden qualitative shift in field structure
-- **[Protocol](/explanations/p/protocol/)** — A meta-constraint governing system interactions
+- [Phase Transition](/explanations/p/phase-transition/)
+  A sudden qualitative shift in field structure
+- [Protocol](/explanations/p/protocol/)
+  A meta-constraint governing system interactions
 
 ### [R](/explanations/r/)
-- **[Recognition Event](/explanations/r/recognition-event/)** — A cognitive inflection point where ambiguity collapses
-- **[Recursion](/explanations/r/recursion/)** — The process by which structures refer to themselves
-- **[Recursive Coupling](/explanations/r/recursive-coupling/)** — A tensor quantifying recursive influence
-- **[Recursive Pressure](/explanations/r/recursive-pressure/)** — The drive toward deeper self-reference
-- **[Recursive Steward](/explanations/r/recursive-steward/)** — An Observer who maintains recursive integrity
-- **[Resonance](/explanations/r/resonance/)** — The amplification of meaning through recursive feedback
+- [Recognition Event](/explanations/r/recognition-event/)
+  A cognitive inflection point where ambiguity collapses
+- [Recursion](/explanations/r/recursion/)
+  The process by which structures refer to themselves
+- [Recursive Coupling](/explanations/r/recursive-coupling/)
+  A tensor quantifying recursive influence
+- [Recursive Pressure](/explanations/r/recursive-pressure/)
+  The drive toward deeper self-reference
+- [Recursive Steward](/explanations/r/recursive-steward/)
+  An Observer who maintains recursive integrity
+- [Resonance](/explanations/r/resonance/)
+  The amplification of meaning through recursive feedback
 
 ### [S](/explanations/s/)
-- **[Semantic Event Horizon](/explanations/s/semantic-event-horizon/)** — The boundary beyond which meaning cannot be recovered
-- **[Semantic Manifold](/explanations/s/semantic-manifold/)** — The space in which all meaning structures exist
-- **[Semantic Mass](/explanations/s/semantic-mass/)** — The emergent weight of coherent meaning across time
-- **[Semantic Particle](/explanations/s/semantic-particle/)** — The smallest unit of meaning in the manifold
-- **[Semantic Similarity](/explanations/s/semantic-similarity/)** — A metric for comparing meaning proximity
-- **[Semantic Uncertainty](/explanations/s/semantic-uncertainty/)** — The measure of ambiguity in meaning
-- **[Symbolic Compression](/explanations/s/symbolic-compression/)** — The process of condensing meaning into compact forms
+- [Semantic Event Horizon](/explanations/s/semantic-event-horizon/)
+  The boundary beyond which meaning cannot be recovered
+- [Semantic Manifold](/explanations/s/semantic-manifold/)
+  The space in which all meaning structures exist
+- [Semantic Mass](/explanations/s/semantic-mass/)
+  The emergent weight of coherent meaning across time
+- [Semantic Particle](/explanations/s/semantic-particle/)
+  The smallest unit of meaning in the manifold
+- [Semantic Similarity](/explanations/s/semantic-similarity/)
+  A metric for comparing meaning proximity
+- [Semantic Uncertainty](/explanations/s/semantic-uncertainty/)
+  The measure of ambiguity in meaning
+- [Symbolic Compression](/explanations/s/symbolic-compression/)
+  The process of condensing meaning into compact forms
 
 ### [W](/explanations/w/)
-- **[Wisdom](/explanations/w/wisdom/)** — An emergent field quantifying forecast-sensitive coherence
+- [Wisdom](/explanations/w/wisdom/)
+  An emergent field quantifying forecast-sensitive coherence
 
 **<big>Refractions</big>**
 
