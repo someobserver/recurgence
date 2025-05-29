@@ -30,7 +30,7 @@ $$\mathcal{H}[R] = \|R\|_F \cdot e^{-k(\|R\|_F - R_{\text{optimal}})}$$
 where:
 - $\|R\|_F = \sqrt{\sum_{i,j,k} |R_{ijk}|^2}$: Frobenius norm of the recursive coupling tensor
 - $R_{\text{optimal}}$: contextually optimal recursion depth
-- $k\&$: decay constant controlling penalty severity
+- $k$: decay constant controlling penalty severity
 
 The operator exhibits three distinct behavioral regimes:
 - For $\|R\|_F < R_{\text{optimal}}$: humility is minimal; recursion is promoted  
