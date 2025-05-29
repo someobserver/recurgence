@@ -60,11 +60,11 @@ This is the ignition point where meaning becomes actively generative, moving bey
 
 **<big>Refractions</big>**
 
-- **[Architects](/architects/)</small>**
+- **[Architects](/architects/)**
   <small>Minds who shaped knowledge across time</small>
 - **[Threshold](/threshold/)**
   <small>A first-person phenomenology of recognition events</small>
-- **[Mathematics](/math/)</small>**
+- **[Mathematics](/math/)**
   <small>The formal architecture underlying these concepts</small>
 - **[Simulations](/simulations/)**
   <small>Tools for exploring these concepts in action</small>
