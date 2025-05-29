@@ -63,7 +63,7 @@ The letter headings themselves are dedicated pages with even more specific conte
 
 ### [E](/explanations/e/)
 - [Entropy](/explanations/e/entropy/)
-  The tendency toward disorder and loss of coherence
+  The universal tendency toward disorder, fragmentation, and loss of coherence within systems.
 
 ### [F](/explanations/f/)
 - [Field](/explanations/f/field/)
