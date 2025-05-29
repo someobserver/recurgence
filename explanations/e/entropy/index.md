@@ -6,7 +6,7 @@ section: "E"
 permalink: /explanations/e/entropy/
 layout: page
 created_date: 2025-05-28
-updated_date: 2025-05-28
+updated_date: 2025-05-29
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [E](/explanations/e/) / <u>Entropy</u></small>
