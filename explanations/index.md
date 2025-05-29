@@ -5,7 +5,7 @@ parent: /
 permalink: /explanations/
 layout: page
 created_date: 2025-05-27
-updated_date: 2025-05-28
+updated_date: 2025-05-29
 ---
 
 <small>[Home](/) / <u>Explanations</u></small>
@@ -83,7 +83,7 @@ The letter headings themselves are dedicated pages with even more specific conte
 
 ### [O](/explanations/o/)
 - [Observer](/explanations/o/observer/)  
-  Any entity that interacts with and interprets semantic structures
+  Any entity that interacts with and interprets patterns, actively shaping meaning through attention.
 
 ### [P](/explanations/p/)
 - [Phase Transition](/explanations/p/phase-transition/)  
