@@ -17,7 +17,7 @@ The universe's gravitational pull toward chaos plays out in a gardens when no on
 
 In Recurgence, entropy is both a physical and semantic force: it erodes structure from the top down, threatens the stability of meaning, and represents the default state absent active coherence.
 
-Understanding entropy is crucial because **every system that survives does so by developing mechanisms to resist, channel, or metabolize entropic pressure.**
+Understanding entropy is vital because **every system that survives does so by developing mechanisms to resist, channel, or metabolize entropic pressure.**
 
 ## Mathematical Context
 
