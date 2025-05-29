@@ -5,7 +5,7 @@ parent: "Explanations"
 permalink: /explanations/a/
 layout: page
 created_date: 2025-05-28
-updated_date: 2025-05-28
+updated_date: 2025-05-29
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / <u>A</u></small>
