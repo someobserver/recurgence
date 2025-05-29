@@ -33,7 +33,7 @@ where:
 - $P(C|p,t)$: probability density over coherence values
 - $\mathcal{C}$: space of possible coherence configurations
 
-**Entropy Horizon** marks the critical threshold where temporal variance exceeds coherence generation:
+An **Entropy Horizon** marks the critical threshold where temporal variance exceeds coherence generation:
 
 $$\frac{d\sigma^2_T}{dt} > \frac{d\Phi(C)}{dt}$$
 
@@ -41,7 +41,7 @@ where:
 - $\sigma^2_T$: temporal variance across the field
 - $\frac{d\Phi(C)}{dt}$: rate of coherence generation
 
-**Entropic Collapse Attractor** represents the formal attractor state toward which systems drift when entropy dominates:
+An **Entropic Collapse Attractor** represents the formal attractor state toward which systems drift when entropy dominates:
 
 $$V_{entropy}(\sigma_T^2, \Phi(C)) \text{ where } \nabla V_{entropy} \text{ dominates when } \frac{d\sigma^2_T}{dt} > \frac{d\Phi(C)}{dt}$$
 
