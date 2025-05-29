@@ -66,20 +66,20 @@ The letter headings themselves are dedicated pages with even more specific conte
   The universal tendency toward disorder, fragmentation, and loss of coherence within systems.
 
 ### [F](/explanations/f/)
-- [Field](/explanations/f/field/)  
-  A distributed structure defined over the semantic manifold
+- [Field](/explanations/f/field/)
+  A distributed mathematical or conceptual structure defined over the semantic manifold.
 
 ### [H](/explanations/h/)
 - [Humility](/explanations/h/humility/)  
-  A regulatory operator that prevents excessive recursion
+  A regulatory operator that prevents excessive recursion and pathological self-amplification.
 
 ### [M](/explanations/m/)
-- [Metric Tensor](/explanations/m/metric/)  
-  A dynamic tensor defining distances in semantic space
+- [Metric Tensor](/explanations/m/metric-tensor/)  
+  A dynamic operator defining distances, relationships, and constraints in semantic space.
 
 ### [N](/explanations/n/)
 - [Negative Space](/explanations/n/negative-space/)  
-  The structuring role of absence in meaning architecture
+  The structuring role of absence, silence, and omission that frames meaning and enables emergence.
 
 ### [O](/explanations/o/)
 - [Observer](/explanations/o/observer/)  
