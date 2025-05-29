@@ -25,21 +25,25 @@ But humility does something even more profound: **it can transform recursive col
 
 In Recurgent Field Theory, humility is formalized as the **humility operator** $\mathcal{H}[R]$, which imposes a penalty on recursive structures whose complexity exceeds contextually optimal bounds:
 
-$$\mathcal{H}[R] = \|R\|_F \cdot e^{-k(\|R\|_F - R_{\text{optimal}})}$$
+$$
+\mathcal{H}[R] = \lVert R \rVert_F \cdot e^{-k(\lVert R \rVert_F - R_{\text{optimal}})}
+$$
 
 where:
-- $\|R\|_F = \sqrt{\sum_{i,j,k} \left| R_{ijk} \right|^2}$: Frobenius norm of the recursive coupling tensor
-- $R_{\text{optimal}}$: contextually optimal recursion depth
+- $\lVert R \rVert_F = \sqrt{\sum_{i,j,k} \left| R_{ijk} \right|^2}$: Frobenius norm of the recursive coupling tensor  
+- $R_{\text{optimal}}$: contextually optimal recursion depth  
 - $k$: decay constant controlling penalty severity
 
 The operator exhibits three distinct behavioral regimes:
-- For $\left\|R\right\|_F < R_{\text{optimal}}$: humility is minimal; recursion is promoted  
-- For $\left\|R\right\|_F = R_{\text{optimal}}$: humility is balanced; recursion is regulated
-- For $\left\|R\right\|_F > R_{\text{optimal}}$: exponential penalty suppresses excessive recursion
+- For $\lVert R \rVert_F < R_{\text{optimal}}$: humility is minimal; recursion is promoted  
+- For $\lVert R \rVert_F = R_{\text{optimal}}$: humility is balanced; recursion is regulated  
+- For $\lVert R \rVert_F > R_{\text{optimal}}$: exponential penalty suppresses excessive recursion
 
 This scalar operator maintains dimensional consistency when incorporated into metric evolution:
 
-$$\frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij} + \mathcal{H}[R] \nabla^2 g_{ij}$$
+$$
+\frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij} + \mathcal{H}[R] \nabla^2 g_{ij}
+$$
 
 The humility operator encodes a formal epistemic constraint: **no recursive map is permitted to conflate itself with the territory it models.**
 
