@@ -30,9 +30,16 @@ $$
 $$
 
 where:
-- $\lVert R \rVert_F = \sqrt{\sum_{i,j,k} \left| R_{ijk} \right|^2}$ is the Frobenius norm of the recursive coupling tensor  
+- $\lVert R \rVert_F$ is defined as:
+
+  $$
+  \lVert R \rVert_F = \sqrt{\sum_{i,j,k} \left| R_{ijk} \right|^2}
+  $$
+
+  the Frobenius norm of the recursive coupling tensor
+
 - $R_{\text{optimal}}$ is the contextually optimal recursion depth  
-- $k$ is tge decay constant controlling penalty severity
+- $k$ is the decay constant controlling penalty severity
 
 The operator exhibits three distinct behavioral regimes:
 - For $\lVert R \rVert_F < R_{\text{optimal}}$: humility is minimal; recursion is promoted  
