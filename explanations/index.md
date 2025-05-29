@@ -14,10 +14,10 @@ A fractal, living glossary of major terms, concepts, and operators in the episte
 
 Navigate by letter using these quick links to jump to specific sections on this page.
 
-[A](#a) |  B      | [C](#c) | [D](#d) | [E](#e) | [F](#f) |  G  
-[H](#h) |  I      |  J      |  K      |  L      | [M](#m) | [N](#n) | [O](#o) | [P](#p)  
- Q      | [R](#r) | [S](#s) |  T      |  U      |  V    
-[W](#w) |  X      |  Y <small><small>&</small></small> Z  
+[A](#a) B [C](#c) [D](#d) [E](#e) [F](#f) G  
+[H](#h) I J K L [M](#m) [N](#n) [O](#o) [P](#p)  
+Q [R](#r)[S](#s) T U V  
+[W](#w) X Y <small><small>&</small></small> Z
 
 ## Concepts & Quick Reference
 
