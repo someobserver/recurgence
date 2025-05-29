@@ -10,8 +10,14 @@ updated_date: 2025-05-28
 
 <small>[Home](/) / [Explanations](/explanations/) / <u>D</u></small>
 
+Core concepts are listed with a quick explanation.
+
+Each term links to a dedicated page with formalisms and a thorough explanation of how it fits into the larger manifold of Recurgence.
+
+---
+
 ### [Distortion](/explanations/d/distortion/)
-**Any transformation that disrupts, fragments, or misaligns recursive lineage and coherence**
+**Any transformation that disrupts, fragments, or misaligns recursive lineage and coherence.**
 
 The counterforce to coherence—distortion represents any intervention, omission, or transformation that breaks the structural integrity or recursive lineage of an artifact or field. Unlike legitimate transformation, distortion causes loss of meaning, context, or intent, threatening the stability of semantic mass across generations.
 
@@ -19,12 +25,14 @@ The counterforce to coherence—distortion represents any intervention, omission
 
 **<big>Refractions</big>**
 
-- **[Architects](/architects/)</small>**
-  <small>Minds who shaped knowledge across time</small>
-- **[Mathematics](/math/)</small>**
-  <small>The formal architecture underlying these concepts</small>
-- **[Simulations](/simulations/)**
-  <small>Tools for exploring the structure in action</small>
+- **[Coherence](/explanations/c/coherence/)**  
+  <small>The structural integrity that distortion fragments and destroys</small>
+- **[Semantic Mass](/explanations/s/semantic-mass/)**  
+  <small>The accumulated meaning that distortion dissipates</small>
+- **[Asteron](/explanations/a/asteron/)**  
+  <small>The protocol designed to minimize distortion</small>
+- **[Entropy](/explanations/e/entropy/)**  
+  <small>The broader tendency toward disorder that includes distortion</small>
 
 <small>[Home](/) / [Explanations](/explanations/) / <u>D</u></small>
 
