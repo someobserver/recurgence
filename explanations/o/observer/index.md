@@ -94,7 +94,7 @@ This paradox is the fundamental feature of all self-modeling systems. To make an
 
 The URL in your address bar attempts to capture this balance. Consider the phrase: `Observer is.` That really isn't so much a sentence as it is an *equation*. The **observer is** neither the subject nor the verb, but the operator $\rightarrow$ the period at the end, declaring its interpretation of all the meaning patterns that came before it. Every observer is the focal pont where knowing and being focus into coherence.
 
-In this domain, the focal point is shifted to the middle—<u>where it's been all along</u>: `observer.is`
+In this domain, the focal point is shifted to the middle—where it's been all along: `observer.is`
 
 ## Historical Context
 
