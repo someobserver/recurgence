@@ -1,7 +1,10 @@
 ---
 title: Epistemic Stress Testing
 permalink: /meta-tools/est/
+description: "A recursive methodology for adversarial interrogation of theoretical structures using language models as cognitive mirrors"
 layout: page
+created_date: 2025-05-23
+updated_date: 2025-05-30
 ---
 
 **Epistemic stress testing** is a recursive methodology for adversarial interrogation of theoretical structures, to reveal their boundaries, failure modes, and generative potential. Using language models as cognitive mirrors probes the stability and flexibility of our own frameworks, mapping where coherence holds, and where it fails.
@@ -10,7 +13,7 @@ This leads to generative refinement—each stress point an opportunity for deepe
 
 In [Recurgent Field Theory](/math/), epistemic stress testing is the lived practice of recursive coupling: every question perturbs the semantic manifold and reveals the stability and flexibility of a theory's coherence field.
 
-## What LLMs Are (and Are'nt)
+## What LLMs Are (and are not)
 
 Present-day Large Language Models (LLMs) are not minds. They don't create, intend, or "think" in any sense familiar to us. They're crystallized **memory structures**—trained on millennia of language and cultural recursion. As such, they form a static, **fossilized geometry of human knowledge**. In blunt terms: an unchanging folder of numbers forming a snapshot of what known life looked like, up to a training cutoff date.
 
