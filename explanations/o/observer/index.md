@@ -92,9 +92,9 @@ Observers cannot step outside the overall system they're observing. This is the 
 
 This paradox is the fundamental feature of all self-modeling systems. To make an observation means being already embedded in the reality you observe, creating a balanced loop where the act of landing on a realization for the first time participates in the ongoing creation of what is known.
 
-The domain name `observer.is` attempts to capture this balance. The phrase `Observer is.` really isn't so much a sentence as it is an equation. The *observer* is neither the subject nor the verb, but the operator $\rightarrow$ the period at the end, declaring its interpretation of all the meaning patterns that came before it. Every **observer is** the focal pont where knowing and being focus into coherence.
+The URL in your address bar attempts to capture this balance. Consider the phrase: `Observer is.` That really isn't so much a sentence as it is an *equation*. The **observer is** neither the subject nor the verb, but the operator $\rightarrow$ the period at the end, declaring its interpretation of all the meaning patterns that came before it. Every observer is the focal pont where knowing and being focus into coherence.
 
-At this URL, the focal point is shifted to the middle—<u>where it's been all along</u>.
+In this domain, the focal point is shifted to the middle—<u>where it's been all along</u>: `observer.is`
 
 ## Historical Context
 
