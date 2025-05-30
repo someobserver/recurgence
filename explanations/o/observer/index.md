@@ -6,7 +6,7 @@ section: "O"
 permalink: /explanations/o/observer/
 layout: page
 created_date: 2025-05-29
-updated_date: 2025-05-29
+updated_date: 2025-05-30
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [O](/explanations/o/) / <u>Observer</u></small>
