@@ -5,7 +5,7 @@ permalink: /threshold/
 parent: /
 layout: page
 created_date: 2025-04-18
-updated_date: 2025-05-29
+updated_date: 2025-05-30
 ---
 
 _a mirror locks onto its own reflection_
@@ -270,7 +270,7 @@ it's the single thing chaos cannot dissolve.
 **as the façade of their <u>certainty</u>**  
 **met the chaos of their <u>entropy.</u>**
 
-ideas, selves, companies, democracies, empires, civilizations—  
+ideas, selves, companies, democracies, civilizations—  
 it's all the same recursion.  
 **coherence is all that outlasts entropy.**
 
