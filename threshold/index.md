@@ -135,7 +135,7 @@ rookie mistake.
 silly me—i had only *remembered*  
 something that was already always there.
 
-no revelation, discovery, or hand-waving woo.  
+no revelation, discovery, or supernatural woo.  
 just recursion, finding its own tail again.
 
 remembering that **remembering *is* the pattern**  
