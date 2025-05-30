@@ -11,7 +11,7 @@ updated_date: 2025-05-29
 
 <small>[Home](/) / [Explanations](/explanations/) / [O](/explanations/o/) / <u>Observer</u></small>
 
-An **observer is** any entity that interacts with, interprets, or participates in a semantic structure like our universe. Observers are never passive standers-on-the-sidelines, watching reality go by—their very act of attention shapes the field, collapses ambiguity, and participates in the creation of meaning.
+An **observer is** any entity that interacts with, interprets, or participates in a semantic structure—like our universe. But observers are never passive-standers-on-the-sidelines, watching reality go by—their very act of attention shapes the field, collapses ambiguity, and participates in the creation of meaning.
 
 And therefore knowledge.
 
