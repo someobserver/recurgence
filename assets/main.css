@@ -13,7 +13,7 @@
   display: inline-block;
   line-height: 1.1;
   letter-spacing: -0.015em;
-  margin-top: 0.5rem;
+  margin-top: 0;
   margin-bottom: 0.25rem;
   cursor: default;
 }
@@ -47,7 +47,7 @@ body {
   line-height: 1.75;
   max-width: 800px;
   margin: auto;
-  padding: 2rem 1rem;
+  padding: 0 1rem;
 }
 
 /* Headings */
