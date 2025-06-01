@@ -5,7 +5,7 @@ parent: /
 permalink: /explanations/
 layout: page
 created_date: 2025-05-27
-updated_date: 2025-05-30
+updated_date: 2025-06-01
 ---
 
 <small>[Home](/) / <u>Explanations</u></small>
@@ -74,6 +74,9 @@ The letter headings themselves are dedicated pages with even more specific conte
 ### [F](/explanations/f/)
 - **[Field](/explanations/f/field/)**
   A distributed mathematical or conceptual structure defined over the semantic manifold.
+
+- **[Frisson](/explanations/f/frisson/)**  
+  The embodied physical response to recognition events and cognitive phase transitions.
 
 ---
 
@@ -147,7 +150,7 @@ The letter headings themselves are dedicated pages with even more specific conte
 
 ### [W](/explanations/w/)
 - **[Wisdom](/explanations/w/wisdom/)**  
-  In progress...
+  The capacity to recognize when current patterns are reaching their limits and adapt before breakdown occurs.
 
 ---
 
