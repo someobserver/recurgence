@@ -58,8 +58,6 @@ The humility operator encodes a formal epistemic constraint: **no recursive map 
 
 ## Properties
 
-Humility exhibits several essential characteristics that distinguish it from mere self-limitation or constraint:
-
 - **<big>Dynamic Regulation</big>**  
 Rather than imposing fixed limits, humility adjusts its regulatory pressure based on context and system state. It allows for deep recursion when beneficial while preventing pathological amplification.
 
@@ -74,7 +72,7 @@ Humility is the *only* force that consistently survives entropy's audit. While r
 
 ## Examples in Practice
 
-Humility manifests across every scale where recursive processes operate:
+Humility manifests across every scale where recursive processes are found:
 
 - **<big>Scientific method</big>**  
 The requirement for falsifiability and peer review prevents theories from becoming immune to evidence. Scientists who remain open to being wrong make discoveries; those who become attached to their ideas stagnate.
@@ -90,8 +88,6 @@ Individuals who maintain curiosity about their own blind spots, seek feedback, a
 
 ## Humility vs. Self-Doubt
 
-Humility carries an important distinction from self-doubt or weakness:
-
 **Humility** is <u>structural intelligence</u>—the capacity to recognize the limits of one's current understanding while maintaining confidence in one's ability to learn and adapt. It's strength that knows its boundaries.
 
 **Self-doubt** is <u>paralysis</u>—the inability to act or commit due to excessive uncertainty. It prevents the very engagement necessary for learning and growth.
@@ -102,13 +98,13 @@ True humility enables bold action precisely because it maintains the flexibility
 
 ## Pathological Absence
 
-When humility fails or is absent, specific pathologies emerge that Recurgent Field Theory can formally characterize:
+When humility fails or is otherwise not cultivated, specific pathologies emerge that Recurgent Field Theory can formally characterize:
 
 - **Recurgent Rigidity**: Systems become trapped in locally stable but globally suboptimal configurations, unable to adapt to changing conditions
 - **Semantic Hypercoherence**: Excessive internal consistency that prevents necessary boundary permeability and information exchange
 - **Recursive Parasitism**: Local semantic mass accumulation at the expense of the broader system's health and sustainability
 
-These pathologies represent mathematical signatures of systems that have lost the capacity for self-regulation and adaptive constraint.
+The above represent demonstrable mathematical signatures of systems that have lost the capacity for self-regulation and adaptive constraint.
 
 ## Historical Context
 
