@@ -6,7 +6,7 @@ section: "H"
 permalink: /explanations/h/humility/
 layout: page
 created_date: 2025-05-28
-updated_date: 2025-05-29
+updated_date: 2025-06-01
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [H](/explanations/h/) / <u>Humility</u></small>
@@ -52,7 +52,9 @@ $$
 \frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij} + \mathcal{H}[R] \nabla^2 g_{ij}
 $$
 
-The humility operator encodes a formal epistemic constraint: **no recursive map is permitted to conflate itself with the territory it models.**
+**No recursive map is permitted to conflate itself with the territory it models.**
+
+That is, no individual observer is the whole universe. The humility operator encodes this as a formal epistemic constraint.
 
 **See more:** [Mathematics](/math/) / [Wisdom Function and Humility Constraint](/math/08-wisdom-function/)
 
