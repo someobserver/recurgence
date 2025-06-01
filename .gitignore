@@ -12,6 +12,7 @@
 
 private/
 *.private
+private.md
 working/
 archive/
 *template.md
