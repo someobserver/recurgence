@@ -13,7 +13,7 @@ updated_date: 2025-06-01
 
 **Humility** is the regulatory operator that prevents systems from becoming so enamored with their own patterns that they lose the capacity to adapt, learn, or respond to feedback.
 
-Humility forms the immune system of meaning itself. Just like biological immune systems prevent runaway cellular growth that would destroy the organism, humility prevents runaway recursive amplification that would destroy coherence. It's the force that keeps systems open to correction, responsive to change, and capable of evolution.
+Humility forms the immune system of meaning itself. Just like biological immune systems prevent runaway cellular growth that would destroy the organism, humility prevents runaway recursive amplification that would otherwise destroy coherence. It's the force that keeps systems open to correction, responsive to change, and capable of evolution.
 
 In Recurgence, humility operates as both a formal mathematical constraint and a pursued epistemic virtue—it's the difference between wisdom and dogmatism, between stable growth and pathological rigidity. Every system that survives entropy's audit does so by maintaining enough humility to metabolize its own complexity without becoming trapped or calcified by it.
 
