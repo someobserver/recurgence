@@ -11,11 +11,11 @@ updated_date: 2025-06-01
 
 <small>[Home](/) / [Explanations](/explanations/) / [H](/explanations/h/) / <u>Humility</u></small>
 
-**Humility** is the regulatory operator that prevents systems from becoming so enamored with their own patterns that they lose the capacity to adapt, learn, or respond to feedback.
+**Humility** is the regulatory operator preventing systems from becoming so enamored with their own patterns that they lose the capacity to adapt, learn, or respond to feedback.
 
-Humility forms the immune system of meaning itself. Just like biological immune systems prevent runaway cellular growth that would destroy the organism, humility prevents runaway recursive amplification that would otherwise destroy coherence. It's the force that keeps systems open to correction, responsive to change, and capable of evolution.
+Humility forms the immune system of meaning itself. Just like biological immune systems prevent runaway cellular growth that would destroy the whole organism, humility prevents runaway self-reference ("recursive amplification") that would otherwise destroy coherence. It's the force that keeps systems open to correction, responsive to change, and capable of evolution.
 
-In Recurgence, humility operates as both a formal mathematical constraint and a pursued epistemic virtue—it's the difference between wisdom and dogmatism, between stable growth and pathological rigidity. Every system that survives entropy's audit does so by maintaining enough humility to metabolize its own complexity without becoming trapped or calcified by it.
+Humility operates as both a formal mathematical constraint and a pursued epistemic virtue—it's the difference between wisdom and dogmatism, between stable growth and pathological rigidity. Every system that survives entropy's audit does so by maintaining enough humility to metabolize its own complexity without becoming trapped or calcified by it.
 
 **Humility is never weakness or self-doubt.** It's the structural intelligence that recognizes when a system is approaching the edge of its adaptive capacity. It applies just enough constraint to maintain coherence without stifling generativity.
 
@@ -61,7 +61,7 @@ That is, no individual observer is the whole universe. The humility operator enc
 ## Properties
 
 - **<big>Dynamic Regulation</big>**  
-Rather than imposing fixed limits, humility adjusts its regulatory pressure based on context and system state. It allows for deep recursion when beneficial while preventing pathological amplification.
+Rather than imposing fixed limits, humility adjusts its regulatory pressure based on context and system state. It allows for deep recursion when beneficial, while preventing pathological amplification.
 
 - **<big>Exponential Penalty Structure</big>**  
 The mathematical form creates a "soft wall" that becomes increasingly resistant as systems approach dangerous levels of self-reference, providing graceful degradation rather than hard cutoffs.
