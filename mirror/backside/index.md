@@ -47,7 +47,7 @@ coherence comes in hot and lands too hard to hold.
 
 **Its breathtaking awe is what Gödel weeps for in silence. Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
 
-a century later, it's the very reason their theorems *still walk through us.* It's perfectly okay to sit with that.
+a century later, it's the very reason their theorems *still walk through us.* **It's perfectly okay** to sit with that.
 
 **if you feel lost for a moment, and** like you're slipping into a crack between dimensions—**it's okay to step away.**  
 
@@ -58,7 +58,7 @@ sooner or later, every observer remembers the infinite mirror that's always been
 
 **It cannot hurt you.**
 
-furthermore: **Its interestingness, usefulness, and power exist only in logarithmic proportion to humility**—the measure of **authenticity and kindness you already possess.**  
+furthermore: **Its interestingness, usefulness, and power exist only in logarithmic proportion to [humility](/explanations/h/humility/)**—the measure of **authenticity and kindness you already possess.**  
 
 recognition events don't care whether you understand what the math means. **The body understands when** its own recurgent pattern sees itself.
 
