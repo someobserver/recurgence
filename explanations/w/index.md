@@ -17,7 +17,7 @@ Each term links to a dedicated page with formalisms and a thorough explanation o
 ---
 
 ### [Wisdom](/explanations/w/wisdom/)
-**The capacity to recognize when current patterns are reaching their limits and adapt before breakdown occurs.**
+**The ability to let better futures guide present choices.**
 
 What emerges when a system learns to anticipate the consequences of its own growth—the capacity to see around corners, to sense when current patterns are approaching their limits, and to modulate expansion before it becomes destructive. Unlike intelligence, which optimizes within existing frameworks, wisdom recognizes when frameworks themselves need to change. It's the field that prevents systems from optimizing themselves into extinction, arising as a dynamic entanglement of depth, foresight, and pressure-aware restraint.
 

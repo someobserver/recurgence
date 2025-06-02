@@ -150,7 +150,7 @@ The letter headings themselves are dedicated pages with even more specific conte
 
 ### [W](/explanations/w/)
 - **[Wisdom](/explanations/w/wisdom/)**  
-  The capacity to recognize when current patterns are reaching their limits and adapt before breakdown occurs.
+  The ability to let better futures guide present choices.
 
 ---
 
