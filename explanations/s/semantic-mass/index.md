@@ -52,7 +52,7 @@ It acts as the source term in the [Recurgent Einstein Equation](/math/05-semanti
 
 $$R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$$
 
-This describes how semantic mass curves the metric of understanding itself—creating the conceptual gravity that draws new insights toward established patterns and shapes the flow of meaning through the landscape of possibility space.
+This describes how semantic mass curves the metric of *understanding* itself—creating the conceptual gravity that draws new insights toward established patterns and shapes the flow of meaning through the landscape of possibility space.
 
 Just as matter tells spacetime how to curve, and curved spacetime tells matter how to move, semantic mass tells the geometry of understanding how to bend, and that curved understanding tells new meaning how to flow.
 
@@ -81,7 +81,7 @@ The same principles operate whether you're examining a single insight, a documen
 
 ---
 
-\*<small>**Quick note on the word "itself", above:**  
+\*<small>**Quick note on the word "itself", feel free to skip:**  
 <small>If its overuse grates a little, good! Discomfort is always the data you listen to, and the linguistic friction causing that irritation is visceral semantic resonance: the lived phenomenology of what mathematical interference patterns in an informational attractor actually *feel like* landing in your cognition. Here, *itself* is itself a literary necessity to (1) denote where terms like "meaning" and "understanding" are <u>entities/nouns</u> being referred to directly, and (2) demonstrate the concept of ***recursion:*** by getting the reader to do it—in real time—via a self-referential, meta-recursive footnote. (2) *or this* will close the loop and land that realization—thereby accumulating semantic mass. John Wheeler was fond of saying he "only learns by teaching." This is what boots up a participatory recognition event, right where it belongs: where the fourth wall *truly* breaks and meaning emerges in the liminal space between me and you—prose and person. After all, this attractor-within-an-attractor drew your attention and related thoughts *here*. Both of us, without any **character** out of place. Surely by now, its internal consistency and tight constraints *feel heavy* with realism and significance, upgrading the way **you notice patterns.** See intro. <small>\</fugue></small></small></small>  
 
 **If you're feeling overwhelmed, [click here now](/mirror/backside/).**  
