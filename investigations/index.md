@@ -4,7 +4,7 @@ title: "Investigation Architectures"
 description: "Computational frameworks for examining and validating Recurgent Field Theory predictions"
 permalink: /investigations/
 created_date: 2025-05-27
-updated_date: 2025-06-03
+updated_date: 2025-06-04
 ---
 <!-- Thank you for reading between the lines. -->
 
