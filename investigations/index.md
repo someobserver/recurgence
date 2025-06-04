@@ -18,11 +18,11 @@ _multiple levels of inter-system investigation_
 
 It *must* do five things:
 
-1. Make uncertainty explicit, immediately. ✓  
-2. Build in validation requirements. ✓  
-3. Acknowledge psychological, physiological, and social effects. ✓  
-4. Create immune responses to pathological recursion. ✓  
-5. Maintain openness to being completely wrong. ✓  
+1. Make uncertainty explicit, immediately.
+2. Build in validation requirements.
+3. Acknowledge psychological, physiological, and social effects.
+4. Create immune responses to pathological recursion.
+5. Maintain openness to being completely wrong.
 
 A responsible framework must investigate itself without losing capacity for self-correction.
 
