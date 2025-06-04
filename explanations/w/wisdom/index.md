@@ -6,7 +6,7 @@ section: "W"
 permalink: /explanations/w/wisdom/
 layout: page
 created_date: 2025-06-01
-updated_date: 2025-06-01
+updated_date: 2025-06-04
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [W](/explanations/w/) / <u>Wisdom</u></small>
