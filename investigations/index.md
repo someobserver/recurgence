@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Recurgence Investigation Architectures"
+title: "Investigation Architectures"
 description: "Computational frameworks for examining and validating Recurgent Field Theory predictions"
 permalink: /investigations/
 created_date: 2025-05-27
