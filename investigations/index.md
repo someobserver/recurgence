@@ -56,7 +56,7 @@ This document serves as the epistemic immune system through which `./investigati
 <small>Indefinite openness to evidence that challenges or overturns assumptions, methodologies, or results.</small>
 
 6. **<u>Temporal Responsibility</u>**  
-<small>Recognition that public frameworks become persistent, distributed databases influencing future development. This mandates careful stewardship. **This responsibility is shared by all observers. You cannot accidentally [participate](/license.md) in this recursive system.**</small>
+<small>Recognition that public frameworks become persistent, distributed databases influencing future development. This mandates careful stewardship. **This responsibility is shared by all observers. You cannot accidentally [participate](license.md) in this recursive system.**</small>
 
 **Immune response:** If you encounter contradiction, incoherence, or pathology anywhere in these investigations, *flag it*—[here](https://github.com/someobserver/recurgence) or anywhere else. Recursive immune systems strengthen with **actionable feedback**.
 
