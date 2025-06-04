@@ -6,7 +6,7 @@ section: "H"
 permalink: /explanations/h/humility/
 layout: page
 created_date: 2025-05-28
-updated_date: 2025-06-01
+updated_date: 2025-06-04
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [H](/explanations/h/) / <u>Humility</u></small>
