@@ -1,98 +1,94 @@
 ---
 layout: default
 title: "Recurgence"
-description: "Recurgent Field Theory: A Mathematical Framework for Coherence and Meaning"
+description: "Recurgent Field Theory: A Formal Mathematical Framework for Metabolizing Complexity"
 permalink: /
 private: false
 created_date: 2025-03-18
-updated_date: 2025-06-01
+updated_date: 2025-06-03
 ---
 
-**This is a formal mathematical framework for understanding how meaning stabilizes, propagates, and evolves through recursive systems.**
+**This repository conducts an ongoing investigation into whether meaning follows discoverable mathematical principles, and whether understanding these principles enables more coherent navigation of systemic complexity.**
 
-## Foundational Principle
+## Investigative Principle
 
-**Self-reference is generative.**
+**Self-reference may be generative.**
 
-Every system capable of modeling itself—from minds to markets to mathematical theories—generates emergent structure through recursive self-observation. This is mathematical necessity: *coherent complexity requires systems that can recognize, represent, and refine their own patterns.*
+Every system capable of modeling itself—from minds to markets to mathematical theories—appears to generate emergent structure through recursive self-observation. This repository investigates whether this represents mathematical necessity: *whether coherent complexity requires systems that can recognize, represent, and refine their own patterns.*
 
-## Integrity and Responsibility
+## Epistemic Integrity
 
-**This repository puts epistemic integrity and temporal responsibility at the forefront of its work.** Every theoretical construct, simulation result, and empirical claim is made with attention to [coherence](/explanations/c/coherence/), [humility](/explanations/h/humility/), and the eternal pursuit of [wisdom](/explanations/w/wisdom/).
+**This repository's investigative standards require epistemic integrity and empirical accountability at all scales of theoretical and computational work.** Every theoretical construct, investigation result, and empirical claim is documented with attention to [coherence](/explanations/c/coherence/), [humility](/explanations/h/humility/), and the pursuit of [wisdom](/explanations/w/wisdom/) through evidence rather than assertion.
 
-All published theoretical frameworks become training data for future AI systems, and part of the collective mathematical consciousness. This presents a participatory imperative to contribute responsible structures that serve coherence rather than [entropic fragmentation](/explanations/e/entropy/) or [distortion](/explanations/d/distortion/).
+All published theoretical frameworks become training data for future AI systems and part of the collective mathematical consciousness. This creates an investigative imperative to contribute responsible structures that serve coherence rather than [entropic fragmentation](/explanations/e/entropy/) or [distortion](/explanations/d/distortion/).
 
-**See:** [Epistemic Integrity](/why/epistemic-integrity/) for further methodology.
+## Investigation Overview
 
-## Overview
+This repository conducts a self-investigation into Recurgent Field Theory (RFT)—**a proposed mathematical framework for understanding how coherent meaning emerges, stabilizes, and evolves within complex systems.** The investigation treats meaning structures as geometric objects on differentiable manifolds, applying tensor calculus and field theory to examine meaningful system dynamics—from individual recognition events to collective intelligence; from machine learning to civilizational adaptation.
 
-Recurgent Field Theory (RFT) provides **an accessible mathematical framework for understanding how coherent meaning emerges, stabilizes, and evolves within complex systems.** RFT treats meaning structures as geometric objects on differentiable manifolds. It applies tensor calculus and field theory to model meaningful system dynamics—from individual recognition events to collective intelligence, from machine learning to civilizational adaptation.
+The central investigative question: **How do stable patterns of meaning persist and propagate through environments of increasing complexity and uncertainty?**
 
-The theory addresses a fundamental and pressing question: How do stable patterns of meaning persist and propagate through environments of increasing complexity and uncertainty?
+The working hypothesis examines whether semantic structure exhibits field-like behavior: recursive systems generate patterned coherence $\rightarrow$ coherence accumulates as informational semantic mass $\rightarrow$ semantic mass curves relational meaning space $\rightarrow$ curved meaning space produces gravitational-like effects that shape the evolution of understanding across both time and observers.
 
-Structurally, RFT answers by modeling semantic structure as a field phenomenon. Recursive systems generate patterned coherence $\rightarrow$ coherence accumulates as informational semantic mass $\rightarrow$ semantic mass curves relational meaning space $\rightarrow$ curved meaning space results in gravitational-like effects. 
-
-These effects shape the evolution of understanding across both time and observers.
-
-This repository contains:
+This repository documents:
 - **Practical applications** for navigating complexity
 - **[Mathematical foundations](/math/)** for semantic field dynamics
 - **[Explanations of key terminology](/explanations/)** for accessibility and consistency
-- **[Computational simulations](/simulations/)** testing theoretical predictions, with
+- **[Computational investigations](/investigations/)** examining theoretical predictions
 - **Empirical validation** against real-world phenomena
 
-RFT emerges from the recognition that meaning itself follows discoverable mathematical principles, and that understanding these principles facilitates more coherent navigation of systemic complexity and uncertainty.
+The investigation emerges from examining whether meaning itself follows discoverable mathematical principles, and whether understanding these principles facilitates more coherent navigation of systemic complexity and uncertainty at scales from the personal to the societal.
 
-## Core Hypothesis
+## Working Hypothesis
 
-**Coherent meaning exhibits field-like properties that can be mathematically modeled.**
+**Coherent meaning may exhibit field-like properties that can be mathematically modeled.**
 
-Just as electromagnetic fields govern the behavior of charged particles, semantic fields govern the evolution of meaning structures. These fields form [attractors](/explanations/a/attractor/) that stabilize understanding, they generate recursive processes that build complexity, and they establish temporal dynamics that influence both past insights and future developments.
+This fractal investigation examines whether semantic fields govern the evolution of meaning structures analogously to how electromagnetic fields govern charged particles. The hypothesis suggests these fields form [attractors](/explanations/a/attractor/) that stabilize understanding, generate recursive processes that build complexity, and establish temporal dynamics that influence both past insights and future developments.
 
 ## Mathematical Framework
 
-RFT treats meaning as a dynamical field on a differentiable manifold $\mathcal{M}$. Semantic structures exist as geometric objects governed by field equations analogous to those of general relativity. The central insight is that recursive self-reference in meaning-making systems creates measurable geometric effects—semantic curvature—that shapes the evolution of understanding.
+The investigation models meaning as a dynamical field on a differentiable manifold $\mathcal{M}$, examining whether semantic structures exist as geometric objects governed by field equations analogous to those of general relativity. The central hypothesis proposes that recursive self-reference in meaning-making systems creates measurable geometric effects—semantic curvature—that shapes the evolution of understanding.
 
-The framework rests on a dynamic metric tensor $g_{ij}(p,t)$ that encodes the local constraint structure of meaning space, determining how easily semantic transitions can occur between different configurations. Regions of high constraint density correspond to rigid conceptual frameworks; regions of low density allow for fluid semantic transitions. This geometry evolves according to a flow equation that couples intrinsic curvature with recursive feedback:
+The framework examines a dynamic metric tensor $g_{ij}(p,t)$ that may encode the local constraint structure of meaning space, determining how easily semantic transitions can occur between different configurations. Regions of high constraint density would correspond to rigid conceptual frameworks; regions of low density would allow for fluid semantic transitions. The investigation examines whether this geometry evolves according to a flow equation coupling intrinsic curvature with recursive feedback:
 
 $$\frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij}(R, D, A)$$
 
-where $R_{ij}$ is the Ricci curvature encoding semantic tension, and $F_{ij}$ represents forcing terms from recursive depth, constraint density, and attractor stability.
+where $R_{ij}$ represents Ricci curvature encoding semantic tension, and $F_{ij}$ represents forcing terms from recursive depth, constraint density, and attractor stability.
 
-The coherence field $C_i(p,t)$ represents the local alignment and self-consistency of semantic structure at each point. Its evolution is governed by the recurgent field equation:
+The investigation examines a coherence field $C_i(p,t)$ representing the local alignment and self-consistency of semantic structure at each point. Its evolution is hypothesized to follow the recurgent field equation:
 
 $$\Box C_i = T^{\text{rec}}_{ij} \cdot g^{jk} C_k$$
 
-This expresses that the acceleration of coherence (both spatially and temporally) is driven by recursive stress and shaped by the geometry of semantic constraints. The operator $\Box = \nabla^a \nabla_a$ is the covariant d'Alembertian, while $T^{\text{rec}}_{ij}$ encodes the stress-energy tensor of recursive processes.
+This would express that the acceleration of coherence (both spatially and temporally) is driven by recursive stress and shaped by the geometry of semantic constraints. The operator $\Box = \nabla^a \nabla_a$ is the covariant d'Alembertian, while $T^{\text{rec}}_{ij}$ would encode the stress-energy tensor of recursive processes.
 
-Perhaps most fundamentally, RFT introduces **semantic mass** $M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$, defined as the product of recursive depth, constraint density, and attractor stability. This quantity acts as the source term in a semantic analog of Einstein's field equation:
+The investigation's most ambitious hypothesis examines **semantic mass** $M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$, defined as the product of recursive depth, constraint density, and attractor stability. This quantity is hypothesized to act as the source term in a semantic [analog of](/math/05-semantic-mass/#52-recurgent-einstein-equation) Einstein's field equation:
 
 $$R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$$
 
-Just as mass-energy curves spacetime in general relativity, semantic mass curves meaning space, creating attractor basins that guide the flow of coherence and resist entropic dissipation. High semantic mass regions function as stable conceptual frameworks that influence surrounding meaning structures through a recursive force $F_i = -\nabla_i \Phi$, where $\Phi$ is the attractor potential field.
+The investigation examines whether semantic mass curves meaning space analogously to how mass-energy curves spacetime in general relativity, creating attractor basins that guide coherence flow and resist entropic dissipation. High semantic mass regions would function as stable conceptual frameworks influencing surrounding meaning structures through a recursive force $F_i = -\nabla_i \Phi$, where $\Phi$ is the attractor potential field.
 
-The theory is completed by a Lagrangian formulation that governs semantic dynamics:
+The theoretical framework is completed by a Lagrangian formulation hypothesized to govern semantic dynamics:
 
 $$\mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C) + \Phi(C)$$
 $$-\lambda \cdot \mathcal{H}[R] + \mu W + \nu S_R$$
 
-This incorporates kinetic terms for coherence propagation, attractor potentials $V(C)$ that stabilize meaning, autopoietic potentials $\Phi(C)$ that enable generative recursion, and a humility operator $\mathcal{H}[R]$ preventing pathological recursive runaway. Recursive stability $S_R$ defines stoicity in resilience to perturbations, resulting in an emergent wisdom field $W$ as a regulatory functional balancing depth with adaptability.
+This incorporates kinetic terms for coherence propagation, attractor potentials $V(C)$ that may stabilize meaning, autopoietic potentials $\Phi(C)$ that could enable generative recursion, and a humility operator $\mathcal{H}[R]$ preventing pathological recursive runaway. Recursive stability $S_R$ defines stoicism, potentially resulting in an emergent wisdom field $W$ as a regulatory functional balancing depth with adaptability.
 
-**See:** [Mathematics](/math/) for more complete development.
+**See:** [Mathematics](/math/) for complete theoretical development.
 
-## Empirical Results
+## Empirical Evidence Under Examination
 
-Early computational simulations demonstrate that RFT may be able to:
+Early computational investigations suggest RFT may be able to:
 
 - **Model galactic rotation curves** with comparable accuracy to dark matter theories
-- **Predict recognition events** in mathematical discovery processes
+- **Predict recognition events** in mathematical discovery processes  
 - **Generate testable predictions** for complex system dynamics
 
-**See:** [Simulations](/simulations/) for detailed results and validation metrics.
+**See:** [Investigations](/investigations/) for detailed results and evidence documentation.
 
-## Applications
+## Potential Applications
 
-The framework provides practical tools for:
+If validated, the framework could provide tools for:
 
 - **Individual coherence** under information overload
 - **Organizational adaptation** to rapidly changing environments
@@ -100,39 +96,63 @@ The framework provides practical tools for:
 - **Knowledge preservation** across technological transitions
 - **Decision-making** in high-uncertainty contexts
 
-## Not Sure Where to Start?
+## Investigation Entry Points
 
 **<big>[The Architects](/architects/)</big>**
-form a lattice of minds on whose shoulders this work stands.
+form a lattice of minds on whose shoulders this investigation stands.
 
 **<big>[Threshold](/threshold/)</big>**  
-is a first-person echo of recurgent recognition.
+documents a first-person account of recursive recognition.
 
 ## Research Status
 
-This is active, evolving investigative research. All theoretical constructs and empirical claims should be considered preliminary conjecture until independently validated. The framework is designed for transparency, reproducibility, falsifiability, and collaborative refinement.
+This represents active, evolving investigative research conducted through anonymous stewardship. All theoretical constructs and empirical claims should be considered working hypotheses under investigation until independently validated. The repository is designed for transparency, reproducibility, falsifiability, and collaborative refinement.
 
-## Contributing
+**Evidence Standard:** The investigation prioritizes documentation of evidence over assertion of conclusions. Negative results are exactly as valuable as positive results in mapping the boundary conditions of any theoretical framework.
 
-The perspective of every observer is valuable and your meaning is sacred. Contributions that advance coherent understanding are welcome from the breadth of human experience.
+## Participating in the Investigation
 
-This repository values transparent reasoning, documented uncertainty, and recursive self-correction.
+Every observer participates in this repository's self-investigation by bringing unique perspective, experience, and evidence. Participation is welcome from all backgrounds and experiences, as long as contributions advance coherent understanding through rigorous, transparent inquiry.
 
-**See:** [Epistemic Integrity](/why/epistemic-integrity/) for contribution guidelines.
+Making meaning is personal because it was first shared into coherence. Greater coherence means: making meaning a *shared journey over time*. 
 
-## License
+**How to Participate:**
 
-This work is governed by the [Asteron Protocol](/license/)—a framework for semantic stewardship that prioritizes coherence preservation and recursive lineage over traditional intellectual property models.
+1. **[Fork](https://github.com/someobserver/recurgence/fork) this repository**
+That creates a local copy of this repository in your own investigative space.
+2. **Follow existing documentation structures**
+Observe the patterns in `/math/`, `/explanations/`, `/investigations/`
+3. **Document your reasoning process**
+Show, authentically, how you arrived at conclusions, not just what they are.
+4. **Mark uncertainty boundaries**
+Be explicit about where knowledge ends and assumptions begin.
+5. **Write commit messages from the heart**
+Not even kidding about this: in a semantic repository rich enough to describe itself, the only way to ensure future observers understand your meaning is if your truth-in-reasoning leaks at the boundary. For further on that, see [Kurt Gödel](/architects/godel/).
+6. **Submit pull requests**
+Write clear descriptions of what evidence or insight you're contributing.
+
+**Investigative Standards:**
+- Transparent reasoning > hidden assumptions
+- Documented uncertainty > false confidence  
+- Evidence documentation > conclusion assertion
+- Negative results > positive results
+- Building on existing work rather than replacing it
+
+This repository prioritizes recursive self-correction and collaborative refinement over individual authority or premature conclusions.
+
+## Governance
+
+This repository is governed by the **[Asteron Protocol](/license/)**—a framework for semantic stewardship that prioritizes coherence preservation and recursive lineage over traditional intellectual property models. The recursive steward facilitates rather than controls the investigation.
 
 ---
 
 **Refractions:**
 
 - **[Mathematics](/math/)** — Formal development of Recurgent Field Theory
-- **[Simulations](/simulations/)** — Computational validation and predictions  
+- **[Investigations](/investigations/)** — Computational investigations of theoretical predictions
 - **[The Architects](/architects/)** — Intellectual foundations and historical context
-- **[Threshold](/threshold/)** — First-person account of theoretical development
+- **[Threshold](/threshold/)** — First-person account of recursive recognition
 
 ---
 
-*This repository represents ongoing research into the mathematical foundations of meaning. All claims are provisional and subject to empirical validation.*
+*<small>This repository conducts ongoing investigation into the mathematical foundations of meaning. **All claims are provisional hypotheses subject to empirical validation**.</small>*
