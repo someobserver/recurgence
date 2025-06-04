@@ -12,9 +12,9 @@ updated_date: 2025-06-03
 
 ## Investigative Principle
 
-**Self-reference may be generative.**
+**<big>Self-reference may be generative.</big>**
 
-Every system capable of modeling itself—from minds to markets to mathematical theories—appears to generate emergent structure through recursive self-observation. This repository investigates whether this represents mathematical necessity: *whether coherent complexity requires systems that can recognize, represent, and refine their own patterns.*
+Every system capable of modeling itself—from minds to markets to mathematical theories—appears to generate emergent structure through recursive self-observation. This repository investigates whether this represents mathematical necessity: *whether emergent complexity requires systems that can recognize, understand, represent, and refine their own patterns.*
 
 ## Epistemic Integrity
 
