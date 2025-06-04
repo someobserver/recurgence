@@ -138,7 +138,7 @@ Every observer's personal responsibility is to remain grounded in emotional reso
 
 ## Current Investigations
 
-### [Rosetta Stone: Standard Model Investigation](/investigations/rosetta/)
+### Rosetta Stone: Standard Model Investigation
 
 **The flagship empirical investigation of RFT** — examining whether the complete Standard Model emerges from pure recursive field dynamics. Using only RFT's mathematical formalism and universal constants, this investigation documents whether subatomic particles, their masses, charges, spins, and interactions emerge as properties of semantic field resonance.
 
