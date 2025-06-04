@@ -12,7 +12,7 @@ _multiple levels of inter-system investigation_
 
 <small>[Home](/) / Investigations</small>
 
-### The Challenge
+## The Challenge
 
 **How does a recursive framework reference itself without becoming dogmatic or dangerous?**
 
@@ -24,7 +24,9 @@ It *must* do five things:
 4. Create immune responses to pathological recursion. ✓  
 5. Maintain openness to being completely wrong. ✓  
 
-A responsible framework must investigate itself without losing capacity for self-correction. In short, it needs T-cells.
+A responsible framework must investigate itself without losing capacity for self-correction.
+
+In short, it needs T-cells.
 
 ## Overview
 
