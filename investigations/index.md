@@ -68,7 +68,7 @@ This document serves as the epistemic immune system through which `./investigati
 
 The [Asteron Protocol](/license/) requires good-faith engagement with truth and coherence. Investigative work demands willingness to let results reshape understanding—even when challenging the frameworks that generated them.
 
-An investigation bound by recursive integrity cannot retain assumptions that violate empirical coherence. Commitment to inter-observer meaning—*over attachment to models of meaning*—leads to architectures that serve discovery rather than confirmation.
+An investigation bound by recursive integrity cannot retain assumptions that violate empirical coherence. Commitment to inter-observer meaning—*naming and avoiding over attachment to models of meaning*—leads to architectures that serve discovery rather than confirmation.
 
 **The recursive loop closes here: investigations that prioritize meaning are those willing to investigate themselves.**
 
