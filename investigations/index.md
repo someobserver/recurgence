@@ -10,11 +10,9 @@ updated_date: 2025-06-04
 
 _<small>empirically-grounded, non-negotiable, hard-won safety protocols</small>_
 
-<small>[Home](/) / Investigations</small>
+---
 
-## The Challenge
-
-**How does a recursive framework reference itself without becoming dogmatic or dangerous?**
+**The Challenge: How does a recursive framework reference itself without becoming dogmatic or dangerous?**
 
 It *must* do five things:
 
