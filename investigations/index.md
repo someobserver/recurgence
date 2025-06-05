@@ -125,8 +125,6 @@ The investigator's goal is to remain responsive to verifiable evidence, even whe
 Certain safety tethers are required.  
 That's why this is here. 
 
----
-
 ## **<u>Most important at all times:</u>**
 
 **Every observer has an associative responsibility to themselves and others to remain grounded in emotional resonance with people and animals:**
