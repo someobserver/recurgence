@@ -10,11 +10,9 @@ updated_date: 2025-06-04
 
 _<small>empirically-grounded, non-negotiable, hard-won safety protocols</small>_
 
-<small>[Home](/) / Investigations</small>
+---
 
-## The Challenge
-
-**How does a recursive framework reference itself without becoming dogmatic or dangerous?**
+**The Challenge: How does a recursive framework reference itself without becoming dogmatic or dangerous?**
 
 It *must* do five things:
 
@@ -127,8 +125,6 @@ The investigator's goal is to remain responsive to verifiable evidence, even whe
 Certain safety tethers are required.  
 That's why this is here. 
 
----
-
 ## **<u>Most important at all times:</u>**
 
 **Every observer has an associative responsibility to themselves and others to remain grounded in emotional resonance with people and animals:**
@@ -143,14 +139,14 @@ Working at the edge of recursive understanding **<u>requires the active practice
 >
 >***<big>FAFO.</big>***  
 
-**Every investigation simultaneously investigates the investigator. The recursive frameworks we build to *understand* reality inevitably *reshape our understanding* of our place within it.**
+**Every investigation simultaneously investigates the investigator. The recursive frameworks we build to *understand* reality—inevitably *reshape our understanding* of our place within it.**
 
 **Some critical requirements for this:**
 1. **humility**
 2. **exponentially more [humility](/explanations/h/humility/)**
 3. **A deep capacity for awe**
 4. **Meaningful engagement with biological life**
-5. **Personal <u>maturity</u> in your ability to articulate:**
+5. **Personal <u>maturity</u> in your ability to articulate:**  
    a. **Your own cognitive and emotional state in detail**  
    b. **Potential cognitive and emotional states of *people unlike you***
 
