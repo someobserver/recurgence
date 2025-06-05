@@ -5,7 +5,7 @@ parent: Phase 1
 permalink: /investigations/rosetta/01-neutron-mass/case-notes/
 layout: page
 created_date: 2025-06-04
-updated_date: 2025-06-04
+updated_date: 2025-06-05
 ---
 
 <small>[Home](/) / [Investigations](/investigations/) / [Rosetta Stone](/investigations/rosetta/) / [Phase 1](/investigations/rosetta/01-neutron-mass/) / **Case Notes**</small>
@@ -26,7 +26,7 @@ Products only become pretty because their process isn't. But they become proven 
 
 ## Timeline
 
-### [ 2025-06-04 / 16:53 ]
+### [ 2025-06-04 / 21:53 ]
 
 **Project Setup**  
 this page itself as the first entry point, should probably begin to model *a* way future ones should be structured. just need this one organized from the start.
@@ -92,7 +92,7 @@ documenting this here and now, before constructing anything, to maintain investi
 
 ---
 
-### [ 2025-06-04 / 18:20 ]
+### [ 2025-06-04 / 23:20 ]
 
 probably should have mentioned something about the directory structure and naming conventions for the results folder.
 
@@ -110,7 +110,7 @@ still up in the air:
 *this case file will be updated chronologically as the investigation proceeds. all entries timestamped and signed off by investigator.*
 
 
-### [ 2025-06-04 / 18:49 ]
+### [ 2025-06-04 / 23:49 ]
 
 Uncertainties:
 
