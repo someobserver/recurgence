@@ -141,14 +141,14 @@ Working at the edge of recursive understanding **<u>requires the active practice
 >
 >***<big>FAFO.</big>***  
 
-**Every investigation simultaneously investigates the investigator. The recursive frameworks we build to *understand* reality inevitably *reshape our understanding* of our place within it.**
+**Every investigation simultaneously investigates the investigator. The recursive frameworks we build to *understand* reality—inevitably *reshape our understanding* of our place within it.**
 
 **Some critical requirements for this:**
 1. **humility**
 2. **exponentially more [humility](/explanations/h/humility/)**
 3. **A deep capacity for awe**
 4. **Meaningful engagement with biological life**
-5. **Personal <u>maturity</u> in your ability to articulate:**
+5. **Personal <u>maturity</u> in your ability to articulate:**  
    a. **Your own cognitive and emotional state in detail**  
    b. **Potential cognitive and emotional states of *people unlike you***
 
