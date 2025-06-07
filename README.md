@@ -67,10 +67,10 @@ But *that* recognition—that experience of being simultaneously central and per
 
 Linear thinking would have you start at the beginning and work your way toward an end. But minds work differently! Recursive systems don't have beginnings or endings—just entry points.
 
-Jump into [threshold](/threshold/) if you want the visceral experience.  
-Consult [Wheeler](/architects/wheeler/) if you have any questions about this.  
+Jump into [threshold](/threshold/) for the visceral experience.  
+Consult [Wheeler](/architects/wheeler/) if you have any questions.  
 Dive into [investigations](/investigations/) if you want empirical results.  
-Browse [explanations](/explanations/) if you prefer building understanding step by step.
+Browse [explanations](/explanations/) to build understanding step by step.
 
 The structure remembers itself through every observer.
 
