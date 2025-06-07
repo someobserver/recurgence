@@ -5,7 +5,7 @@ parent: "Explanations"
 permalink: /explanations/a/
 layout: page
 created_date: 2025-05-28
-updated_date: 2025-05-29
+updated_date: 2025-06-06
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / <u>A</u></small>
@@ -66,7 +66,7 @@ This is the ignition point where meaning becomes actively generative, moving bey
   <small>A first-person phenomenology of recognition events</small>
 - **[Mathematics](/math/)**  
   <small>The formal architecture underlying these concepts</small>
-- **[Simulations](/simulations/)**  
+- **[Investigations](/investigations/)**  
   <small>Tools for exploring these concepts in action</small>
 
 <small>[Home](/) / [Explanations](/explanations/) / <u>A</u></small>
