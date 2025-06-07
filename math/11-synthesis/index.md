@@ -100,9 +100,9 @@ The following features of RFT are quantum-analogous or quantum-native:
 
 #### 11.4.2 Quantum Algorithmic Implementations
 
-- **Variational Quantum Eigensolvers (VQE):** Attractors in the coherence field correspond to eigenstates of operators encoding the attractor potential $V(C)$. VQE algorithms are employed to identify these states by minimizing $\langle \psi(\theta)| \hat{H}_V |\psi(\theta) \rangle$, where $|\psi(\theta)\rangle$ is a parameterized quantum circuit.
+- **Variational Quantum Eigensolvers (VQE):** Attractors in the coherence field correspond to eigenstates of operators encoding the attractor potential $V(C)$. VQE algorithms are employed to identify these states by minimizing $\langle \psi(\theta)\| \hat{H}_V \| \psi(\theta) \rangle$, where $\|\psi(\theta)\rangle$ is a parameterized quantum circuit.
 
-- **Quantum Tensor Networks:** The recursive coupling tensor $R_{ijk}$ and its generalizations are encoded as quantum tensor networks, $|R\rangle = \sum_{i,j,k} R_{ijk} |i\rangle |j\rangle |k\rangle$, enabling efficient manipulation of high-rank tensors on quantum hardware.
+- **Quantum Tensor Networks:** The recursive coupling tensor $R_{ijk}$ and its generalizations are encoded as quantum tensor networks, $\|R\rangle = \sum_{i,j,k} R_{ijk} \|i\rangle \|j\rangle \|k\rangle$, enabling efficient manipulation of high-rank tensors on quantum hardware.
 
 - **Quantum Phase Estimation (QPE):** Critical points and phase transitions in the semantic field are accessible via QPE, with $U_{\Theta}$ encoding the dynamics of order parameters and eigenvalues corresponding to critical thresholds.
 

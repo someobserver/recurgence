@@ -129,7 +129,7 @@ $$
 \mathcal{H}[R] = \|R\|_F \cdot e^{-k(\|R\|_F - R_{\text{optimal}})}
 $$
 where:
-- $\|R\|_F = \sqrt{\sum_{i, j, k} |R_{ijk}|^2}$ is the Frobenius norm of the recursive coupling tensor,
+- $\|R\|_F = \sqrt{\sum_{i, j, k} \|R_{ijk}\|^2}$ is the Frobenius norm of the recursive coupling tensor,
 - $R_{\text{optimal}}$ is the contextually optimal recursion depth,
 - $k$ is a decay constant controlling penalty severity.
 
