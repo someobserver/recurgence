@@ -15,7 +15,12 @@ updated_date: 2025-06-06
 
 The mathematics would *appear* to be generating its own quantum-like structure from pure recursive dynamics. If this holds, it suggests fundamental particles might emerge as natural stability modes of semantic fields rather than being imposed from outside.
 
-**View the notebook:** [001-stable-soliton.ipynb](https://github.com/someobserver/recurgence/blob/main/investigations/001-stable-soliton/001-stable-soliton.ipynb)  
+## Resources
+
+**Notebook:**
+- [View on GitHub](https://github.com/someobserver/recurgence/blob/main/investigations/001-stable-soliton/001-stable-soliton.ipynb)
+- [Download Notebook](001-stable-soliton.ipynb)
+- [Download PDF](001-stable-soliton.pdf)
 
 #### Quick Navigation:
 
@@ -23,7 +28,7 @@ The mathematics would *appear* to be generating its own quantum-like structure f
 - [Mathematical Foundation](#mathematical-foundation)
 - [Methodology](#methodology)
 - [Findings](#findings)
-- [Interpretation](#interpretation)
+- [Visualization](#visualization)
 - [What This Means](#what-this-means)
 - [Limitations & Open Questions](#limitations-open-questions)
 - [Further Directions](#further-directions)
@@ -74,7 +79,7 @@ Where:
 - **Parameter Space:** Central field values C(0) ∈ [0.1, 5.0] with 0.1 increments
 - **Radial Range:** r ∈ [10⁻³, 10²] with logarithmic spacing (1000 points)
 
-**Search strategy:** In an effort to avoid parameter fitting, the investigation employed complete general solution of RFT field equations to discover natural scales and stable configurations. This parallels discovery of standing wave modes in quantum systems—letting mathematical structure determine what's possible.
+**Search strategy:** In an effort to avoid parameter fitting, the investigation employed complete general solution of RFT field equations to discover natural scales and stable configurations.
 
 **Mass density components:** Semantic mass density calculated as M(r) = D(r)·ρ(r)·A(r) where:
 - **D(r) = |C(r)|**: Field magnitude (approximating recursive depth for static solutions)
@@ -121,11 +126,12 @@ Despite 1260× mass variation, characteristic lengths vary only ~33% (2.230 → 
 
 Higher semantic mass correlates with greater characteristic length through nonlinear relationship, suggesting fundamental constraint between field extent and energy density.
 
-## Interpretation
+## Visualization
 
 ### Field Configuration Profiles
 
 ![All 8 Natural RFT Quantized Modes](assets/output.png)  
+<small>[full size image](assets/output.png)</small>
 
 1. **Field Profiles (upper left):** Clean exponential decay patterns with increasing complexity at higher modes. No pathological oscillations or singularities.
 
@@ -181,8 +187,6 @@ Higher semantic mass correlates with greater characteristic length through nonli
 **Data preservation:** All raw field configurations, mass calculations, and intermediate results stored for subsequent analysis.
 
 **Validation requirements:** Results interpreted within RFT theoretical framework documented in [Mathematics](/math/). No claims regarding correspondence to physical phenomena without explicit external validation.
-
----
 
 ## Recognition Event
 
