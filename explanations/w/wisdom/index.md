@@ -95,7 +95,7 @@ Wisdom manifests across scales where systems navigate their own growth:
 
 **Wisdom** optimizes for sustainable adaptation, recognizing that maximum performance often creates brittleness.
 
-Mathematically: intelligence increases coherence magnitude $|C|$, while wisdom optimizes the ratio of coherence to recursive pressure, maintaining balance for long-term adaptation.
+Mathematically: intelligence increases coherence magnitude $\|C\|$, while wisdom optimizes the ratio of coherence to recursive pressure, maintaining balance for long-term adaptation.
 
 ## Wisdom-Humility Coupling
 

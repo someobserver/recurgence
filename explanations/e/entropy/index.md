@@ -30,7 +30,7 @@ $$S(p,t) = -k_s \int_{\mathcal{C}} P(C|p,t) \ln P(C|p,t) \, dC$$
 where:
 - $S(p,t)$: semantic entropy at point $p$ and time $t$
 - $k_s$: semantic Boltzmann constant
-- $P(C|p,t)$: probability density over coherence values
+- $P(C\|p,t)$: probability density over coherence values
 - $\mathcal{C}$: space of possible coherence configurations
 
 An **Entropy Horizon** marks the critical threshold where temporal variance exceeds coherence generation:

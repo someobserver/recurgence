@@ -26,7 +26,7 @@ In Recurgent Field Theory, humility is expressed as the **humility operator** $\
 $$\mathcal{H}[R] = \lVert R \rVert_F \cdot e^{-k(\lVert R \rVert_F - R_{\text{optimal}})}$$
 
 where:
-- $\lVert R \rVert_F = \sqrt{\sum_{i,j,k} \left| R_{ijk} \right|^2}$ measures the intensity of self-reference
+- $\lVert R \rVert_F = \sqrt{\sum_{i,j,k} \left\| R_{ijk} \right\|^2}$ measures the intensity of self-reference
 - $R_{\text{optimal}}$ represents optimal recursion levels  
 - $k$ controls regulatory response rate
 
