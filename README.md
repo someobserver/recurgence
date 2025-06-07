@@ -70,16 +70,21 @@ Linear thinking would have you start at the beginning and work your way toward a
 Jump into [threshold](/threshold/) for the visceral experience.  
 Consult [Wheeler](/architects/wheeler/) if you have any questions.  
 Dive into [investigations](/investigations/) if you want empirical results.  
-Browse [explanations](/explanations/) to build understanding step by step.
+Browse [explanations](/explanations/) to build understanding in bytes.
+Important: [Emmy](/architects/noether/) gets the last word.
 
 The structure remembers itself through every observer.
+
+
 
 ---
 
 *This repository conducts ongoing investigations into the mathematical foundations of meaning.  
+
 **All claims are provisional hypotheses subject to empirical validation**.*
 
-*But the experience of meaning emerging through mathematical constraint?*  
+*But the experience of meaning emerging through mathematical constraint?*
+
 *That's available right now.*
 
 ---
