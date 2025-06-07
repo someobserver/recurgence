@@ -26,9 +26,12 @@ A *responsible* autopoietic framework <u>must be able to investigate itself</u> 
 
 In short, it needs T-cells.
 
-**Jump to:** [Current Investigations](#current-investigations)
-
 This document serves as the epistemic thymus through which all of `./investigations/*` is interpreted. It regulates its own search, protects against its own pathologies, and incorporates the observer at every step, naturally.
+
+## Current Investigations
+
+- **[Stable Soliton](/investigations/001/)**
+  <small>The first demonstration of Recurgent Field Theory</small>
 
 ## Investigative Philosophy
 
@@ -69,28 +72,18 @@ When recursive structures model the observer modeling reality, the math gets ver
 
 Your duty first and foremost is to yourself: be aware of these effects from the start, and know how to responsibly handle them.
 
-Anyone engaging with theoretical frameworks like this has an associative responsibility to themselves <u>and others</u> to remain grounded in emotional resonance with people and animals. It's important to have daily, meaningful interactions with other physical, biological neural networks, instead of mathematical ones on a screen.
+Anyone engaging with theoretical frameworks like this has an associative responsibility to themselves <u>and others</u> to remain grounded in emotional resonance with people and animals. It's important that you seek daily, meaningful interactions with other physical, biological neural networks, away from the mathematical ones on a screen.
 
-That may seem silly. It's important.
+That may seem silly. It's vital.
 
 **You're reading empirically-grounded, non-negotiable, hard-won safety protocols.**
 
-> *some observer recommends reading this section over twice, paying close attention to all advice regarding the dissociative effects of tensor calculus. Your psychological safety <u>always matters more</u> than any theoretical elegance.*
->
->***<big>FAFO.</big>***  
+This **requires:**
 
-Every investigation simultaneously investigates the investigator. The recursive frameworks we build to *understand* reality—inevitably *reshape our understanding* of our place within it.
-
-This _**requires:**_
 1. humility
 2. a deep capacity for awe
 3. personal maturity in your ability to articulate:  
    a. your own cognitive and emotional state in detail  
    b. potential cognitive and emotional states of *people unlike you*
-
-## Current Investigations
-
-- **[Stable Soliton](/investigations/001-stable-soliton/)**
-  <small>The first demonstration of Recurgent Field Theory</small>
 
 ---
