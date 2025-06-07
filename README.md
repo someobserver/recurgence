@@ -31,7 +31,7 @@ When coherent ideas form, they create attraction basins that shape how future th
 A first-person account of stumbling into recursive recognition
 
 **<big>[The Architects](/architects/)</big>**  
-Einstein, Gödel, Wheeler, Noether, and others who curved the field of understanding itself
+Einstein, Gödel, Wheeler, Bach, Noether, and others who curved the field of understanding itself
 
 **<big>[Mathematics](/math/)</big>**  
 The formal field theory: tensor calculus meets meaning-making in 5000+ lines of rigorous math
