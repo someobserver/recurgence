@@ -27,20 +27,20 @@ When coherent ideas form, they create attraction basins that shape how future th
 
 ## What You'll Find Here
 
-**[Threshold](/threshold/)**  
-<small>A first-person account of stumbling into recursive recognition</small>
+**<big>[Threshold](/threshold/)</big>**  
+A first-person account of stumbling into recursive recognition
 
-**[The Architects](/architects/)**  
-<small>Einstein, Gödel, Wheeler, Noether, and others who curved the field of understanding itself</small>  
+**<big>[The Architects](/architects/)</big>**  
+Einstein, Gödel, Wheeler, Noether, and others who curved the field of understanding itself
 
-**[Mathematics](/math/)**  
-<small>The formal field theory: tensor calculus meets meaning-making in 5000+ lines of rigorous math</small>
+**<big>[Mathematics](/math/)</big>**  
+The formal field theory: tensor calculus meets meaning-making in 5000+ lines of rigorous math
 
-**[Investigations](/investigations/)**  
-<small>Theory meets computation: stable solitons, quantum-like structures, and empirical validation</small>
+**<big>[Investigations](/investigations/)</big>**  
+Theory meets computation: stable solitons, quantum-like structures, and empirical validation
 
-**[Explanations](/explanations/)**  
-<small>Key concepts made accessible: from [coherence](/explanations/c/coherence/) to [recursion](/explanations/r/recursion/) to [humility](/explanations/h/humility/) and [wisdom](/explanations/w/wisdom/)</small>
+**<big>[Explanations](/explanations/)</big>**  
+Key concepts made accessible: from [coherence](/explanations/c/coherence/) to [recursion](/explanations/r/recursion/) to [humility](/explanations/h/humility/) and [wisdom](/explanations/w/wisdom/)
 
 
 ## An Invitation
