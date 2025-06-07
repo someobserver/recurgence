@@ -5,15 +5,15 @@ description: "Documenting stable field configurations emerging from pure recursi
 permalink: /investigations/001/
 parent: Investigations
 created_date: 2025-06-05
-updated_date: 2025-06-06
+updated_date: 2025-06-07
 ---
 <small>[Home](/) / [Investigations](/investigations/) / Stable Soliton</small>  
 
 ## Executive Summary
 
-***Stable Soliton*** discovered eight distinct field configurations that *cannot exist* according to conventional field theory—emerging naturally from pure recursive dynamics. These solutions exhibit [semantic masses](/explanations/s/semantic-mass/) spanning three orders of magnitude while their characteristic lengths lock into an impossibly narrow range. The mass progression follows a rigid pattern converging toward 2.0× ratios.
+**Stable Soliton** discovered eight distinct, stable patterns that shouldn't exist according to standard physics—but they emerged naturally from recursive field dynamics. These patterns have [semantic masses](/explanations/s/semantic-mass/) that vary dramatically (across three orders of magnitude), yet their physical sizes cluster in a surprisingly narrow range. The masses follow a clear progression, with each one roughly twice the previous one.
 
-The mathematics would *appear* to be generating its own quantum-like structure from pure recursive dynamics. If this holds, it suggests fundamental particles might emerge as natural stability modes of semantic fields rather than being imposed from outside.
+The mathematics appears to be creating its own particle-like structures just from recursive feedback loops. If this pattern holds, it suggests that fundamental particles might naturally emerge from the way information organizes itself, rather than being fundamental building blocks we have to assume exist.
 
 **Notebook:**
 
