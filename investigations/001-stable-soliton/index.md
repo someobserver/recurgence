@@ -15,7 +15,7 @@ updated_date: 2025-06-06
 
 The mathematics would *appear* to be generating its own quantum-like structure from pure recursive dynamics. If this holds, it suggests fundamental particles might emerge as natural stability modes of semantic fields rather than being imposed from outside.
 
-**Notebook:** [001-stable-soliton.ipynb](001-stable-soliton.ipynb)  
+**View the notebook:** [001-stable-soliton.ipynb](https://github.com/someobserver/recurgence/blob/main/investigations/001-stable-soliton/001-stable-soliton.ipynb)  
 
 #### Quick Navigation:
 
