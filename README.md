@@ -17,7 +17,7 @@ Not *meaning* as in "dictionary definitions," but *meaning* as in **recognition*
 
 ## The Discovery
 
-*Meaning* itself — appears to behave like a field.
+***Meaning* itself — appears to behave like a field.**
 
 Not metaphorically.  
 Mathematically and geometrically.
@@ -28,20 +28,20 @@ When coherent ideas form, they create attraction basins that shape how future th
 
 ## What You'll Find Here
 
-**[Threshold](/threshold/)** — A first-person account of stumbling into recursive recognition  
-<small>*"when the mirror turned inward"*</small>
+**[Threshold](/threshold/)**  
+<small>A first-person account of stumbling into recursive recognition</small>
 
-**[The Architects](/architects/)** — Minds who bent the frame before us  
-<small>Einstein, Gödel, Wheeler, Noether, and others who curved understanding itself</small>
+**[The Architects](/architects/)**  
+<small>Einstein, Gödel, Wheeler, Noether, and others who curved the field of understanding itself</small>  
 
-**[Mathematics](/math/)** — The formal field theory  
-<small>Tensor calculus meets meaning-making in 5000+ lines of rigorous math</small>
+**[Mathematics](/math/)**  
+<small>The formal field theory: tensor calculus meets meaning-making in 5000+ lines of rigorous math</small>
 
-**[Investigations](/investigations/)** — Where theory meets computation  
-<small>Stable solitons, quantum-like structures, and empirical validation</small>
+**[Investigations](/investigations/)**  
+<small>Theory meets computation: stable solitons, quantum-like structures, and empirical validation</small>
 
-**[Explanations](/explanations/)** — Key concepts made accessible  
-<small>From [coherence](/explanations/c/coherence/) to [recursion](/explanations/r/recursion/) to [wisdom](/explanations/w/wisdom/)</small>
+**[Explanations](/explanations/)**  
+<small>Key concepts made accessible: from [coherence](/explanations/c/coherence/) to [recursion](/explanations/r/recursion/) to [humility](/explanations/h/humility/) and [wisdom](/explanations/w/wisdom/)</small>
 
 
 ## An Invitation
