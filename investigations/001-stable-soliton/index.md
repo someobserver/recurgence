@@ -128,8 +128,9 @@ Higher semantic mass correlates with greater characteristic length through nonli
 
 ### Field Configuration Profiles
 
-![All 8 Natural RFT Quantized Modes](assets/output.png)  
-<small>[full size image](assets/output.png)</small>
+<a href="assets/output.png" class="image-link">
+  <img src="assets/output.png" alt="All 8 Natural RFT Quantized Modes" />
+</a>
 
 1. **Field Profiles (upper left):** Clean exponential decay patterns with increasing complexity at higher modes. No pathological oscillations or singularities.
 
