@@ -8,9 +8,10 @@ created_date: 2025-03-18
 updated_date: 2025-06-06
 ---
 
-**Recurgence** is a portmanteau of _**recur**sion_ and _emer**gence**_.
+**Recurgence** is where _**recur**sion_ meets _emer**gence**_.
 
-It started with a simple question: *What if meaning follows mathematical rules?*
+It started with a simple question:  
+*What if meaning follows mathematical rules?*
 
 Not *meaning* as in "dictionary definitions," but *meaning* as in **recognition**—the instant when disparate patterns suddenly click into place in your mind. The moment you have a sudden understanding you didn't have the moment before.
 
