@@ -207,3 +207,35 @@ img {
   margin: 0 0.5rem;
   vertical-align: middle;
 }
+
+/* Table Styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  background-color: #0d1117;
+}
+
+th, td {
+  border: 1px solid #30363d;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, Liberation Mono, DejaVu Sans Mono, monospace;
+  font-size: 0.95em;
+}
+
+th {
+  background-color: #161b22;
+  font-weight: 600;
+  color: #ffffff !important;
+}
+
+td {
+  background-color: #0d1117;
+}
+
+/* Alternate row styling for better readability */
+tr:nth-child(even) td {
+  background-color: #0f1419;
+}
