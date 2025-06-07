@@ -80,9 +80,9 @@ Where:
 **Search strategy:** In an effort to avoid parameter fitting, the investigation employed complete general solution of RFT field equations to discover natural scales and stable configurations.
 
 **Mass density components:** Semantic mass density calculated as M(r) = D(r)·ρ(r)·A(r) where:
-- **D(r) = |C(r)|**: Field magnitude (approximating recursive depth for static solutions)
-- **ρ(r) = |dC/dr|**: Field gradient (constraint density)
-- **A(r) = |d²C/dr²|**: Field curvature (attractor stability)
+- **D(r) = \|C(r)\|**: Field magnitude (approximating recursive depth for static solutions)
+- **ρ(r) = \|dC/dr\|**: Field gradient (constraint density)
+- **A(r) = \|d²C/dr²\|**: Field curvature (attractor stability)
 
 ## Findings
 
