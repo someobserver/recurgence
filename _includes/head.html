@@ -72,6 +72,39 @@
       border-color: #30363d !important;
     }
     
+    /* Table Styles */
+    table {
+      border-collapse: collapse !important;
+      width: 100% !important;
+      margin: 1.5rem 0 !important;
+      background-color: #0d1117 !important;
+    }
+    
+    th, td {
+      border: 1px solid #30363d !important;
+      padding: 0.5rem 0.75rem !important;
+      text-align: left !important;
+      vertical-align: top !important;
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, Liberation Mono, DejaVu Sans Mono, monospace !important;
+      font-size: 0.95em !important;
+    }
+    
+    th {
+      background-color: #161b22 !important;
+      font-weight: 600 !important;
+      color: #ffffff !important;
+    }
+    
+    td {
+      background-color: #0d1117 !important;
+      color: #c9d1d9 !important;
+    }
+    
+    /* Alternate row styling for better readability */
+    tr:nth-child(even) td {
+      background-color: #0f1419 !important;
+    }
+    
     /* Mobile-specific adjustments */
     @media (max-width: 767px) {
       body {
