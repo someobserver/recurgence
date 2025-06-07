@@ -180,3 +180,30 @@ strong {
   font-weight: 600;
   color: #ffffff !important;
 }
+
+/* Responsive Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+  border: 1px solid #30363d;
+  border-radius: 4px;
+}
+
+/* Image styling classes for special cases */
+.img-full {
+  width: 100%;
+}
+
+.img-half {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-inline {
+  display: inline-block;
+  margin: 0 0.5rem;
+  vertical-align: middle;
+}
