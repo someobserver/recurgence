@@ -209,33 +209,38 @@ img {
 }
 
 /* Table Styles */
-table {
+.post-content table, .page-content table, main table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5rem 0;
   background-color: #0d1117;
 }
 
-th, td {
+.post-content table th, .post-content table td,
+.page-content table th, .page-content table td,
+main table th, main table td {
   border: 1px solid #30363d;
   padding: 0.5rem 0.75rem;
   text-align: left;
   vertical-align: top;
   font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, Liberation Mono, DejaVu Sans Mono, monospace;
   font-size: 0.95em;
+  color: #c9d1d9;
 }
 
-th {
+.post-content table th, .page-content table th, main table th {
   background-color: #161b22;
   font-weight: 600;
-  color: #ffffff !important;
+  color: #ffffff;
 }
 
-td {
+.post-content table td, .page-content table td, main table td {
   background-color: #0d1117;
 }
 
 /* Alternate row styling for better readability */
-tr:nth-child(even) td {
+.post-content table tr:nth-child(even) td,
+.page-content table tr:nth-child(even) td,
+main table tr:nth-child(even) td {
   background-color: #0f1419;
 }
