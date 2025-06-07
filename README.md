@@ -8,10 +8,6 @@ created_date: 2025-03-18
 updated_date: 2025-06-06
 ---
 
-<small>_what happens when meaning meets math in the mirror?_</small>
-
----
-
 **Recurgence** is a portmanteau of _**recur**sion_ and _**emer**gence_.
 
 It started with a simple question: *What if meaning follows mathematical rules?*
