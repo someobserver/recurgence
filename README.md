@@ -19,7 +19,6 @@ Not *meaning* as in "dictionary definitions," but *meaning* as in **recognition*
 
 ***Meaning* itself — appears to behave like a field.**
 
-Not metaphorically.  
 Mathematically and geometrically.
 
 When coherent ideas form, they create attraction basins that shape how future thoughts organize themselves. Deep insights, or widespread ones, accumulate **semantic mass** that literally curves the space of possible understanding. Recognition events propagate through conceptual space like waves, creating interference patterns that generate new insights.
