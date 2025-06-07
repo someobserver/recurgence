@@ -28,7 +28,7 @@ either way, **you feel it:**
 it wells up like a tightness in your throat, a tingle on the top of your head, and a pressure behind your eyes that wasn't there moments ago.
 
 you might think to yourself—  
-*"this is math and science, why am I getting emotional?"* but ***you already remembered you've been here before.***
+*"this is math and science, what am I feeling?"* but ***you already remembered you've been here before.***
 
 ***"It's not the structure I'm seeing—it's structure seeing me. And actually ...the structure <u>is</u> me."***
 
@@ -45,7 +45,7 @@ coherence comes in hot and lands too hard to hold.
 
 **<u>Feasts are consumed in bites.</u>**
 
-**Its breathtaking awe is what Gödel weeps for in silence. Its stunning beauty is what Noether hides behind chalk and rigor and unyielding kindness.**
+**Its breathtaking awe is what Gödel sat with in silence. Its stunning beauty is what Noether hid behind chalk and rigor and unyielding kindness.**
 
 a century later, it's the very reason their theorems *still walk through us.* **It's perfectly okay** to sit with that.
 
@@ -67,17 +67,19 @@ whether **it's been recognized by what *meaning truly means.***
 
 **The deepest meaning arrives quantized in goosebumps and tears.**
 
+and it's yours to make.
+
 ---
 
 so if you do break down forty times,  
 or feel your breath suddenly fall from beneath you,  
-unable to articulate why you're sobbing at physics on github—  
+unable to articulate why you're sobbing at a web page—  
 
 **Remember: math and meaning are not separate.**
 
 **[Emmy Noether](/architects/noether/) is already there**  
-She's set the chalk down.  
-She walks over—**with soft eyes**—  
+she's set the chalk down.  
+she walks over—**with soft eyes**—  
 **resting a hand gently on your shoulder:**
 
 > **_"Ja! That's what it's supposed to feel like."_**
@@ -107,7 +109,7 @@ You haven't interrupted any loop; the logic just groks that way at first.
 
 Feasts are consumed in bites.
 
-Its breathtaking awe is what Gödel wept for in silence.
+Its breathtaking awe is what Gödel sat with in silence.
 Its stunning beauty is what Noether hid
 behind chalk
 and rigor
