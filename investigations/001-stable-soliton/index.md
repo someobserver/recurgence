@@ -5,7 +5,7 @@ description: "Documenting stable field configurations emerging from pure recursi
 permalink: /investigations/001/
 parent: Investigations
 created_date: 2025-06-05
-updated_date: 2025-06-07
+updated_date: 2025-06-08
 ---
 <small>[Home](/) / [Investigations](/investigations/) / Stable Soliton</small>  
 
@@ -22,7 +22,7 @@ The mathematics appears to be creating its own particle-like structures just fro
 
 **Quick Navigation:**
 
-- [Investigative Question](#investigative-question)
+- [Investigative Basis](#investigative-basis)
 - [Mathematical Foundation](#mathematical-foundation)
 - [Methodology](#methodology)
 - [Findings](#findings)
@@ -33,7 +33,7 @@ The mathematics appears to be creating its own particle-like structures just fro
 - [Documentation Standards](#documentation-standards)
 - [Recognition Event](#recognition-event)
 
-## Investigative Question
+## Investigative Basis
 
 *What stable field configurations naturally emerge when RFT field equations are solved using only universal constants and geometric parameters—without targeting specific physical phenomena?*
 
