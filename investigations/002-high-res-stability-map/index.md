@@ -17,6 +17,7 @@ When the initial high-resolution sweep revealed an apparent gap in stable soluti
 
 **Notebook:**
 
+- [View on Github](https://github.com/someobserver/recurgence/blob/main/investigations/002-high-res-stability-map/002-high-res-stability-map.ipynb)
 - [Download 002-high-res-stability-map.ipynb](002-high-res-stability-map.ipynb)
 
 **Quick Navigation:**
