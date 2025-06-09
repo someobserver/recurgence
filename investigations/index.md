@@ -15,10 +15,10 @@ Each investigation employs rigorous numerical methods to solve RFT's field equat
 
 ## Current Investigations
 
-- **[Stable Soliton](/investigations/001/)**
+- **[Stable Soliton](/investigations/001/)**  
   <small>Eight stable field configurations emerge naturally from RFT's recursive dynamics without external parameters. Their semantic masses span three orders of magnitude while following a near-geometric progression, suggesting intrinsic quantization.</small>
 
-- **[High-Resolution Stability Mapping](/investigations/002/)**
+- **[High-Resolution Stability Mapping](/investigations/002/)**  
   <small>Systematic 1000-point parameter sweep reveals 885 stable solutions, transforming our understanding from eight rare configurations to a nearly continuous landscape. Ultra-high-resolution boundary mapping discovers a mathematically sharp forbidden zone where no stable solutions can exist.</small>
 
 
