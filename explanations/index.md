@@ -115,18 +115,24 @@ The letter headings themselves are dedicated pages with even more specific conte
 ---
 
 ### [R](/explanations/r/)
+
 - **[Recognition Event](/explanations/r/recognition-event/)**  
-  In progress...
+  A cognitive inflection point where ambiguity collapses into legibility and new patterns snap into focus.
+
 - **[Recursion](/explanations/r/recursion/)**  
-  In progress...
+  The process by which structures, patterns, or meanings refer to, reflect, or evolve through themselves.
+
 - **[Recursive Coupling](/explanations/r/recursive-coupling/)**  
-  In progress...
+  The mathematical tensor quantifying how self-reference at one point influences coherence at another across semantic space.
+
 - **[Recursive Pressure](/explanations/r/recursive-pressure/)**  
-  In progress...
+  The force or drive within a system toward deeper recursion, closure, or self-reference.
+
 - **[Recursive Steward](/explanations/r/recursive-steward/)**  
-  In progress...
+  An observer who maintains, extends, or preserves the coherence and intent of artifacts across transformations.
+
 - **[Resonance](/explanations/r/resonance/)**  
-  In progress...
+  The amplification and stabilization of meaning through recursive feedback, alignment, and mutual constraint.
 
 ---
 
@@ -138,10 +144,6 @@ The letter headings themselves are dedicated pages with even more specific conte
 - **[Semantic Mass](/explanations/s/semantic-mass/)**  
   In progress...
 - **[Semantic Particle](/explanations/s/semantic-particle/)**  
-  In progress...
-- **[Semantic Similarity](/explanations/s/semantic-similarity/)**  
-  In progress...
-- **[Semantic Uncertainty](/explanations/s/semantic-uncertainty/)**  
   In progress...
 - **[Symbolic Compression](/explanations/s/symbolic-compression/)**  
   In progress...
