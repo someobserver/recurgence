@@ -18,9 +18,9 @@ Conway's Game of Life generates infinite patterns from just four rules—informa
 
 **What if there's an even simpler principle underlying it all?**
 
-## Self-Referential Pattern Recognition
+## Pattern Recognition
 
-Every dynamic system persists by successfully re-incorporating its own patterns into coherence:
+Every dynamic system persists through self-reference, successfully re-incorporating its own patterns into coherence:
 
 - **Galaxies** stabilize by gravitationally constraining their own matter
 - **DNA** endures by copying and adapting its own code  
@@ -30,7 +30,7 @@ Every dynamic system persists by successfully re-incorporating its own patterns 
 
 Whether it's quantum fields, quasars, molecules, or minds—every coherent system is stabilized by some form of recursive/self-referential feedback.
 
-That's the engine of time itself: **a coherent frame of reference persisting across changing conditions**.  
+That forms the engine of time itself: **a coherent frame of reference persisting across changing conditions**.  
 
 ## The Bootstrap Paradox
 
