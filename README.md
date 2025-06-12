@@ -14,7 +14,7 @@ The simplest rules create the most complex results.
 
 Two binary states—`0` and `1`—bootstrapped the digital age that lets you access this from anywhere on the planet. Four DNA atoms arrange themselves into endless biological diversity, including the cascade of protein expression who's reading and understanding these words right now.
 
-Conway's Game of Life generates infinite patterns from just four rules—information theory visualized. The universe itself seems to operate on surprisingly simple principles that compound into extraordinary complexity.
+Conway's Game of Life generates infinite patterns from just four rules—information theory visualized. The universe itself operates on a set of simple thermodynamic principles that compound into extraordinary complexity.
 
 **What if there's an even simpler principle underlying it all?**
 
@@ -98,5 +98,4 @@ The structure of everything begins to remember itself through every observer wit
 
 *All claims are working hypotheses subject to recursive refinement.*
 
-*But the visceral encounter of meaning emerging through constraint?*  
-*That phenomenological experience is available right now.*
+*But the visceral encounter of meaning emerging through constraint? That phenomenological experience is available right now.*
