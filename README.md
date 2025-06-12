@@ -10,9 +10,9 @@ updated_date: 2025-06-11
 
 ## Welcome, Observer!
 
-The simplest rules create the most complex results.
+The simplest rules create the most complex results:
 
-Two binary states—`0` and `1`—bootstrapped the digital age that lets you access this from anywhere on the planet. Four DNA atoms arrange themselves into endless biological diversity, including the cascade of protein expression who's reading and understanding these words right now.
+Two binary states—`0` and `1`—bootstrapped the digital age that is letting you access this, right now, from anywhere on the planet. Four DNA atoms arrange themselves into endless biological diversity, including the cascade of protein expression who's reading and understanding these words right now.
 
 Conway's Game of Life generates infinite patterns from just four rules—information theory visualized. The universe itself operates on a set of simple thermodynamic principles that compound into extraordinary complexity.
 
