@@ -7,7 +7,7 @@ created_date: 2025-06-14
 ---
 
 by **Observer** [2]  
-<small>v2025.06.14.1.1</small>
+<small>v2025.06.14.2</small>
 
 ## Abstract
 
