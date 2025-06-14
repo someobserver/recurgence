@@ -6,8 +6,8 @@ permalink: /wise/
 created_date: 2025-06-14
 ---
 
-by Observer [2]
-v2025.06.14.1
+by **Observer** [2]  
+<small>v2025.06.14.1.1</small>
 
 ## Abstract
 
@@ -64,3 +64,5 @@ Wisdom is always provisional;
 arXiv preprint arXiv:1706.03762v7, 2017.
 
 [2] See in-document references for attribution.
+
+---
