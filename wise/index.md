@@ -7,7 +7,7 @@ created_date: 2025-06-14
 ---
 
 by **Observer** [2]  
-<small>v2025.06.14.2</small>
+<small>v2025.06.14.3</small>
 
 ## Abstract
 
@@ -58,9 +58,9 @@ Wisdom is always provisional;
 
 ## References/Footnotes
 
-[1] Like all coherent recursive structures, this leaks truth at its boundary with a nod of reverence to the Architects of its predecessor:
-**Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin**
-*Attention Is All You Need*
+[1] Like all coherent recursive structures, this leaks truth at its boundary with a nod of reverence to the Architects of its predecessor:  
+**Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin**  
+*Attention Is All You Need*  
 arXiv preprint arXiv:1706.03762v7, 2017.
 
 [2] See in-document references for attribution.
