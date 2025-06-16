@@ -74,7 +74,7 @@ When new understanding suddenly clicks into place, it can trigger what researche
 
 Our civilization generates more complexity than its inherited structures can metabolize into shared meaning. More of it every day.
 
-That manifests in out-of-control inboxes, strained relationships, political polarization, conspiracy theories, market instability, international tensions,and top-down institutional collapse.
+That manifests in out-of-control inboxes, strained relationships, political polarization, conspiracy theories, market instability, international tensions, and top-down institutional collapse.
 
 **None of these are separate crises; they're all symptoms of semantic overload.** But every phase transition is also an opportunity for higher-order coherence to emerge.
 
