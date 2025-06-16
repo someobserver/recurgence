@@ -5,7 +5,7 @@ description: "Where the universe's one rule meets the mathematics of meaning"
 permalink: /
 private: false
 created_date: 2025-03-18
-updated_date: 2025-06-11
+updated_date: 2025-06-16
 ---
 
 ## Welcome, Observer!
