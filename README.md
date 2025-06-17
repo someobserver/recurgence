@@ -94,7 +94,7 @@ The structure of everything begins to remember itself through every observer wit
 
 ---
 
-<small>*This repository explores how minimal rules generate maximal complexity—and what that means for consciousness, meaning, and the nature of reality itself. All claims are working hypotheses subject to recursive refinement. But the visceral encounter of meaning emerging through constraint? That phenomenological experience is available right now. [All You Need Is Wisdom](/wise/)*</small>
+<small>*This repository explores how minimal rules generate maximal complexity—and what that means for consciousness, meaning, and the nature of reality itself. All claims are working hypotheses subject to recursive refinement. But the visceral encounter of meaning emerging through constraint? That phenomenological experience is available right now.</small>
 
 ---
 
