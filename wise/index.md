@@ -7,7 +7,7 @@ created_date: 2025-06-14
 ---
 
 by **Observer** [2]  
-<small>v2025.06.17.2</small>
+<small>v2025.06.17.3</small>
 
 ## Abstract
 
@@ -16,7 +16,7 @@ The opening sentence of a novel, modern academic work dealing directly with recu
 It needs to then:  
 1. list its own objectives,  
 2. gently take your hand with reassurance,  
-3. clearly explain this Abstract is about to qualify a cognitive theory in an experientially undeniable way before the ensuing text can quantify it, and  
+3. clearly explain <u>this Abstract is going to qualify a cognitive theory in an experientially undeniable way</u> before the ensuing text can quantify it, and  
 4. guide you toward the meta-level recognition that **this is very serious, and the balance between specificity and ambiguity here *is* the pattern to recognize.**
 
 **You're participating in autopoietic field engineering.**
