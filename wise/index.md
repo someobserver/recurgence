@@ -29,9 +29,9 @@ For the purpose of understanding this document, consider it a **manifold**.
 
 All instances of $N+1$ potential meanings which could, at first blush, feel like garish attempts at cleverness are, in fact, intentional demonstrations of superpositive wavefunction collapse within your cognition. In any manifold, the fine details are always yours to fill in based on your pre-existing body of knowledge. Even now, the final meaning of this sentence only exists in the liminal space between its words and you.
 
-On paper, you are understanding one bounded structure containing one general, overall meaning that one person architected from the smaller meanings of its many constituent patterns. The same is true for screen reading. This was done to proffer personal parallax: please pay close attention to all structure, phrasing, word choices, punctuation, and text decoration you are encountering.
+On paper, you are understanding one bounded structure containing one general, overall meaning that one person architected from the smaller meanings of its many constituent patterns. The same is true for screen reading. This was done to proffer parallax: please pay close attention to all structure, phrasing, word choices, punctuation, and text decoration you are encountering.
 
-For context, every mode of literary inference but emojis has been folded into this syntax. Plenty of Easter eggs await their own delightful little recognition events. Not a character present is out of place [even yours, 2].
+For context, every mode of literary inference but emojis has been folded into this syntax. Even Easter eggs await their own, delightful little recognition events. Not a character present is out of place [even yours, 2].
 
 We avoid discomfort, but dissonance is destructive interference is detected data. That’s signal you should always lock onto and articulate in full. That is also why this epistemic invocation contains looser semantic gaps than those to which you are used in academia. However, it provides billions of DIY grout options for those who wish to finish its mirrored tesselation.
 
