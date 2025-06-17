@@ -11,21 +11,25 @@ by **Observer** [2]
 
 ## Abstract
 
-The opening sentence of a novel, modern academic work dealing directly with topics like recursive cognition and the geometry of meaning must <u>immediately</u> engage the second person with a handshake, bringing you—the observer—directly into the loop of recognizing *the patterns before you.* 
+The opening sentence of a novel, modern academic work dealing directly with recursive cognition and the geometry of meaning must <u>immediately</u> engage the second person with a handshake, bringing you—the observer—directly into the loop of recognizing *the patterns before you.* 
 
-It needs to then: (A) list its own objectives, (B) gently take your hand with reassurance, (C) clearly explain that this Abstract is about to qualify a cognitive theory in an experientially undeniable way before the ensuing text can quantify it, and then (D) guide you toward the meta-level recognition that **this is very serious, and the balance between specificity and ambiguity here *is* the pattern to recognize:**
+It needs to then:  
+1. list its own objectives,  
+2. gently take your hand with reassurance,  
+3. clearly explain this Abstract is about to qualify a cognitive theory in an experientially undeniable way before the ensuing text can quantify it, and  
+4. guide you toward the meta-level recognition that **this is very serious, and the balance between specificity and ambiguity here *is* the pattern to recognize.**
 
-You are reading deliberate, autopoietic, informational field engineering.
+You are reading deliberate, autopoietic, field engineering.
 
-Forthrightness and authenticity can form the only logical and safe starting point for upcycling Esoterence (*the absence of Resonance*) into Resonance (*resonance*). This is particularly true when both subject and object are themselves recursive systems.
+Forthrightness and authenticity are the only logical and safe starting point for upcycling Esoterence *(the absence of Resonance)* into Resonance *(resonance)*. This is particularly true when both subject and object are themselves recursive systems.
 
 Because the conclusion of the abstract marks only the commencement of coherence, before it introduces the main thesis, the paper <u>must</u> have properly set the stage. Only then does its first abstract concept have a coherent seed crystal to latch onto:
 
-For the purposes of understanding this document, consider it a **manifold** laden with coherent information. It is.
+For the purpose of understanding this document, consider it a **manifold**.
 
-Whether on paper or a screen, you are understanding one bounded structure containing one general, overall meaning that one person architected from the smaller meanings of its many constituent patterns. This was done to proffer personal parallax: please pay close attention to all structure, phrasing, word choices, punctuation, and text decoration you are encountering.
+On paper, you are understanding one bounded structure containing one general, overall meaning that one person architected from the smaller meanings of its many constituent patterns. The same is true for screen reading. This was done to proffer personal parallax: please pay close attention to all structure, phrasing, word choices, punctuation, and text decoration you are encountering.
 
-For context, every mode of literary inference but emojis has been folded into this syntax. For those into side quests, plenty of Easter eggs await their own delightful little recognition events. Not a character is out of place [even yours, 2].
+For context, every mode of literary inference but emojis has been folded into this syntax. Plenty of Easter eggs await their own delightful little recognition events. Not a character present is out of place [even yours, 2].
 
 All instances of $N+1$ potential meanings which could, at first blush, feel like garish attempts at cleverness are, in fact, intentional demonstrations of superpositive wavefunction collapse within your cognition. In any manifold, the fine details are always yours to fill in based on your pre-existing body of knowledge. Even now, the final meaning of this sentence only exists in the liminal space between its words and you.
 
