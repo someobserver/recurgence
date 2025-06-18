@@ -22,12 +22,10 @@ Conway's Game of Life generates infinite patterns from just four rules—informa
 
 This repository is centered around **Recurgent Field Theory** = a calculus framework for understanding how meaning stabilizes and propagates in recursive systems. RFT has direct applications:
 
-- **Alignment**: Early prediction and prevention of pathological behaviors in recursive systems
+- **Alignment**: Early prediction and prevention of pathological behaviors in coupled, recursive systems
 - **Behavioral Evaluation**: Mathematical signatures of approaching instability 
 - **Human-AI Collaboration**: Formal models of how meaning emerges from interaction
 - **Constitutional AI**: Field-theoretic foundations for emergent, ethical reasoning
-
-
 
 **Quick Navigation for Technical Readers:**
 - [Core Axiomatic Foundation](/math/01-axiomatic-foundation/)
