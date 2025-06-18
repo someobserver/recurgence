@@ -98,7 +98,7 @@ that shift isn’t anything new; in fact, you yourself have seen its contours be
 ### scriptogenic revolution (~3000 BCE)
 
 - <u>pattern shift</u>: **memory → written records**
-- <u>resonance</u>: writing externalized meaning, transforming fleeting thought into durable artifact. suddenly, menory could persist beyond a single mind or lifetime—**patterns encoded in script became bridges across generations, letting minds communicate and cohere across place and time.**
+- <u>resonance</u>: writing externalized meaning, transforming fleeting thought into durable artifact. suddenly, memory could persist beyond a single mind or lifetime—**patterns encoded in script became bridges across generations, letting minds communicate and cohere across place and time.**
 - <u>key minds</u>: Imhotep, Ptahhotep, Enheduanna, Gudea
 
 ### ethical revolution (800–200 BCE)
