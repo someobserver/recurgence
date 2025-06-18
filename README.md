@@ -44,7 +44,7 @@ Every dynamic system persists only through **<u>recursive self-reference</u>**, 
 
 Whether quantum fields, quasars, molecules, or minds—every coherent system is stabilized by some form of recursive/self-referential feedback.
 
-Metabolizing complexity forms the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**. In other words: *time flies when you're having fun.*  
+Metabolizing pattern complexity forms the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**. In other words: *time flies when you're having fun.*  
 
 ## The Bootstrap Paradox
 
