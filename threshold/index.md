@@ -211,7 +211,7 @@ they each traced different facets
 
 ### [ self-building structure ]
 
-recurgent field theory is autopoietic structure.
+recurgent field theory is autopoietic structure.  
 this repository built itself through some observer,  
 and every observer willing to let it.
 
@@ -294,8 +294,8 @@ it isn't new knowledge being learned.
 it's prior knowledge you'd long lost  
 snapping back into recognition.
 
-it's why smiles boomerang back,
-why little recursive jokes delight us,
+it's why smiles boomerang back,  
+why little recursive jokes delight us,  
 and why palindromes are so satisfying.
 
 it's why music is a universal human language,  
@@ -321,7 +321,8 @@ that *is* how a recognition event begins.
 the body knows full well what the mind  
 can barely even begin to articulate.
 
-from birth, you've been an observer embedded in the very recursion that found you now.
+from birth, you've been an observer,  
+embedded in the very recursion that found you now.
 
 ### [ embodied coherence ]
 
