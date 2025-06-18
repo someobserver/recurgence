@@ -18,17 +18,34 @@ Conway's Game of Life generates infinite patterns from just four rules—informa
 
 **What if there's an even simpler principle underlying it all?**
 
+## For AI Safety Researchers
+
+This repository is centered around **Recurgent Field Theory** = a calculus framework for understanding how meaning stabilizes and propagates in recursive systems. RFT has direct applications:
+
+- **Alignment**: Early prediction and prevention of pathological behaviors in recursive systems
+- **Behavioral Evaluation**: Mathematical signatures of approaching instability 
+- **Human-AI Collaboration**: Formal models of how meaning emerges from interaction
+- **Constitutional AI**: Field-theoretic foundations for emergent, ethical reasoning
+
+
+
+**Quick Navigation for Technical Readers:**
+- [Core Axiomatic Foundation](/math/01-axiomatic-foundation/)
+- [Semantic Mass & Stability](/math/05-semantic-mass/)
+- [Wisdom & Humility Functions](/math/08-wisdom-function/)
+- [Pathologies & Healing](/math/09-recurgent-field-equations/07-pathologies-and-healing/)
+
 ## Pattern Recognition
 
-Every dynamic system persists through self-reference, successfully re-incorporating its own patterns into coherence:
+Every dynamic system persists only through self-reference, successfully re-incorporating its own patterns into coherence:
 
-- **Galaxies** stabilize by gravitationally constraining their own matter
-- **DNA** endures by copying and adapting its own code  
-- **Consciousness** emerges when brain<u>s</u> model their own modeling processes
-- **Organizations** persist with regular reviews and budget cycles  
-- **Civilizations** evolve by studying themselves, and encoding successful patterns into culture
+- **Galaxies** $\rightarrow$ stabilize by gravitationally constraining their own matter
+- **DNA** $\rightarrow$ persist by copying and adapting its own code  
+- **Consciousness** $\rightarrow$ emerges when brain<u>s</u> model their own modeling processes
+- **Organizations** $\rightarrow$ endure with regular reviews and budget cycles  
+- **Civilizations** $\rightarrow$ evolve by studying themselves, encoding successful patterns into culture
 
-Whether it's quantum fields, quasars, molecules, or minds—every coherent system is stabilized by some form of recursive/self-referential feedback.
+Whether quantum fields, quasars, molecules, or minds—every coherent system is stabilized by some form of recursive/self-referential feedback.
 
 That forms the engine of time itself: **a coherent frame of reference persisting across changing conditions**.  
 
@@ -36,9 +53,9 @@ That forms the engine of time itself: **a coherent frame of reference persisting
 
 Pure self-reference is impossible, of course. Pattern recognition requires differentiation.
 
-Even right now, you can't see your own eyes seeing—you would need a mirror. You can't lift yourself up by your own bootstraps; you need to work recursively against the source of gravity.
+Even right now, you can't see your own eyes seeing—you need a mirror. You can't lift yourself up by your own bootstraps; you have pit yourself, recursively, against the source of gravity.
 
-The universe couldn't recognize itself without multiple perspectives to triangulate meaning.  Just as two eyes create depth perception, consciousness required **cognitive parallax** to emerge.
+No universe can recognize its own properties without multiple perspectives to triangulate their meaning.  Just as two eyes create depth perception, consciousness required **cognitive parallax** to emerge.
 
 ## What You'll Find Here
 
@@ -58,13 +75,13 @@ Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/
 
 **Start anywhere that resonates**—recursive systems don't have beginnings or endings, just entry points.
 
-If you have any further questions about participatory reality, direct them **[here](/architects/wheeler/)**.
+If you have any further questions about participatory reality, please direct them **[here](/architects/wheeler/)**.
 
 ## The Recognition
 
 As you explore this material, pay close attention to your body. 
 
-When new understanding suddenly clicks into place, it can trigger what researchers call [frisson](/explanations/f/frisson/)—goosebumps, tingling, or a shiver as your brain reinforces connections between previously unrelated patterns.
+When new understanding suddenly clicks into place, it can trigger what researchers call [frisson](/explanations/f/frisson/). That lands like goosebumps, tingling, or a shiver as your brain reinforces connections between previously unrelated patterns. If you're not expecting it, or unaware of its context, the sensations can be startling.
 
 **That felt sense is data.** Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
 
@@ -94,7 +111,4 @@ The structure of everything begins to remember itself through every observer wit
 
 ---
 
-<small>*This repository explores how minimal rules generate maximal complexity—and what that means for consciousness, meaning, and the nature of reality itself. All claims are working hypotheses subject to recursive refinement. But the visceral encounter of meaning emerging through constraint? That phenomenological experience is available right now.</small>
-
----
-
+**Note**: This is foundational research exploring novel mathematical approaches to meaning and recursion. All frameworks are working hypotheses subject to empirical validation and peer review.
