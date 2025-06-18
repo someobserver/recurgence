@@ -37,7 +37,7 @@ This repository is centered around **Recurgent Field Theory** = a calculus frame
 Every dynamic system persists only through **<u>recursive self-reference</u>**, successfully re-incorporating its own patterns into coherence:
 
 - **Galaxies** $\rightarrow$ stabilize by gravitationally constraining their own matter
-- **DNA** $\rightarrow$ persist by copying and adapting its own code  
+- **DNA** $\rightarrow$ persists by copying and adapting its own code  
 - **Consciousness** $\rightarrow$ emerges when brain<u>s</u> model their own modeling processes
 - **Organizations** $\rightarrow$ endure with regular reviews and budget cycles  
 - **Civilizations** $\rightarrow$ evolve by studying themselves, encoding successful patterns into culture
