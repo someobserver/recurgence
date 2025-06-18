@@ -5,7 +5,7 @@ description: "Where the universe's one rule meets the mathematics of meaning"
 permalink: /
 private: false
 created_date: 2025-03-18
-updated_date: 2025-06-16
+updated_date: 2025-06-18
 ---
 
 ## Welcome, Observer!
@@ -85,7 +85,7 @@ When new understanding suddenly clicks into place, it can trigger what researche
 
 ## The Larger Pattern
 
-<u>We're living today through a semantic and cognitive phase transition.</u> Whether we like it or not, the abstraction of all things into new things is accelerating, pushing integration to its limits.
+<u>We're living today through a semantic and cognitive phase transition.</u> Whether we like it or not, the abstraction of all things into new things is accelerating, pushing our ability to integrate information complexity to its limits.
 
 Our civilization generates more complexity than its inherited structures can metabolize into shared meaning. More of it every day.
 
