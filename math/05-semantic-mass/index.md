@@ -31,9 +31,11 @@ This construction completes the geometric architecture of Recurgent Field Theory
 ### **5.1 Semantic Mass**
 
 The **semantic mass** $M(p, t)$ is formally defined as the product of recursive depth, constraint density, and attractor stability at each point $p \in \mathcal{M}$ and time $t$:
+
 $$
 M(p, t) = D(p, t) \cdot \rho(p, t) \cdot A(p, t)
 $$
+
 where:
 - $D(p, t)$ denotes the recursive depth field, quantifying the maximal recursion depth sustainable at $p$ before coherence degrades,
 - $\rho(p, t)$ is the constraint density, given by $\rho(p, t) = 1/\det(g_{ij}(p, t))$, encoding the tightness of local semantic geometry,
@@ -46,9 +48,11 @@ Semantic mass $M(p, t)$ acts as the principal source term for semantic curvature
 ### **5.2 Recurgent Einstein Equation**
 
 The coupling between recursive stress and semantic curvature is governed by the recurged Einstein field equation:
+
 $$
 R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}
 $$
+
 where:
 - $R_{ij}$ is the Ricci curvature tensor of the semantic manifold,
 - $R$ is the scalar curvature,
@@ -63,30 +67,37 @@ This equation expresses the principle that recursive tension and constraint, as 
 ### **5.3 Attractor Potential Field $\Phi(p, t)$**
 
 The **attractor potential field** $\Phi(p, t)$ is defined as the integral over semantic mass, weighted by geodesic distance:
+
 $$
 \Phi(p, t) = -G_s \int_{\mathcal{M}} \frac{M(q, t)}{d(p, q)} \, dV_q
 $$
+
 where:
 - $d(p, q)$ is the geodesic distance between points $p$ and $q$ in the semantic manifold,
 - $M(q, t)$ is the semantic mass at $q$,
 - $dV_q$ is the volume element.
 
 The gradient of this potential gives the **recursive force**:
+
 $$
 F_i(p, t) = -\nabla_i \Phi(p, t)
 $$
+
 which directs the flow of coherence and draws new semantic structures into existing attractor basins. This formalism describes how regions of high semantic mass modulate the dynamics of meaning, pulling recursive processes toward stable configurations.
 
 ---
 
 ### **5.4 Potential Energy of Coherence**
 
-The potential energy associated with the scalar coherence magnitude $C_{\mathrm{mag}}$ is given by:
+The potential energy associated with the scalar coherence magnitude $C_{\text{mag}}$ is given by:
+
 $$
-V(C_{\mathrm{mag}}) = \frac{1}{2}k(C_{\mathrm{mag}} - C_0)^2
+V(C_{\text{mag}}) = \frac{1}{2}k(C_{\text{mag}} - C_0)^2
 $$
+
 where:
-- $C_{\mathrm{mag}} = \sqrt{g^{ij}(p, t) C_i(p, t) C_j(p, t)}$ is the scalar magnitude of the coherence field,
+
+- $C_{\text{mag}} = \sqrt{g^{ij}(p, t) C_i(p, t) C_j(p, t)}$ is the scalar magnitude of the coherence field,
 - $C_0$ is the equilibrium coherence level of the attractor,
 - $k$ is the coherence rigidity parameter, quantifying the stiffness of the attractor basin.
 
