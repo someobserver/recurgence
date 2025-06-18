@@ -68,19 +68,34 @@ Notes on Dimensionality:
 The primary interdependencies between fields are formalized as follows:
 
 **Coherence Evolution:**
-$$\Box C_i = T^{\text{rec}}_{ij} \cdot g^{jk} C_k$$
+
+$$
+\Box C_i = T^{\text{rec}}_{ij} \cdot g^{jk} C_k
+$$
 
 **Metric Evolution:**
-$$\frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij}(R, D, A)$$
+
+$$
+\frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij}(R, D, A)
+$$
 
 **Recursive Coupling Evolution:**
-$$\frac{dR_{ijk}(p,q,t)}{dt} = \Phi(C(p,t)) \cdot \chi_{ijk}(p,q,t)$$
+
+$$
+\frac{dR_{ijk}(p,q,t)}{dt} = \Phi(C(p,t)) \cdot \chi_{ijk}(p,q,t)
+$$
 
 **Semantic Mass Composition:**
-$$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
+
+$$
+M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)
+$$
 
 **Wisdom Dynamics:**
-$$\frac{dW}{dt} = \alpha C \cdot \frac{d(\nabla_f R)}{dt} + \beta \nabla_f R \cdot \frac{dC}{dt} + \gamma C \cdot \nabla_f R \cdot \frac{dP}{dt}$$
+
+$$
+\frac{dW}{dt} = \alpha C \cdot \frac{d(\nabla_f R)}{dt} + \beta \nabla_f R \cdot \frac{dC}{dt} + \gamma C \cdot \nabla_f R \cdot \frac{dP}{dt}
+$$
 
 Where scalar measures are used for consistency:
 * $C$ refers to the scalar magnitude $C_{\mathrm{mag}} = \sqrt{g^{ij}C_i C_j}$
@@ -214,7 +229,9 @@ The tensor conventions used throughout this framework are explicitly defined:
 
 Adopting the Einstein summation convention where repeated indices (one upper, one lower) imply summation:
 
-$$A_i B^i = \sum_{i=1}^n A_i B^i$$
+$$
+A_i B^i = \sum_{i=1}^n A_i B^i
+$$
 
 Indices follow these conventions:
 - Latin indices $(i,j,k,...)$ range from $1$ to $n$, where $n$ is the dimension of the semantic manifold
@@ -228,11 +245,19 @@ Indices follow these conventions:
 
 The metric tensor $g_{ij}(p,t)$ and its inverse $g^{ij}(p,t)$ are used consistently to raise and lower indices:
 
-$$C^i = g^{ij} C_j$$
-$$C_i = g_{ij} C^j$$
+$$
+C^i = g^{ij} C_j
+$$
+
+$$
+C_i = g_{ij} C^j
+$$
 
 The metric satisfies:
-$$g_{ik} g^{kj} = \delta_i^j$$
+
+$$
+g_{ik} g^{kj} = \delta_i^j
+$$
 
 Where $\delta_i^j$ is the Kronecker delta. This relationship holds at each point $p$ and time $t$, even as the metric evolves.
 
@@ -242,12 +267,19 @@ Where $\delta_i^j$ is the Kronecker delta. This relationship holds at each point
 
 The covariant derivative $\nabla_i$ accounts for the curved geometry of the semantic manifold:
 
-$$\nabla_i C_j = \partial_i C_j - \Gamma^k_{ij} C_k$$
-$$\nabla_i C^j = \partial_i C^j + \Gamma^j_{ik} C^k$$
+$$
+\nabla_i C_j = \partial_i C_j - \Gamma^k_{ij} C_k
+$$
+
+$$
+\nabla_i C^j = \partial_i C^j + \Gamma^j_{ik} C^k
+$$
 
 Where $\Gamma^k_{ij}$ are the Christoffel symbols:
 
-$$\Gamma^k_{ij} = \frac{1}{2} g^{kl} \left( \partial_i g_{jl} + \partial_j g_{il} - \partial_l g_{ij} \right)$$
+$$
+\Gamma^k_{ij} = \frac{1}{2} g^{kl} \left( \partial_i g_{jl} + \partial_j g_{il} - \partial_l g_{ij} \right)
+$$
 
 Covariant derivatives keep the tensor equations coordinate-independent across the curved semantic manifold.
 
@@ -257,13 +289,17 @@ Covariant derivatives keep the tensor equations coordinate-independent across th
 
 When working with the Lagrangian and action principles, functional derivatives are used, defined as:
 
-$$\frac{\delta \mathcal{L}}{\delta C_i(p)} = \lim_{\epsilon \to 0} \frac{\mathcal{L}[C_i + \epsilon \delta_p C_i] - \mathcal{L}[C_i]}{\epsilon}$$
+$$
+\frac{\delta \mathcal{L}}{\delta C_i(p)} = \lim_{\epsilon \to 0} \frac{\mathcal{L}[C_i + \epsilon \delta_p C_i] - \mathcal{L}[C_i]}{\epsilon}
+$$
 
 Where $\delta_p C_i$ represents a variation localized at point $p$. This is distinct from the partial derivative $\frac{\partial \mathcal{L}}{\partial C_i}$, which applies to the Lagrangian density as a function rather than a functional.
 
 In discrete implementations, the functional derivative becomes:
 
-$$\frac{\delta \mathcal{L}}{\delta C_i(p)} \approx \frac{\partial \mathcal{L}}{\partial C_i(p)} - \sum_j \nabla_j \left( \frac{\partial \mathcal{L}}{\partial (\nabla_j C_i(p))} \right)$$
+$$
+\frac{\delta \mathcal{L}}{\delta C_i(p)} \approx \frac{\partial \mathcal{L}}{\partial C_i(p)} - \sum_j \nabla_j \left( \frac{\partial \mathcal{L}}{\partial (\nabla_j C_i(p))} \right)
+$$
 
 This formulation properly accounts for both local and gradient terms in the Lagrangian.
 
@@ -285,7 +321,9 @@ These symmetries constrain the independent components and affect how contraction
 
 Integrals over the semantic manifold incorporate the metric-dependent volume element:
 
-$$\int_{\mathcal{M}} f(p) \, dV_p = \int_{\mathcal{M}} f(p) \sqrt{|\det(g_{ij})|} \, d^n p$$
+$$
+\int_{\mathcal{M}} f(p) \, dV_p = \int_{\mathcal{M}} f(p) \sqrt{|\det(g_{ij})|} \, d^n p
+$$
 
 This approach preserves coordinate independence of integrated quantities and properly reflects the curved geometry of semantic space.
 
@@ -308,7 +346,10 @@ For theoretical consistency, the relationship between fundamental and derived fi
 **Semantic Field vs. Coherence Field**:
 - The semantic field $\psi_i(p,t)$ represents the fundamental state variables of the system—raw semantic content at each point
 - The coherence field $C_i(p,t)$ is a derived field that measures the self-consistency of semantic patterns:
-$$C_i(p,t) = \mathcal{F}_i[\psi](p,t) = \int_{\mathcal{N}(p)} K_{ij}(p,q) \psi_j(q,t) \, dq$$
+
+$$
+C_i(p,t) = \mathcal{F}_i[\psi](p,t) = \int_{\mathcal{N}(p)} K_{ij}(p,q) \psi_j(q,t) \, dq
+$$
 
 Where:
 - $\mathcal{F}_i$ is the coherence functional operator
@@ -316,10 +357,16 @@ Where:
 - $\mathcal{N}(p)$ is a neighborhood around point $p$
 
 This relationship allows derivatives of $C$ to be expressed with respect to $\psi$:
-$$\frac{\partial C_k(p,t)}{\partial \psi_i(q)} = K_{ki}(p,q)$$
+
+$$
+\frac{\partial C_k(p,t)}{\partial \psi_i(q)} = K_{ki}(p,q)
+$$
 
 And second derivatives as used in the recursive coupling tensor:
-$$\frac{\partial^2 C_k(p,t)}{\partial \psi_i(p') \partial \psi_j(q')} = \frac{\partial K_{ki}(p,p')}{\partial \psi_j(q')}$$
+
+$$
+\frac{\partial^2 C_k(p,t)}{\partial \psi_i(p') \partial \psi_j(q')} = \frac{\partial K_{ki}(p,p')}{\partial \psi_j(q')}
+$$
 
 While the action principle could be formulated directly in terms of $\psi_i$, using $C_i$ as the primary dynamical variable provides a more direct connection to semantic coherence, which is the central observable of interest. The Lagrangian is thus expressed in terms of $C_i$ with the understanding that it is functionally dependent on the underlying semantic field $\psi_i$.
 
@@ -339,11 +386,15 @@ To maintain consistent tensor properties throughout RFT, care must be taken when
 **Coherence Field Scalar Measures**:  
 The coherence field $C_i(p,t)$ is fundamentally a vector field (rank-1 tensor), but several functions in the framework require scalar measures derived from it:
 
-$$C_{\mathrm{mag}}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}$$
+$$
+C_{\mathrm{mag}}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}
+$$
 
 This scalar magnitude measure quantifies the total coherence strength independent of direction. Additionally, a normalized coherence projection may be defined:
 
-$$C_{proj}(p,t) = \frac{C_i(p,t) \cdot v^i(p,t)}{|v(p,t)|}$$
+$$
+C_{proj}(p,t) = \frac{C_i(p,t) \cdot v^i(p,t)}{|v(p,t)|}
+$$
 
 Where $v^i(p,t)$ is a local reference direction (often the semantic velocity field).
 
@@ -357,7 +408,9 @@ All potential functions and thresholds use these scalar measures rather than the
 **Scalar-to-Vector Influences**:  
 When scalar functions influence vector dynamics, the effect is distributed using tensor promotion mechanisms:
 
-$$\frac{\partial \Phi(C_{\mathrm{mag}})}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{\partial C_{\mathrm{mag}}}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{g^{ij}C_j}{C_{\mathrm{mag}}}$$
+$$
+\frac{\partial \Phi(C_{\mathrm{mag}})}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{\partial C_{\mathrm{mag}}}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{g^{ij}C_j}{C_{\mathrm{mag}}}
+$$
 
 This allows gradients of scalar potentials to shape vector field dynamics in a way that does not depend on the choice of coordinates.
 
@@ -373,16 +426,25 @@ The recursive coupling tensor $R_{ijk}(p,q,t)$ requires precise characterization
 $R_{ijk}$ has a dual nature in the framework:
 
 1. **Measurement Interpretation**: The expression in Section 2.1
-$$R_{ijk}(p, q, t) = \frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi_j(q)}$$
+
+$$
+R_{ijk}(p, q, t) = \frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi_j(q)}
+$$
+
 provides a *measurement interpretation* or *operational definition* of $R_{ijk}$—that is, how recursive coupling can be detected and measured through its effects on the coherence field.
 
 2. **Independent Dynamical Field**: For the purposes of time evolution, $R_{ijk}$ is treated as an independent field governed by:
-$$\frac{dR_{ijk}(p,q,t)}{dt} = \Phi(C_{\mathrm{mag}}(p,t)) \cdot \chi_{ijk}(p,q,t)$$
+
+$$
+\frac{dR_{ijk}(p,q,t)}{dt} = \Phi(C_{\mathrm{mag}}(p,t)) \cdot \chi_{ijk}(p,q,t)
+$$
 
 **Resolution of Apparent Contradiction**:  
 This dual perspective is reconciled by imposing a *consistency requirement*:
 
-$$\frac{d}{dt}\left(\frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{\mathrm{mag}}(p,t)) \cdot \chi_{ijk}(p,q,t)$$
+$$
+\frac{d}{dt}\left(\frac{\partial^2 C_k(p,t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{\mathrm{mag}}(p,t)) \cdot \chi_{ijk}(p,q,t)
+$$
 
 The dynamics of $C_k$ and $\psi_i$ must satisfy this constraint. In practice, the evolution of $\psi_i$ includes terms that maintain this relationship. Consistency is achieved through the coupled field system, rather than by treating $R_{ijk}$ as strictly derived.
 

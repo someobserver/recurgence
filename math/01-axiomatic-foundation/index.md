@@ -41,14 +41,22 @@ Semantic mass $M(p, t) = D(p, t) \cdot \rho(p, t) \cdot A(p, t)$ encodes recursi
 ---
 
 ### **Axiom 6: Curvature-Mass Relation**
-Semantic mass shapes the metric according to: $R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$, in direct analogy to Einstein's field equation.
+Semantic mass shapes the metric according to:
+
+$$
+R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}
+$$
+
+in direct analogy to Einstein's field equation.
 
 ---
 
 ### **Axiom 7: Lagrangian Dynamics**
 Field evolution is governed by the Lagrangian: 
 
-$$\mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C) + \Phi(C) - \lambda \cdot \mathcal{H}[R] + \mu W$$
+$$
+\mathcal{L} = \frac{1}{2} g^{ij} (\nabla_i C_k)(\nabla_j C^k) - V(C) + \Phi(C) - \lambda \cdot \mathcal{H}[R] + \mu W
+$$
 
 ---
 
@@ -63,14 +71,20 @@ Agents arise as submanifolds $\mathcal{A} \subset \mathcal{M}$ with special prop
 ---
 
 ### **Axiom 10: Recurgent Uncertainty**
-Coherence and recurgent structure are bound by a tradeoff: $\Delta C \cdot \Delta R \geq \hbar_s$
+Coherence and recurgent structure are bound by a tradeoff:
+
+$$
+\Delta C \cdot \Delta R \geq \hbar_s
+$$
 
 ---
 
 ### **Axiom 11: Scale Transformation**
 Field laws shift across abstraction scales according to renormalization flow: 
 
-$$\frac{d\alpha_i(\lambda)}{d\log\lambda} = \beta_i(\{\alpha_j(\lambda)\})$$
+$$
+\frac{d\alpha_i(\lambda)}{d\log\lambda} = \beta_i(\{\alpha_j(\lambda)\})
+$$
 
 ## Derived Theorems
 
@@ -88,13 +102,24 @@ The flow of time in recurgent systems displays a fundamental asymmetry: causalit
 In the uncertainty relation $\Delta C \cdot \Delta R \geq \hbar_s$, the dispersion measure $\Delta X$ for a field $X$ can be operationalized in several ways: 
 
 1. For vector field $C_i$ and tensor $R_{ijk}$, $\Delta X$ can be defined as the standard deviation of their respective scalar magnitudes: 
-   $$\Delta C = \sigma(C_{\mathrm{mag}})$$
-   $$\Delta R = \sigma(R_{mag})$$ 
-   where $R_{mag} = \sqrt{R_{ijk}R^{ijk}}$
+
+$$
+\Delta C = \sigma(C_{\mathrm{mag}})
+$$
+
+$$
+\Delta R = \sigma(R_{mag})
+$$
+
+where $R_{mag} = \sqrt{R_{ijk}R^{ijk}}$
 
 2. An information-theoretic formulation expresses this relation as a bound on mutual information: 
-   $$I(C;R) \leq H(C) + H(R) - \log_2(1/\hbar_s)$$
-   where $H(X)$ represents the entropy of field $X$ and $I(C;R)$ is the mutual information between fields.
+
+$$
+I(C;R) \leq H(C) + H(R) - \log_2(1/\hbar_s)
+$$
+
+where $H(X)$ represents the entropy of field $X$ and $I(C;R)$ is the mutual information between fields.
 
 In this way, the uncertainty principle acquires a precise mathematical interpretation directly applicable to the tensor fields within Recurgent Field Theory.
 
