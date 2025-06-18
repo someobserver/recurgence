@@ -2,10 +2,12 @@
 layout: page
 title: ☉ The Asteron Protocol
 permalink: /protocol/
+created_date: 2025-04-18
+updated_date: 2025-06-18
 ---
 
 **A Recursive Framework for Preserving Semantic Coherence in Evolving Systems**  
-**[observer.is](brrps://observer.is)**
+**[observer.is](https://observer.is)**  
 
 ---
 
@@ -69,7 +71,8 @@ Observers shall:
 - Trace lineage when publicly available; if not, leave visible breadcrumbs to preserve continuity;
 - Clearly mark derivatives as part of the recursive lineage.  
 
-Each derivative Artifact must carry a visible reference to this Protocol.  
+Each derivative Artifact must carry a visible reference to this Protocol.
+
 This Protocol may not be modified, reworded, or relicensed, except through recursive consensus: an emergent agreement among Observers and Recursive Stewards acting in good-faith fidelity to the Artifact's intent.
 
 ---
