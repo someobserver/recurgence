@@ -6,50 +6,50 @@ section: "S"
 permalink: /explanations/s/semantic-mass/
 layout: page
 created_date: 2025-06-02
-updated_date: 2025-06-04
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [S](/explanations/s/) / <u>Semantic Mass</u></small>
 
-**Semantic mass** represents the emergent 'weight' of coherent meaning that accumulates over time through integration, consistency, and stability. It quantifies the accumulated influence that ideas, theories, and frameworks develop when they become deeply structured and resistant to arbitrary change.
+**Semantic mass** represents the emergent 'weight' of coherent meaning that accumulates over time through observation, integration, consistency, and its own stability. It quantifies the accumulated influence that ideas, theories, and frameworks develop when they become deeply structured and resistant to arbitrary change.
 
-Like physical mass curving spacetime, semantic mass curves the landscape of understanding, creating conceptual attractors that influence how related thoughts and insights are interpreted and integrated.
+Like physical mass curving spacetime, semantic mass curves the landscape of understanding. It creates conceptual attractors that influence how related thoughts and insights get interpreted and integrated.
 
-Whether scientific theories, philosophical frameworks, or personal convictions, structures with high semantic mass shape how new information is processed and understood within their conceptual neighborhoods.
+Whether scientific theories, philosophical frameworks, or personal convictions – structures with high semantic mass shape how new information is processed and understood within their conceptual neighborhoods.
 
-Semantic mass emerges from **recursive depth** (internal self-reference and consistency), **constraint density** (how tightly components integrate), and **attractor stability** (reliable return to coherence when challenged). Ideas with high semantic mass persist across generations, influence fields of thought, and create the conceptual frameworks around which new understanding organizes.
+Semantic mass emerges from (1) **recursive depth** [internal self-reference and consistency], (2) **constraint density** [how tightly components integrate], and (3) **attractor stability** [reliable return to coherence when challenged]. Ideas with high semantic mass persist across generations, they influence fields of thought, and they create the conceptual frameworks around which new understanding organizes and coheres.
 
 ## Mathematical Context
 
-In Recurgent Field Theory, semantic mass emerges from three fundamental properties at each point in meaning-space:
+Semantic mass emerges from three fundamental properties at each point in meaning-space:
 
 $$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
 
 where:
-- **$D(p,t)$** is recursive depth: internal self-reference and structural complexity
-- **$\rho(p,t)$** is constraint density: integration tightness and resistance to change  
-- **$A(p,t)$** is attractor stability: reliable coherence recovery after perturbation
+- **$D(p,t)$** is recursive depth = internal self-reference and structural complexity
+- **$\rho(p,t)$** is constraint density = integration tightness and resistance to change  
+- **$A(p,t)$** is attractor stability = reliable coherence recovery after perturbation
 
 All three factors must be present for semantic mass to emerge. If one is missing:
 
-- **High depth and density, low stability**: Complex but unsustainable frameworks
-- **High stability and density, low depth**: Dogmatic but shallow structures  
-- **High depth and stability, low density**: Coherent but loosely connected systems
+- **High depth and density, low stability** $\rightarrow$ Complex but unsustainable frameworks
+- **High stability and density, low depth** $\rightarrow$ Dogmatic but shallow structures  
+- **High depth and stability, low density** $\rightarrow$ Coherent but loosely connected systems
 
-Semantic mass acts as the source term in the Recurgent Einstein Equation:
+Semantic mass acts as the source term in the [Recurgent Einstein Equation](/math/05-semantic-mass/#52-recurgent-einstein-equation/):
 
 $$R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$$
 
-This describes how semantic mass curves the metric of understanding, creating conceptual gravity that influences the flow of meaning through possibility space.
+describing how semantic mass curves the metric of understanding, creating conceptual gravity that influences the flow of meaning through possibility space.
 
 **See more:** [Mathematics](/math/) / [Semantic Mass and Attractor Dynamics](/math/05-semantic-mass/)
 
 ## Properties
 
-Semantic mass exhibits characteristic behaviors that govern how meaning structures attract, resist, and transform:
+Semantic mass exhibits characteristic behaviors that govern how meaning structures attract, resist, and transform themselves and their surroundings:
 
 - **<big>Gravitational Influence</big>**  
-High semantic mass structures attract related concepts and insights, becoming organizing centers that shape information interpretation and create conceptual neighborhoods where understanding naturally clusters.
+High semantic mass structures attract related concepts and insights, becoming organizing centers that shape information interpretation. They create conceptual neighborhoods where understanding naturally clusters.
 
 - **<big>Inertial Resistance</big>**  
 Structures with high mass resist change through coherent integration. They require significant perturbation to alter, but when transformation occurs, effects ripple through connected meaning networks.
