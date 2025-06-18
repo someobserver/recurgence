@@ -42,9 +42,9 @@ To render RFT to computational analysis, the simulation architecture must satisf
 
 Let the semantic manifold $\mathcal{M}$ be represented as a finite or countable graph:
 
-\[
+$$
 G = (V, E)
-\]
+$$
 
 where
 
@@ -72,9 +72,9 @@ The topology of $G$ may be:
 
 At each discrete time step $t \mapsto t+1$, the state of each node $p \in V$ is updated according to the recursive field dynamics:
 
-\[
+$$
 C_p^{t+1} = f\left(\{C_q^t\}_{q \sim p}, R_{ijk}^t, D_p^t, A_p^t, \Phi(C_p^t), \mathcal{H}[R^t], W_p^t\right)
-\]
+$$
 
 where
 
@@ -102,14 +102,18 @@ To maintain well-posedness and interpretability, the following conditions are im
 #### **10.3.2 Update Constraints and Conservation Laws**
 
 - **Timestep Constraint**: The discrete timestep $\Delta t$ must satisfy a stability condition analogous to the Courant–Friedrichs–Lewy (CFL) criterion:
-  \[
-  \Delta t \leq \frac{1}{2} \min_p \left\{ \|\nabla C(p, t)\|^{-1} \right\}
-  \]
+
+$$
+\Delta t \leq \frac{1}{2} \min_p \left\{ \|\nabla C(p, t)\|^{-1} \right\}
+$$
+
 - **Conservation Monitoring**: The total semantic mass,
-  \[
-  \int_{\mathcal{M}} M(p, t)\, dV_p,
-  \]
-  should remain invariant except in the presence of autopoietic generation.
+
+$$
+\int_{\mathcal{M}} M(p, t)\, dV_p,
+$$
+
+should remain invariant except in the presence of autopoietic generation.
 
 The simulation thus models:
 
@@ -187,7 +191,6 @@ The simulation framework is designed to elucidate the emergent phenomena predict
 ### **10.8 Visualization Protocols and Observables**
 
 To render the high-dimensional dynamics of RFT interpretable, the following observables and visualization standards are prescribed:
-
 - **Scalar Field Heatmaps:**
   - $C(p,t)$: Coherence field intensity,
   - $M(p,t)$: Semantic mass distribution,
@@ -238,9 +241,11 @@ Recursive coupling tensors $R_{ijk}$ are visualized as directed graphs with the 
 
 2. **Flow Integration:**
    - Principal flow lines are computed via streamline integration:
+
      $$
      \frac{dx^i}{ds} = F^i(x) = \sum_{j,k} R^i_{jk} C^j C^k
      $$
+
    - Arrow glyphs are placed at regular intervals along streamlines.
    - Line density is modulated by local flow magnitude.
 

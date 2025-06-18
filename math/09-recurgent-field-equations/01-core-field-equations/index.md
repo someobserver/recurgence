@@ -27,9 +27,11 @@ Taken together, these equations form a closed dynamical system for recursive cog
 ### 9.2 Recurgent Field Equation
 
 The evolution of the coherence field $C_i(p, t)$ under recursive stress is governed by the recurgent field equation:
+
 $$
 \Box C_i = T^{\text{rec}}_{ij} \, g^{jk} C_k
 $$
+
 where
 - $\Box = \nabla^a \nabla_a$ denotes the covariant d'Alembertian operator on the semantic manifold $\mathcal{M}$,
 - $T^{\text{rec}}_{ij}$ is the recursive stress-energy tensor (see Section 2.3),
@@ -44,9 +46,11 @@ This equation expresses that the acceleration of coherence, both spatially and t
 ### 9.3 Semantic Geodesics
 
 The natural trajectory of a semantic point $p \in \mathcal{M}$ under recursive evolution is described by the geodesic equation:
+
 $$
 \frac{d^2 p^i}{ds^2} + \Gamma^i_{jk} \frac{dp^j}{ds} \frac{dp^k}{ds} = 0
 $$
+
 where
 - $s$ is a parameter along the curve (e.g., time or recursive depth),
 - $\Gamma^i_{jk}$ are the Christoffel symbols associated with the metric $g_{ij}$,
@@ -61,9 +65,11 @@ Geodesics trace the extremal (least-resistance) paths of recursive transformatio
 ### 9.4 Metric Evolution
 
 The geometry of the semantic manifold is itself dynamic, evolving in response to recursive flows and the accumulation of semantic mass. The evolution of the metric tensor is given by:
+
 $$
 \frac{\partial g_{ij}}{\partial t} = -2 R_{ij} + F_{ij}(R, D, A)
 $$
+
 where
 - $R_{ij}$ is the Ricci curvature tensor, encoding the torsion induced by recursion,
 - $F_{ij}$ is a forcing term dependent on the recursive coupling $R$, recursive depth $D$, and attractor stability $A$.

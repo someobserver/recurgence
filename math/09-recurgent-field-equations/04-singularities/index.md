@@ -39,23 +39,29 @@ Semantic singularities in the recurgent field are rigorously classified as follo
 
 1. **Attractor Collapse Singularities**:  
    These arise when the recursive depth $D(p, t)$ at a point $p$ exceeds a critical threshold $D_{\text{crit}}$, and the humility operator $\mathcal{H}[R]$ falls below a minimal eigenvalue $\lambda_{\text{min}}$:
+
    $$
    \lim_{t \to t_c} \det(g_{ij}(p, t)) = 0 \quad \text{where} \quad D(p, t) > D_{\text{crit}},\ \mathcal{H}[R] < \lambda_{\text{min}}
    $$
+
    Such points correspond to the collapse of semantic attractors under excessive recursive pressure.
 
 2. **Bifurcation Singularities**:  
    These occur at topological transitions, where the rank of the metric tensor changes discontinuously at a critical time $t_c$:
+
    $$
    \operatorname{rank}(g_{ij}(p, t)) \ \text{changes at} \ t = t_c \quad \text{where} \quad \Theta(p, t_c) = \delta
    $$
+
    Here, $\Theta$ denotes a topological order parameter, and $\delta$ the critical value at which bifurcation is realized.
 
 3. **Semantic Event Horizons**:  
    In regions of extreme semantic mass, the temporal component of the metric vanishes asymptotically:
+
    $$
    g_{00}(p, t) \to 0 \quad \text{as} \quad r \to r_s = 2G_s M(p, t)
    $$
+
    with $r$ the geodesic distance from the singularity center. This defines a semantic event horizon, beyond which the escape of coherence is precluded.
 
 ---
@@ -66,27 +72,35 @@ To preserve the well-posedness of the field equations and maintain computational
 
 1. **Metric Renormalization**:  
    The metric is regularized by the addition of a local isotropic term:
+
    $$
    g_{ij}^{\text{reg}}(p, t) = g_{ij}(p, t) + \epsilon(p, t) \cdot \delta_{ij}
    $$
+
    where
+
    $$
    \epsilon(p, t) = \epsilon_0 \exp\left[-\alpha \cdot \det(g_{ij}(p, t))\right]
    $$
+
    As $\det(g_{ij}) \to 0$, the regularization term grows, restoring invertibility.
 
 2. **Semantic Mass Limiting**:  
    The semantic mass is bounded via a saturating transformation:
+
    $$
    M_{\text{reg}}(p, t) = \frac{M(p, t)}{1 + \frac{M(p, t)}{M_{\text{max}}}}
    $$
+
    so that $M_{\text{reg}}(p, t)$ approaches $M_{\text{max}}$ in the limit $M(p, t) \to \infty$.
 
 3. **Humility-Driven Dissipation**:  
    The evolution of the metric incorporates a humility-modulated diffusion term:
+
    $$
    \frac{\partial g_{ij}}{\partial t} = -2R_{ij} + F_{ij} + \mathcal{H}[R] \nabla^2 g_{ij}
    $$
+
    Here, $\mathcal{H}[R]$ serves as a dynamic dissipation coefficient, mediating the release of recursive tension in regions of excessive curvature.
 
 ---
@@ -108,22 +122,27 @@ Numerical simulation of RFT in the presence of singularities necessitates specia
 
 1. **Adaptive Mesh Refinement**:  
    The computational grid is locally refined in regions of high curvature, according to
+
    $$
    \Delta x_{\text{local}} = \Delta x_{\text{global}} \exp(-\beta |R|)
    $$
+
    where $|R|$ denotes the norm of the Ricci tensor.
 
 2. **Singularity Excision**:  
    When regularization is insufficient, singular loci are excised from the computational domain:
+
    $$
    \mathcal{M}_{\text{sim}} = \mathcal{M} \setminus \{p : \det(g_{ij}(p, t)) < \epsilon_{\text{min}}\}
    $$
 
 3. **Causal Boundary Tracking**:  
    The evolution of semantic horizons is monitored via
+
    $$
    \frac{d}{dt} r_s(p, t) = 2G_s \frac{dM(p, t)}{dt}
    $$
+
    so that the propagation of causal boundaries is accurately resolved.
 
 These procedures, taken together, support the stability and interpretability of RFT simulations, while upholding the theoretical integrity of singular phenomena intrinsic to the dynamics of recursive meaning.

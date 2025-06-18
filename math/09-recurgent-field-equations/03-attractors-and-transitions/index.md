@@ -29,13 +29,13 @@ This section weaves together dynamical, topological, and thermodynamic perspecti
 
 ### **9.7 Evolution of the Global Attractor Structure**
 
-The attractor landscape of the semantic manifold $\mathcal{M}$ is intrinsically dynamic, governed by the interplay of recursive mass $M(p,t)$, autopoietic recurgence $\Phi(C)$, and wisdom density $W(p,t)$. These field-theoretic quantities collectively determine the temporal evolution of coherence centers and the manifold’s topological organization.
+The attractor landscape of the semantic manifold $\mathcal{M}$ is intrinsically dynamic, governed by the interplay of recursive mass $M(p,t)$, autopoietic recurgence $\Phi(C)$, and wisdom density $W(p,t)$. These field-theoretic quantities collectively determine the temporal evolution of coherence centers and the manifold's topological organization.
 
 The principal dynamical phenomena are as follows:
 
 - **Attractor Migration:** Continuous displacement of coherence centers within $\mathcal{M}$, reflecting the redistribution of semantic mass under the influence of field gradients.
 - **Structural Collapse:** Annihilation or contraction of attractor basins, corresponding to the semantic extinction of obsolete or rigidified structures (e.g., myths, ideologies).
-- **Dimensional Emergence:** The spontaneous generation of novel semantic axes, instantiated by recurgent ignition and the subsequent expansion of the manifold’s effective dimensionality.
+- **Dimensional Emergence:** The spontaneous generation of novel semantic axes, instantiated by recurgent ignition and the subsequent expansion of the manifold's effective dimensionality.
 
 ---
 
@@ -62,29 +62,36 @@ This formulation remains compatible with the stability parameter $S_R(p,t)$ intr
 The detection of bifurcation events is grounded in the following quantitative indicators:
 
 1. **Effective Dimension Change:** The variation in the effective embedding dimension of $\mathcal{M}$,
+
    $$
    \Delta_{\text{dim}}(t) = \operatorname{rank}(g_{ij}(t)) - \operatorname{rank}(g_{ij}(t-\Delta t)),
    $$
-   where $g_{ij}$ is the metric tensor. This captures changes in the system’s degrees of freedom, as revealed by:
+
+   where $g_{ij}$ is the metric tensor. This captures changes in the system's degrees of freedom, as revealed by:
    - Spectral gap analysis of the eigenvalue spectrum of $g_{ij}$,
    - Condition number-based rank estimation,
    - Persistent homology quantification of dimensional collapse.
 
 2. **Attractor Basin Count:** The cardinality of distinct attractor basins,
+
    $$
    N_{\text{attractors}}(t) = \left|\left\{p \in \mathcal{M} : \nabla_i \Phi(p,t) = 0,\, \lambda_{\min}[\nabla_i \nabla_j \Phi(p,t)] > 0\right\}\right|,
    $$
+
    where $\lambda_{\min}$ denotes the minimal eigenvalue, which guarantees local stability.
 
 3. **Recurgent Expansion Rate:** The second temporal derivative of the total semantic mass,
+
    $$
    \mathcal{E}(t) = \frac{d^2}{dt^2}\int_{\mathcal{M}} M(p,t) \, dV_p.
    $$
 
 A bifurcation is formally defined by the following criterion: Let $\mathcal{M}(t)$ possess local topology $\tau$. If
+
 $$
 \mathcal{E}(t) \geq \mathcal{E}_{\text{thresh}} \quad \wedge \quad \Theta(p,t) > \Theta_{\text{crit}} \quad \wedge \quad \left(\Delta_{\text{dim}}(t) \neq 0 \;\vee\; \Delta N_{\text{attractors}}(t) \neq 0\right),
 $$
+
 then a topological phase transition occurs, $\tau \rightarrow \tau'$.
 
 ---
@@ -135,17 +142,21 @@ To rigorously discriminate genuine transitions from random fluctuations, the fol
    - Generate surrogate field configurations via constrained randomization.
    - Compute transition metrics on surrogate ensembles.
    - Evaluate the empirical $p$-value:
+
      $$
      p_{\text{value}} = P(P^*_{\text{transition}} \geq P_{\text{transition}} \mid H_0),
      $$
+
      where $H_0$ denotes the null hypothesis of no transition. A transition is confirmed if $p_{\text{value}} < \alpha_{\text{sig}}$.
 
 2. **Sequential Probability Ratio Test (SPRT):**
    - Competing hypotheses: $H_0$ (no transition), $H_1$ (transition in progress).
    - Compute the log-likelihood ratio,
+
      $$
      \Lambda_t = \sum_{s=t-T}^{t} \log\frac{P(\text{obs}_s \mid H_1)}{P(\text{obs}_s \mid H_0)},
      $$
+
      and continue observation until $\Lambda_t > A$ (accept $H_1$) or $\Lambda_t < B$ (accept $H_0$), with $A, B$ set by desired error rates.
 
 ---
@@ -167,21 +178,27 @@ where $b_i$ and $d_i$ denote the birth and death parameters of topological featu
 The following indicators are constructed to be intrinsically robust to stochastic perturbations:
 
 1. **Fisher Information Metric:**
+
    $$
    g_{ij}^{\text{Fisher}} = \mathbb{E}\left[\frac{\partial \log P(C|\theta)}{\partial \theta_i}\frac{\partial \log P(C|\theta)}{\partial \theta_j}\right],
    $$
+
    with sharp peaks in $\det g_{ij}^{\text{Fisher}}$ signifying information-theoretic phase transitions.
 
 2. **Critical Slowing Down:**
+
    $$
    \tau_{\text{corr}}(t) = \int_0^{\infty} \frac{\langle C(t)C(t+\tau) \rangle - \langle C(t) \rangle^2}{\langle C(t)^2 \rangle - \langle C(t) \rangle^2} \, d\tau,
    $$
+
    reflecting the universal increase in recovery time near criticality.
 
 3. **Variance Scaling:**
+
    $$
    \sigma^2(L) \propto L^{2\beta/\nu},
    $$
+
    where deviations from baseline scaling laws indicate proximity to a phase transition.
 
 ---

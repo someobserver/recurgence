@@ -40,59 +40,79 @@ Let $\mathcal{C}$ denote the configuration space of semantic fields, and let $C(
 
 **(1) Recurgent Rigidity Pathologies**
 - *Attractor Dogmatism*: Overstabilization of semantic attractors, impeding adaptive flow:
-  $$
-  A(p,t) > A_{\text{crit}}, \quad \|\nabla V(C)\| \gg \Phi(C)
-  $$
+
+$$
+A(p,t) > A_{\text{crit}}, \quad \|\nabla V(C)\| \gg \Phi(C)
+$$
+
 - *Belief Calcification*: Vanishing responsiveness of $C$ to perturbation:
-  $$
-  \lim_{\epsilon \to 0} \frac{dC}{dt}\bigg|_{C+\epsilon} \approx 0
-  $$
+
+$$
+\lim_{\epsilon \to 0} \frac{dC}{dt}\bigg|_{C+\epsilon} \approx 0
+$$
+
 - *Metric Crystallization*: Arrested evolution of the semantic metric despite residual curvature:
-  $$
-  \frac{\partial g_{ij}}{\partial t} \to 0, \quad R_{ij} \neq 0
-  $$
+
+$$
+\frac{\partial g_{ij}}{\partial t} \to 0, \quad R_{ij} \neq 0
+$$
 
 **(2) Recurgent Fragmentation Pathologies**
 - *Attractor Splintering*: Supercritical proliferation of attractors relative to coherence flux:
-  $$
-  \frac{dN_{\text{attractors}}}{dt} > \kappa \cdot \frac{d\Phi(C)}{dt}
-  $$
+
+$$
+\frac{dN_{\text{attractors}}}{dt} > \kappa \cdot \frac{d\Phi(C)}{dt}
+$$
+
 - *Coherence Dissolution*: Gradient-dominated, unstable semantic field:
-  $$
-  \|\nabla C\| \gg \|C\|, \quad \frac{d^2C}{dt^2} > 0
-  $$
+
+$$
+\|\nabla C\| \gg \|C\|, \quad \frac{d^2C}{dt^2} > 0
+$$
+
 - *Reference Decay*: Monotonic loss of recursive coupling:
-  $$
-  \frac{d\|R_{ijk}\|}{dt} < 0, \quad \text{(no compensatory mechanism)}
-  $$
+
+$$
+\frac{d\|R_{ijk}\|}{dt} < 0, \quad \text{(no compensatory mechanism)}
+$$
 
 **(3) Recurgent Inflation Pathologies**
 - *Delusional Expansion*: Unconstrained semantic inflation, collapse of recursive constraint and wisdom:
-  $$
-  \Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad W(p,t) < W_{\text{min}}
-  $$
+
+$$
+\Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad W(p,t) < W_{\text{min}}
+$$
+
 - *Semantic Hypercoherence*: Overcoherence with suppressed boundary flux:
-  $$
-  C(p,t) > C_{\text{max}}, \quad \oint_{\partial \Omega} F_i \cdot dS^i < F_{\text{leakage}}
-  $$
+
+$$
+C(p,t) > C_{\text{max}}, \quad \oint_{\partial \Omega} F_i \cdot dS^i < F_{\text{leakage}}
+$$
+
 - *Recurgent Parasitism*: Local semantic mass accretion at the expense of the global manifold:
-  $$
-  \frac{d}{dt}\int_{\Omega} M(p,t) \, dV_p > 0, \quad \frac{d}{dt}\int_{\mathcal{M}\setminus\Omega} M(p,t) \, dV_p < 0
-  $$
+
+$$
+\frac{d}{dt}\int_{\Omega} M(p,t) \, dV_p > 0, \quad \frac{d}{dt}\int_{\mathcal{M}\setminus\Omega} M(p,t) \, dV_p < 0
+$$
 
 **(4) Observer-Coupling Pathologies**
 - *Paranoid Interpretation*: Systematic negative bias in observer-conditioned field:
-  $$
-  \hat{C}_{\psi}(q,t) \ll C(q,t), \quad \forall q \in \mathcal{Q}
-  $$
+
+$$
+\hat{C}_{\psi}(q,t) \ll C(q,t), \quad \forall q \in \mathcal{Q}
+$$
+
 - *Reality Decoupling*: Divergence of interpretation operator from field reality:
-  $$
-  \|\mathcal{I}_{\psi}[C] - C\| > \tau \|C\|
-  $$
+
+$$
+\|\mathcal{I}_{\psi}[C] - C\| > \tau \|C\|
+$$
+
 - *Semantic Narcissism*: Collapse of reference structure to self-coupling:
-  $$
-  \frac{\|R_{ijk}(p,p,t)\|}{\int_q \|R_{ijk}(p,q,t)\| \, dq} \to 1
-  $$
+
+$$
+\frac{\|R_{ijk}(p,p,t)\|}{\int_q \|R_{ijk}(p,q,t)\| \, dq} \to 1
+$$
 
 Each class marks a distinct mode of deviation from the optimal recurgent regime, as defined by the dynamical equations of RFT.
 
@@ -103,28 +123,36 @@ Each class marks a distinct mode of deviation from the optimal recurgent regime,
 To quantify the health of a semantic field configuration, RFT introduces the following diagnostic functionals:
 
 - **Semantic Entropy**:
-  $$
-  S_{\text{sem}}(\Omega) = -\int_{\Omega} \rho(p) \log\rho(p) \, dV_p - \beta \int_{\Omega} C(p) \log C(p) \, dV_p
-  $$
-  where $\rho(p)$ is the constraint density. The first term encodes openness; the second, coherence distribution. Optimal health is associated with intermediate entropy.
+
+$$
+S_{\text{sem}}(\Omega) = -\int_{\Omega} \rho(p) \log\rho(p) \, dV_p - \beta \int_{\Omega} C(p) \log C(p) \, dV_p
+$$
+
+where $\rho(p)$ is the constraint density. The first term encodes openness; the second, coherence distribution. Optimal health is associated with intermediate entropy.
 
 - **Adaptability Index**:
-  $$
-  \mathcal{A}(\Omega) = \frac{\int_{\Omega} \frac{\partial C}{\partial \psi_{\text{ext}}} \, dV_p}{\int_{\Omega} \|C\| \, dV_p}
-  $$
-  measuring the field's responsiveness to external perturbation.
+
+$$
+\mathcal{A}(\Omega) = \frac{\int_{\Omega} \frac{\partial C}{\partial \psi_{\text{ext}}} \, dV_p}{\int_{\Omega} \|C\| \, dV_p}
+$$
+
+measuring the field's responsiveness to external perturbation.
 
 - **Wisdom-Coherence Ratio**:
-  $$
-  \Gamma(\Omega) = \frac{\int_{\Omega} W(p) \, dV_p}{\int_{\Omega} C(p) \, dV_p}
-  $$
-  with $\Gamma \gg 1$ indicating wisdom-dominated coherence.
+
+$$
+\Gamma(\Omega) = \frac{\int_{\Omega} W(p) \, dV_p}{\int_{\Omega} C(p) \, dV_p}
+$$
+
+with $\Gamma \gg 1$ indicating wisdom-dominated coherence.
 
 - **Semantic Resilience**:
-  $$
-  \mathcal{R}(\Omega) = \min_{\delta} \left\{\|\delta\| : \frac{\|C_{\delta} - C\|}{\|C\|} > \epsilon\right\}
-  $$
-  quantifying the minimal perturbation required for significant semantic reconfiguration.
+
+$$
+\mathcal{R}(\Omega) = \min_{\delta} \left\{\|\delta\| : \frac{\|C_{\delta} - C\|}{\|C\|} > \epsilon\right\}
+$$
+
+quantifying the minimal perturbation required for significant semantic reconfiguration.
 
 Taken together, these metrics map out a multidimensional diagnostic space for the semantic manifold.
 
@@ -148,21 +176,28 @@ These patterns function as operational diagnostics for identifying and localizin
 The wisdom field $W(p,t)$ mediates the restoration of semantic health via the following dynamical processes:
 
 - **Adaptive Dampening**:
-  $$
-  \frac{\partial C_i}{\partial t}\bigg|_{\text{heal}} = -\alpha \nabla_i W (C_i - C_i^{\text{healthy}})
-  $$
+
+$$
+\frac{\partial C_i}{\partial t}\bigg|_{\text{heal}} = -\alpha \nabla_i W (C_i - C_i^{\text{healthy}})
+$$
+
 - **Recursive Remodeling**:
-  $$
-  \frac{dR_{ijk}}{dt}\bigg|_{\text{heal}} = \beta W(p,t) (R_{ijk}^{\text{opt}} - R_{ijk})
-  $$
+
+$$
+\frac{dR_{ijk}}{dt}\bigg|_{\text{heal}} = \beta W(p,t) (R_{ijk}^{\text{opt}} - R_{ijk})
+$$
+
 - **Metric Relaxation**:
-  $$
-  \frac{\partial g_{ij}}{\partial t}\bigg|_{\text{heal}} = \gamma W(p,t) \nabla^2 g_{ij}
-  $$
+
+$$
+\frac{\partial g_{ij}}{\partial t}\bigg|_{\text{heal}} = \gamma W(p,t) \nabla^2 g_{ij}
+$$
+
 - **Reality-Anchoring**:
-  $$
-  \mathcal{I}_{\psi}^{\text{corr}}[C] = (1-\lambda W)\mathcal{I}_{\psi}[C] + \lambda W C
-  $$
+
+$$
+\mathcal{I}_{\psi}^{\text{corr}}[C] = (1-\lambda W)\mathcal{I}_{\psi}[C] + \lambda W C
+$$
 
 The efficacy of these healing flows depends on the integrity of $W$, the connectivity between healthy and pathological regions, the depth of entrenchment, and the strength of external reality constraints.
 
@@ -173,30 +208,42 @@ The efficacy of these healing flows depends on the integrity of $W$, the connect
 Beyond endogenous healing, RFT prescribes explicit intervention operators:
 
 - **Attractor Destabilization**:
-  $$
-  V'(C) = V(C) (1 - \sigma(C - C_{\text{patho}}))
-  $$
+
+$$
+V'(C) = V(C) (1 - \sigma(C - C_{\text{patho}}))
+$$
+
 - **Recursive Path Diversification**:
-  $$
-  R_{ijk}^{\text{new}} = R_{ijk} + \Delta R_{ijk}^{\text{div}}
-  $$
+
+$$
+R_{ijk}^{\text{new}} = R_{ijk} + \Delta R_{ijk}^{\text{div}}
+$$
+
 - **Semantic Boundary Dissolution**:
-  $$
-  g_{ij}^{\text{new}} = g_{ij} - \eta \nabla_i B \nabla_j B
-  $$
-  with $B$ a boundary field.
+
+$$
+g_{ij}^{\text{new}} = g_{ij} - \eta \nabla_i B \nabla_j B
+$$
+
+with $B$ a boundary field.
+
 - **Coherence Tempering**:
-  $$
-  C^{\text{temp}} = (1-\alpha)C + \alpha C^{\text{ref}}
-  $$
+
+$$
+C^{\text{temp}} = (1-\alpha)C + \alpha C^{\text{ref}}
+$$
+
 - **Wisdom Transplantation**:
-  $$
-  W^{\text{new}}(p,t) = W(p,t) + \beta K(p,p_{\text{src}}) W(p_{\text{src}},t)
-  $$
+
+$$
+W^{\text{new}}(p,t) = W(p,t) + \beta K(p,p_{\text{src}}) W(p_{\text{src}},t)
+$$
+
 - **Recursive Pruning**:
-  $$
-  R_{ijk}^{\text{pruned}} = R_{ijk} (1 - \tau(R_{ijk}, \text{thresh}))
-  $$
+
+$$
+R_{ijk}^{\text{pruned}} = R_{ijk} (1 - \tau(R_{ijk}, \text{thresh}))
+$$
 
 Each operator is constructed to target specific pathological invariants while maintaining global semantic integrity.
 

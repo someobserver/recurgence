@@ -86,9 +86,21 @@ Several components of RFT are inherently quantum in structure, admitting direct 
 
 The following features of RFT are quantum-analogous or quantum-native:
 
-1. **Semantic Uncertainty Principle:** The relation $\Delta C \cdot \Delta R \geq \hbar_s$ formalizes a lower bound on the simultaneous precision of coherence and recursive structure, directly paralleling the Heisenberg uncertainty principle. Qubits may be employed to encode this fundamental indeterminacy.
+1. **Semantic Uncertainty Principle:** The relation 
 
-2. **Superposition of Semantic States:** Semantic entities are represented as superpositions in a Hilbert space, $|\psi\rangle = \sum_i \alpha_i |C_i\rangle$, mirroring quantum superposition and enabling the representation of semantic ambiguity.
+$$
+\Delta C \cdot \Delta R \geq \hbar_s
+$$
+
+formalizes a lower bound on the simultaneous precision of coherence and recursive structure, directly paralleling the Heisenberg uncertainty principle. Qubits may be employed to encode this fundamental indeterminacy.
+
+2. **Superposition of Semantic States:** Semantic entities are represented as superpositions in a Hilbert space, 
+
+$$
+|\psi\rangle = \sum_i \alpha_i |C_i\rangle
+$$
+
+mirroring quantum superposition and enabling the representation of semantic ambiguity.
 
 3. **Entanglement of Semantic Domains:** Non-local recursive coupling is naturally modeled as entanglement between qubits associated with distinct regions of the semantic manifold, supporting the simulation of non-classical correlations in meaning.
 
@@ -100,13 +112,31 @@ The following features of RFT are quantum-analogous or quantum-native:
 
 #### 11.4.2 Quantum Algorithmic Implementations
 
-- **Variational Quantum Eigensolvers (VQE):** Attractors in the coherence field correspond to eigenstates of operators encoding the attractor potential $V(C)$. VQE algorithms are employed to identify these states by minimizing $\langle \psi(\theta)\| \hat{H}_V \| \psi(\theta) \rangle$, where $\|\psi(\theta)\rangle$ is a parameterized quantum circuit.
+- **Variational Quantum Eigensolvers (VQE):** Attractors in the coherence field correspond to eigenstates of operators encoding the attractor potential $V(C)$. VQE algorithms are employed to identify these states by minimizing 
 
-- **Quantum Tensor Networks:** The recursive coupling tensor $R_{ijk}$ and its generalizations are encoded as quantum tensor networks, $\|R\rangle = \sum_{i,j,k} R_{ijk} \|i\rangle \|j\rangle \|k\rangle$, enabling efficient manipulation of high-rank tensors on quantum hardware.
+$$
+\langle \psi(\theta)| \hat{H}_V | \psi(\theta) \rangle
+$$
+
+where $|\psi(\theta)\rangle$ is a parameterized quantum circuit.
+
+- **Quantum Tensor Networks:** The recursive coupling tensor $R_{ijk}$ and its generalizations are encoded as quantum tensor networks, 
+
+$$
+|R\rangle = \sum_{i,j,k} R_{ijk} |i\rangle |j\rangle |k\rangle
+$$
+
+enabling efficient manipulation of high-rank tensors on quantum hardware.
 
 - **Quantum Phase Estimation (QPE):** Critical points and phase transitions in the semantic field are accessible via QPE, with $U_{\Theta}$ encoding the dynamics of order parameters and eigenvalues corresponding to critical thresholds.
 
-- **Quantum Boltzmann Machines:** Semantic temperature and coherence fluctuations are modeled via quantum Boltzmann machines, with the quantum density matrix $\rho = e^{-\hat{H}/\mathcal{T}}/Z$ encoding the statistical distribution over semantic states.
+- **Quantum Boltzmann Machines:** Semantic temperature and coherence fluctuations are modeled via quantum Boltzmann machines, with the quantum density matrix 
+
+$$
+\rho = \frac{e^{-\hat{H}/\mathcal{T}}}{Z}
+$$
+
+encoding the statistical distribution over semantic states.
 
 ---
 

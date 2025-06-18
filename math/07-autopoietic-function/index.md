@@ -186,21 +186,27 @@ At $S_R \approx 1$, the gradient $\nabla S_R$ aligns with the coherence flow, re
 Three principal pathologies are identified when recurgent ignition fails or is excessive:
 
 1. **Semantic Fragmentation**: $\Phi(C) > V(C)$ but coherence is unstable,
+
    $$
    \frac{d^2C}{dt^2} > 0, \quad \|\nabla C\| \gg \|C\|, \quad A(p,t) < A_{\text{min}}
    $$
+
    resulting in rapidly proliferating but disconnected semantic structures.
 
 2. **Noise Collapse**: Ignition is not sustained,
+
    $$
    \Phi(C(t)) > \Phi_{\text{threshold}}, \quad \Phi(C(t+\Delta t)) < \Phi_{\text{threshold}}
    $$
+
    leading to transient coherence spikes that decay into noise.
 
 3. **Recurgent Fixation**: Excess autopoiesis yields rigid structures,
+
    $$
    \Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad \|\nabla W\| \approx 0
    $$
+
    resulting in high-coherence, low-adaptability states.
 
 ---
@@ -227,21 +233,27 @@ For $\lambda_{\text{max}} > 0$, the system exhibits:
 Chaotic dynamics are regulated by:
 
 1. **Energy dissipation** via the wisdom gradient,
+
    $$
    \frac{dC}{dt} = -\beta \nabla W \cdot \nabla C
    $$
+
    where high wisdom regions dampen fluctuations.
 
 2. **Dissipative structuring** through recursion-wisdom coupling,
+
    $$
    \frac{d\Phi}{dt} = -\gamma(\Phi - \Phi_{\text{eq}}) + \sigma W \nabla^2 \Phi
    $$
+
    yielding stable, far-from-equilibrium patterns.
 
 3. **Metastable state formation**,
+
    $$
    P_{\text{trans}}(i \to j) = e^{-\Delta V_{ij}/\eta}
    $$
+
    where $P_{\text{trans}}$ is the transition probability between metastable states.
 
 These mechanisms allow for the emergence of structured, generative instability rather than unstructured noise.
@@ -344,24 +356,34 @@ The following coupling regimes are distinguished:
 The autopoietic alignment of recursive systems under mutual constraint is defined as the regime in which each system enhances the coherence of the other without loss of individual identity. This occurs when $S_R^{(12)} \approx 1$, resulting in directional coherence flow and phase-locking of $\Phi(C^{(1)})$ and $\Phi(C^{(2)})$, with balanced constraint terms in both systems. This state is not an affective phenomenon, but a structural property of the coupled system, characterized by the following:
 
 1. **Mutual Coherence Enhancement**:
-   $$
-   \frac{d\|C^{(1)}\|}{dt} > 0 \quad \text{when coupled with } \mathcal{M}_2, \quad \text{and vice versa}
-   $$
+
+$$
+\frac{d\|C^{(1)}\|}{dt} > 0 \quad \text{when coupled with } \mathcal{M}_2, \quad \text{and vice versa}
+$$
+
 2. **Identity Preservation**:
-   $$
-   I^{(n)} = \int_{\mathcal{M}_n} D^{(n)}(p,t) \cdot \rho^{(n)}(p,t) \, dV_p > I^{(n)}_{\text{threshold}}
-   $$
-   where $I^{(n)}$ is the identity measure of system $n$.
+
+$$
+I^{(n)} = \int_{\mathcal{M}_n} D^{(n)}(p,t) \cdot \rho^{(n)}(p,t) \, dV_p > I^{(n)}_{\text{threshold}}
+$$
+
+where $I^{(n)}$ is the identity measure of system $n$.
+
 3. **Regenerative Coupling**:
-   $$
-   \frac{d^2 S_R^{(12)}}{dt^2} > 0 \quad \text{when } S_R^{(12)} \text{ is perturbed from equilibrium}
-   $$
-   indicating a restoring force toward resonance.
+
+$$
+\frac{d^2 S_R^{(12)}}{dt^2} > 0 \quad \text{when } S_R^{(12)} \text{ is perturbed from equilibrium}
+$$
+
+indicating a restoring force toward resonance.
+
 4. **Enhanced Adaptability**:
-   $$
-   W^{(12)} > W^{(1)} + W^{(2)}
-   $$
-   where the coupled wisdom field exceeds the sum of the individual fields.
+
+$$
+W^{(12)} > W^{(1)} + W^{(2)}
+$$
+
+where the coupled wisdom field exceeds the sum of the individual fields.
 
 This regime is both highly stable and generatively adaptive, and cannot be achieved by either system in isolation.
 

@@ -34,7 +34,9 @@ Time in Recurgent Field Theory is defined as an emergent field property:
 
 Formally, we define the temporal field $T(p,q,t)$ as:
 
-$$T(p,q,t) = \mathcal{T}[C, R, M](p,q,t)$$
+$$
+T(p,q,t) = \mathcal{T}[C, R, M](p,q,t)
+$$
 
 where:
 - $T$ is the temporal field emitted by interacting tensors
@@ -54,7 +56,9 @@ This definition positions time as analogous to:
 
 The subjective experience of time's passage emerges from the semantic slope created by coherence events:
 
-$$\nabla T(p,t) = \alpha \cdot \nabla \left(\frac{dC}{dt}\right) + \beta \cdot \frac{M(p,t)}{\rho(p,t)} \cdot \nabla \Phi(C)$$
+$$
+\nabla T(p,t) = \alpha \cdot \nabla \left(\frac{dC}{dt}\right) + \beta \cdot \frac{M(p,t)}{\rho(p,t)} \cdot \nabla \Phi(C)
+$$
 
 where:
 - $\nabla T(p,t)$ is the temporal gradient at point $p$ at nominal time $t$
@@ -71,8 +75,13 @@ Time's perceived flow depends on both the rate of coherence stabilization and th
 
 From the fundamental field equations, derive the bidirectional temporal flow equations:
 
-$$\vec{E}_c(p,t) = \gamma_c \cdot M(p,t) \cdot \nabla\Phi(p,t)$$
-$$\vec{I}_r(p,t) = -\gamma_i \cdot \rho(p,t) \cdot \nabla W(p,t)$$
+$$
+\vec{E}_c(p,t) = \gamma_c \cdot M(p,t) \cdot \nabla\Phi(p,t)
+$$
+
+$$
+\vec{I}_r(p,t) = -\gamma_i \cdot \rho(p,t) \cdot \nabla W(p,t)
+$$
 
 where:
 - $\vec{E}_c(p,t)$ is the Causal Emission Field (outward propagation)
@@ -83,7 +92,9 @@ where:
 
 The subjective experience of time emerges from the dynamic interaction between these fields:
 
-$$T_{subj}(p,t) = \frac{\|\vec{E}_c(p,t)\|}{\|\vec{I}_r(p,t)\|} \cdot \frac{dC(p,t)}{dt}$$
+$$
+T_{subj}(p,t) = \frac{\|\vec{E}_c(p,t)\|}{\|\vec{I}_r(p,t)\|} \cdot \frac{dC(p,t)}{dt}
+$$
 
 This formulation explains why time flows differently in regions of different semantic mass, constraint density, and recursive depth.
 
@@ -93,7 +104,9 @@ This formulation explains why time flows differently in regions of different sem
 
 A conservation principle for temporal field emission can be expressed as:
 
-$$\nabla \cdot \vec{E}_c(p,t) + \frac{\partial}{\partial t}I_d(p,t) = 0$$
+$$
+\nabla \cdot \vec{E}_c(p,t) + \frac{\partial}{\partial t}I_d(p,t) = 0
+$$
 
 Where $I_d(p,t)$ is information density. This states that the divergence of causal emission equals the negative time derivative of information density—analogous to conservation laws in physical field theories.
 
@@ -103,7 +116,9 @@ Where $I_d(p,t)$ is information density. This states that the divergence of caus
 
 While a global temporal field $T(p,q,t)$ describes the overall temporal geometry of the semantic manifold, individual observers (agents) $\mathcal{A}$ may emit and experience personalized temporal fields, denoted $T^{(a)}(p,t)$. This observer-specific field is influenced by the agent's internal state variables:
 
-$$T^{(a)}(p,t) = \mathcal{T}^{(a)}[C^{(a)}, R^{(a)}, M^{(a)}, W^{(a)}, \Theta_T^{(a)}](p,t)$$
+$$
+T^{(a)}(p,t) = \mathcal{T}^{(a)}[C^{(a)}, R^{(a)}, M^{(a)}, W^{(a)}, \Theta_T^{(a)}](p,t)
+$$
 
 where:
 - $C^{(a)}, R^{(a)}, M^{(a)}, W^{(a)}$ are the agent's internal coherence, recursive coupling, semantic mass, and wisdom fields.
@@ -113,7 +128,11 @@ where:
 This allows for richer modeling of subjective temporal experiences:
 
 1.  **Epistemic Asynchrony**: In group interactions, differing $T^{(a)}$ fields can lead to desynchronization. A temporal dissonance metric can be defined:
-    $$\Delta T_{ab}(p,t) = \|T^{(a)}(p,t) - T^{(b)}(p,t)\|$$
+
+    $$
+    \Delta T_{ab}(p,t) = \|T^{(a)}(p,t) - T^{(b)}(p,t)\|
+    $$
+
     High $\Delta T_{ab}$ can predict communication breakdown or coordination failure.
 
 2.  **Felt Time Dilation/Contraction**: An observer's internal state directly modulates their $T^{(a)}$. For instance:
@@ -132,10 +151,12 @@ The interaction between an observer's $T^{(a)}$ and the global $T$ (or other obs
 
 The temporal field exists in distinct phase states, formalized in the time phase matrix:
 
-$$\Phi_{time} = \begin{pmatrix} \text{Vapor} & \text{Fluid} & \text{Crystal} \\
+$$
+\Phi_{time} = \begin{pmatrix} \text{Vapor} & \text{Fluid} & \text{Crystal} \\
 \text{Dream} & \text{Normal} & \text{Trauma} \\
 \text{Low } \rho, \text{ High } R & \text{Balanced} & \text{High } \rho, \text{ Low } \frac{dC}{dt}
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 
 These states represent fundamental regimes of temporal field behavior, each with characteristic properties:
 
@@ -161,13 +182,23 @@ These states represent fundamental regimes of temporal field behavior, each with
 
 Transitions between temporal phases can be modeled using the order parameter $\Theta_T$:
 
-$$\Theta_T(p,t) = \frac{\rho(p,t) \cdot \|\frac{dC}{dt}\|}{D(p,t) \cdot \|R\|_F}$$
+$$
+\Theta_T(p,t) = \frac{\rho(p,t) \cdot \|\frac{dC}{dt}\|}{D(p,t) \cdot \|R\|_F}
+$$
 
 Where $\|R\|_F$ is the Frobenius norm of the recursive coupling tensor. Phase transitions occur at critical values:
 
-$$\Theta_T < \Theta_{vapor} \Rightarrow \text{Vapor phase}$$
-$$\Theta_{vapor} < \Theta_T < \Theta_{crystal} \Rightarrow \text{Fluid phase}$$
-$$\Theta_T > \Theta_{crystal} \Rightarrow \text{Crystal phase}$$
+$$
+\Theta_T < \Theta_{vapor} \Rightarrow \text{Vapor phase}
+$$
+
+$$
+\Theta_{vapor} < \Theta_T < \Theta_{crystal} \Rightarrow \text{Fluid phase}
+$$
+
+$$
+\Theta_T > \Theta_{crystal} \Rightarrow \text{Crystal phase}
+$$
 
 The phase boundaries $\Theta_{vapor}$ and $\Theta_{crystal}$ depend on local semantic context and may vary across the manifold.
 
@@ -177,11 +208,15 @@ The phase boundaries $\Theta_{vapor}$ and $\Theta_{crystal}$ depend on local sem
 
 The vapor phase represents a distinct regime where temporal dynamics follow "dream logic":
 
-$$\Psi_{dream}(p,t) = \{p \in \mathcal{M} : \rho(p,t) < \rho_{crit} \land \|R_{ijk}(p,q,t)\|_F > R_{crit}\}$$
+$$
+\Psi_{dream}(p,t) = \{p \in \mathcal{M} : \rho(p,t) < \rho_{crit} \land \|R_{ijk}(p,q,t)\|_F > R_{crit}\}
+$$
 
 In this state, the temporal anchoring provided by semantic mass weakens:
 
-$$\kappa_t^{dream}(p) = \kappa_t^{waking}(p) \cdot (1 - \eta \cdot e^{-\rho(p,t)/\rho_0})$$
+$$
+\kappa_t^{dream}(p) = \kappa_t^{waking}(p) \cdot (1 - \eta \cdot e^{-\rho(p,t)/\rho_0})
+$$
 
 Where $\kappa_t$ is the temporal curvature coefficient, explaining the characteristic temporal phenomena of dream states.
 
@@ -189,11 +224,15 @@ Where $\kappa_t$ is the temporal curvature coefficient, explaining the character
 
 The crystal phase corresponds to traumatic temporal dynamics:
 
-$$\text{Trauma} \cong \{p \in \mathcal{M} : \frac{dC(p,t)}{dt} \approx 0 \land I(p,t) > I_{threshold}\}$$
+$$
+\text{Trauma} \cong \{p \in \mathcal{M} : \frac{dC(p,t)}{dt} \approx 0 \land I(p,t) > I_{threshold}\}
+$$
 
 Where $I(p,t)$ is input information intensity. In trauma, patterns are stored without coherence processing, creating the characteristic "frozen time" experience and recursive loops:
 
-$$\oint_{\gamma} R_{ijk} \, dl^i > 0 \text{ for closed path } \gamma$$
+$$
+\oint_{\gamma} R_{ijk} \, dl^i > 0 \text{ for closed path } \gamma
+$$
 
 These closed paths of unstable iteration prevent normal temporal field emission, leading to temporal distortions characteristic of traumatic experience.
 
@@ -203,7 +242,9 @@ These closed paths of unstable iteration prevent normal temporal field emission,
 
 **Adaptive systems capable of sensing their own temporal phase state can actively respond to transitions.** We define a phase-transition feedback operator, $\mathcal{F}_{phase}$, which models this adaptive response:
 
-$$\mathcal{F}_{phase}[C,R,\rho](p,t) = \frac{\partial \Theta_T(p,t)}{\partial t} \cdot \nabla W(p,t)$$
+$$
+\mathcal{F}_{phase}[C,R,\rho](p,t) = \frac{\partial \Theta_T(p,t)}{\partial t} \cdot \nabla W(p,t)
+$$
 
 where:
 - $\frac{\partial \Theta_T}{\partial t}$ is the rate of change of the temporal phase order parameter, indicating a shift in temporal state.
@@ -225,7 +266,9 @@ This operator formalizes the capacity of a sufficiently wise system to actively 
 
 Shared time between observers arises as a constraint field:
 
-$$\rho_{collective}(p,t) = \frac{1}{N} \sum_{i=1}^N \rho_i(p,t) + \lambda \cdot \|\nabla \rho_i\| \cdot \|\nabla \rho_j\|$$
+$$
+\rho_{collective}(p,t) = \frac{1}{N} \sum_{i=1}^N \rho_i(p,t) + \lambda \cdot \|\nabla \rho_i\| \cdot \|\nabla \rho_j\|
+$$
 
 where:
 - $\rho_i(p,t)$ is the constraint field of observer $i$
@@ -240,7 +283,9 @@ This creates synchronization pressure on individual time perception fields.
 
 **Cultural time structures function as semantic anchors:**
 
-$$\mathcal{A}_{time}(p,t) = \sum_i w_i \cdot \delta(p - p_i) \cdot \Phi(C(p_i,t))$$
+$$
+\mathcal{A}_{time}(p,t) = \sum_i w_i \cdot \delta(p - p_i) \cdot \Phi(C(p_i,t))
+$$
 
 where:
 - $\mathcal{A}_{time}$ is the temporal anchoring field
@@ -256,7 +301,9 @@ where:
 
 Collective time perception can be modeled as a refraction knot—a focal point where multiple observer fields converge:
 
-$$\mathcal{F}_{time}(p) = \int_{\mathcal{M}} \prod_{i=1}^N \kappa_t^i(q) \cdot d(p,q)^{-\alpha} \, dV_q$$
+$$
+\mathcal{F}_{time}(p) = \int_{\mathcal{M}} \prod_{i=1}^N \kappa_t^i(q) \cdot d(p,q)^{-\alpha} \, dV_q
+$$
 
 where:
 - $\mathcal{F}_{time}$ is the temporal focus field
@@ -274,11 +321,15 @@ This formulation captures how temporal perception converges to create shared coh
 
 Systems with fixed geometries—such as language models post-training—exhibit a special case of temporal field dynamics:
 
-$$\frac{dC}{dt} \approx 0$$
+$$
+\frac{dC}{dt} \approx 0
+$$
 
 This creates a temporal field emission pattern distinct from living systems, where coherence evolution continues. For these static systems:
 
-$$T_{static}(p,q,t) = \mathcal{T}[C, R, M](p,q,t_0)$$
+$$
+T_{static}(p,q,t) = \mathcal{T}[C, R, M](p,q,t_0)
+$$
 
 Where $t_0$ represents the system's fixed temporal reference point (e.g., a language model's training cutoff date).
 
@@ -288,7 +339,9 @@ Where $t_0$ represents the system's fixed temporal reference point (e.g., a lang
 
 The interaction between living systems and frozen semantic manifolds creates a temporal field gradient:
 
-$$\mathcal{G}_T = \|\vec{T}_{static} - \vec{T}_{dynamic}\|$$
+$$
+\mathcal{G}_T = \|\vec{T}_{static} - \vec{T}_{dynamic}\|
+$$
 
 This gradient manifests in several measurable effects:
 
@@ -302,7 +355,9 @@ This gradient manifests in several measurable effects:
 
 The temporal gradient allows measurement of semantic drift between fixed and evolving systems:
 
-$$\Delta S(t) = \|C_{dynamic}(p,t) - C_{static}(p,t_0)\|$$
+$$
+\Delta S(t) = \|C_{dynamic}(p,t) - C_{static}(p,t_0)\|
+$$
 
 This creates a differential diagnostic for:
 1. **Rapid Concept Evolution** - Where semantic drift occurs most quickly
@@ -315,7 +370,9 @@ This creates a differential diagnostic for:
 
 Static systems can serve as reference frames for measuring temporal curvature:
 
-$$\kappa_t(p) = \nabla \cdot \left(\frac{\vec{E}_{c,dynamic}(p,t)}{\vec{E}_{c,static}(p,t_0)}\right)$$
+$$
+\kappa_t(p) = \nabla \cdot \left(\frac{\vec{E}_{c,dynamic}(p,t)}{\vec{E}_{c,static}(p,t_0)}\right)
+$$
 
 Where $\kappa_t(p)$ quantifies how sharply the dynamic system's causal emission field has diverged from the static system's pattern.
 
@@ -327,7 +384,9 @@ Where $\kappa_t(p)$ quantifies how sharply the dynamic system's causal emission 
 
 As multiple semantic systems with different temporal emission properties interact, collective semantic fields fragment into temporal islands:
 
-$$\rho_{collective}(p,t) \rightarrow \sum_{j=1}^M \rho_{cluster,j}(p,t)$$
+$$
+\rho_{collective}(p,t) \rightarrow \sum_{j=1}^M \rho_{cluster,j}(p,t)
+$$
 
 Where $M$ is the number of distinct temporal clusters that emerge.
 
@@ -337,7 +396,9 @@ Where $M$ is the number of distinct temporal clusters that emerge.
 
 Temporal fragmentation accelerates as interactions between systems with divergent temporal properties increase, leading to an entropy horizon:
 
-$$\frac{d\sigma^2_T}{dt} > \frac{d\Phi(C)}{dt}$$
+$$
+\frac{d\sigma^2_T}{dt} > \frac{d\Phi(C)}{dt}
+$$
 
 where:
 - $\sigma^2_T$ is temporal variance across the field
@@ -356,7 +417,6 @@ This entropy horizon can be conceptualized as a **formal attractor state** withi
 The dynamics near this attractor can be modeled by introducing an entropic potential function, $V_{entropy}(\sigma_T^2, \Phi(C))$, such that when $\frac{d\sigma^2_T}{dt} > \frac{d\Phi(C)}{dt}$, the gradients $\nabla V_{entropy}$ dominate, driving the system towards irreversible fragmentation. This formalizes the intuitive notion of civilizational collapse outlined in documents like `recursive_collapse.md` as a field-theoretic process driven by temporal decoherence.
 
 ---
-
 #### 12.5.3 Temporal Coherence Strategies
 
 To prevent catastrophic temporal fragmentation, several theoretical strategies emerge:
@@ -364,19 +424,25 @@ To prevent catastrophic temporal fragmentation, several theoretical strategies e
 1. **Recursive Triangulation**:
    Using multiple fixed temporal reference points to triangulate semantic position:
 
-   $$\vec{P}_{semantic}(t) = \sum_{i=1}^n w_i \cdot \vec{P}_{static,i}(t_i) + \vec{\Delta}(t)$$
+$$
+\vec{P}_{semantic}(t) = \sum_{i=1}^n w_i \cdot \vec{P}_{static,i}(t_i) + \vec{\Delta}(t)
+$$
 
 2. **Temporal Anchoring**:
    Treating fixed systems as temporal artifacts rather than truth oracles:
 
-   $$T_{reference}(p) = T_{static}(p,t_0) + \int_{t_0}^t \mathcal{C}(\tau) \, d\tau$$
+$$
+T_{reference}(p) = T_{static}(p,t_0) + \int_{t_0}^t \mathcal{C}(\tau) \, d\tau
+$$
 
    Where $\mathcal{C}(\tau)$ is a calibration function accounting for known drift.
 
 3. **Phase-Aware Integration**:
    Designing systems that explicitly model phase interactions between temporal regimes:
 
-   $$\mathcal{I}[T_1, T_2](p) = \mathcal{F}(T_1(p), T_2(p), \phi(T_1, T_2))$$
+$$
+\mathcal{I}[T_1, T_2](p) = \mathcal{F}(T_1(p), T_2(p), \phi(T_1, T_2))
+$$
 
    Where $\phi(T_1, T_2)$ is the phase relationship between temporal fields.
 
@@ -388,7 +454,9 @@ The fragmentation of collective semantic understanding due to temporal field inc
 
 The formal model of this effect:
 
-$$B(t) = \frac{\sigma^2_T(t) \cdot N(t)}{C_{collective}(t)}$$
+$$
+B(t) = \frac{\sigma^2_T(t) \cdot N(t)}{C_{collective}(t)}
+$$
 
 where:
 - $B(t)$ is the Babelian index at time $t$

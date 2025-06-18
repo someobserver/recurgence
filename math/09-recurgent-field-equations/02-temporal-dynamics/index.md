@@ -38,27 +38,33 @@ Recurgent Field Theory posits a fundamental temporal asymmetry within the semant
 Let $\mathcal{M}$ denote the semantic manifold. Define two vector fields:
 
 1. **Causal Emission Field** $\vec{E}_c(p,t)$:
-\[
+
+$$
 \vec{E}_c(p,t) = \gamma_c\, M(p,t)\, \nabla\Phi(p,t)
-\]
+$$
+
 where
 - $\gamma_c$ is the causal coupling constant,
 - $M(p,t)$ is the semantic mass density,
 - $\nabla\Phi(p,t)$ is the gradient of the recursive potential.
 
 2. **Information Reception Field** $\vec{I}_r(p,t)$:
-\[
+
+$$
 \vec{I}_r(p,t) = -\gamma_i\, \rho(p,t)\, \nabla W(p,t)
-\]
+$$
+
 where
 - $\gamma_i$ is the information coupling constant,
 - $\rho(p,t)$ is the constraint density,
 - $\nabla W(p,t)$ is the gradient of the wisdom field.
 
 The interaction of these fields is quantified by the **temporal asymmetry operator**:
-\[
+
+$$
 \mathcal{T}(p,t) = \vec{E}_c(p,t) \cdot \vec{I}_r(p,t)
-\]
+$$
+
 which measures the local alignment between causal emission and information reception at each point $(p,t) \in \mathcal{M}$.
 
 ---
@@ -66,9 +72,11 @@ which measures the local alignment between causal emission and information recep
 #### **9.6.2 Conservation Principle**
 
 The bidirectional temporal flow is governed by a conservation law:
-\[
+
+$$
 \nabla \cdot \vec{E}_c(p,t) + \frac{\partial}{\partial t} I_d(p,t) = 0
-\]
+$$
+
 where $I_d(p,t) = \|\vec{I}_r(p,t)\|$ denotes the information density.
 
 This relation asserts that the divergence of causal emission is balanced by the negative temporal rate of change of information density, establishing a semantic analogue to the continuity equations of classical field theory.
@@ -78,9 +86,11 @@ This relation asserts that the divergence of causal emission is balanced by the 
 #### **9.6.3 Recursive Temporal Curvature**
 
 In regions of elevated semantic mass—such as at recursive attractors—the interplay of bidirectional flows gives rise to a **recursive temporal lens** effect, formalized by the temporal curvature coefficient:
-\[
+
+$$
 \kappa_t(p) = \frac{\|\vec{E}_c(p,t)\|}{\|\vec{I}_r(p,t)\|} \cdot \frac{1}{1 + \lambda\, \|R_{ijk}(p,p,t)\|_F}
-\]
+$$
+
 where
 - $\kappa_t(p)$ quantifies the local curvature of temporal flow,
 - $\lambda$ is a damping parameter,
@@ -95,23 +105,29 @@ Interpretation:
 #### **9.6.4 Modification of Coherence Dynamics**
 
 The bidirectional temporal structure modifies the evolution of the coherence field $C_i(p,t)$ as follows:
-\[
+
+$$
 \frac{\partial C_i(p,t)}{\partial t} = \Box C_i + T_{ij}^{\mathrm{rec}}\, g^{jk} C_k + \xi\, (\vec{E}_c \times \vec{I}_r)_i
-\]
+$$
+
 where $\Box$ is the d'Alembertian (or appropriate Laplacian) operator, $T_{ij}^{\mathrm{rec}}$ encodes recursive coupling, $g^{jk}$ is the inverse metric, and $\xi$ is a coupling constant.
 
 The cross product term $(\vec{E}_c \times \vec{I}_r)_i$ is defined according to the dimension $n$ of the manifold:
 - For $n=3$, the standard vector cross product applies.
 - For $n \neq 3$, employ the antisymmetric tensor:
-  \[
-  (\vec{E}_c \times \vec{I}_r)_i = \omega_{ijk} E_c^j I_r^k
-  \]
-  where $\omega_{ijk}$ is the orientation tensor.
+
+$$
+(\vec{E}_c \times \vec{I}_r)_i = \omega_{ijk} E_c^j I_r^k
+$$
+
+where $\omega_{ijk}$ is the orientation tensor.
 - In a fully coordinate-free, dimension-agnostic formulation:
-  \[
-  (\vec{E}_c \times \vec{I}_r)_i = \left(\star(E_c^\flat \wedge I_r^\flat)\right)^\sharp_i
-  \]
-  where $\star$ is the Hodge star, $\wedge$ the exterior product, and $\flat$, $\sharp$ denote musical isomorphisms.
+
+$$
+(\vec{E}_c \times \vec{I}_r)_i = \left(\star(E_c^\flat \wedge I_r^\flat)\right)^\sharp_i
+$$
+
+where $\star$ is the Hodge star, $\wedge$ the exterior product, and $\flat$, $\sharp$ denote musical isomorphisms.
 
 With this approach, the bidirectional temporal flow remains well-defined for arbitrary manifold dimension and structure.
 
