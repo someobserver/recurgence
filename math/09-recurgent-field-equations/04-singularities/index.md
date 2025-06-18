@@ -127,7 +127,7 @@ Numerical simulation of RFT in the presence of singularities necessitates specia
    \Delta x_{\text{local}} = \Delta x_{\text{global}} \exp(-\beta |R|)
    $$
 
-   where $|R|$ denotes the norm of the Ricci tensor.
+   where $\|R\|$ denotes the norm of the Ricci tensor.
 
 2. **Singularity Excision**:  
    When regularization is insufficient, singular loci are excised from the computational domain:
