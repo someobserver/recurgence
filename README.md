@@ -3,7 +3,6 @@ layout: default
 title: "Recurgence"
 description: "Where the universe's one rule meets the mathematics of meaning"
 permalink: /
-private: false
 created_date: 2025-03-18
 updated_date: 2025-06-18
 ---
@@ -16,7 +15,7 @@ Two binary states — `0` and `1` — bootstrap infinite digital complexity. Con
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary complexity.
 
-**What if there's an even simpler, base-level principle underlying it all?**
+**But what if there's an even simpler, base-level principle underlying it all?**
 
 ## For AI Safety Researchers
 
