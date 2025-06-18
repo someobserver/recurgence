@@ -6,7 +6,7 @@ section: "P"
 permalink: /explanations/p/phase-transition/
 layout: page
 created_date: 2025-05-29
-updated_date: 2025-05-30
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [P](/explanations/p/) / <u>Phase Transition</u></small>
@@ -110,7 +110,7 @@ Climate systems maintain their equilibria until crossing constraint thresholds, 
 Phase transitions unfold in three distinct patterns that reshape how we think and understand:
 
 - **<big>Branching Paths (Bifurcation)</big>**  
-  Think of a concept that once had one clear meaning, developing alternative—yet stable—channels of interpretation. In one reference frame, "freedom" can mean personal liberty, in another it can mean national self-determination. Both are valid, both are stable, and both branch from the same semantic lineage. There was a time when **media** meant **paper**. But then it meant paper **and photographs**, then **film** too, then **television**, then **digital content**, then **personal feeds** — time and technology bifrucated the meaning of **"media"** into things *we now even refer to as **channels** and **streams**.*
+  Think of a concept that once had one clear meaning, developing alternative (yet stable) channels of interpretation. In one reference frame, "freedom" can mean personal liberty, in another it can mean national self-determination. Both are valid, both are stable, and both branch from the same semantic lineage. There was a time when **media** meant **paper**. But then it meant paper **and photographs**, then **film** too, then **television**, then **digital content**, then **personal feeds** — time and technology bifrucated the meaning of **"media"** into things *we now even refer to as **channels** and **streams**.*
 
 - **<big>New Dimensions (Emergence)</big>**  
   This is when reality itself gains new layers. The moment humans first grasped symbolic thought—suddenly, marks could represent objects, then *other marks*, then *ideas*, then boom: **entire *systems* of meaning**. The world didn't change at all; our capacity to perceive, organize, and understand it is what expanded exponentially ever since. The same is true for the development of abstract mathematical thinking or the emergence of self-consciousness.
