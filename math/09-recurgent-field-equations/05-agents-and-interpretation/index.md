@@ -321,7 +321,7 @@ $$
 |\psi\rangle = \sum_i \alpha_i |C_i\rangle
 $$
 
-where $|C_i\rangle$ are basis states of meaning and $\alpha_i \in \mathbb{C}$ are complex amplitudes.
+where $\|C_i\rangle$ are basis states of meaning and $\alpha_i \in \mathbb{C}$ are complex amplitudes.
 
 3. **Semantic Entanglement**: Recursive coupling induces non-factorizable correlations between particles:
 
