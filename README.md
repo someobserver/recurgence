@@ -90,7 +90,7 @@ Our civilization generates more complexity than its inherited structures can met
 
 That manifests in out-of-control inboxes, strained relationships, political polarization, conspiracy theories, market instability, international tensions, and top-down institutional collapse.
 
-**None of these are separate crises; they're all symptoms of semantic overload.** But every phase transition is also an opportunity for higher-order coherence to emerge.
+**None of these are separate crises; they're all symptoms of semantic overload.** But every phase transition is also an opportunity for higher-order coherence to emerge and make sense of a three-dimensional reality.
 
 Recurgent Field Theory is a mathematical framework for understanding how systems reorganize at greater scales of abstraction—how wisdom emerges from the recursive engagement between constraint and complexity.
 
