@@ -4,6 +4,8 @@ title: "Semantic Mass and Attractor Dynamics"
 section_number: 5
 parent: Mathematics
 permalink: /math/05-semantic-mass/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Mass and Attractor Dynamics</small>

@@ -4,6 +4,8 @@ title: "Simulation Architecture"
 section_number: 10
 parent: Mathematics
 permalink: /math/10-simulation-architecture/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Simulation Architecture</small>

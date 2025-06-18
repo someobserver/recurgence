@@ -4,6 +4,8 @@ title: "Recursive Coupling and Depth Fields"
 section_number: 4
 parent: Mathematics
 permalink: /math/04-recursive-coupling/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Recursive Coupling</small>

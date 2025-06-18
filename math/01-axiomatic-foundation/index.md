@@ -4,6 +4,8 @@ title: "Axiomatic Foundation"
 section_number: 1
 parent: Mathematics
 permalink: /math/01-axiomatic-foundation/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Axiomatic Foundation</small>

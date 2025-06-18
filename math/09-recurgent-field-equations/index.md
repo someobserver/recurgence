@@ -5,6 +5,8 @@ section_number: 9
 parent: Mathematics
 permalink: /math/09-recurgent-field-equations/
 has_children: true
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Recurgent Field Equations and Global Dynamics</small>

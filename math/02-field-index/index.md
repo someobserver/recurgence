@@ -4,6 +4,8 @@ title: "Field Index and Formal Structure"
 section_number: 2
 parent: Mathematics
 permalink: /math/02-field-index/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Field Index and Formal Structure</small>

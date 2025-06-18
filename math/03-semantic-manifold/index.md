@@ -4,6 +4,8 @@ title: "Semantic Manifold and Metric Geometry"
 section_number: 3
 parent: Mathematics
 permalink: /math/03-semantic-manifold/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Manifold</small>

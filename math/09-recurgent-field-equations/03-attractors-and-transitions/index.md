@@ -5,6 +5,8 @@ section_number: 9.7
 parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/attractors-and-transitions/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Global Attractors and Bifurcation Geometry</small>

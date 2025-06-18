@@ -5,6 +5,8 @@ section_number: 9.14
 parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/pathologies-and-healing/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Epistemic Pathologies and Semantic Healing</small>

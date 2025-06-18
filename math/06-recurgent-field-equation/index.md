@@ -4,6 +4,8 @@ title: "Recurgent Field Equation and Lagrangian Mechanics"
 section_number: 6
 parent: Mathematics
 permalink: /math/06-recurgent-field-equation/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Recurgent Field Equation and Lagrangian Mechanics</small>

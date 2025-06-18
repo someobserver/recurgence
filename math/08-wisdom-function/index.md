@@ -4,6 +4,8 @@ title: "Wisdom Function and Humility Constraint"
 section_number: 8
 parent: Mathematics
 permalink: /math/08-wisdom-function/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Wisdom Function and Humility Constraint</small>

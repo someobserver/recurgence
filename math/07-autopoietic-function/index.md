@@ -4,6 +4,8 @@ title: "Autopoietic Function and Phase Transitions"
 section_number: 7
 parent: Mathematics
 permalink: /math/07-autopoietic-function/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Autopoietic Function and Phase Transitions</small>
