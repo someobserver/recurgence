@@ -11,12 +11,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
-  math_engine_opts:
-    preview: true
-    preview_as_code: false
-  syntax_highlighter: rouge
-  parse_block_html: true
-  parse_span_html: true
 
 plugins:
   - jekyll-feed
