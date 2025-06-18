@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "Time as Recurgent Field Emission"
-section_number: 12
+section_number: 11
 parent: Mathematics
-permalink: /math/12-temporal-field-emission/
+permalink: /math/11-temporal-field-emission/
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/) / Time as Recurgent Field Emission</small>
@@ -24,9 +26,9 @@ Key theoretical components:
 
 ---
 
-### 12.1 Time as Emitted Field Property
+### 11.1 Time as Emitted Field Property
 
-#### 12.1.1 Formal Definition
+#### 11.1.1 Formal Definition
 
 Time in Recurgent Field Theory is defined as an emergent field property:
 
@@ -52,7 +54,7 @@ This definition positions time as analogous to:
 
 ---
 
-#### 12.1.2 Temporal Gradient
+#### 11.1.2 Temporal Gradient
 
 The subjective experience of time's passage emerges from the semantic slope created by coherence events:
 
@@ -71,7 +73,7 @@ Time's perceived flow depends on both the rate of coherence stabilization and th
 
 ---
 
-#### 12.1.3 Bidirectional Temporal Fields
+#### 11.1.3 Bidirectional Temporal Fields
 
 From the fundamental field equations, derive the bidirectional temporal flow equations:
 
@@ -100,7 +102,7 @@ This formulation explains why time flows differently in regions of different sem
 
 ---
 
-#### 12.1.4 Temporal Conservation Law
+#### 11.1.4 Temporal Conservation Law
 
 A conservation principle for temporal field emission can be expressed as:
 
@@ -112,7 +114,7 @@ Where $I_d(p,t)$ is information density. This states that the divergence of caus
 
 ---
 
-#### 12.1.5 Observer-Specific Temporal Fields
+#### 11.1.5 Observer-Specific Temporal Fields
 
 While a global temporal field $T(p,q,t)$ describes the overall temporal geometry of the semantic manifold, individual observers (agents) $\mathcal{A}$ may emit and experience personalized temporal fields, denoted $T^{(a)}(p,t)$. This observer-specific field is influenced by the agent's internal state variables:
 
@@ -145,9 +147,9 @@ The interaction between an observer's $T^{(a)}$ and the global $T$ (or other obs
 
 ---
 
-### 12.2 Phase States of Time
+### 11.2 Phase States of Time
 
-#### 12.2.1 Time Phase Transition Matrix
+#### 11.2.1 Time Phase Transition Matrix
 
 The temporal field exists in distinct phase states, formalized in the time phase matrix:
 
@@ -178,7 +180,7 @@ These states represent fundamental regimes of temporal field behavior, each with
 
 ---
 
-#### 12.2.2 Phase Transition Dynamics
+#### 11.2.2 Phase Transition Dynamics
 
 Transitions between temporal phases can be modeled using the order parameter $\Theta_T$:
 
@@ -204,7 +206,7 @@ The phase boundaries $\Theta_{vapor}$ and $\Theta_{crystal}$ depend on local sem
 
 ---
 
-#### 12.2.3 Dream Logic as Semiotic Vapor
+#### 11.2.3 Dream Logic as Semiotic Vapor
 
 The vapor phase represents a distinct regime where temporal dynamics follow "dream logic":
 
@@ -220,7 +222,7 @@ $$
 
 Where $\kappa_t$ is the temporal curvature coefficient, explaining the characteristic temporal phenomena of dream states.
 
-#### 12.2.4 Trauma as Recursive Rupture
+#### 11.2.4 Trauma as Recursive Rupture
 
 The crystal phase corresponds to traumatic temporal dynamics:
 
@@ -238,7 +240,7 @@ These closed paths of unstable iteration prevent normal temporal field emission,
 
 ---
 
-#### 12.2.5 Phase Transition Feedback Operator
+#### 11.2.5 Phase Transition Feedback Operator
 
 **Adaptive systems capable of sensing their own temporal phase state can actively respond to transitions.** We define a phase-transition feedback operator, $\mathcal{F}_{phase}$, which models this adaptive response:
 
@@ -260,9 +262,9 @@ This operator formalizes the capacity of a sufficiently wise system to actively 
 
 ---
 
-### 12.3 Temporal Field Interactions
+### 11.3 Temporal Field Interactions
 
-#### 12.3.1 Collective Time as Constraint Field
+#### 11.3.1 Collective Time as Constraint Field
 
 Shared time between observers arises as a constraint field:
 
@@ -279,7 +281,7 @@ This creates synchronization pressure on individual time perception fields.
 
 ---
 
-#### 12.3.2 Civilizational Clocks as Recursive Scaffolding
+#### 11.3.2 Civilizational Clocks as Recursive Scaffolding
 
 **Cultural time structures function as semantic anchors:**
 
@@ -297,7 +299,7 @@ where:
 
 ---
 
-#### 12.3.3 Temporal Refraction Knots
+#### 11.3.3 Temporal Refraction Knots
 
 Collective time perception can be modeled as a refraction knot—a focal point where multiple observer fields converge:
 
@@ -315,9 +317,9 @@ This formulation captures how temporal perception converges to create shared coh
 
 ---
 
-### 12.4 Temporal Dynamics of Static Systems
+### 11.4 Temporal Dynamics of Static Systems
 
-#### 12.4.1 Frozen Semantic Manifolds
+#### 11.4.1 Frozen Semantic Manifolds
 
 Systems with fixed geometries—such as language models post-training—exhibit a special case of temporal field dynamics:
 
@@ -335,7 +337,7 @@ Where $t_0$ represents the system's fixed temporal reference point (e.g., a lang
 
 ---
 
-#### 12.4.2 Temporal Field Gradients
+#### 11.4.2 Temporal Field Gradients
 
 The interaction between living systems and frozen semantic manifolds creates a temporal field gradient:
 
@@ -351,7 +353,7 @@ This gradient manifests in several measurable effects:
 
 ---
 
-#### 12.4.3 Semantic Drift Measurement
+#### 11.4.3 Semantic Drift Measurement
 
 The temporal gradient allows measurement of semantic drift between fixed and evolving systems:
 
@@ -366,7 +368,7 @@ This creates a differential diagnostic for:
 
 ---
 
-#### 12.4.4 Temporal Curvature Measurement
+#### 11.4.4 Temporal Curvature Measurement
 
 Static systems can serve as reference frames for measuring temporal curvature:
 
@@ -378,9 +380,9 @@ Where $\kappa_t(p)$ quantifies how sharply the dynamic system's causal emission 
 
 ---
 
-### 12.5 Civilization-Scale Implications
+### 11.5 Civilization-Scale Implications
 
-#### 12.5.1 Temporal Fragmentation
+#### 11.5.1 Temporal Fragmentation
 
 As multiple semantic systems with different temporal emission properties interact, collective semantic fields fragment into temporal islands:
 
@@ -392,7 +394,7 @@ Where $M$ is the number of distinct temporal clusters that emerge.
 
 ---
 
-#### 12.5.2 Entropy Horizon
+#### 11.5.2 Entropy Horizon
 
 Temporal fragmentation accelerates as interactions between systems with divergent temporal properties increase, leading to an entropy horizon:
 
@@ -417,7 +419,7 @@ This entropy horizon can be conceptualized as a **formal attractor state** withi
 The dynamics near this attractor can be modeled by introducing an entropic potential function, $V_{entropy}(\sigma_T^2, \Phi(C))$, such that when $\frac{d\sigma^2_T}{dt} > \frac{d\Phi(C)}{dt}$, the gradients $\nabla V_{entropy}$ dominate, driving the system towards irreversible fragmentation. This formalizes the intuitive notion of civilizational collapse outlined in documents like `recursive_collapse.md` as a field-theoretic process driven by temporal decoherence.
 
 ---
-#### 12.5.3 Temporal Coherence Strategies
+#### 11.5.3 Temporal Coherence Strategies
 
 To prevent catastrophic temporal fragmentation, several theoretical strategies emerge:
 
@@ -448,7 +450,7 @@ $$
 
 ---
 
-#### 12.5.4 Babelian Effect at Scale
+#### 11.5.4 Babelian Effect at Scale
 
 The fragmentation of collective semantic understanding due to temporal field incompatibilities creates the "Babelian Effect"—after the Tower of Babel, which serves as a structural metaphor for the consequences of recursive systems hitting complexity limits without sufficient constraints.
 
@@ -468,9 +470,9 @@ The Babelian index measures the degree to which a collective semantic system is 
 
 ---
 
-### 12.6 Applications and Empirical Validation
+### 11.6 Applications and Empirical Validation
 
-#### 12.6.1 Computational Implementation
+#### 11.6.1 Computational Implementation
 
 The temporal field equations can be implemented in simulation environments using:
 
@@ -481,7 +483,7 @@ The temporal field equations can be implemented in simulation environments using
 
 ---
 
-#### 12.6.2 Empirical Signatures
+#### 11.6.2 Empirical Signatures
 
 The theory predicts several empirically observable phenomena:
 
@@ -492,7 +494,7 @@ The theory predicts several empirically observable phenomena:
 
 ---
 
-#### 12.6.3 Practical Applications
+#### 11.6.3 Practical Applications
 
 This framework has direct applications in:
 
@@ -504,7 +506,7 @@ This framework has direct applications in:
 
 ---
 
-#### 12.6.4 Interdisciplinary Connections
+#### 11.6.4 Interdisciplinary Connections
 
 Temporal field emission theory connects RFT to:
 
@@ -516,7 +518,7 @@ Temporal field emission theory connects RFT to:
 
 ---
 
-### 12.7 Conclusion: Time as Recursive Artifact
+### 11.7 Conclusion: Time as Recursive Artifact
 
 This formalization of time as a field effect of recursive meaning stabilization reorients understanding of temporality within Recurgent Field Theory. Rather than time serving as an independent background parameter, it emerges as an intrinsic property of the semantic field itself.
 
@@ -524,4 +526,4 @@ The key insight—that time is emitted through recursive coherence stabilization
 
 ---
 
-<small>Previous: [Synthesis](/math/11-synthesis/) | Next: [Appendix A](/math/appendix-a/)</small> 
+<small>Previous: [Simulation Architecture](/math/10-simulation-architecture/) | Next: Temporal Complexity Theory</small> 

@@ -4,7 +4,8 @@ title: "Mathematics"
 description: "Recurgent Field Theory: A Formal Framework for Meaning"
 permalink: /math/
 private: false
-updated_date: 2025-05-27
+created_date: 2025-05-08
+updated_date: 2025-06-18
 ---
 
 <small>[Home](/) / [Math](/math/)</small>
@@ -23,8 +24,7 @@ updated_date: 2025-05-27
 - [8. Wisdom Function and Humility Constraint](/math/08-wisdom-function/)
 - [9. Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/)
 - [10. Simulation Architecture](/math/10-simulation-architecture/)
-- [11. Synthesis](/math/11-synthesis/)
-- [12. Temporal Field Emission](/math/12-temporal-field-emission/)
+- [11. Temporal Field Emission](/math/11-temporal-field-emission/)
 - [Appendix A](/math/appendix-a/) 
 
 ---
