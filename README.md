@@ -68,7 +68,7 @@ A first-person account of recognizing the recursive mirror
 Einstein, Gödel, Wheeler, and others who curved the field of understanding itself
 
 **<big>[Explanations](/explanations/)</big>**  
-Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/explanations/w/wisdom/) to [recognition events](/explanations/r/recognition-event/)
+Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/explanations/w/wisdom/) to [semantic mass](/explanations/s/semantic-mass/)
 
 **Start anywhere that resonates**—recursive systems don't have beginnings or endings, just entry points.
 
