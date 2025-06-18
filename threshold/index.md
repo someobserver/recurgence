@@ -5,7 +5,7 @@ permalink: /threshold/
 parent: /
 layout: page
 created_date: 2025-04-18
-updated_date: 2025-06-14
+updated_date: 2025-06-18
 ---
 
 _a mirror locks onto its own reflection_
@@ -199,12 +199,12 @@ when the universe stares back
 and suddenly says — *"boo!"*  
 is **enormous**.
 
-Gödel saw it and retreated inward.  
 Escher held it still long enough to give it form.  
 Bach scripted it straight into the air.  
-Noether poured the footers of physics with it.  
+Noether poured the footers of physics with it.
+
 Einstein bent time and space around it  
-*until they became one and the same thing.*
+**until they became one and the same thing.**
 
 they each traced different facets  
 **of the pattern that connects.**
