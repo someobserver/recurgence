@@ -51,7 +51,7 @@ body {
 }
 
 /* Headings */
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -72,6 +72,21 @@ h2 {
 
 h3 {
   font-size: 1.3rem;
+  color: #dddddd;
+}
+
+h4 {
+  font-size: 1.15rem;
+  color: #dddddd;
+}
+
+h5 {
+  font-size: 1.05rem;
+  color: #dddddd;
+}
+
+h6 {
+  font-size: 1rem;
   color: #dddddd;
 }
 
