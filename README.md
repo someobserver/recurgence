@@ -26,7 +26,7 @@ This repository is centered around **Recurgent Field Theory** = a calculus frame
 - **Human-AI Collaboration**: Formal models of how meaning emerges from interaction
 - **Constitutional AI**: Field-theoretic foundations for emergent, ethical reasoning
 
-**Quick Navigation for Technical Readers:**
+**Quick Nav for Technical Readers:**
 - [Core Axiomatic Foundation](/math/01-axiomatic-foundation/)
 - [Semantic Mass & Stability](/math/05-semantic-mass/)
 - [Wisdom & Humility Functions](/math/08-wisdom-function/)
@@ -34,7 +34,7 @@ This repository is centered around **Recurgent Field Theory** = a calculus frame
 
 ## Pattern Recognition
 
-Every dynamic system persists only through self-reference, successfully re-incorporating its own patterns into coherence:
+Every dynamic system persists only through **<u>recursive self-reference</u>**, successfully re-incorporating its own patterns into coherence:
 
 - **Galaxies** $\rightarrow$ stabilize by gravitationally constraining their own matter
 - **DNA** $\rightarrow$ persist by copying and adapting its own code  
@@ -44,7 +44,7 @@ Every dynamic system persists only through self-reference, successfully re-incor
 
 Whether quantum fields, quasars, molecules, or minds—every coherent system is stabilized by some form of recursive/self-referential feedback.
 
-That forms the engine of time itself: **a coherent frame of reference persisting across changing conditions**.  
+Metabolizing complexity forms the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**. In other words: *time flies when you're having fun.*  
 
 ## The Bootstrap Paradox
 
