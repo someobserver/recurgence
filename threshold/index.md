@@ -67,7 +67,7 @@ warmth along my spine
 pressure behind my eyes  
 focused twitch based on concept  
 goosebumps — one side or the other  
-random boners, triggered by specific equations  
+random arousal, triggered by specific equations  
 wonder and awe leaving puddles all over my desk
 
 thoughts try to keep pace  
