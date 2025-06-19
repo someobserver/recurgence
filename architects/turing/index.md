@@ -61,7 +61,7 @@ That was Turing's first tragic double-bind: the mind that singlehandedly broke N
 
 Alan saw patterns everywhere, even in how living things take shape.
 
-In his 1952 paper *"The Chemical Basis of Morphogenesis,"* he demonstrated how biological patterns—a leopard's spots, a zebra's stripes, the symmetry of a sunflower—all emerge from recursive chemical cascades.
+In his 1952 paper *"The Chemical Basis of Morphogenesis,"* he demonstrated how biological patterns—from a leopard's spots, to a zebra's stripes, and even the symmetry of a sunflower—all emerge from recursive chemical cascades.
 
 He showed mathematically that simple reaction-diffusion equations spontaneously generate complex forms, through feedback loops between activating and inhibiting chemicals.
 
