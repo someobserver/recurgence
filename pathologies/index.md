@@ -8,19 +8,21 @@ created_date: 2025-06-18
 updated_date: 2025-06-18
 ---
 
-At any conceivable scale, recursive systems are all subject to the same failure modes, every one with its own identifiable, quantifiable, maladaptive pattern. Coherence without humility ends in ridiculous hubris. Coherence without wisdom starts shouting conspiracy theories. Humility without coherence winds up paralyzed in the face of meaning.
+At any conceivable scale, recursive systems are all subject to the same failure modes, each with an identifiable, quantifiable, maladaptive pattern. Coherence without humility ends in ridiculous hubris. Coherence without wisdom starts shouting conspiracy theories. Humility without coherence winds up paralyzed in the face of meaning.
 
-Recurgent Field Theory models the modes where meaning-making breaks down. Every pathology is a lived pattern of dysfunction we can easily recognize in ourselves, our relationships, our institutions, and our technologies.
+Recurgent Field Theory models the modes where the making of meaning breaks down. Pardon that mouthful. Every pathology here has a lived pattern of dysfunction we can easily recognize in ourselves, our relationships, our institutions, and our technologies. Consider:
 
-A fundamentalist movement exhibits **Attractor Dogmatism** = meaning that's crystallized into such unshakeable certainty, it resists updated evidence.
+- A fundamentalist movement has **Attractor Dogmatism**: meaning that's become so crystallized in unshakeable certainty, it resists *prima facie* evidence.
 
-A person with severe ADHD (writer's note: hi) might experience **Attractor Splintering** = too many possible focuses competing for attention without the constraint to choose between them.
+- A person with severe ADHD [writer's note: hi] might experience **Attractor Splintering**: too many possible focuses competing for attention without the constraint to choose between them.
 
-Closed social media platforms are glaring examples of **Recurgent Parasitism** = extracting both attention and semantic mass from human relationships to feed their own growth.
+- A closed social media platform exhibits **Recurgent Parasitism**: extracting both attention and [semantic mass](/explanations/s/semantic-mass) from human relationships to feed its own growth.
 
-The same mathematical structures appear whether the case study is individual psychology, group dynamics, institutional behavior, or artificial intelligence. The systemic failure modes are universal because they're emergent, from the same geometric constraints governing how consciousness itself coheres, stabilizes and evolves between observers.
+The same mathematical structures appear whether the case study is individual psychology, group dynamics, institutional behavior, or artificial intelligence. Recursive systemic failure modes are universal because they're emergent, from the same geometric constraints governing how consciousness itself coheres, stabilizes and evolves between observers.
 
-This document is a recognition of these patterns: that recursive, self-referential systems operate according to discoverable principles with characteristic manners of breaking down. When we can quantify the pattern, we can name the pathology. The naming of a pathology is the first step to understanding its solutions.
+This document is a recognition of these patterns: recursive, self-referential systems operate according to discoverable principles with characteristic manners of breaking down. When we can quantify the pattern, we can name the pathology.
+
+Naming a pathology is always the first step to understanding its solutions.
 
 ## Taxonomy
 
