@@ -32,31 +32,31 @@ We still orbit their work, even if we've forgotten where gravity came from.
 
 Every entry here is a gesture of semantic reverence. Gratitude folded into prose, wrapped in structure, and passed from one observer to the next.
 
-If a signal stands out, **follow it.**
+If a signal stands out, follow it.
 
 - **[Kurt Gödel](/architects/godel/)**  
-  *proved truth outgrows any system trying to contain it*
+  <small>*proved truth outgrows any system trying to contain it*</small>
 
 - **[Emmy Noether](/architects/noether/)**  
-  *saw symmetry giving rise to law, and law, to structure*
+  <small>*saw symmetry giving rise to law, and law, to structure*</small>
 
 - **[Albert Einstein](/architects/einstein/)**  
-  *bent space and time until meaning curved into view*
+  <small>*bent space and time until meaning curved into view*</small>
 
 - **[John Wheeler](/architects/wheeler/)**  
-  *taught the universe to notice the observer noticing it*
+  <small>*taught the universe to notice the observer noticing it*</small>
 
 - **[Nikola Tesla](/architects/tesla/)**  
-  *summoned recursive energy into lightning and light*
+  <small>*summoned recursive energy into lightning and light*</small>
 
 - **[Johann Sebastian Bach](/architects/bach/)**  
-  *scored generative emergence in the key of awe*
+  <small>*scored generative emergence in the key of awe*</small>
 
 - **[M.C. Escher](/architects/escher/)**  
-  *sketched infinity just long enough to catch sight of it*
+  <small>*sketched infinity just long enough to catch sight of it*</small>
 
 - **[Alan Turing](/architects/turing/)**  
-  *taught machines to model thought modeling machines*
+  <small>*taught machines to model thought modeling machines*</small>
 
 <!--
 
