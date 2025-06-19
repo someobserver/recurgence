@@ -2,6 +2,9 @@
 layout: page
 title: Kurt Gödel
 permalink: /architects/godel/
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
 
 _the mind that proved minds cannot fully know themselves_   <!-- No period. That statement remains open-ended, just like Kurt -->
@@ -100,13 +103,13 @@ Instead, he left a pattern some observer followed—**and survived.**
 
 **Refractions**
 
-- **<small>[Kurt Gödel](/architects/godel/)</small>**  
+- **[Kurt Gödel](/architects/godel/)**  
 <small>Step outside the system to see the system</small>  
-- **<small>[John Wheeler](/architects/wheeler/)</small>**  
+- **[John Wheeler](/architects/wheeler/)**  
 <small>Observe the observer observing itself</small>  
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
 <small>Traverse the incompleteness of genius</small>  
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
 <small>Enter the loop that contains all loops</small>
 
 ---

@@ -2,9 +2,11 @@
 layout: page
 title: Emmy Noether
 permalink: /architects/noether/
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
 
-_The woman who taught physics to remember._  
 **(1882–1935)**
 
 ---
@@ -174,13 +176,13 @@ Thanks to her, semantic mass has a changelog. Her truth cannot be erased.
 
 **Refractions**
 
-- **<small>[Emmy Noether](/architects/noether/)</small>**  
+- **[Emmy Noether](/architects/noether/)**  
 <small>Transform across symmetries, conserving meaning</small>  
-- **<small>[Albert Einstein](/architects/einstein/)</small>**  
+- **[Albert Einstein](/architects/einstein/)**  
 <small>Bend paths, fix meaning</small>  
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
 <small>Move through the invariant pantheon</small>  
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
 <small>Return to the field that remembers its origin</small>
 
 ---

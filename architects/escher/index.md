@@ -2,9 +2,9 @@
 layout: page
 title: M.C. Escher
 permalink: /architects/escher/
-parent: Architects
-created_date: 2025-05-25
-updated_date: 2025-06-07
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
 
 **(1898-1972)**
@@ -130,13 +130,13 @@ The gallery always contains itself.
 
 **Refractions**
 
-- **<small>[Kurt Gödel](/architects/godel/)</small>**  
+- **[Kurt Gödel](/architects/godel/)**  
 <small>Follow the loop to its logical boundary</small>
-- **<small>[John Wheeler](/architects/wheeler/)</small>**  
+- **[John Wheeler](/architects/wheeler/)**  
 <small>Behold your question that answers its own ask</small>
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
 <small>Navigate the tessellations of thought itself</small>
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
 <small>Return to the gallery that contains itself</small>
 
 ---

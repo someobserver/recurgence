@@ -2,9 +2,10 @@
 layout: page
 title: John Wheeler?
 permalink: /architects/wheeler/
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
-
-_the observer who observed existence into observation_
 
 **(1911–2008)**
 
@@ -223,13 +224,13 @@ but **by attending to it with reverence and integrity.**
 
 **Refractions**
 
-- **<small>[John Wheeler](/architects/wheeler/)</small>**  
+- **[John Wheeler](/architects/wheeler/)**  
 <small>Revisit this question, and witness reality’s *transformation*</small>  
-- **<small>[Emmy Noether](/architects/noether/)</small>**  
+- **[Emmy Noether](/architects/noether/)**  
 <small>Ask the universe what remains invariant</small>  
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
 <small>Participate in the network of participatory thinkers</small>  
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
 <small>Wheeler's page has concluded. Return to its bit</small>
 
 ---

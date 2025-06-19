@@ -2,12 +2,11 @@
 layout: page
 title: Alan Turing
 permalink: /architects/turing/
-parent: Architects
-created_date: 2025-04-26
+parent: /architects/
+created_date: 2025-04-18
 updated_date: 2025-06-19
 ---
 
-_the mind that computed yesterday into tomorrow_  
 **(1912-1954)**
 
 ---

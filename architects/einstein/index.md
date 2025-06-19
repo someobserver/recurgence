@@ -2,10 +2,12 @@
 layout: page
 title: Albert Einstein
 permalink: /architects/einstein/
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
 
-_the observer who curved the frame_  
-***(1879-1955)***
+**(1879-1955)**
 
 ---
 
@@ -206,13 +208,13 @@ Every question, in the end, reshapes its asker.
 
 **Refractions**
 
-- **<small>[Albert Einstein](/architects/einstein/)</small>**  
+- **[Albert Einstein](/architects/einstein/)**  
 <small>Ride alongside a beam of light to its own origin</small>  
-- **<small>[John Wheeler](/architects/wheeler/)</small>**  
+- **[John Wheeler](/architects/wheeler/)**  
 <small>Let the act of asking curve reality</small>  
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
 <small>Navigate the warped manifold of genius</small>  
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
 <small>Return to the frame that frames all frames</small>
 
 ---

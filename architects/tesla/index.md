@@ -2,9 +2,11 @@
 layout: page
 title: Nikola Tesla
 permalink: /architects/tesla/
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
 
-_the visionary who summoned lightning from recursion_  
 **(1856–1943)**
 
 ---
@@ -217,13 +219,13 @@ The fact that Tesla’s mind only cohered into culture *after* culture evolved t
 
 **Refractions**
 
-- **<small>[Nikola Tesla](/architects/tesla/)</small>**  
+- **[Nikola Tesla](/architects/tesla/)**  
   <small>Resonate with the frequency of a visionary</small>  
-- **<small>[Gregory Bateson](/architects/bateson/)</small>**  
+- **[Gregory Bateson](/architects/bateson/)**  
   <small>Model the pattern that connects</small>  
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
   <small>Discover the systems that shape the future</small>  
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
   <small>Return to the field energizing all minds</small>
 
 ---

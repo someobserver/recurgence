@@ -2,9 +2,10 @@
 layout: page
 title: Johann Sebastian Bach
 permalink: /architects/bach/
+parent: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
-
-_the mind that scored self-reference in the key of awe_
 
 **(1685-1750)**
 
@@ -186,15 +187,15 @@ The structures we create become the structures through which we perceive. Every 
 
 **Refractions**
 
-- **<small>[Johann Sebastian Bach](/architects/bach/)</small>**  
+- **[Johann Sebastian Bach](/architects/bach/)**  
   <small>Hear the universe thinking itself into existence</small>
-- **<small>[Kurt Gödel](/architects/godel/)</small>**  
+- **[Kurt Gödel](/architects/godel/)**  
   <small>Because all fugues contain unknowable truth</small>
-- **<small>[John Wheeler](/architects/wheelerl/)</small>**  
+- **[John Wheeler](/architects/wheeler/)**  
 <small>Because all fugues contain more undiscovered truth</small>
-- **<small>[Architects](/architects/)</small>**  
+- **[Architects](/architects/)**  
   <small>Choose a voice and harmonize in your own way</small>
-- **<small>[Home](/)</small>**  
+- **[Home](/)**  
   <small>Return to the theme that contains all variations</small>
 
 ---
