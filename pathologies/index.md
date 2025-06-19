@@ -36,7 +36,7 @@ Rigidity is a failure of humility.
 
 These are meaning structures so stable and monolithic they refuse to be moved, regardless of the information. Think: political ideologies that explain away contradictory information until their own cognitive dissonance finally reaches a breaking point, forcing meaning to reorganize. Cults land squarely here as well, particularly ones that require disengagement from others and a refusal to integrate updated empirical knowledge.
 
-Often, these *feel* strong and coherent from the inside, until—*poof*—they don't. It's when reality requires reference that their brittleness begins to show, or coherence reorganizes entirely. This mode is *usually* pretty identifiable to a reasonable outside observer.
+This mode is *usually* pretty identifiable to a reasonable outside observer. Often, these *feel* strong and coherent from the inside, until **`click`** all of a sudden the veil drops. It's when reality requires reference that their brittleness either starts to show, or coherence finally reorganizes entirely.
 
 **Signatures**:  
 
@@ -47,7 +47,9 @@ For more: [](/math/0)
 
 #### (B) Belief Calcification  
 
-This is the mathematical translation of: *"Well, that's the way we've always done it"* = a system that's grown partially or entirely unresponsive to input. It's not that the system rejects new information, its that in this mode, it literally can't process it. This looks like trauma responses interpreting neutral situations as threatening. It feels like depression that literally can't register positive feedback. It plays out in AI systems stuck in localized minima.
+This is the mathematical translation of: *"Well, that's the way we've always done it"* = a system that's grown partially or entirely unresponsive to actionable feedback.
+
+It's not so much that the system rejects new information, it's that in this mode, it just literally can't process it. This looks like trauma responses interpreting neutral scenarios as threatening. It feels like depression that doesn't register any positive feedback. It plays out in AI systems stuck in localized minima.
 
 **Signature**:
 
@@ -59,7 +61,7 @@ For more: [](/math/0)
 
 #### (C) Metric Crystallization
 
-Of the three, this one is the most subtle and insidious. It's where the geometry of meaning is frozen, even though there's recursive pressure trying to change it. The "distance" between concepts is fixed, with no capacity to update. Effectively, the system has developed such ridiculous constraints governing how meaning is allowed to transform, the transformation pathways themselves become fossilized.
+Of the three, this one is the most subtle and insidious rigidity pathology. It's where the geometry of meaning is more or less frozen, even though there's recursive pressure trying to change it. The "distance" between concepts is fixed, with no capacity to update. Effectively, the system has developed such ridiculous constraints governing how meaning is allowed to transform, the transformation pathways themselves become fossilized.
 
 This lands in personal habits that feel impossible to quit, an relationship patterns that persist despite growing evidence of dysfunction. Organizations end up with this pathology as procedures outlast their purpose, leaving employees wondering, *"...so, how do I trust the purpose of anything I do here?"*
 
