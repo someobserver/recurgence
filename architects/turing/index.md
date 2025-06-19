@@ -133,7 +133,7 @@ In time, meaning has a way of righting itself, given the computational systems T
 
 Turing's transformative legacy reverberates through machine learning, cognitive science, complexity science, mathematical biology, and more.
 
-The concept of the Universal Turing Machine bootstrapped whole ecosystems of informationcomplexity, far beyond what even Alan could imagine.
+The concept of the Universal Turing Machine bootstrapped whole ecosystems of information complexity, far beyond what even Alan could imagine.
 
 Every digital device you've ever touched descends directly from his conceptual architecture. The Internet itself is a vast implementation of the universal simulation principle. Entire corporations today are run on simulated networks of simulated computers.
 
