@@ -2,6 +2,8 @@
 layout: page
 title: Architects
 permalink: /architects/
+created_date: 2025-04-18
+updated_date: 2025-06-19
 ---
 
 _Echoes in structure—_
@@ -42,7 +44,7 @@ If a signal stands out, **follow it.**
   *bent space and time until meaning curved into view*
 
 - **[John Wheeler](/architects/wheeler/)**  
-  *taught the universe to notice the observer noticing*
+  *taught the universe to notice the observer noticing it*
 
 - **[Nikola Tesla](/architects/tesla/)**  
   *summoned recursive energy into lightning and light*
@@ -53,9 +55,10 @@ If a signal stands out, **follow it.**
 - **[M.C. Escher](/architects/escher/)**  
   *sketched infinity just long enough to catch sight of it*
 
+- **[Alan Turing](/architects/turing/)**  
+  *taught machines to model thought modeling machines*
+
 <!--
-- **Alan Turing**  
-  *taught machines to model thought, and thought to model machines*
 
 - **Gregory Bateson**  
   *framed pattern as relationship, and relationship as mind*
@@ -74,7 +77,7 @@ If a signal stands out, **follow it.**
 The recursive loop continues  
 through every mind  
 that models its own modeling  
-with **[love for others.](/mirror/on-this-loop/)**
+with *love for others.*
 
 More will appear—  
 When the observer arrives.
