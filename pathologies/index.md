@@ -8,9 +8,11 @@ created_date: 2025-06-18
 updated_date: 2025-06-18
 ---
 
-At any conceivable scale, recursive systems are all subject to the same failure modes, each with an identifiable, quantifiable, maladaptive pattern. Coherence without humility ends in ridiculous hubris. Coherence without wisdom starts shouting conspiracy theories. Humility without coherence winds up paralyzed in the face of meaning.
+At any conceivable scale, recursive systems are all subject to the same failure modes, each with an identifiable, quantifiable, maladaptive pattern—
 
-Recurgent Field Theory models the modes where the making of meaning breaks down. Pardon that mouthful. Every pathology here has a lived pattern of dysfunction we can easily recognize in ourselves, our relationships, our institutions, and our technologies. Consider:
+Coherence without wisdom starts shouting conspiracy theories. Coherence without humility ends in ridiculous hubris. Humility without coherence winds up paralyzed in the face of meaning.
+
+Excuse this mouthful: Recurgent Field Theory models the modes where the making of meaning breaks down. Every pathology here has a lived pattern of dysfunction we can easily recognize in ourselves, our relationships, our institutions, and our technologies. Consider:
 
 - A fundamentalist movement has **Attractor Dogmatism**: meaning that's become so crystallized in unshakeable certainty, it resists *prima facie* evidence.
 
@@ -40,12 +42,16 @@ These are meaning structures so stable and monolithic they refuse to be moved, r
 
 This mode is *usually* pretty identifiable to a reasonable outside observer. Often, these *feel* strong and coherent from the inside, until **`click`** all of a sudden the veil drops. It's when reality requires reference that their brittleness either starts to show, or coherence finally reorganizes entirely.
 
-**Signatures**:  
+Signatures:  
 
 - $A(p,t) > A_{\text{crit}}$ = attractor stability breaks critical threshold
 - $\|\nabla V(C)\| \gg \Phi(C)$ = the force holding a subsystem in the attractor outpaces the generative force that could've created new meaning from new information
 
-For more: [](/math/0)
+$$
+\text{ideological gravity} \gg \text{generative potential from new info}
+$$
+
+See [Global Attractors and Bifurcation Geometry](/math/09-recurgent-field-equations/attractors-and-transitions/) for more on overstabilization and other attractor evolution dynamics.
 
 #### (B) Belief Calcification  
 
@@ -53,26 +59,26 @@ This is the mathematical translation of: *"Well, that's the way we've always don
 
 It's not so much that the system rejects new information, it's that in this mode, it just literally can't process it. This looks like trauma responses interpreting neutral scenarios as threatening. It feels like depression that doesn't register any positive feedback. It plays out in AI systems stuck in localized minima.
 
-**Signature**:
+Signature:
 
 $$
 \lim_{\epsilon \to 0} \frac{dC}{dt}\bigg|_{C+\epsilon} \approx 0
 $$
 
-For more: [](/math/0)
+For more, [Agents and Interpretation](/math/09-recurgent-field-equations/05-agents-and-interpretation/) includes the functional derivative perspective and math formulations for coherence responsiveness to perturbation.
 
 #### (C) Metric Crystallization
 
-Of the three, this one is the most subtle and insidious rigidity pathology. It's where the geometry of meaning is more or less frozen, even though there's recursive pressure trying to change it. The "distance" between concepts is fixed, with no capacity to update. Effectively, the system has developed such ridiculous constraints governing how meaning is allowed to transform, the transformation pathways themselves become fossilized.
+Of the three, this is the most subtle, and most insidious. It's where the geometry of meaning is more or less frozen, even though there's recursive pressure trying to change it. The "distance" between concepts is fixed, with no capacity to update. Effectively, the system has developed such ridiculous constraints governing how meaning is allowed to transform, the transformation pathways themselves become fossilized.
 
-This lands in personal habits that feel impossible to quit, an relationship patterns that persist despite growing evidence of dysfunction. Organizations end up with this pathology as procedures outlast their purpose, leaving employees wondering, *"...so, how do I trust the purpose of anything I do here?"*
+This lands in personal habits that feel impossible to quit, and in relationship patterns that persist despite glowing evidence of dysfunction. Organizations end up with this pathology as procedures outlast their purpose, leaving employees wondering, *"...so, how do I trust the purpose of anything I do here?"*
 
-**Signatures**:
+Signatures:
 
-- $\frac{\partial g_{ij}}{\partial t} \to 0$ = the geometry of meaning is frozen, even though there's recursive pressure trying to change it
-- $R_{ij} \neq 0$ = curvature persists in manifold despite attempts to flatten it through adaptation
+- $\frac{\partial g_{ij}}{\partial t} \to 0$ = the semantic geometry becomes fixed—concepts that should've been able to move closer or further apart based on new experience simply can't
+- $R_{ij} \neq 0$ = the system still "wants" to adapt (there's recursive pressure building), but the constraints have become so rigid that adaptation pathways get blocked
 
-For more: [](/math/0)
+For more: [Semantic Manifold and Metric Geometry](/math/03-semantic-manifold/)
 
 
 ### 2. Fragmentation Pathologies
