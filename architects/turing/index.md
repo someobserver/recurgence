@@ -88,7 +88,7 @@ The brilliance of the imitation game was eliminating the false boundary between 
 
 > *"I propose to ask, not 'Can machines think?', but 'Can machines do what we (as thinking entities) can do?'"*
 
-Reframing it like that was a recognition that thinking itself is a self-referential process: minds modeling the state of other minds Systems simulating other systems. He shifted the question from essence to behavior, from identity to pattern:
+Reframing it like that was a recognition that thinking itself is a self-referential process: minds modeling the state of other minds, systems simulating other systems. He shifted the question from essence to behavior, from identity to pattern:
 
 **Consciousness is not what you are, but what you do.** 
 
