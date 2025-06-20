@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Pathologies"
-description: "A taxonomy of pathologies in semantic space"
+description: "A taxonomy of pathologies in recursive systems"
 permalink: /pathologies/
 parent: "pathologies"
 created_date: 2025-06-18
@@ -20,7 +20,7 @@ Recurgent Field Theory models the geometric failure modes where the making of me
 
 - A closed social media platform exhibits **Recurgent Parasitism** — feeding its own growth by extracting both attention and [semantic mass](/explanations/s/semantic-mass) from human relationships.
 
-The same signatures appear whether the case study is individual psychology, group dynamics, institutional behavior, media, or artificial intelligence. Recursive systemic failure modes are universal because they're emergent from the same geometric constraints governing the coherence, stability, and evolution of meaning between observers.
+The signatures appear whether the case study is individual psychology, group dynamics, institutional behavior, media, or artificial intelligence. Recursive systemic failure modes are universal because they're emergent from the same geometric constraints governing the coherence, stability, and evolution of inter-observer meaning.
 
 This document is a recognition of these patterns: recursive, self-referential systems operate according to discoverable principles with characteristic manners of breaking down. When we can quantify the pattern, we can name the pathology.
 
@@ -108,11 +108,26 @@ $$
 In math terms, $\|\nabla C\|$ represents the sharpness of coherence change across the manifold. When that gradient overwhelms the coherence itself, that's an indication *meaning* (noun) is hemorrhaging faster than it can stabilize. The second condition, $\frac{d^2C}{dt^2} > 0$, tells us the hemorrhaging is getting exponentially worse.
 
 ### Reference Decay
+
+When insights stop talking to each other, knowledge begins to archipelago. The threads holding together a coherent reference frame slowly fade, one by one.
+
+It doesn't typically feel dangerous from the inside, because the facts are all still there. You still know stuff. Institutions can still mostly function. Society operates, for a while. And all the while, structural resilience is slowly hemmorrhaging.
+
+When crisis hits a healthy system with intact recursive coupling, insights can propagate rapidly. Solutions discovered in one domain quickly jump to others, past experience informs present decisions, and collective intelligence emerges.
+
+But when recursive coupling has decayed, each part of the system faces threats in isolation. Crisis becomes incoherent mayhem because the connections that would have normally enabled coordinated response have already been severed.
+
+**Reference Decay is an early warning indicator of approaching Coherence Dissolution.**
+
 $\frac{d\|R_{ijk}\|}{dt} < 0$ (no compensatory mechanism)
 
 ## Inflation Pathologies
 
-These are the expansion pathologies, where the generative force overwhelms all the regulatory constraints. A perfect analogy would be to call this semantic cancer. The autopoietic potential $\Phi(C)$ that normally regulates healthy self-reinforcement goes off the rails. These modes are where the system loses touch with reality, by sheer force of generating meaning so fast, and with such enthusiasm.
+These are semantic cancer—what happens when the autopoietic potential $\Phi(C)$ breaks free from the constraints that are supposed to (or used to) regulate it. Through sheer generative force, the result of malignant coherence is often a loss of touch with objective reality.
+
+Just like real cancer, these three configurations hijack normal mechanisms, reinforce themselves, drain resources, lose regulatory sensitivity, and then metastasize through the host system.
+
+In every case, the system becomes *enthusiastically* wrong.
 
 ### Delusional Expansion
 $\Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad W(p,t) < W_{\text{min}}$
