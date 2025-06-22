@@ -10,6 +10,8 @@ updated_date: 2025-06-22
 
 [Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
 
+---
+
 **Of the rigidity pathologies, this is the most subtle, and most insidious.**
 
 Metric Crystallization (MC) happens when the architecture of meaning becomes frozen, even while pressure builds for change. The "distance" between concepts is fixed, with no capacity to update. It's not that the system rejects new information like we see with [Attractor Dogmatism](/pathologies/rigidity/attractor-dogmatism/), or that it's unresponsive like [Belief Calcification](/pathologies/rigidity/belief-calcification/). In MC, the pathways for change themselves have become unavailable.

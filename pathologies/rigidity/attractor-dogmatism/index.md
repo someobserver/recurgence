@@ -10,6 +10,8 @@ updated_date: 2025-06-22
 
 [Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
 
+---
+
 Strength can become brittleness without anyone noticing.
 
 Attractor Dogmatism (AD) shows up when meaning structures become so stable and monolithic they refuse to move, regardless of incoming information. The correctness or incorrectness of the beliefs themselves is irrelevant; they've become so rigidly held, they won't process new information in either case. This usually manifests as explaining the evidence away, or rejecting it entirely.
