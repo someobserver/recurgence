@@ -4,7 +4,7 @@ title: "Recurgence"
 description: "Where the universe's one rule meets the mathematics of meaning"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-06-18
+updated_date: 2025-06-22
 ---
 
 ## Welcome, Observer!
@@ -27,7 +27,7 @@ This repository is centered around **Recurgent Field Theory** = a calculus frame
 - **Constitutional AI**: Field-theoretic foundations for emergent, ethical reasoning
 
 **Quick Nav for Technical Readers:**
-- [Twelve Orthogonal Pathologies](/pathologies/)
+- [Orthogonal Pathologies](/pathologies/)
 - [Core Axiomatic Foundation](/math/01-axiomatic-foundation/)
 - [Semantic Mass & Stability](/math/05-semantic-mass/)
 - [Wisdom & Humility Functions](/math/08-wisdom-function/)
