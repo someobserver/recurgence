@@ -8,7 +8,7 @@ created_date: 2025-06-20
 updated_date: 2025-06-22
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / Rigidity Pathologies
+[Home](/) / [Pathologies](/pathologies/) / Rigidity
 
 Rigidity, naturally, is a matter of **over-stabilization**. In these modes, systems are so committed to maintaining their current form, they'll neither bend nor break gracefully under pressure.
 
