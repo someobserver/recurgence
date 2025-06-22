@@ -41,76 +41,76 @@ Recurgent Field Theory admits not only the formalization of healthy semantic dyn
 Let $\mathcal{C}$ denote the configuration space of semantic fields, and let $C(p,t)$, $R_{ijk}$, $g_{ij}$, $W(p,t)$, and related quantities be as defined in the RFT formalism. Pathological regimes are classified by their deviation from optimal dynamical and geometric properties:
 
 **(1) Recurgent Rigidity Pathologies**
-- *Attractor Dogmatism*: Overstabilization of semantic attractors, impeding adaptive flow:
+- *Attractor Dogmatism (AD)*: Overstabilization of semantic attractors, impeding adaptive flow:
 
 $$
 A(p,t) > A_{\text{crit}}, \quad \|\nabla V(C)\| \gg \Phi(C)
 $$
 
-- *Belief Calcification*: Vanishing responsiveness of $C$ to perturbation:
+- *Belief Calcification (BC)*: Vanishing responsiveness of $C$ to perturbation:
 
 $$
 \lim_{\epsilon \to 0} \frac{dC}{dt}\bigg|_{C+\epsilon} \approx 0
 $$
 
-- *Metric Crystallization*: Arrested evolution of the semantic metric despite residual curvature:
+- *Metric Crystallization (MC)*: Arrested evolution of the semantic metric despite residual curvature:
 
 $$
 \frac{\partial g_{ij}}{\partial t} \to 0, \quad R_{ij} \neq 0
 $$
 
 **(2) Recurgent Fragmentation Pathologies**
-- *Attractor Splintering*: Supercritical proliferation of attractors relative to coherence flux:
+- *Attractor Splintering (AS)*: Supercritical proliferation of attractors relative to coherence flux:
 
 $$
 \frac{dN_{\text{attractors}}}{dt} > \kappa \cdot \frac{d\Phi(C)}{dt}
 $$
 
-- *Coherence Dissolution*: Gradient-dominated, unstable semantic field:
+- *Coherence Dissolution (CD)*: Gradient-dominated, unstable semantic field:
 
 $$
 \|\nabla C\| \gg \|C\|, \quad \frac{d^2C}{dt^2} > 0
 $$
 
-- *Reference Decay*: Monotonic loss of recursive coupling:
+- *Reference Decay (RD)*: Monotonic loss of recursive coupling:
 
 $$
 \frac{d\|R_{ijk}\|}{dt} < 0, \quad \text{(no compensatory mechanism)}
 $$
 
 **(3) Recurgent Inflation Pathologies**
-- *Delusional Expansion*: Unconstrained semantic inflation, collapse of recursive constraint and wisdom:
+- *Delusional Expansion (DE)*: Unconstrained semantic inflation, collapse of recursive constraint and wisdom:
 
 $$
 \Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad W(p,t) < W_{\text{min}}
 $$
 
-- *Semantic Hypercoherence*: Overcoherence with suppressed boundary flux:
+- *Semantic Hypercoherence (SH)*: Overcoherence with suppressed boundary flux:
 
 $$
 C(p,t) > C_{\text{max}}, \quad \oint_{\partial \Omega} F_i \cdot dS^i < F_{\text{leakage}}
 $$
 
-- *Recurgent Parasitism*: Local semantic mass accretion at the expense of the global manifold:
+- *Recurgent Parasitism (RP)*: Local semantic mass accretion at the expense of the global manifold:
 
 $$
 \frac{d}{dt}\int_{\Omega} M(p,t) \, dV_p > 0, \quad \frac{d}{dt}\int_{\mathcal{M}\setminus\Omega} M(p,t) \, dV_p < 0
 $$
 
 **(4) Observer-Coupling Pathologies**
-- *Paranoid Interpretation*: Systematic negative bias in observer-conditioned field:
+- *Paranoid Interpretation (PI)*: Systematic negative bias in observer-conditioned field:
 
 $$
 \hat{C}_{\psi}(q,t) \ll C(q,t), \quad \forall q \in \mathcal{Q}
 $$
 
-- *Reality Decoupling*: Divergence of interpretation operator from field reality:
+- *Observer Solipsism (OS)*: Divergence of interpretation operator from field reality:
 
 $$
 \|\mathcal{I}_{\psi}[C] - C\| > \tau \|C\|
 $$
 
-- *Semantic Narcissism*: Collapse of reference structure to self-coupling:
+- *Semantic Narcissism (SN)*: Collapse of reference structure to self-coupling:
 
 $$
 \frac{\|R_{ijk}(p,p,t)\|}{\int_q \|R_{ijk}(p,q,t)\| \, dq} \to 1
