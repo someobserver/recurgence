@@ -8,7 +8,7 @@ created_date: 2025-06-20
 updated_date: 2025-06-22
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Metric Crystallization
+[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
 
 **Of the rigidity pathologies, this is the most subtle, and most insidious.**
 

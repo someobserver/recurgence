@@ -8,7 +8,7 @@ created_date: 2025-06-20
 updated_date: 2025-06-20
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Belief Calcification
+[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
 
 
 In Belief Calcification (BC), the system receives feedback, acknowledges it, and even understands it intellectually, but has lost the capacity to convert meaningful information into adaptive change.

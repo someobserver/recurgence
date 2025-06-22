@@ -8,7 +8,7 @@ created_date: 2025-06-20
 updated_date: 2025-06-22
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Attractor Dogmatism
+[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
 
 Strength can become brittleness without anyone noticing.
 
