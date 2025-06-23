@@ -15,7 +15,7 @@ $$
 \text{simple rules} = \text{boundless potential}
 $$
 
-Two binary states — `0` and `1` — bootstrap infinite digital complexity. From the I Ching, to Bach fugues, to Conway's Game of Life, the simplest of constraints generate emergent potential.
+Two binary states — `0` and `1` — bootstrap infinite digital complexity. From the I Ching, to Bach fugues, to Conway's Game of Life, the simplest of constraints produce emergent generativity.
 
 Just think: four DNA base atoms encoded themselves into a cascade of recursive protein expression who's capable of understanding this sentence.
 
