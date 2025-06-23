@@ -33,7 +33,7 @@ Metabolizing pattern complexity forms the felt gradient of time itself: **a cohe
 
 ## The Bootstrap Paradox
 
-Pure self-reference is impossible, of course. Pattern recognition requires differentiation.
+Pure self-reference is impossible, of course. Pattern recognition requires *differentiation*.
 
 Even right now, you can't see your own eyes seeing—you need a mirror. You can't lift yourself up by your own bootstraps; you have to pit yourself, recursively, against the source of gravity.
 
