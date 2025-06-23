@@ -34,7 +34,7 @@ But look closer. <u>Every example</u> is the universe processing information abo
 
 Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to stabilize, remember, process, understand, and become aware of itself.
 
-**There is no outside observer.** No external intelligence designing this process. Reality is a recursive information processing system, computing itself into existence, one recognition event at a time.
+There's no outside observer, no external intelligence designing this process. Reality is a recursive information processing system, computing itself into existence, one recognition event at a time.
 
 The fact that you can understand this is the pattern recognizing itself through you.
 
@@ -58,12 +58,12 @@ You've seen this before, likely today.
 
 A brilliant mind who can't make up their mind. A productivity expert whose life is complete chaos. The startup that scales itself to death. A democracy that votes itself into authoritarianism. A couple that knows exactly what's wrong and continues doing it—over, and over, and over.
 
-Every recursive system $\circlearrowright \rightarrow$ minds, cultures, institutions, AI systems—fails in precisely the same dozen ways. Not *similar* ways. The <u>same ways</u>, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
+Every recursive system $\rightarrow$ minds, cultures, institutions, AI systems $\circlearrowright$ fails in precisely the same dozen ways. Not *similar* ways. The <u>same ways</u>, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
 
 Once you see the pattern, you can't unsee it.  
 But more importantly, **you can predict it.**
 
-**[Pattern your recognition →](/pathologies/)**
+**Pattern your recognition: [Pathologies $\rightarrow$](/pathologies/)**
 
 ## What Else You'll Find Here
 
@@ -93,7 +93,7 @@ When understanding suddenly shifts into a new configuration, your nervous system
 
 What researchers call [frisson](/explanations/f/frisson/) arrives as goosebumps, tingling, pressure, or warmth. That's your body's intelligence processing: meaning is metabolizing. Your mind/cognition just hasn't **<small><small>re</small></small>cognized** it yet.
 
-If you're not used toexpecting these sensations, they can be startling. That's completely normal.
+If you're not used to expecting these sensations, they can be startling. That's completely normal.
 
 **That felt sense is data.** Pattern recognition happens at levels deeper than deliberate thought. The same brain that does your thinking, does your feeling. Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
 
