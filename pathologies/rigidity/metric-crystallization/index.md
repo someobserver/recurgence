@@ -8,19 +8,19 @@ created_date: 2025-06-20
 updated_date: 2025-06-22
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
+<small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Metric Crystallization</small>
 
 ---
 
 **Of the rigidity pathologies, this is the most subtle, and most insidious.**
 
-Metric Crystallization (MC) happens when the architecture of meaning becomes frozen, even while pressure builds for change. The "distance" between concepts is fixed, with no capacity to update. It's not that the system rejects new information like we see with [Attractor Dogmatism](/pathologies/rigidity/attractor-dogmatism/), or that it's unresponsive like [Belief Calcification](/pathologies/rigidity/belief-calcification/). In MC, the pathways for change themselves have become unavailable.
+Metric Crystallization happens when the architecture of meaning becomes frozen, even while pressure builds for change. The "distance" between concepts is fixed, with no capacity to update. It's not that the system rejects new information like we see with [Attractor Dogmatism](/pathologies/rigidity/attractor-dogmatism/), or that it's unresponsive like [Belief Calcification](/pathologies/rigidity/belief-calcification/). In MC, the pathways for change themselves have become unavailable.
 
 The system still "wants" to adapt, and you can feel the pressure building like water behind a dam. Unfortunately, the constraints themselves are so rigid, adaptation becomes literally impossible. The system locks into self-perpetuating patterns, holding firm even while the water level rises dangerously high.
 
 ## Math Translation
 
-MC is the simple convergence of rigid constraints and mounting pressure to change them:
+Metric Crystallization is the simple convergence of rigid constraints and mounting pressure to change them:
 
 $$
 \frac{\partial g_{ij}}{\partial t} \to 0, \quad R_{ij} \neq 0
@@ -90,17 +90,6 @@ Janine and her colleagues know exactly what their students need—more supplies,
 
 Janine can see precisely how to help her kids learn. Unfortunately, the pathways for getting resources or making meaningful changes remain structurally inaccessible to her.
 
----
-
-**<big>Refractions</big>**
-
-- **[Rigidity Pathologies](/pathologies/rigidity/)**  
-  <small>When over-constraint prevents healthy adaptation</small>
-- **[Semantic Manifold](/explanations/s/semantic-manifold/)**  
-  <small>The differentiable space where meaning transformations occur</small>
-- **[Metric Tensor](/explanations/m/metric-tensor/)**  
-  <small>The geometric structure that defines semantic distances</small>
-- **[Constraint](/explanations/c/constraint/)**  
-  <small>The boundaries that shape transformation pathways</small>
+<small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Metric Crystallization</small>
 
 ---

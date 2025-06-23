@@ -8,19 +8,19 @@ created_date: 2025-06-20
 updated_date: 2025-06-20
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
+<small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Belief Calcification</small>
 
 ---
 
-In Belief Calcification (BC), the system receives feedback, acknowledges it, and even understands it intellectually, but has lost the capacity to convert meaningful information into adaptive change.
+The system receives feedback, acknowledges it, and even understands it intellectually, but has lost the capacity to convert meaningful information into adaptive change. That's Belief Calcification.
 
-BC involves systems that *want* to change and know they *should* change, but can't bridge the gap from understanding to action. Analysis paralysis at every scale—from individuals who endlessly research the perfect diet without ever changing what they eat, to institutions that commission report after report without implementing a single recommendation.
+It involves systems that *want* to change and know they *should* change, but can't bridge the gap from understanding to action. Analysis paralysis at every scale—from individuals who endlessly research the perfect diet without ever changing what they eat, to institutions that commission report after report without implementing a single recommendation.
 
-It's executive dysfunction, quantified.
+This functions as executive dysfunction, quantified.
 
 ## Math Translation
 
-The signature of BC is a fundamental responsiveness failure:
+The signature of Belief Calcification is a fundamental responsiveness failure:
 
 $$
 \lim_{\epsilon \to 0} \frac{dC}{dt}\bigg|_{C+\epsilon} \approx 0
@@ -88,17 +88,6 @@ Captain McCrea *knows* the ship should return to Earth, *understands* that centu
 
 Phil Connors has unlimited time to study Rita. He learns her favorite poetry and ice cream flavors, understands exactly what kind of man she's attracted to. He knows being authentic and selfless will win her over more than any manipulation. But loop after recursive loop, he keeps trying to game the system instead of actually being genuine. Only after repeated failures teach him humility does he finally turn self-knowledge into authentic change. He escapes the loop when he learns *how* to stop trying to escape it.
 
----
-
-**<big>Refractions</big>**
-
-- **[Rigidity Pathologies](/pathologies/rigidity/)**  
-  <small>When over-constraint prevents healthy adaptation</small>
-- **[Attractor Dogmatism](/pathologies/rigidity/attractor-dogmatism/)**  
-  <small>Systems that actively reject contradictory information</small>
-- **[Metric Crystallization](/pathologies/rigidity/metric-crystallization/)**  
-  <small>When transformation pathways become structurally unavailable</small>
-- **[Recognition Event](/explanations/r/recognition-event/)**  
-  <small>The threshold where awareness crystallizes into action</small>
+<small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Belief Calcification</small>
 
 ---

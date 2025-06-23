@@ -8,17 +8,17 @@ created_date: 2025-06-20
 updated_date: 2025-06-22
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/)
+<small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Attractor Dogmatism</small>
 
 ---
 
 Strength can become brittleness without anyone noticing.
 
-Attractor Dogmatism (AD) shows up when meaning structures become so stable and monolithic they refuse to move, regardless of incoming information. The correctness or incorrectness of the beliefs themselves is irrelevant; they've become so rigidly held, they won't process new information in either case. This usually manifests as explaining the evidence away, or rejecting it entirely.
+Attractor Dogmatism shows up when meaning structures become so stable and monolithic they refuse to move, regardless of incoming information. The correctness or incorrectness of the beliefs themselves is irrelevant; they've become so rigidly held, they won't process new information in either case. This usually manifests as explaining the evidence away, or rejecting it entirely.
 
-AD feels like strength from the inside because the system never wavers, never doubts, and never changes course. Over time though, apparent strength calcifies into structural brittleness masquerading as resilience.
+It feels like strength from the inside because the system never wavers, never doubts, and never changes course. Over time though, apparent strength calcifies into structural brittleness masquerading as resilience.
 
-When societal complexity reaches inflection points, some individuals in AD retreat into increasingly rigid eschatological interpretations. Instead of engaging with the complexity of current challenges, they focus on signs an "end" is approaching and begin disengaging from healthy adaptive responses.
+When societal complexity reaches inflection points, some individuals retreat into increasingly rigid eschatological interpretations. Instead of engaging with the complexity of current challenges, they focus on signs an "end" is approaching and begin disengaging from healthy adaptive responses.
 
 As an example, spiritual frameworks that become escape hatches *from* complexity rather than (as intended) tools *for* navigating it, have entered Attractor Dogmatism.
 
@@ -91,17 +91,6 @@ John possesses extensive knowledge about strategic land management, sustainable 
 
 The organization is rigidly committed to finding a cure through Ellie's immunity. So much so, they can't even consider alternative approaches to rebuilding civilization. Their original goal was saving humanity, but they got themselves locked into one inflexible path that might not even be optimal for achieving it. The Fireflies systematically ignore information about community-building, sustainable settlements, and other forms of human flourishing that don't fit with their narrow medical paradigm.
 
----
-
-**<big>Refractions</big>**
-
-- **[Rigidity Pathologies](/pathologies/rigidity/)**  
-  <small>When over-constraint prevents healthy adaptation</small>
-- **[Belief Calcification](/pathologies/rigidity/belief-calcification/)**  
-  <small>Systems that become unresponsive to feedback</small>
-- **[Metric Crystallization](/pathologies/rigidity/metric-crystallization/)**  
-  <small>When the geometry of meaning becomes frozen</small>
-- **[Attractor](/explanations/a/attractor/)**  
-  <small>Stable configurations toward which systems tend</small>
+<small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Attractor Dogmatism</small>
 
 ---

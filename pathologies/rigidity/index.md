@@ -8,7 +8,7 @@ created_date: 2025-06-20
 updated_date: 2025-06-22
 ---
 
-[Home](/) / [Pathologies](/pathologies/) / Rigidity Pathologies
+<small>[Home](/) / [Pathologies](/pathologies/) / Rigidity Pathologies</small>
 
 --- 
 
@@ -16,7 +16,7 @@ Rigidity, naturally, is a matter of **over-stabilization**. In these modes, syst
 
 These systems often *feel* strong and coherent from the inside. They maintain internal consistency, resist external pressure, and seem unshakeable in their conviction. But apparent strength always masks structural brittleness: like an ancient tree, it snaps in the first strong wind instead of bending with it.
 
-## The Regulatory Breakdown
+## Regulatory Breakdown
 
 Healthy systems maintain a delicate dance between stability and change, keeping both rooted and ready to move. All three Rigidity Pathologies share a breakdown in one or more adaptive capacity:
 
@@ -26,7 +26,7 @@ Healthy systems maintain a delicate dance between stability and change, keeping 
 
 When Humility or Wisdom (or both) fail, constraint systems get locked in patterns that serve the past with a mounting inability to metabolize the complexity of the present. The end result is a system maintaining its form at the expense of its function. Collapse in these modes can be a noteworthy event.
 
-## The Rigidity Pathologies
+## Rigidity Pathologies
 
 ### [Attractor Dogmatism](/pathologies/rigidity/attractor-dogmatism/)
 
@@ -49,18 +49,6 @@ The pathways for meaning transformation become structurally unavailable, even as
 **Signature:** $\frac{\partial g_{ij}}{\partial t} \to 0$ while $R_{ij} \neq 0$
 **Examples:** addictive habits, dysfunctional relationship patterns, outdated bureaucracy, corporate legacy systems
 
-
----
-
-**<big>Refractions</big>**
-
-- **[Attractor Dogmatism](/pathologies/rigidity/attractor-dogmatism/)**  
-  <small>When meaning becomes too stable to adapt</small>
-- **[Belief Calcification](/pathologies/rigidity/belief-calcification/)**  
-  <small>When understanding cannot bridge to action</small>
-- **[Metric Crystallization](/pathologies/rigidity/metric-crystallization/)**  
-  <small>When transformation pathways become fossilized</small>
-- **[Pathologies](/pathologies/)**  
-  <small>Navigate the geometric failure modes of meaning</small>
+<small>[Home](/) / [Pathologies](/pathologies/) / Rigidity Pathologies</small>
 
 ---
