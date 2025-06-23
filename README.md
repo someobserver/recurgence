@@ -23,7 +23,7 @@ Every dynamic system persists only through **recursive self-reference**—succes
 
 - **DNA** $\rightarrow$ remembers itself by copying and adapting its own code
 - **Immune Systems** $\rightarrow$ process pathogen data by updating their own recognition patterns
-- **Consciousness** $\rightarrow$ emerges when your mind recognizes its own information processing
+- **Consciousness** $\rightarrow$ emerges when your mind recognizes its own pattern recognition
 - **Languages** $\rightarrow$ process meaning by updating their rules as they're recursively used
 - **Markets** $\rightarrow$ calculate value by adjusting their own pricing mechanisms
 - **Cities** $\rightarrow$ grow by analyzing their own patterns and attracting what makes them attractive
