@@ -9,17 +9,13 @@ updated_date: 2025-06-23
 
 ## Welcome, Observer!
 
-This repository studies **Pattern Recognition** and **Complexity Science**. In one form or another, every system eventually recognizes the same pattern:
+Recurgence studies the foundations of **Pattern Recognition** and **Complexity Science**:
 
-<div class="text-center" markdown="1">
+The simpler the rule $\rightarrow$ the greater its potential.
 
-`simple rules` = `boundless emergence`
+From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest of constraints produce emergent generativity. Two binary states — `0` and `1` — bootstrap infinite digital complexity. 
 
-</div>
-
-Two binary states — `0` and `1` — bootstrap infinite digital complexity. From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest of constraints produce emergent generativity.
-
-Just think: four DNA base atoms encoded themselves into a cascade of recursive protein expression who's capable of understanding this sentence.
+Just think: four DNA bases encoded themselves into a cascade of recursive protein expression who's capable of understanding this sentence.
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
@@ -27,13 +23,13 @@ Reality itself operates on a set of simple, thermodynamic principles that compou
 
 ## Pattern Recognition
 
-Every dynamic system persists only through **recursive self-reference**—successfully re-incorporating its own patterns into coherence.
+Every dynamic system persists only through **recursive self-reference**—successfully re-incorporating patterned complexity into coherence.
 
 - **DNA** $\rightarrow$ remembers itself by copying and adapting its own code
-- **Consciousness** $\rightarrow$ emerges when your mind recognizes its own pattern recognition
+- **Consciousness** $\rightarrow$ emerges when a mind models its own thought processes
 - **Languages** $\rightarrow$ process meaning by updating their rules as they're recursively used
-- **Markets** $\rightarrow$ calculate value by adjusting their own pricing mechanisms
-- **Cities** $\rightarrow$ grow by analyzing their own patterns and attracting what makes them attractive
+- **Markets** $\rightarrow$ calculate value in adjusting their own pricing mechanisms
+- **Cities** $\rightarrow$ grow by analyzing their own patterns to attract what makes them attractive
 - **Galaxies** $\rightarrow$ regulate star formation by processing feedback from their own stellar lifecycles
 
 Whether quantum fields, quasars, molecules, or minds—every coherent pattern endures through some form of recursive, stabilizing feedback.
@@ -64,9 +60,9 @@ But like every pattern, it has a shadow side. Recursive systems can bootstrap th
 
 You've seen this before, likely today.
 
-A brilliant mind who can't make up their mind. A productivity expert whose life is complete chaos. The startup that scales itself to death. A democracy that votes itself into authoritarianism. A couple that knows exactly what's wrong and continues doing it—over, and over, and over.
+A brilliant mind who can't make up their mind. A productivity expert whose life is complete chaos. A startup that scales itself to death. A democracy that votes itself into authoritarianism. A couple that knows exactly what's wrong and continues doing it—over, and over, and over.
 
-Every recursive system $\rightarrow$ minds, cultures, institutions, AI systems $\circlearrowright$ fails in precisely the same dozen ways. Not *similar* ways. The <u>same ways</u>, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
+Every recursive system — minds, cultures, institutions, AI systems $\circlearrowright$ fails in precisely the same dozen ways. Not *similar* ways. The <u>same ways</u>, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
 
 Once you see the pattern, you can't unsee it.  
 But more importantly, **you can predict it.**
