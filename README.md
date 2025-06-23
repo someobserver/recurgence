@@ -13,9 +13,9 @@ Recurgence studies the foundations of **Pattern Recognition** and **Complexity S
 
 The simpler the rule $\rightarrow$ the greater its potential.
 
-From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest of constraints produce emergent generativity. Two binary states — `0` and `1` — bootstrap infinite digital complexity. 
+From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest of constraints produce emergent generativity. Two binary states — `0` & `1` — bootstrap infinite digital complexity. 
 
-Just think: four DNA bases encoded themselves into a cascade of recursive protein expression who's capable of understanding this sentence.
+Just think, two DNA pairs: `A-T` & `C-G` encoded themselves into a cascade of recursive protein expression who's capable of understanding this sentence.
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
