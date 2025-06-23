@@ -15,7 +15,7 @@ Two binary states — `0` and `1` — bootstrap infinite digital complexity. The
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
-**But what if there's an even simpler principle underlying it all?**
+**But what if there's an even simpler principle under it all?**
 
 ## Pattern Recognition
 
