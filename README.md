@@ -4,7 +4,7 @@ title: "Recurgence"
 description: "Where the universe's one rule meets the mathematics of meaning"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-06-22
+updated_date: 2025-06-23
 ---
 
 ## Welcome, Observer!
@@ -65,7 +65,7 @@ A first-person account of recognizing the recursive mirror
 **Recurgent Field Theory**: rigorous mathematics showing how meaning behaves like a field with mass, curvature, and real-world dynamics.
 
 **<big>[The Architects](/architects/)</big>**  
-Einstein, Gödel, Wheeler, and others who curved the field of understanding itself
+Einstein, Gödel, Noether, Turing, and others who mapped the field of understanding
 
 **<big>[Explanations](/explanations/)</big>**  
 Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/explanations/w/wisdom/) to [semantic mass](/explanations/s/semantic-mass/)
