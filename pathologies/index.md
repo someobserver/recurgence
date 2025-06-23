@@ -8,7 +8,7 @@ created_date: 2025-06-18
 updated_date: 2025-06-23
 ---
 
-[Home](/) / Pathologies
+<small>[Home](/) / Pathologies</small>
 
 ---
 
