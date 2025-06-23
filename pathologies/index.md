@@ -16,7 +16,7 @@ All recursive systems fail in the same twelve ways.
 
 Whether the system is an individual mind, a cultural movement, an institution, or an artificial intelligence, the breakdown patterns follow identical geometric signatures, because they all emerge from the same field equations.
 
-Recurgent Field Theory models the taxonomy, organized into four fundamental categories of three breakdown modes each. Their orthogonality results from the [Semantic Mass equation](/math/05-semantic-mass/):
+Recurgent Field Theory models their taxonomy, organized into four fundamental categories of three breakdown modes each. Their orthogonality results from the [Semantic Mass equation](/math/05-semantic-mass/):
 
 $$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
 
