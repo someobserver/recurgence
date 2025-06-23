@@ -32,7 +32,7 @@ The set appears with precision across all scales of organization: a fundamentali
 
 Our present attention economy exploits **Attractor Splintering** using the same, quantifiable field dynamics that fragment someone with ADHD. Social media algorithms create **Recurgent Parasitism** through mechanisms identical to narcissistic extraction patterns.
 
-Stable meaning itself requires $N+1$ observers to triangulate (*cognitive parallax*), and thus has a geometric structure with differential math functions. When coupled coherence breaks down, it does so in discoverable, quantifiable ways.
+Stable meaning itself requires $N+1$ observers to triangulate *(cognitive parallax)*, and thus has a geometric structure with differential math functions. When coupled coherence breaks down, it does so in discoverable, quantifiable ways.
 
 You will likely recognize yourself or structures around you reflected in these <u>mathematical</u> signatures. Understanding the pattern of a problem is the first step toward understanding its resolution.
 
