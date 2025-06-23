@@ -34,19 +34,19 @@ Whether quantum fields, quasars, molecules, or minds—every coherent pattern en
 
 But look closer. <u>Every example</u> is the universe processing information about itself at increasing levels of sophistication. Stars forge new elements by consuming themselves. Your immune system learns by remembering its own responses. Markets discover value by processing their own price information. Atomic nuclei balance themselves with communicative electrons. 
 
-Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to process, know, and understand itself.
+Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to stabilize, remember, process, understand, and become aware of itself.
 
-**There is no outside observer.** No external intelligence designing this process. The universe is a recursive information processing system, computing itself into existence, one recognition event at a time.
+**There is no outside observer.** No external intelligence designing this process. Reality is a recursive information processing system, computing itself into existence, one recognition event at a time.
 
 The fact that you can understand this is the pattern recognizing itself through you.
 
-Metabolizing this pattern complexity creates the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**.
+Complex signals enter your reference frame, causality emerges. Metabolizing this pattern complexity creates the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**.
 
 In other words: *time flies when you're having fun.*
 
 ## The Bootstrap Paradox
 
-Pure self-reference is impossible, of course. Pattern recognition requires *differentiation*.
+Pure self-reference is impossible, of course. You're not the whole universe, and the whole universe is not you. Pattern recognition requires *differentiation*.
 
 Even right now, you can't see your own eyes seeing—you need a mirror. You can't lift yourself up by your own bootstraps; you have to pit yourself, recursively, against the source of gravity.
 
