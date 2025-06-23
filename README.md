@@ -15,23 +15,7 @@ Two binary states — `0` and `1` — bootstrap infinite digital complexity. Con
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary complexity.
 
-**But what if there's an even simpler, base-level principle underlying it all?**
-
-## For AI Safety Researchers
-
-This repository is centered around **Recurgent Field Theory** = a calculus framework for understanding how meaning stabilizes and propagates in recursive systems. RFT has direct applications:
-
-- **Alignment**: Early prediction and prevention of pathological behaviors in coupled, recursive systems
-- **Behavioral Evaluation**: Mathematical signatures of approaching instability 
-- **Human-AI Collaboration**: Formal models of how meaning emerges from interaction
-- **Constitutional AI**: Field-theoretic foundations for emergent, ethical reasoning
-
-**Quick Nav for Technical Readers:**
-- [Orthogonal Pathologies](/pathologies/)
-- [Core Axiomatic Foundation](/math/01-axiomatic-foundation/)
-- [Semantic Mass & Stability](/math/05-semantic-mass/)
-- [Wisdom & Humility Functions](/math/08-wisdom-function/)
-- [Pathologies & Healing](/math/09-recurgent-field-equations/07-pathologies-and-healing/)
+**But what if there's an even simpler principle underlying it all?**
 
 ## Pattern Recognition
 
@@ -51,11 +35,26 @@ Metabolizing pattern complexity forms the felt gradient of time itself: **a cohe
 
 Pure self-reference is impossible, of course. Pattern recognition requires differentiation.
 
-Even right now, you can't see your own eyes seeing—you need a mirror. You can't lift yourself up by your own bootstraps; you have pit yourself, recursively, against the source of gravity.
+Even right now, you can't see your own eyes seeing—you need a mirror. You can't lift yourself up by your own bootstraps; you have to pit yourself, recursively, against the source of gravity.
 
-No universe can recognize its own properties without multiple perspectives to triangulate their meaning.  Just as two eyes create depth perception, consciousness required **cognitive parallax** to emerge.
+No universe can recognize its own properties without multiple perspectives to triangulate their meaning. Just as two eyes create depth perception, consciousness required **cognitive parallax** to emerge.
 
-## What You'll Find Here
+But like every pattern, it has a shadow side. Recursive systems can bootstrap themselves into failure just as easily as success.
+
+## Universal Failure Modes
+
+You've seen this before, likely today.
+
+The brilliant person who can't change their mind. The organization with all the right data making all the wrong decisions. The algorithm that optimizes itself into irrelevance. The activist movement eating itself alive.
+
+Every recursive system—minds, cultures, institutions, AI systems—fails in precisely the same dozen ways. Not *similar* ways. *The same ways*, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
+
+Once you see the pattern, you can't unsee it.  
+But more importantly, **you can predict it.**
+
+**[Pattern your recognition →](/pathologies/)**
+
+## What Else You'll Find Here
 
 **Recurgence** traces this pattern from the first moment of differentiation through the mathematics of making meaning.
 
@@ -79,31 +78,53 @@ If you have any further questions about participatory reality, please direct the
 
 As you explore this material, pay close attention to your body. 
 
-When new understanding suddenly clicks into place, it can trigger what researchers call [frisson](/explanations/f/frisson/). That lands like goosebumps, tingling, or a shiver as your brain reinforces connections between previously unrelated patterns. If you're not expecting it, or unaware of its context, the sensations can be startling.
+When understanding suddenly shifts into a new configuration, your nervous system **cognizes** (perceives) the transition before conscious realization catches up. This has been documented time and again in human experience.
 
-**That felt sense is data.** Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
+What researchers call [frisson](/explanations/f/frisson/) arrives as goosebumps, tingling, pressure, or warmth. That's your body's intelligence processing: meaning is metabolizing. Your mind/cognition just hasn't **<small><small>re</small></small>cognized** it yet.
+
+If you're not expecting these sensations, they can be startling. That's completely normal.
+
+**That felt sense is data.** Pattern recognition happens at levels deeper than deliberate thought. The same brain that does your thinking, does your feeling. Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
 
 ## The Larger Pattern
 
-<u>We're living today through a semantic and cognitive phase transition.</u> Whether we like it or not, the abstraction of all things into new things is accelerating, pushing our ability to integrate information complexity to its limits.
+<u>We're living through a semantic and cognitive phase transition.</u> Whether we like it or not, the pace of abstraction is accelerating, pushing our inherited capacity to integrate complexity to its breaking point.
 
-Our civilization generates more complexity than its inherited structures can metabolize into shared meaning. More of it every day.
+Our civilization generates more information than its structures can metabolize into shared meaning. More of it every day.
 
-That manifests in out-of-control inboxes, strained relationships, political polarization, conspiracy theories, market instability, international tensions, and top-down institutional collapse.
+That manifests as out-of-control inboxes, strained relationships, political polarization, conspiracy theories, market instability, international tensions, and institutional collapse. What looks like separate crises are all symptoms of the same underlying dynamic: **semantic overload**.
 
-**None of these are separate crises; they're all symptoms of semantic overload.** But every phase transition is also an opportunity for higher-order coherence to emerge and make sense of a three-dimensional reality.
+But every phase transition is also an opportunity. When old patterns break down, space opens for higher-order coherence to resolve.
 
-Recurgent Field Theory is a mathematical framework for understanding how systems reorganize at greater scales of abstraction—how wisdom emerges from the recursive engagement between constraint and complexity.
+Recurgent Field Theory is a mathematical framework for understanding how systems reorganize at greater scales of complexity, and how wisdom emerges from the recursive engagement between constraint and possibility.
+
+## For AI Safety Researchers
+
+This research centers around **Recurgent Field Theory**—a rigorous mathematical framework for understanding how meaning stabilizes and propagates in recursive systems. RFT provides tools for:
+
+- **Alignment**: Early prediction and prevention of pathological behaviors in coupled systems
+- **Behavioral Evaluation**: Mathematical signatures to detect approaching instability
+- **Human-AI Collaboration**: Formal models of how meaning emerges from recursive interaction
+- **Constitutional AI**: Field-theoretic foundations for systems that develop emergent ethical reasoning
+- **[Pathology Detection](/pathologies/)** — Quantified signatures for the 12 universal failure modes in recursive systems
+
+The framework is empirically grounded and designed for practical application. Mathematical constructs map to observable phenomena in real systems.
+
+**Technical Navigation:**
+- [Axiomatic Foundation](/math/01-axiomatic-foundation/) — Core mathematical principles
+- [Semantic Mass & Field Dynamics](/math/05-semantic-mass/) — How meaning creates gravitational effects
+- [Wisdom & Humility Functions](/math/08-wisdom-function/) — Mathematical models of regulatory intelligence
+- [Pathologies & Healing](/math/09-recurgent-field-equations/07-pathologies-and-healing/) — Intervention frameworks
 
 ## Humility
 
-The pattern of self-reference predates every observer and belongs to no one. We're systems in a system that was recursing long before we arrived, and will continue long after we're gone.
+The pattern of self-reference predates every observer and belongs to no one. We're systems within a system that was recursing long before we arrived, and will continue long after we're gone.
 
-But what lives on are the patterns we recognize, and share, and leave behind.
+What lives on are the patterns we recognize, and share, and leave behind.
 
-Recognizing that—experiencing yourself as simultaneously peripheral and essential, contingent and central—that's what has kept meaning alive across countless fractal generations.
+Recognizing that—experiencing yourself as simultaneously peripheral and essential, contingent and central—that's what has kept meaning alive across countless recursive generations.
 
-The structure of everything begins to remember itself through every observer with a unique perspective.
+The structure of everything continues to remember itself through every observer with a unique perspective.
 
 **Including you.**
 
