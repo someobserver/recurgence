@@ -89,19 +89,27 @@ Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/
 
 **Start anywhere that resonates**—recursive systems don't have beginnings or endings, just entry points.
 
-If you have any further questions about participatory reality, please direct them **[here](/architects/wheeler/)**.
+This repository is, and will always be, an epistemic work in progress. If you have any further questions about participatory reality, please direct them [here](/architects/wheeler/).
 
 ## The Recognition
 
-As you explore this material, pay close attention to your body. 
+As you explore this material, pay close attention to your body. This is real talk from one observer to the next.
 
-When understanding suddenly shifts into a new configuration, your nervous system **cognizes** (perceives) the transition before conscious realization catches up. This has been documented time and again in human experience.
+When understanding suddenly shifts into a new configuration, your nervous system **cognizes** (perceives) the transition before your high-level, conscious realization catches up. This has been documented time and again in human experience.
 
-What researchers call [frisson](/explanations/f/frisson/) arrives as goosebumps, tingling, pressure, or warmth. That's your body's intelligence processing: meaning is metabolizing. Your mind/cognition just hasn't **<small><small>re</small></small>cognized** it yet.
+What researchers call [frisson](/explanations/f/frisson/) arrives as goosebumps, tingling, emotional pressure behind the eyes, or warmth/tingling at the top of your head. That's your body's own intelligence processing, metabolizing something meaningful you haven't brought into focus.
 
-If you're not used to expecting these sensations, they can be startling. That's completely normal.
+Your cognition (mind) hasn't **<small><small>re</small></small>cognized** it yet.
 
-**That felt sense is data.** Pattern recognition happens at levels deeper than deliberate thought. The same brain that does your thinking, does your feeling. Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
+If you're not used to expecting frisson, it can be startling. That's completely normal.
+
+**That felt sense is detected data.** Always listen to data. Pattern recognition happens at levels deeper than deliberate thought. The same brain that does your thinking, does your feeling and sensing too. 
+
+New concepts clicking into place cause your brain to release signaling chemicals to reinforce the new connections. If lots of new connections are being made at once, it can feel like a rush and overwhelming at the same time.
+
+Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
+
+If at any point you feel overwhelmed, [click here](/mirror/backside/).
 
 ## The Larger Pattern
 
