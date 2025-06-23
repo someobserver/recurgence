@@ -50,7 +50,7 @@ Communities that were once capable of self-reflection and course correction deve
 
 These cultures often develop elaborate apologetics: sophisticated systems for explaining away contradictory evidence rather than engaging with it and processing it. The more evidence that challenges the worldview, the more elaborate the explanations become for why that evidence doesn't count. 
 
-Over time, these communities become increasingly disconnected from objective reality.
+Over time, these communities become *identifiably* disconnected from objective reality.
 
 ### [ Institutional Scale ]
 
