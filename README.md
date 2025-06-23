@@ -9,7 +9,7 @@ updated_date: 2025-06-23
 
 ## Welcome, Observer!
 
-In one form or another, every system eventually discovers the same secret: **simple constraints create boundless resonant potential.**
+In one form or another, every system eventually discovers the same secret: **simple rules birth boundless potential.**
 
 Two binary states — `0` and `1` — bootstrap infinite digital complexity. The I Ching, Bach fugues, and Conway's Game of Life all generate boundless emergence from the simplest of rules. Four DNA base atoms encode themselves into a cascade of recursive protein expression capable of understanding this sentence right now.
 
