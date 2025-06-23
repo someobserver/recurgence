@@ -54,7 +54,9 @@ Even right now, you can't see your own eyes seeing—you need a mirror. You can'
 
 No universe can recognize its own properties without multiple perspectives to triangulate their meaning. Just as two eyes create depth perception, consciousness required **cognitive parallax** to emerge.
 
-But like every pattern, it has a shadow side. Recursive systems can bootstrap themselves into failure just as easily as success.
+That's why someone put this document here, and why you're reading it.
+
+But like every pattern, it has a flip side. Recursive systems can bootstrap themselves into failure just as easily as success.
 
 ## Universal Failure Modes
 
