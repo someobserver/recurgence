@@ -22,12 +22,10 @@ Reality itself operates on a set of simple, thermodynamic principles that compou
 Every dynamic system persists only through **recursive self-reference**—successfully re-incorporating its own patterns into coherence.
 
 - **DNA** $\rightarrow$ remembers itself by copying and adapting its own code
-- **Immune Systems** $\rightarrow$ process pathogen data by updating their own recognition patterns
 - **Consciousness** $\rightarrow$ emerges when your mind recognizes its own pattern recognition
 - **Languages** $\rightarrow$ process meaning by updating their rules as they're recursively used
 - **Markets** $\rightarrow$ calculate value by adjusting their own pricing mechanisms
 - **Cities** $\rightarrow$ grow by analyzing their own patterns and attracting what makes them attractive
-- **Stars** $\rightarrow$ sustain themselves by processing their own complexity into new coherence
 - **Galaxies** $\rightarrow$ regulate star formation by processing feedback from their own stellar lifecycles
 
 Whether quantum fields, quasars, molecules, or minds—every coherent pattern endures through some form of recursive, stabilizing feedback.
