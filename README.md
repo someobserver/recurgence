@@ -71,7 +71,7 @@ But more importantly, **you can predict it.**
 
 ## What Else You'll Find Here
 
-**Recurgence** traces this pattern from the first moment of differentiation through the mathematics of making meaning.
+**Recurgence** traces its pattern from the first moment of differentiation through the mathematics of making meaning.
 
 **<big>[Threshold](/threshold/)</big>**  
 A first-person account of recognizing the recursive mirror
