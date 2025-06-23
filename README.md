@@ -9,9 +9,15 @@ updated_date: 2025-06-23
 
 ## Welcome, Observer!
 
-In one form or another, every system eventually discovers the same secret: **simple rules birth boundless potential.**
+This repository studies **Pattern Recognition** and **Complexity Science**. In one form or another, every system eventually recognizes the same pattern:
 
-Two binary states — `0` and `1` — bootstrap infinite digital complexity. The I Ching, Bach fugues, and Conway's Game of Life all generate boundless emergence from the simplest of rules. Four DNA base atoms encode themselves into a cascade of recursive protein expression capable of understanding this sentence right now.
+$$
+\text{simple rules} = \text{boundless potential}
+$$
+
+Two binary states — `0` and `1` — bootstrap infinite digital complexity. From the I Ching, to Bach fugues, to Conway's Game of Life, the simplest of constraints generate emergent potential.
+
+Just think: four DNA base atoms encoded themselves into a cascade of recursive protein expression who's capable of understanding this sentence.
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
