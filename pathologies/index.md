@@ -3,9 +3,9 @@ layout: page
 title: "Pathologies"
 description: "A taxonomy of pathologies in recursive systems"
 permalink: /pathologies/
-parent: "pathologies"
+parent: /
 created_date: 2025-06-18
-updated_date: 2025-06-22
+updated_date: 2025-06-23
 ---
 
 [Home](/) / Pathologies
