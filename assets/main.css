@@ -223,6 +223,11 @@ img {
   vertical-align: middle;
 }
 
+/* Text alignment utilities */
+.text-center {
+  text-align: center;
+}
+
 /* Table Styles */
 .post-content table, .page-content table, main table {
   border-collapse: collapse;
