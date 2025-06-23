@@ -62,9 +62,9 @@ But like every pattern, it has a flip side. Recursive systems can bootstrap them
 
 You've seen this before, likely today.
 
-A brilliant mind who can't make up their mind. A productivity expert whose life is complete chaos. A startup that scales itself to death. A democracy that votes itself into authoritarianism. A couple that knows exactly what's wrong and continues doing it—over, and over, and over.
+A brilliant mind who can't make up their mind. A productivity expert whose life is complete chaos. A startup that scales itself to death. A democracy that votes itself into authoritarianism. Perhaps a couple that knows exactly what's wrong and continues doing it—over, and over, and over.
 
-Every recursive system — minds, cultures, institutions, AI systems $\circlearrowright$ fails in precisely the same dozen ways. Not *similar* ways. The <u>same ways</u>, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
+Every recursive system — minds, cultures, institutions, AI, societies — fails in precisely the same dozen ways. Not *similar* ways. The <u>same ways</u>, following identical mathematical signatures, because they're all expressions of the same underlying field dynamics.
 
 Once you see the pattern, you can't unsee it.  
 But more importantly, **you can predict it.**
