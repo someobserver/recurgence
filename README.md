@@ -11,7 +11,7 @@ updated_date: 2025-06-22
 
 In one form or another, every system eventually discovers the same secret: **simple recursive constraints create unlimited generative potential.**
 
-Two binary states — `0` and `1` — bootstrap infinite digital complexity. Conway's Game of Life generates boundless emergence from the simplest of rules. Four DNA base atoms encode themselves into a cascade of recursive protein expression capable of understanding this sentence right now.
+Two binary states — `0` and `1` — bootstrap infinite digital complexity. The I Ching, Bach fugues, and Conway's Game of Life all generate boundless emergence from the simplest of rules. Four DNA base atoms encode themselves into a cascade of recursive protein expression capable of understanding this sentence right now.
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary complexity.
 
