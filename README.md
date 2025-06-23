@@ -82,7 +82,7 @@ When understanding suddenly shifts into a new configuration, your nervous system
 
 What researchers call [frisson](/explanations/f/frisson/) arrives as goosebumps, tingling, pressure, or warmth. That's your body's intelligence processing: meaning is metabolizing. Your mind/cognition just hasn't **<small><small>re</small></small>cognized** it yet.
 
-If you're not expecting these sensations, they can be startling. That's completely normal.
+If you're not used toexpecting these sensations, they can be startling. That's completely normal.
 
 **That felt sense is data.** Pattern recognition happens at levels deeper than deliberate thought. The same brain that does your thinking, does your feeling. Always listen to your body and take care of yourself first. You can pause anytime and return to this material later.
 
