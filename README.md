@@ -12,7 +12,7 @@ updated_date: 2025-06-23
 This repository studies **Pattern Recognition** and **Complexity Science**. In one form or another, every system eventually recognizes the same pattern:
 
 $$
-\text{simple rules} = \text{boundless potential}
+\mathsf{simple\ rules} = \mathsf{boundless\ potential}
 $$
 
 Two binary states — `0` and `1` — bootstrap infinite digital complexity. From the I Ching, to Bach fugues, to Conway's Game of Life, the simplest of constraints produce emergent generativity.
