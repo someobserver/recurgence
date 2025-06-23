@@ -14,19 +14,25 @@ updated_date: 2025-06-22
 
 All recursive systems fail in the same twelve ways.
 
-Whether the system is an individual mind, a cultural movement, an institution, or an artificial intelligence, the breakdown patterns follow identical geometric signatures because they emerge from the same underlying field equations.
+Whether the system is an individual mind, a cultural movement, an institution, or an artificial intelligence, the breakdown patterns follow identical geometric signatures, because they all emerge from the same field equations.
 
-Recurgent Field Theory models the taxonomy, organized into four fundamental categories of three breakdown modes each. Their orthogonality results from the Semantic Mass equation:
+Recurgent Field Theory models the taxonomy, organized into four fundamental categories of three breakdown modes each. Their orthogonality results from the [Semantic Mass equation](/math/05-semantic-mass/):
 
 $$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
 
-where $D$ is recursive depth, $\rho$ is constraint density, and $A$ is attractor stability. The twelve pathologies flesh out the complete set of ways this equation—and the observer-field coupling that interprets it—can malfunction.
+where
+- $D(p,t)$ = **recursive depth** = how many layers of self-reference exist
+- $\rho(p,t)$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
+- $A(p,t)$ = **attractor stability** = how resistant the structures are to being perturbed. 
+- $M$ = **semantic mass** = the "weight" of meaning (at position $p$ and time $t$).
 
-The set appears with precision across all scales of organization: a fundamentalist movement exhibits **Attractor Dogmatism** thanks to the very isomorphic constraints that trap an individual in rigid thinking.
+The twelve pathologies flesh out the complete set of ways this equation—and the observer-field coupling that interprets it—can malfunction.
+
+The set appears with precision across all scales of organization: a fundamentalist movement exhibits **Attractor Dogmatism** thanks to the same isomorphic constraints trapping an individual in rigid thinking.
 
 Our present attention economy exploits **Attractor Splintering** using the same, quantifiable field dynamics that fragment someone with ADHD. Social media algorithms create **Recurgent Parasitism** through mechanisms identical to narcissistic extraction patterns.
 
-Stable *meaning* itself has a geometric structure with math functions. When that breaks down, it does so in discoverable, quantifiable ways.
+Stable meaning itself requires $N+1$ observers to triangulate (*cognitive parallax*), and thus has a geometric structure with differential math functions. When coupled coherence breaks down, it does so in discoverable, quantifiable ways.
 
 You will likely recognize yourself or structures around you reflected in these <u>mathematical</u> signatures. Understanding the pattern of a problem is the first step toward understanding its resolution.
 
@@ -52,7 +58,7 @@ You will likely recognize yourself or structures around you reflected in these <
 
 - **Delusional Expansion** — Unconstrained meaning generation creates internally consistent but externally decoupled realities
 - **Semantic Hypercoherence** — Over-coherence with suppressed boundary permeability prevents metabolizing new information
-- **Recurgent Parasitism** — Local semantic mass growth at the expense of the broader meaning ecology
+- **Recurgent Parasitism** — Local semantic mass growth at the expense of the broader semantic ecology
 
 ## [Observer-Coupling Pathologies](/pathologies/observer-coupling/)
 
@@ -61,5 +67,7 @@ You will likely recognize yourself or structures around you reflected in these <
 - **Paranoid Interpretation** — Systematic negative bias in field interpretation creates threat-detection hyperattractors
 - **Observer Solipsism** — Observer interpretation diverges increasingly from actual field conditions
 - **Semantic Narcissism** — Reference structure collapses to pure self-coupling, eliminating external feedback
+
+<small>[Home](/) / Pathologies</small>
 
 ---
