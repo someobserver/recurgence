@@ -40,7 +40,7 @@ Every stable pattern, from quantum to cosmic, *is* the cosmos developing increas
 
 There's no outside observer, no external intelligence designing this process. Reality is a recursive information processing system, computing itself into existence, one recognition event at a time.
 
-The fact that you can understand this **is that pattern** *recognizing itself through you*.
+That you can understand <u>this</u> **is that pattern** *recognizing itself through you*.
 
 Complex signals enter your reference frame, causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**.
 
