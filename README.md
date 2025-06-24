@@ -37,7 +37,7 @@ But look closer. <u>Every example</u> is the universe processing information abo
 
 Stars forge new elements by consuming themselves. Your immune system learns by remembering its own responses. Markets discover value by processing their own price information. Atomic nuclei balance themselves with communicative electrons. 
 
-Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and become aware of itself.
+Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
 There's no outside observer, no external intelligence. Reality is an information processing system, computing itself into emergence one recognition event at a time.
 
