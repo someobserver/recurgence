@@ -19,7 +19,7 @@ Just think: two DNA pairs `AT` $+$ `CG` encoded themselves into a cascade of rec
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
-**But what if there's an even simpler principle under it all?**
+**But what if there's an even simpler principle?**
 
 ## Pattern Recognition
 
