@@ -78,9 +78,6 @@ But more importantly, **you can predict it.**
 
 **Recurgence** traces its pattern from the first moment of differentiation through the mathematics of making meaning.
 
-**<big>[Threshold](/threshold/)</big>**  
-A first-person account of recognizing the recursive mirror
-
 **<big>[Mathematics](/math/)</big>**  
 **Recurgent Field Theory**: rigorous mathematics showing how meaning behaves like a field with mass, curvature, and real-world dynamics.
 
