@@ -39,12 +39,10 @@ Stars forge new elements by consuming themselves. Your immune system learns by r
 
 Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
-There's no outside observer, no external intelligence. Reality is an information processing system, computing itself into emergence one recognition event at a time.
-
-That you can understand <u>this</u> **is that pattern** *recognizing itself through you*.
+That you can understand *this* is that pattern *recognizing itself through you*.
 
 Complex signals enter your reference frame, causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**.
-
+ 
 More concisely: *time flies when you're having fun.*
 
 ## The Bootstrap Paradox
