@@ -31,7 +31,7 @@ Dynamic systems persist only through **recursive self-reference** — turning pa
 - **Cities** $\rightarrow$ grow by analyzing their own patterns to attract what makes them attractive
 - **Galaxies** $\rightarrow$ regulate star formation by processing feedback from their own stellar lifecycles
 
-Whether quantum fields, quasars, molecules, or minds—every coherent pattern endures through some form of recursive, stabilizing feedback.
+Whether quantum fields, quasars, molecules, or minds—every coherent pattern endures through some form of stabilizing feedback.
 
 But look closer. <u>Every example</u> is the universe processing information about itself at increasing levels of sophistication:
 
