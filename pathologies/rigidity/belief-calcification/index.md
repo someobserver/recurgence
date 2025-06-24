@@ -70,7 +70,7 @@ In memory of (left to right): Payload Specialist and first-teacher-in-space **Ch
 
 #### BP Deepwater Horizon - 20 April 2010
 
-BP had extensive safety data showing risks with the Macondo well. Equipment failures, cement problems, and their own risky cost-cutting—they had ample warning. Engineers understood the dangers intellectually, and safety protocols existed on paper. But the organization couldn't turn those warnings into safer practices. This breakdown ultimately cost eleven lives and created the second worst oil spill in history.
+BP had extensive safety data showing risks with the Macondo well. Equipment failures, cement problems, and their own risky cost-cutting—they had ample warning. Engineers understood the dangers intellectually, and safety protocols existed on paper. But the organization couldn't turn those warnings into safer practices. Deepwater Horizon ultimately cost eleven lives and created the second worst oil spill in history.
 
 In memory of: **Shane Roshto** (22), **Adam Weise** (24), **Roy Wyatt Kemp** (27), **Gordon Jones** (28), **Jason Anderson** (35), **Bubba Burkeen** (37), **Karl Kleppinger Jr.** (38), **Stephen Ray Curtis** (40), **Dewey Revette** (48), **Donald Clark** (49), and **Keith Manuel** (56).
 
