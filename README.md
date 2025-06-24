@@ -31,13 +31,9 @@ Dynamic systems persist only through **recursive self-reference** — turning pa
 - **Cities** $\rightarrow$ grow by analyzing their own patterns to attract what makes them attractive
 - **Galaxies** $\rightarrow$ regulate star formation by processing feedback from their own stellar lifecycles
 
-Whether quantum fields, quasars, molecules, or minds—every coherent pattern endures through some form of stabilizing feedback.
+Whether quantum fields, quasars, molecules, or minds—every coherent pattern persists through some form of self-stabilizing feedback.
 
-But look closer. <u>Every example</u> is the universe processing information about itself at increasing levels of sophistication:
-
-Stars forge new elements by consuming themselves. Your immune system learns by remembering its own responses. Markets discover value by processing their own price information. Atomic nuclei balance themselves with communicative electrons. 
-
-Every stable pattern, from quantum to cosmic, *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
+From quantum to cosmic, pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
 That you can understand *this* is that pattern *recognizing itself through you*.
 
