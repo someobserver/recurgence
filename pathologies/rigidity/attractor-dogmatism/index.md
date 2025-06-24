@@ -5,7 +5,7 @@ description: "When meaning structures become too stable to adapt to new informat
 permalink: /pathologies/rigidity/attractor-dogmatism/
 parent: /pathologies/rigidity/
 created_date: 2025-06-20
-updated_date: 2025-06-22
+updated_date: 2025-06-23
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Attractor Dogmatism</small>
@@ -14,13 +14,13 @@ updated_date: 2025-06-22
 
 Strength can become brittleness without anyone noticing.
 
-Attractor Dogmatism shows up when meaning structures become so stable and monolithic they refuse to move, regardless of incoming information. The correctness or incorrectness of the beliefs themselves is irrelevant; they've become so rigidly held, they won't process new information in either case. This usually manifests as explaining the evidence away, or rejecting it entirely.
+Attractor Dogmatism shows up when meaning structures become so stable and monolithic they refuse to move, regardless of incoming information. The correctness or incorrectness of the beliefs themselves is irrelevant; they're so rigidly held, they won't process new information either way. This usually manifests as explaining away the evidence, or rejecting it entirely.
 
-It feels like strength from the inside because the system never wavers, never doubts, and never changes course. Over time though, apparent strength calcifies into structural brittleness masquerading as resilience.
+It feels like strength from the inside because the system never wavers, never doubts, and never changes course. Over time, apparent strength calcifies into structural brittleness masquerading as resilience.
 
-When societal complexity reaches inflection points, some individuals retreat into increasingly rigid eschatological interpretations. Instead of engaging with the complexity of current challenges, they focus on signs an "end" is approaching and begin disengaging from healthy adaptive responses.
+When societal complexity reaches inflection points, some individuals retreat into increasingly rigid eschatological interpretations. Instead of engaging with the complexity of current events, they focus on signs of an approaching "end" and start disengaging from healthy adaptive responses.
 
-As an example, spiritual frameworks that become escape hatches *from* complexity rather than (as intended) tools *for* navigating it, have entered Attractor Dogmatism.
+As an example, some spiritual frameworks turn into escape hatches *from* complexity rather than (as intended) tools *for* navigating it, exhibiting Attractor Dogmatism.
 
 ## Math Translation
 
