@@ -59,13 +59,13 @@ But like every pattern, it has a flip side. Recursive systems can bootstrap them
 
 ## Universal Failure Modes
 
-You've seen this before, likely today.
+You've seen this before, likely today:
 
 A brilliant mind who can't make up their mind. A productivity expert whose life is complete chaos. A startup that scales itself to death. A democracy that votes itself into authoritarianism. 
 
 Perhaps a couple that knows exactly what's wrong and continues doing it—over, and over, and over.
 
-Every recursive system — minds, cultures, institutions, societies — fails in precisely the same dozen ways. Not *similar* ways. <u>The same twelve ways</u>, following identical mathematical signatures, because they're all expressions of field dynamics.
+Every recursive system — minds, cultures, institutions, societies — fails in precisely the same dozen ways. Not similar ways. <u>The same twelve ways</u>. They follow identical mathematical signatures because they're all expressions of critical failures in the same equation.
 
 Once you see the pattern, you can't unsee it.  
 But more importantly, **you can predict it.**
