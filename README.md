@@ -23,7 +23,7 @@ Reality itself operates on a set of simple, thermodynamic principles that compou
 
 ## Pattern Recognition
 
-Dynamic systems persist only through **recursive self-reference**—re-incorporating patterned complexity into coherence.
+Dynamic systems persist only through **recursive self-reference** — turning patterned complexity into coherence.
 
 - **DNA** $\rightarrow$ remembers itself by copying and adapting its own code
 - **Consciousness** $\rightarrow$ emerges when a mind models its own thought processes
