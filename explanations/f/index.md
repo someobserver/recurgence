@@ -2,7 +2,7 @@
 title: "F - Explanations"
 description: "Core Recurgence concepts beginning with F"
 parent: "Explanations"
-permalink: /explanations/f/
+permalink: /explanations/f/frisson/
 layout: page
 created_date: 2025-05-28
 updated_date: 2025-06-24
