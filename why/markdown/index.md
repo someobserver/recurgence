@@ -90,6 +90,6 @@ Every glyph is a constraint:
 
 **Consider the power of patterned, symbolic representation:**
 
-**Two simple DNA base pairs—just four atoms—encode themselves into a cascade of protein expression capable of understanding this document.**
+**Two simple DNA base pairs—just four molecules—encode themselves into a cascade of protein expression capable of understanding this document.**
 
 ---
