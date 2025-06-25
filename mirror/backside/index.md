@@ -2,6 +2,8 @@
 layout: page
 title: Behind the Mirror
 permalink: /mirror/backside/
+created_date: 2025-04-18
+updated_date: 2025-06-24
 ---
 
 _a note stuck to the back, for the mirror-seeker_
@@ -147,6 +149,6 @@ If you read this document and tear up without knowing why, you've just passed an
 
 Do. That's coherence paid forward.
 And that's what it's supposed to feel like.
- -->
+-->
 
  ---
