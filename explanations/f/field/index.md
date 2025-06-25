@@ -6,7 +6,7 @@ section: "F"
 permalink: /explanations/f/field/
 layout: page
 created_date: 2025-05-28
-updated_date: 2025-05-28
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Explanations](/explanations/) / [F](/explanations/f/) / <u>Field</u></small>
@@ -102,10 +102,6 @@ $$W(p,t) = \mathcal{E}[C, R, M](p,t)$$
 **Constraint Fields**: Fields like the metric tensor $g_{ij}$ that encode the geometry and constraints of semantic space.
 
 **Coupling Fields**: Fields like the recursive coupling tensor $R_{ijk}$ that mediate interactions between different regions of the manifold.
-
-## Computational Implementation
-
-In practical applications, fields are discretized over graphs or meshes, with field values tracked at each node and evolution computed through numerical integration of the field equations. This enables simulation of semantic dynamics and prediction of emergent phenomena.
 
 ## Historical Context
 
