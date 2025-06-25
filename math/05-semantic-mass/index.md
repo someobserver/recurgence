@@ -5,7 +5,7 @@ section_number: 5
 parent: Mathematics
 permalink: /math/05-semantic-mass/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-25
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Mass and Attractor Dynamics</small>
@@ -14,14 +14,14 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section formalizes **semantic mass** as the principal source of curvature in Recurgent Field Theory, shaping the persistence and stability of meaning structures under recursive pressure. The mass distribution $M(p,t)$ arises from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$, grounding the geometry of autopoietic coherence.
+This section formalizes **semantic mass** as the principal source of curvature, shaping the persistence and stability of meaning structures under recursive pressure. The mass distribution $M(p,t)$ arises from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$, grounding the geometry of autopoietic coherence.
 
-Key mathematical structures:
+Mathematical structures:
 1. **Mass-curvature coupling** through the recurged Einstein equation $R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$
 2. **Attractor potential** $\Phi(p,t)$ derived from nonlocal mass distribution
 3. **Recursive force** $F_i = -\nabla_i\Phi$ driving coherence flow
 
-Within this framework, semantic mass mediates between:
+Semantic mass mediates between:
 - Constraint geometry (encoded in $g_{ij}$)
 - Coherence field dynamics (governed by $\mathcal{L}$ in §6)
 - Recursive stress-energy (mediated by $T^{\text{rec}}_{ij}$ from §4)

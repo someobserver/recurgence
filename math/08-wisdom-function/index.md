@@ -5,7 +5,7 @@ section_number: 8
 parent: Mathematics
 permalink: /math/08-wisdom-function/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-25
 ---
 
 <small>[Home](/) / [Math](/math/) / Wisdom Function and Humility Constraint</small>
@@ -14,9 +14,9 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section introduces the **wisdom function** $W(p, t)$ and the **humility constraint** $\mathcal{H}[R]$ as emergent regulatory mechanisms within Recurgent Field Theory (RFT). These constructs address the intrinsic risks of recursive pathologies—such as runaway recursion, rigid attractors, and unbounded regress—by providing formal means to balance generative expansion with adaptive restraint.
+This section introduces the **wisdom function** $W(p, t)$ and the **humility constraint** $\mathcal{H}[R]$ as emergent regulatory mechanisms. These two constructs address the intrinsic risks of recursive pathologies—such as runaway recursion, rigid attractors, and unbounded regress—by providing formal means to balance generative expansion with adaptive restraint.
 
-Key mathematical structures:
+Mathematical structures:
 1. **Wisdom Field** $W(p, t)$ — a high-order emergent functional quantifying forecast-sensitive, depth-regulated recurgent expansion.
 2. **Humility Operator** $\mathcal{H}[R]$ — a damping term penalizing recursive elaboration that exceeds contextually optimal bounds.
 3. **Emergence Functional** — the integral operator defining $W(p, t)$ as a function of coherence, recursive coupling, and semantic mass.
@@ -29,7 +29,7 @@ The following formalizes how wisdom and humility jointly maintain provisional co
 
 ### **8.1 Formal Motivation**
 
-Within RFT, recurgent structures are generative of semantic coherence and fertility. However, the same mechanisms that enable recursive propagation also introduce the potential for **recursive pathologies**, including:
+Recurgent structures are generative of semantic coherence and fertility. However, the same mechanisms that enable recursive propagation also introduce the potential for **recursive pathologies**, including:
 
 - Unbounded regress,
 - Formation of rigid or degenerate attractors,
