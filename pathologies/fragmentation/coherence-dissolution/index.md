@@ -5,7 +5,7 @@ description: "When meaning hemorrhages faster than it can stabilize"
 permalink: /pathologies/fragmentation/coherence-dissolution/
 parent: /pathologies/fragmentation/
 created_date: 2025-06-20
-updated_date: 2025-06-22
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Fragmentation](/pathologies/fragmentation/) / Coherence Dissolution</small>
@@ -30,7 +30,7 @@ This is the mathematical signature of a system in freefall. The very mechanisms 
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 This is information overload crossing the line from feeling overwhelmed $\rightarrow$ into actual cognitive breakdown. Your social media feed, news consumption, work demands, and personal relationships start generating complexity faster than you can process it into coherent understanding. But instead of feeling scattered across multiple foci, you start losing the ability to focus intently on anything at all. Coherence Dissolution is the embodiment of, *"I'm drowning in complexity and don't have the resources to make it comprehensible."*
 
@@ -38,7 +38,7 @@ Analysis paralysis becomes so severe you can't identify what needs to be analyze
 
 Panic attacks can involve temporary CD—a nervous system flooded with more activation than it can process, leading to the dissolution of basic cognitive coherence. Simple tasks feel impossible, familiar environments feel alien, and even the sense of personal continuity can fragment.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 The 24/7 news cycle creates cultural Coherence Dissolution through manufactured crises, controversies, and urgent information flowing faster than communities can process it into stable understanding. Every story breaks with identical alarm, but the volume prevents sustained attention on anything. The result is the active dis**solution** of shared frameworks for making sense—and **solutions**—out of current events.
 
@@ -46,7 +46,7 @@ Social media platforms systematically overwhelm users with more content than the
 
 The pace of technological change often creates cultural Coherence Dissolution when abstract new tools and possibilities emerge faster than social norms can adapt. Everyone knows the old societal structures aren't working anymore, but no stable new ones have had time to coalesce. Yet.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 Organizations undergoing rapid restructuring can enter Coherence Dissolution when institutional knowledge, relationships, and procedures break down faster than they can be replaced. Even at executive levels, the capacity for *anyone* to understand what's happening becomes compromised by the rate of change itself.
 
@@ -56,7 +56,7 @@ Healthcare systems during pandemic surges experience this when patient volume, r
 
 ## Case Studies
 
-### [ Historical Examples ]
+### [ Historical ]
 
 #### Weimar Germany (1919-1933)
 
@@ -70,7 +70,7 @@ The complexity of financial instruments, regulatory frameworks, and global inter
 
 Financial on the surface, the underlying dissolution was epistemic. The frameworks that had been used to understand risk, value, and stability simply broke down faster than new ones could emerge. Basic economic relationships became unpredictable.
 
-### [ Media Examples ]
+### [ Media ]
 
 #### Lost
 

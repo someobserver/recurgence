@@ -5,7 +5,7 @@ description: "When generative coherence breaks free from regulatory constraints"
 permalink: /pathologies/inflation/delusional-expansion/
 parent: /pathologies/inflation/
 created_date: 2025-06-20
-updated_date: 2025-06-23
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Inflation](/pathologies/inflation/) / Delusional Expansion</small>
@@ -46,7 +46,7 @@ Intelligence amplifies pattern-recognition, but without humility and wisdom, the
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 Think of a manic episode where suddenly every song on the radio speaks directly to personal circumstances. The license plate numbers are eleven and two, which align with your birthday, which adds up to the 14 on the receipt, where the barista spelled your name the same way as the one does on 14th Street—*it all means something profound!*
 
@@ -56,13 +56,13 @@ This shows up in conspiracy theories: every news event gets woven into an ever-e
 
 When every contradiction gets short-circuited into being further evidence *for* a paranoid delusion, the system has a semantic autoimmune disorder.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 Online communities can develop increasingly elaborate shared delusions. QAnon is the archetypal example: a constantly evolving narrative that weaves together random internet memes, news events, and cultural anxieties into a comprehensive worldview. The more outlandish the claims become, the more special and enlightened the believers feel.
 
 New members get inducted through "research"—the process of scouring the internet for disparate sentence fragments to confirm the delusion. The math mechanics then play out the same: pattern-recognition without regulatory constraint, confirmation bias amplified by algorithmic echo chambers, and social reinforcement that makes questioning the dissonance feel like abandoning the tribe.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 Delusional Expansion manifests in organizations that develop such elaborate internal narratives about their mission and importance, they lose touch with what, where, or even whether they're creating value. These are meaning-generation outfits first and value-creation entities second.
 
@@ -74,7 +74,7 @@ Government agencies can develop complex justifications for expanding authority w
 
 ## Case Studies
 
-### [ Historical Example ]
+### [ Historical ]
 
 #### Nazi Germany (1933-1945)
 
@@ -90,7 +90,7 @@ Every contradiction turned into propaganda in service of the wildest conspiracy 
 
 **This runaway feedback loop of delusion led to over 70 million deaths and stained an entire century of human history. Of all historical patterns, this is one to recognize, learn from and avoid at all costs.**
 
-### [ Media Examples ]
+### [ Media ]
 
 #### A Beautiful Mind (2001)
 

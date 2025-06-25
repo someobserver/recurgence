@@ -5,7 +5,7 @@ description: "When infinite possibility becomes the prison of choice"
 permalink: /pathologies/fragmentation/attractor-splintering/
 parent: /pathologies/fragmentation/
 created_date: 2025-06-20
-updated_date: 2025-06-22
+updated_date: 2025-06-24
 ---
 
 [Home](/) / [Pathologies](/pathologies/) / [Fragmentation](/pathologies/fragmentation/)
@@ -31,13 +31,13 @@ The result is a field of competing possibilities that exhaust the system's atten
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 ADHD is the archetypal case. High sensitivity to $\Phi(C)$ means the attention system generates new possibilities faster than executive capacity can stabilize any one of them. Every notification, article, or creative project becomes a potential new attractor competing for the same limited pool of focus. What gets labeled as "lazy" or "undisciplined" is actually a mathematical failure mode: generative capacity exceeding stabilization capacity.
 
 The coffee aisle with 72 variants. The dating app with infinite swipes. The browser with 47 open tabs. It's always the same pattern: abundance of choice creating cognitive overhead that overwhelms the decision-making process. More options feel like more freedom, but paradoxically lead to worse outcomes than having reasonably fewer choices.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 What's marketed as "engagement" is actually the systematic prevention of meaningful engagement with any one thing. The entire attention economy runs on weaponized Attractor Splintering—every app, platform, and content creator competing to be your next dopamine hit, next notification, next habit.
 
@@ -45,7 +45,7 @@ Your social media feed doesn't accidentally overwhelm you with infinite scroll a
 
 Meanwhile, the 24-hour news cycle fragments attention across dozens of crises, controversies, and concerns. Every story breaks with identical, cry-wolf urgency, but the sheer volume precludes sustained focus on anything. Insert rage, next segment. Insert rage, ad, panel of five washed-out politicians to squeeze every last drop of dopamine out of that rage, next segment. No time to develop meaningful understanding or take effective action.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 The same pattern scales up. Watch any organization spin up twelve different "strategic initiatives" this quarter, each competing for the same pool of executive attention. Or sit in a college classroom where hundreds of concepts flash by semester after semester, but you never stay with anything long enough to develop nuanced understanding. Surface familiarity with everything, mastery of nothing.
 
@@ -53,7 +53,7 @@ The institutional version of Attractor Splintering is particularly insidious bec
 
 ## Case Studies
 
-### [ Historical Examples ]
+### [ Historical ]
 
 #### The Dot-Com Bubble (1990s)
 
@@ -71,7 +71,7 @@ Content creators split their focus across multiple platforms; viewers face subsc
 
 That's an escalating communication crisis masquerading as a surface-level entertainment problem.
 
-### [ Media Examples ]
+### [ Media ]
 
 #### Everything Everywhere All at Once
 

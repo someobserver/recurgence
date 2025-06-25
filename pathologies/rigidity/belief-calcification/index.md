@@ -5,7 +5,7 @@ description: "When systems lose the capacity to metabolize feedback into adaptiv
 permalink: /pathologies/rigidity/belief-calcification/
 parent: /pathologies/rigidity/
 created_date: 2025-06-20
-updated_date: 2025-06-20
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Belief Calcification</small>
@@ -32,7 +32,7 @@ This breaks the most basic function of any adaptive system: turning information 
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 You've internalized "nothing I do matters" so completely that even when you gain new power or agency, you can't process the signals indicating you could actually influence your situation now. Past conditioning creates complete inability to recognize when circumstances have genuinely changed—the textbook case of learned helplessness.
 
@@ -40,13 +40,13 @@ Analysis paralysis develops around anything requiring sustained behavior change.
 
 Trauma responses lock the nervous system in threat-detection mode even when environmental feedback clearly signals safety. Your rational mind processes that the relationship is healthy, the job is secure, the neighborhood is safe, but your body can't update its operational assumptions about the world.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 Educational institutions accumulate decades of research on active learning, student engagement, and different learning styles, but classrooms still operate like information-transmission factories from the industrial age. Teachers know lecture-based learning is suboptimal, and administrators cite research on project-based education. Yet the fundamental structure persists unchanged.
 
 News consumption and doomscrolling persist despite widespread awareness of their psychological damage. Everyone knows endless exposure to negative information increases anxiety, disrupts sleep, and degrades mental health. Research confirms that limiting news intake improves well-being. People understand this intellectually, many even try digital detoxes or set app limits. But culturally, we keep refreshing feeds compulsively, checking for updates that rarely contain actionable information. We collectively can't turn awareness about healthy information habits into actual behavior change.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 Companies invest heavily in surveys, focus groups, and market research, but products somehow never reflect what customers actually want. The feedback gets collected, analyzed, even presented to leadership, but organizations can't bridge the gap from insight to implementation.
 

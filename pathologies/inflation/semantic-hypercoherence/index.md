@@ -5,7 +5,7 @@ description: "When perfect internal consistency becomes immune to external corre
 permalink: /pathologies/inflation/semantic-hypercoherence/
 parent: /pathologies/inflation/
 created_date: 2025-06-20
-updated_date: 2025-06-23
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Inflation](/pathologies/inflation/) / Semantic Hypercoherence</small>
@@ -36,7 +36,7 @@ When both conditions align, you get a system that feels unshakably correct from 
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 The person who has figured out the *one true way* to live, think, or work. Their system is so elegant, so internally consistent, that they've stopped questioning it entirely. They have an answer for everything, a framework that explains every situation, a methodology that never fails (because failure gets reinterpreted as user error).
 
@@ -44,7 +44,7 @@ This often manifests as intellectual perfectionism that can't tolerate ambiguity
 
 The dangerous part is how *right* they feel. Their confidence isn't delusional—their system really is internally consistent. But that consistency has been purchased by sacrificing the capacity to learn from experience that doesn't fit the model.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 Ideological movements that develop such sophisticated internal logic they become immune to external evidence. These aren't simple fundamentalist groups—they're intellectually rigorous communities that have built elaborate theoretical frameworks explaining everything from first principles.
 
@@ -52,7 +52,7 @@ The more sophisticated the ideology, the more dangerous the hypercoherence. Acad
 
 Online communities often exhibit this pattern, creating echo chambers so sophisticated they can explain away any contradictory evidence through their own internal logic. The more challenges they face, the more elaborate their explanatory frameworks become.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 Organizations that have developed such perfect internal processes they've lost touch with their actual purpose. Every procedure has been optimized, every workflow has been systematized, every decision has been rationalized through the organization's own internal logic.
 
@@ -62,7 +62,7 @@ Corporate cultures can exhibit this when they become so committed to their metho
 
 ## Case Studies
 
-### [ Historical Examples ]
+### [ Historical ]
 
 #### Theranos
 
@@ -80,7 +80,7 @@ Their "rank and yank" performance system, their complex trading strategies, thei
 
 The company became so committed to its own internal perfection that it couldn't metabolize information about its fundamental unsustainability. The more questions arose, the more elaborate their explanations became.
 
-### [ Contemporary Examples ]
+### [ Contemporary ]
 
 #### Effective Altruism Movement
 
@@ -96,7 +96,7 @@ Certain strands of postmodern theory developed such sophisticated frameworks for
 
 But the framework became so hypercoherent that it couldn't engage with external challenges. Any criticism got reinterpreted through the framework's own logic as another example of power masquerading as truth. The theory became unfalsifiable, not because it was true, but because it had developed perfect internal immunity to external correction.
 
-### [ Media Examples ]
+### [ Media ]
 
 #### The Circle (2017)
 

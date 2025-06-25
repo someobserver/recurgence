@@ -5,7 +5,7 @@ description: "When meaning structures become too stable to adapt to new informat
 permalink: /pathologies/rigidity/attractor-dogmatism/
 parent: /pathologies/rigidity/
 created_date: 2025-06-20
-updated_date: 2025-06-23
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Rigidity](/pathologies/rigidity/) / Attractor Dogmatism</small>
@@ -38,13 +38,13 @@ When both conditions align, the result is a belief system that feels unshakeable
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 Someone who once had a vibrant, dynamic relationship with their beliefs, but now defends a distilled, crystallized version. The worldview becomes increasingly unable to incorporate new experience. They've shifted from "this is what I've learned so far" to "this is and must be the only truth, period."
 
 The shift is often invisible from the inside, because their beliefs still *feel* just as strong and coherent as they did before. But strength unable to align with new information under pressure, is no strength at all. That's rigidity waiting for the right stress to shatter it completely.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 Communities that were once capable of self-reflection and course correction develop an immune response to questioning. What used to be a healthy, base-level skepticism of outside ideas becomes wholesale rejection of anything that doesn't slot perfectly into their existing frameworks.
 
@@ -52,7 +52,7 @@ These cultures often develop elaborate apologetics: sophisticated systems for ex
 
 Over time, these communities become *identifiably* disconnected from objective reality.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 Organizations whose internal questions transition from, *"Are we doing this right?"* to, *"How do we keep doing this?"* are great examples of AD. Procedures become sacraments, original purposes get forgotten. Adaptation becomes impossible *because* the institution itself is more committed to its form than to its original mission.
 

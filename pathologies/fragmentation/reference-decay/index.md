@@ -5,7 +5,7 @@ description: "When the connections between insights slowly fade, leaving knowled
 permalink: /pathologies/fragmentation/reference-decay/
 parent: /pathologies/fragmentation/
 created_date: 2025-06-20
-updated_date: 2025-06-22
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Fragmentation](/pathologies/fragmentation/) / Reference Decay</small>
@@ -34,19 +34,19 @@ When recursive coupling weakens, the system loses its capacity for cross-domain 
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 Scrolling through old posts or journal entries from two years ago, you read about a breakthrough you had about your relationship patterns. You remember writing it, you can even remember the feeling of clarity when it clicked. But reading it now feels like someone else's insights about someone else's life. It's all right there in your own handwriting, but the bridge between knowing it and *knowing it* feels... weirdly tenuous.
 
 In a different form, this can be seen in professional competence: the financial advisor with chaotic personal finances, the therapist in a dysfunctional marriage, the organizational coach whose own life is a circus. Brilliant people make elementary mistakes in their personal lives because professional competence is often naturally siloed into a separate cognitive domain from personal decision-making.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 Psychology journals and economics journals used to cite each other regularly in the 1970s. Researchers moved fluidly between behavioral psychology and economic modeling, creating hybrid insights like prospect theory and behavioral economics.
 
 But today, psychologists studying decision-making and economists studying market behavior are essentially mapping the same phenomena with completely incompatible vocabularies. Brilliant insights about human behavior get rediscovered independently across disciplines because the communication channels between them have gone silent.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 When Toyota's quality control methods were first developed in the 1950s, actionable knowledge from factory floor workers could rapidly flow to engineering design, which could inform supplier relationships, which then influenced manufacturing processes. The company's legendary efficiency came from intact recursive coupling between operational domains.
 
@@ -66,7 +66,7 @@ But once recursive coupling has decayed, parts of the system increasingly face t
 
 ## Case Studies
 
-### [ Historical Examples ]
+### [ Historical ]
 
 #### The Fall of Rome
 
@@ -82,7 +82,7 @@ Teachers know what actually works in classrooms, education researchers have data
 
 Customer service teams know exactly what users are struggling with, engineers understand technical constraints and possibilities, designers know what creates intuitive experiences, and data analysts know usage patterns. Somehow, all that distributed intelligence is completely ignored when product decisions get made. Features nobody wants get implemented, and obvious annoyances persist because the wisdom sits in workflows that don't (or can't) inform each other.
 
-### [ Media Examples ]
+### [ Media ]
 
 #### How I Met Your Mother
 

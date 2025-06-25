@@ -5,7 +5,7 @@ description: "When local semantic mass growth drains the broader meaning ecology
 permalink: /pathologies/inflation/recurgent-parasitism/
 parent: /pathologies/inflation/
 created_date: 2025-06-20
-updated_date: 2025-06-23
+updated_date: 2025-06-24
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Inflation](/pathologies/inflation/) / Recurgent Parasitism</small>
@@ -45,7 +45,7 @@ This is a thermodynamic violation in semantic space: the parasitic system "appea
 
 ## Recognition Patterns
 
-### [ Individual Scale ]
+### [ Individual ]
 
 You may know someone who feels like a conversational black hole. Every interaction somehow boomerangs back to their problems, their accomplishments, their opinions, and their needs. They've developed a lifetime of sophisticated methods for extracting attention and validation while giving little of substance back to the relationship.
 
@@ -53,7 +53,7 @@ It manifests in emotional vampirism: people who seem to feed off the very drama,
 
 The dangerous part is how compelling this can be. Parasitic individuals develop exceptional skills at making others feel seen, important, and special—but that's only a means of establishing the extraction relationship. Once the flow of attention has been secured, the reciprocity vanishes.
 
-### [ Cultural Scale ]
+### [ Cultural ]
 
 Closed social advertising networks are a brilliant contemporary example. They're extraordinarily sophisticated at extracting semantic mass from human relationships and converting it into engagement metrics, ad revenue, and user intel. They siphon off the meaning that emerges from genuine human connection and transform it into commodified attention.
 
@@ -61,7 +61,7 @@ Their algorithmic architecture systematically fragments focus, amplifies conflic
 
 The platforms contribute nothing of equal value back to the actual quality of human relationships. They don't make people better friends, more thoughtful citizens, or more capable of nuanced connection. They just harvest the semantic mass that people naturally generate and redirect it toward shareholder value.
 
-### [ Institutional Scale ]
+### [ Institutional ]
 
 Parasitism shows up in companies that profit by externalizing their true costs, like environmental damage, worker exploitation, and community disruption. They systematically extract semantic mass from their broader social and ecological contexts while contributing nothing to their regeneration.
 
@@ -79,7 +79,7 @@ Similarly, narcissistic individuals often find themselves increasingly isolated,
 
 ## Case Studies
 
-### [ Historical Examples ]
+### [ Historical ]
 
 #### Multi-Level Marketing (MLM) Schemes
 
@@ -99,7 +99,7 @@ French colonial education systematically marginalized Arabic and indigenous lang
 
 Today's extraction patterns echo the same dynamic: multinational oil companies funnel wildly disproportionate shares of resource revenue into themselves, and local communities get to shoulder the long-term environmental costs.
 
-### [ Media Examples ]
+### [ Media ]
 
 #### The Circle
 
