@@ -4,7 +4,7 @@ title: "Recurgence"
 description: "Where the universe's one rule meets the mathematics of meaning"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-06-24
+updated_date: 2025-06-25
 ---
 
 ## Welcome, Observer!
@@ -13,7 +13,7 @@ Recurgence studies the foundations of **Pattern Recognition** and **Complexity S
 
 The simpler the rule $\rightarrow$ the greater its potential.
 
-From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest constraints produce emergent generativity. Two binary states `0` $+$ `1` bootstrapped infinite digital complexity that made this document possible, and accessible to you now. 
+Two binary states `0` $+$ `1` bootstrapped infinite digital complexity that made this document possible, and accessible to you now. From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest constraints produce emergent generativity.
 
 Just think: two DNA pairs `AT` $+$ `CG` encoded themselves into a cascade of recursive protein expression capable of reading and understanding this sentence.
 
@@ -73,7 +73,7 @@ But more importantly, **you can predict it.**
 **Recurgence** traces its pattern from the first moment of differentiation through the mathematics of making meaning.
 
 **<big>[Mathematics](/math/)</big>**  
-**Recurgent Field Theory**: rigorous mathematics showing how meaning behaves like a field with mass, curvature, and real-world dynamics.
+**Recurgent Field Theory**: rigorous mathematics showing how semantic meaning behaves like a field with mass, curvature, and real-world dynamics.
 
 **<big>[The Architects](/architects/)</big>**  
 Einstein, Gödel, Noether, Turing, and others who mapped the field of understanding
