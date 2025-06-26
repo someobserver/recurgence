@@ -53,14 +53,16 @@ But like every pattern, it has a flip side. Recursive systems can bootstrap them
 
 ## Pathologies
 
-Whether it's a mind, a society, a company, or a market, there are twelve ways dynamic systems can break down, arising from the geometry of interaction. Their dynamics and signatures are orthogonal, and apply at every scale.
+Whether it's a mind, a society, a company, or a market, there are twelve ways dynamic systems can break down, arising from the geometry of interaction. Their signatures are orthogonal, applicable at every scale.
 
 **Attractor Splintering** plagues someone with ADHD in the same way it does an online community. **Hypercoherence** affects individuals and institutions alike with irrational delusions. The **Attractor Dogmatism** of cults is invisible from the inside, and obvious from the outside.
 
-All 12 follow identical mathematical signatures as expressions of critical failures in the same equation.
+All 12 follow identical coherence breakdown signatures as expressions of critical failures in the Semantic Mass Equation:
+
+$$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
 
 Once you see the pattern, you can't unsee it.  
-But more importantly, **you can predict it.**
+But more importantly, **<u>you can predict it.</u>**
 
 **Pattern your recognition: [Pathologies $\rightarrow$](/pathologies/)**
 
