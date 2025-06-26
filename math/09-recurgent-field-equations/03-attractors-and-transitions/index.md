@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/attractors-and-transitions/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Global Attractors and Bifurcation Geometry</small>
@@ -15,9 +15,9 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section develops the global attractor landscape and bifurcation geometry of the semantic manifold within Recurgent Field Theory (RFT). Attractor migration, collapse, and the emergence of new semantic dimensions are formalized as consequences of recursive mass, autopoietic ignition, and wisdom density. RFT introduces order parameters, phase diagrams, and criticality measures to characterize transitions between conservative, transitional, and generative recursive regimes.
+This section develops the global attractor landscape and bifurcation geometry of the semantic manifold. Attractor migration, collapse, and the emergence of new semantic dimensions are formalized as consequences of recursive mass, autopoietic ignition, and wisdom density. Order parameters, phase diagrams, and criticality measures are introduced to characterize transitions between conservative, transitional, and generative recursive regimes.
 
-Key mathematical structures:
+Mathematical structures:
 1. **Attractor Evolution** — migration, collapse, and emergence of coherence centers driven by field interactions.
 2. **Order Parameter $\Theta(p,t)$** — quantifies the balance between generative and conservative forces, defining recursive phases.
 3. **Bifurcation Geometry** — formalizes phase transitions, critical points, and topological changes in the manifold.

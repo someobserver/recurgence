@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/singularities/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Metric Singularities and Recursive Collapse</small>
@@ -15,17 +15,13 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section formalizes the emergence and handling of **metric singularities** and **recursive collapse** within Recurgent Field Theory (RFT). As recursive structures intensify, the semantic manifold's metric tensor $g_{ij}(p,t)$ can develop singularities—critical points where the geometry becomes degenerate and recursive processes threaten coherence and computability.
+This section formalizes the emergence and handling of **metric singularities** and **recursive collapse**. As recursive structures intensify, the semantic manifold's metric tensor $g_{ij}(p,t)$ can develop singularities—critical points where the geometry becomes degenerate and recursive processes threaten coherence and computability.
 
-Key mathematical structures:
+Key Mathematical structures:
 1. **Semantic Singularities** — attractor collapse, bifurcation points, and event horizons arising from recursive overload or topological transitions.
 2. **Regularization Mechanisms** — metric renormalization, semantic mass limiting, and humility-driven dissipation to stabilize the manifold and prevent computational breakdown.
 3. **Semantic Event Horizons** — boundaries beyond which information cannot escape recursive attraction, analogous to black holes in physical spacetime.
 4. **Computational Handling** — adaptive mesh refinement, singularity excision, and causal boundary tracking to maintain simulation stability and uphold theoretical integrity.
-
----
-
-This section weaves together geometric, dynamical, and computational perspectives, offering a rigorous account of how RFT navigates the limits of recursive propagation, the collapse of meaning structures, and the emergence of cognitive "points of no return" within the semantic manifold.
 
 ---
 

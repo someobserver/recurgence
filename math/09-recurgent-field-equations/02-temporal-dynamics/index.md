@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/temporal-dynamics/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Bidirectional Temporal Flow</small>
@@ -15,9 +15,9 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section formalizes the **bidirectional temporal flow** intrinsic to Recurgent Field Theory (RFT), articulating the dual propagation of causality and information within the semantic manifold. Outward causal emission from semantic mass concentrations and inward information reception via constraint density together generate the phenomenological experience of time and modulate recursive dynamics.
+This section formalizes the **bidirectional temporal flow**, articulating the dual propagation of causality and information within the semantic manifold. Outward causal emission from semantic mass concentrations and inward information reception via constraint density together generate the phenomenological experience of time and modulate recursive dynamics.
 
-Key mathematical structures:
+Mathematical structures:
 1. **Causal Emission Field** $\vec{E}_c(p,t)$ — outward propagation of causal influence from semantic mass.
 2. **Information Reception Field** $\vec{I}_r(p,t)$ — inward flow of semantic signals modulated by constraint density and wisdom gradient.
 3. **Temporal Asymmetry Operator** $\mathcal{T}(p,t)$ — quantifies local alignment of causal and informational flows.

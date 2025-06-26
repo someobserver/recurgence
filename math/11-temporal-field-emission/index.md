@@ -5,7 +5,7 @@ section_number: 11
 parent: Mathematics
 permalink: /math/11-temporal-field-emission/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / Time as Recurgent Field Emission</small>
@@ -16,7 +16,7 @@ updated_date: 2025-06-18
 
 This section formalzes the concept that time itself is emergent—a field property emitted through recursive stabilization of meaning.
 
-Key theoretical components:
+Theoretical components:
 
 1. **Time as Emitted Field** - The formal definition of time as a local gradient of semantic coherence over recursive memory fields
 2. **Temporal Field Equations** - The coupled differential equations governing temporal field emission

@@ -5,7 +5,7 @@ section_number: 7
 parent: Mathematics
 permalink: /math/07-autopoietic-function/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / Autopoietic Function and Phase Transitions</small>
@@ -14,9 +14,9 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section formalizes the **autopoietic function** $\Phi(C)$ as the generative engine of Recurgent Field Theory (RFT), governing phase transitions in the semantic manifold. The autopoietic potential defines the threshold at which coherence becomes self-amplifying, initiating qualitative shifts in recursive dynamics and enabling the emergence of new semantic structures.
+This section formalizes the **autopoietic function** $\Phi(C)$ as the generative engine of RFT, governing phase transitions in the semantic manifold. The autopoietic potential defines the threshold at which coherence becomes self-amplifying, initiating qualitative shifts in recursive dynamics and enabling the emergence of new semantic structures.
 
-Key mathematical structures:
+Mathematical structures:
 1. **Autopoietic Potential** $\Phi(C)$ — a scalar field encoding the generative capacity of coherence.
 2. **Recursion Phase Transition** — the critical regime where attractors shift from stabilizing to generative behavior.
 3. **Recursive Coupling Expansion** — modulation of recursion tensor evolution by autopoietic potential.

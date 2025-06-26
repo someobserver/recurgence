@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/compression-and-abstraction/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Symbolic Compression and Recurgent Abstraction</small>
@@ -15,7 +15,7 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section formalizes the mechanisms of **symbolic compression** and **recurgent abstraction** within Recurgent Field Theory (RFT), addressing how complex semantic structures can be abstracted, compressed, and manipulated at higher levels without loss of essential recursive dynamics. The framework introduces operators and hierarchical constructions that enable the reduction of semantic dimensionality, maintain coherence and recursive flow, and allow multi-scale representations to emerge.
+This section formalizes the mechanisms of **symbolic compression** and **recurgent abstraction**, addressing how complex semantic structures can be abstracted, compressed, and manipulated at higher levels without loss of essential recursive dynamics. The framework introduces operators and hierarchical constructions that enable the reduction of semantic dimensionality, maintain coherence and recursive flow, and allow multi-scale representations to emerge.
 
 Key mathematical structures:
 1. **Semantic Compression Operators** — map high-dimensional semantic regions to lower-dimensional, structurally faithful representations.

@@ -5,7 +5,7 @@ section_number: 5
 parent: Mathematics
 permalink: /math/05-semantic-mass/
 created_date: 2025-05-08
-updated_date: 2025-06-25
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Mass and Attractor Dynamics</small>
@@ -26,7 +26,7 @@ Semantic mass mediates between:
 - Coherence field dynamics (governed by $\mathcal{L}$ in §6)
 - Recursive stress-energy (mediated by $T^{\text{rec}}_{ij}$ from §4)
 
-This construction completes the geometric architecture of Recurgent Field Theory: concentrations of semantic mass curve the semantic manifold, giving rise to attractor basins that direct the flow of recursive processes and counteract entropic dissipation. The field dynamics exhibit phase transitions at critical values of $M(p, t)$, beyond which autopoietic regeneration cycles begin.
+Concentrations of semantic mass curve the semantic manifold, giving rise to attractor basins that direct the flow of recursive processes and counteract entropic dissipation. The field dynamics exhibit phase transitions at critical values of $M(p, t)$, beyond which autopoietic regeneration cycles begin.
 
 ---
 

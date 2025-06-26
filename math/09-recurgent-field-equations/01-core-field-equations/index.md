@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/core-field-equations/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Core Field Equations</small>
@@ -17,7 +17,7 @@ updated_date: 2025-06-18
 
 This section introduces the **core field equations** that govern the global evolution of the coherence field $C(p, t)$ on the semantic manifold $\mathcal{M}$. Drawing on the constructs of semantic mass, recursive tensors, autopoietic ignition, and regulatory dynamics, these equations articulate how meaning propagates, deforms, and stabilizes within Recurgent Field Theory (RFT).
 
-Key mathematical structures:
+Mathematical structures:
 1. **Recurgent Field Equation** — describes the dynamics of coherence propagation under recursive stress.
 2. **Semantic Geodesics** — define the natural trajectories of meaning shaped by manifold curvature.
 3. **Metric Evolution Equation** — captures the feedback loop by which recursion reshapes semantic geometry.

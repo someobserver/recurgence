@@ -5,7 +5,7 @@ section_number: 4
 parent: Mathematics
 permalink: /math/04-recursive-coupling/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Recursive Coupling</small>
@@ -23,7 +23,7 @@ Mathematical structures:
 
 These entities are coupled via the curvature-mass relation and the Lagrangian formalism, defining a phase space in which recursive structures either stabilize as autopoietic attractors or dissipate through entropic processes. The tensorial hierarchy sets up a fundamental tradeoff between persistent coherence and recursive generativity, as formalized by the uncertainty relation.
 
-The section also details how recursive coupling decomposes into intra-domain (self-referential) and inter-domain (hetero-referential) components, allowing for rigorous treatment of metaphor, analogy, and cross-modal recursion. The latent recursive channel tensor and domain translation tensors serve as the substrate for cross-domain mapping, supporting the emergence of metaphoric and analogical structures as stable, hetero-recursive attractors.
+Recursive coupling decomposes into intra-domain (self-referential) and inter-domain (hetero-referential) components, allowing for rigorous treatment of metaphor, analogy, and cross-modal recursion. The latent recursive channel tensor and domain translation tensors serve as the substrate for cross-domain mapping, supporting the emergence of metaphoric and analogical structures as stable, hetero-recursive attractors.
 
 ---
 

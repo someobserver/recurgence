@@ -5,7 +5,7 @@ section_number: 3
 parent: Mathematics
 permalink: /math/03-semantic-manifold/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-26
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Manifold</small>
@@ -14,9 +14,9 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory (RFT). Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ sets the configuration space for semantic states and shapes their evolution under recursive processes.
+This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory. Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ sets the configuration space for semantic states and shapes their evolution under recursive processes.
 
-Key mathematical structures:
+Mathematical structures:
 1. **Metric Tensor** $g_{ij}(p, t)$ — defines semantic distances and constraint geometry.
 2. **Constraint Density** $\rho(p, t)$ — quantifies the rigidity or plasticity of semantic regions.
 3. **Coherence Field** $C_i(p, t)$ — represents local alignment and self-consistency.
