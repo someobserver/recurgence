@@ -44,6 +44,8 @@ You will likely recognize yourself or structures around you reflected in these <
 - **Belief Calcification** — Systems lose capacity to convert understanding into adaptive action
 - **Metric Crystallization** — Transformation pathways become structurally unavailable, even as pressure builds for change
 
+More: [Rigidity](/pathologies/rigidity/)
+
 ## [Fragmentation Pathologies](/pathologies/fragmentation/)
 
 **Under-constraint preventing stabilization.** These systems have all the ingredients for coherent meaning but insufficient boundaries to channel that potential into lasting form. Like removing $N$ banks from a river, meaning flows everywhere and settles nowhere.
@@ -51,6 +53,8 @@ You will likely recognize yourself or structures around you reflected in these <
 - **Attractor Splintering** — Too many competing possibilities prevent sustained focus on any single path
 - **Coherence Dissolution** — Meaning hemorrhages faster than it can stabilize into coherent structure
 - **Reference Decay** — Connections between insights slowly fade, leaving knowledge archipelagoed
+
+More: [Fragmentation](/pathologies/fragmentation/)
 
 ## [Inflation Pathologies](/pathologies/inflation/)
 
@@ -60,6 +64,8 @@ You will likely recognize yourself or structures around you reflected in these <
 - **Semantic Hypercoherence** — Over-coherence with suppressed boundary permeability prevents metabolizing new information
 - **Recurgent Parasitism** — Local semantic mass growth at the expense of the broader semantic ecology
 
+More: [Inflation](/pathologies/inflation/)
+
 ## [Observer-Coupling Pathologies](/pathologies/observer-coupling/)
 
 **Breakdown in the interpretation operator that connects observers to the semantic field.** These pathologies show up when the mechanisms systems use to make sense of their environment become systematically distorted. That leads to persistent misalignment between reality and interpretation of reality.
@@ -67,6 +73,8 @@ You will likely recognize yourself or structures around you reflected in these <
 - **Paranoid Interpretation** — Systematic negative bias in field interpretation creates threat-detection hyperattractors
 - **Observer Solipsism** — Observer interpretation diverges increasingly from actual field conditions
 - **Semantic Narcissism** — Reference structure collapses to pure self-coupling, eliminating external feedback
+
+More: [Observer-Coupling](/pathologies/observer-coupling/)
 
 <small>[Home](/) / Pathologies</small>
 
