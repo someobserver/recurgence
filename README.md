@@ -57,7 +57,7 @@ Whether it's a mind, a society, a company, or a market, there are twelve ways dy
 
 **Attractor Splintering** plagues someone with ADHD in the same way it does an online community. **Hypercoherence** affects individuals and institutions alike with irrational delusions. The **Attractor Dogmatism** of cults is invisible from the inside, and obvious from the outside.
 
-All 12 follow identical coherence breakdown signatures as expressions of critical failures in the Semantic Mass Equation:
+All 12 follow identical coherence breakdown signatures as expressions of failures in the Semantic Mass Equation:
 
 $$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
 
