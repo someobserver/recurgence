@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/temporal-dynamics/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Bidirectional Temporal Flow</small>
@@ -31,7 +31,7 @@ This bidirectional structure grounds the recursive feedback between meaning prop
 
 ### **9.6 Bidirectional Temporal Flow**
 
-Recurgent Field Theory posits a fundamental temporal asymmetry within the semantic manifold, characterized by the dual propagation of causality and information. Specifically, causal influence emanates outward from loci of semantic mass, while informational signals are received inward, modulated by constraint density and the wisdom gradient. This bidirectional structure underlies the phenomenology of temporality and governs the recursive evolution of meaning.
+Recurgent Field Theory posits a fundamental temporal asymmetry within the semantic manifold, characterized by the dual propagation of causality and information. Causal influence emanates outward from loci of semantic mass, while informational signals are received inward, modulated by constraint density and the wisdom gradient. This bidirectional structure underlies the phenomenology of temporality and governs the recursive evolution of meaning.
 
 ---
 

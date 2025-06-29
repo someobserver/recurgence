@@ -6,7 +6,7 @@ parent: Mathematics
 permalink: /math/09-recurgent-field-equations/
 has_children: true
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Recurgent Field Equations and Global Dynamics</small>
@@ -42,7 +42,7 @@ This section develops the global dynamics of the coherence field $C(p, t)$ acros
 
 ---
 
-Sections 9.1-9.14 assemble a dynamical systems framework for tracing how meaning emerges, stabilizes, transforms, and recovers through recursive processes. The theory weaves together continuous field dynamics and discrete semantic structures, grounding both the fluidity of meaning and its crystallization into stable patterns of understanding.
+Sections 9.1-9.14 assemble a dynamical systems framework for tracing how meaning emerges, stabilizes, transforms, and recovers through recursive processes. 
 
 <small>Next: [Core Field Equations](/math/09-recurgent-field-equations/core-field-equations/)</small>
 

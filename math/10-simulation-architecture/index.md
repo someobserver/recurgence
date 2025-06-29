@@ -5,7 +5,7 @@ section_number: 10
 parent: Mathematics
 permalink: /math/10-simulation-architecture/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Simulation Architecture</small>
@@ -14,9 +14,9 @@ updated_date: 2025-06-18
 
 ### Overview
 
-This section articulates the computational and conceptual architecture for simulating Recurgent Field Theory (RFT) on discrete semantic manifolds. The simulation framework translates the continuous mathematics of RFT into a form suitable for in silico exploration of semantic dynamics, attractor evolution, and epistemic health.
+The computational architecture for simulating RFT on discrete semantic manifolds translates continuous field equations into discrete graph dynamics. The architecture enables exploration of semantic evolution, attractor formation, and epistemic pathologies through numerical integration.
 
-Key architectural elements:
+Core components:
 1. **Discretization of Semantic Space** — mapping the continuous manifold $\mathcal{M}$ to a graph $G = (V, E)$, with nodes as semantic states and edges as adjacency or transformation potentials.
 2. **Time-Stepped Recursive Updates** — iterative evolution of coherence, recursive depth, semantic mass, and related fields at each node, governed by local and nonlocal coupling.
 3. **Field and Metric Tracking** — monitoring the evolution of core quantities: $C(p, t)$, $D(p, t)$, $M(p, t)$, $W(p, t)$, $g_{ij}(p, t)$, and others.
@@ -25,13 +25,13 @@ Key architectural elements:
 6. **Experimental Use Cases** — protocols for probing coherence propagation, attractor migration, constraint relaxation, recursive perturbation, and wisdom tuning.
 7. **Epistemic Engine** — the simulation as a substrate for artificial sensemaking, agent self-modification, and the emergence of generative recursion.
 
-This architecture forms a principled bridge between the abstract formalism of RFT and concrete computational experiments, supporting both theoretical exploration and practical implementation of semantic dynamics.
+This architecture bridges the abstract formalism of RFT and concrete computational experiments, supporting both theoretical exploration and practical implementation of semantic dynamics.
 
 ---
 
 ### **10.1 Objective**
 
-To render RFT to computational analysis, the simulation architecture must satisfy the following formal requirements:
+To render RFT to computational analysis, the simulation architecture must satisfy formal requirements:
 
 1. **Discretization**: Map the continuous semantic manifold $\mathcal{M}$ to a discrete substrate.
 2. **Recursive Temporal Evolution**: Implement time-stepped update rules reflecting the field equations of RFT.
@@ -53,7 +53,7 @@ where
 - $V$ denotes the set of nodes, each corresponding to a semantic state (e.g., concept, proposition, schema),
 - $E$ denotes the set of edges, encoding adjacency relations or transformation potentials.
 
-Each node $p \in V$ is endowed with the following local fields and structures:
+Each node $p \in V$ is endowed with local fields and structures:
 
 - Coherence field: $C(p, t)$,
 - Recursive depth: $D(p, t)$,
@@ -88,7 +88,7 @@ where
 
 #### **10.3.1 Specification of Initial and Boundary Conditions**
 
-To maintain well-posedness and interpretability, the following conditions are imposed:
+To maintain well-posedness and interpretability, conditions are imposed:
 
 - **Initial Conditions**:
   - Coherence: $C(p, 0) = C_0 \exp\left(-\frac{d(p, p_0)^2}{\sigma^2}\right)$, for a designated seed $p_0$,
@@ -128,7 +128,7 @@ The simulation thus models:
 
 ### **10.4 Nodewise Field Inventory**
 
-For each $p \in V$, the following quantities are tracked:
+For each $p \in V$, quantities are tracked:
 
 | Field             | Symbol                | Interpretation                                 |
 |-------------------|----------------------|------------------------------------------------|
@@ -413,7 +413,7 @@ def visualize_attractor_basins(C, V, g_ij, dim_reduction='umap'):
 
 ### **10.10 The Epistemic Engine: Formal Perspective**
 
-The simulation framework described here serves as a prototype **epistemic engine**—a computational substrate for the recursive stabilization and evolution of coherent symbolic systems. Its principal capacities include:
+The simulation framework described here is a prototype **epistemic engine**—a computational substrate for the recursive stabilization and evolution of coherent symbolic systems. Its principal capacities include:
 
 - **Recursive Cognitive Substrate:** Implements iterative field-theoretic updates, allowing for the emergence and maintenance of semantic coherence within a discretized manifold.
 - **Artificial Agent Dynamics:** Facilitates the formal study of agents capable of reflective, structured sensemaking, grounded in the recursive architecture of Recurgent Field Theory.

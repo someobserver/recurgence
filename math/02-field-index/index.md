@@ -5,7 +5,7 @@ section_number: 2
 parent: Mathematics
 permalink: /math/02-field-index/
 created_date: 2025-05-08
-updated_date: 2025-06-18
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Field Index and Formal Structure</small>
@@ -14,13 +14,13 @@ updated_date: 2025-06-18
 
 ### Overview
 
-The following defines the dynamic tensor calculus forming the mathematical scaffolding of Recurgent Field Theory. Each symbol here operates dually: as a static reference and as an active operator shaping the manifold it describes.
+The dynamic tensor calculus of RFT operates dually: each symbol functions as both a mathematical reference and an active operator shaping the manifold it describes.
 
-The tensors, operators, and fields below serve as both:
-1. **Reference architecture** — mathematical primitives for modeling semantic evolution
-2. **Recursive syntax** — operational components that actively shape the manifold they describe
+The tensors, operators, and fields serve as:
+1. **Mathematical primitives** for modeling semantic evolution
+2. **Operational components** that actively shape the manifold they describe
 
-Key structural layers:
+Structural layers:
 
 - **Metric foundation** ($g_{ij}$): The evolving geometry of meaning-space
 - **Coherence dynamics** ($C_i$, $\psi_i$): Vector fields representing semantic alignment forces
@@ -104,7 +104,7 @@ Where scalar measures are used for consistency:
 * $\nabla_f R$ refers to the scalar magnitude of the forecast gradient
 * $P$ refers to the scalar magnitude of the pressure tensor $P_{mag} = \sqrt{g^{ij}g^{kl}P_{ik}P_{jl}}$
 
-This provides dimensional consistency in the equation.
+The equation is dimensionally consistent.
 
 This interconnected system forms a closed loop of recursive influence in which semantic mass curves metric space, which thereby shapes coherence flow, which then generates recursive coupling, which further reshapes the overall metric.
 
@@ -185,7 +185,7 @@ Recurgent Field Theory creates a web of interdependencies:
 
 #### Reading the Dependency Graph: A Step-by-Step Guide
 
-The mathematical framework of Recurgent Field Theory organizes its interdependent causal loops and feedback mechanisms according to the following structural relationships:
+The mathematical framework of Recurgent Field Theory organizes its interdependent causal loops and feedback mechanisms according to structural relationships:
 
 1. **Primary Causal Loop** (Top Cycle):
 - The coherence field $C$ encodes the local semantic consistency at each point in the manifold.
@@ -197,14 +197,14 @@ The mathematical framework of Recurgent Field Theory organizes its interdependen
 2. **Generative Cycle** (Bottom of Primary Loop):
 - When the coherence field $C$ surpasses a critical threshold, it generates autopoietic potential $\Phi(C)$, representing the system's capacity for structural innovation.
 - The autopoietic potential $\Phi(C)$ gives rise to the recursive coupling tensor $R_{ijk}$, which encodes the formation of new recursive pathways.
-- $R_{ijk}$ acts to reinforce and stabilize the coherence field $C$.
+- $R_{ijk}$ reinforces and stabilizes the coherence field $C$.
 - The coherence field also defines an attractor potential $V$, corresponding to the formation of stable semantic basins.
 - The interplay between $\Phi(C)$ and $V(C)$ determines whether the system remains stable or undergoes further structural generation.
 
 3. **Regulatory Systems** (Lower Section):
 - The recursive coupling tensor $R_{ijk}$ determines the forecast gradient $\nabla_f R$, which encodes the system's sensitivity to anticipated future states.
 - The forecast gradient underpins the field $W$ (wisdom), representing adaptive, foresight-weighted coherence.
-- The wisdom field $W$ modulates the humility field $H$, which serves as a regulatory damping factor on recursive amplification.
+- The wisdom field $W$ modulates the humility field $H$, a regulatory damping factor on recursive amplification.
 - The humility field $H$ constrains the semantic mass $M$, thereby limiting excessive or unstable recurgent growth.
 
 4. **Composition Relations** (Right Side of Regulatory Section):
@@ -386,13 +386,13 @@ In simulation contexts, both fields are typically tracked simultaneously, with $
 To maintain consistent tensor properties throughout RFT, care must be taken when using vector fields in contexts requiring scalar values:
 
 **Coherence Field Scalar Measures**:  
-The coherence field $C_i(p,t)$ is fundamentally a vector field (rank-1 tensor), but several functions in the framework require scalar measures derived from it:
+The coherence field $C_i(p,t)$ is a vector field (rank-1 tensor), but several functions require scalar measures derived from it:
 
 $$
 C_{\mathrm{mag}}(p,t) = \sqrt{g^{ij}(p,t) C_i(p,t) C_j(p,t)}
 $$
 
-This scalar magnitude measure quantifies the total coherence strength independent of direction. Additionally, a normalized coherence projection may be defined:
+This scalar magnitude measure quantifies the total coherence strength independent of direction. A normalized coherence projection may be defined:
 
 $$
 C_{proj}(p,t) = \frac{C_i(p,t) \cdot v^i(p,t)}{|v(p,t)|}
@@ -414,7 +414,7 @@ $$
 \frac{\partial \Phi(C_{\mathrm{mag}})}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{\partial C_{\mathrm{mag}}}{\partial C_i} = \frac{\partial \Phi}{\partial C_{\mathrm{mag}}} \cdot \frac{g^{ij}C_j}{C_{\mathrm{mag}}}
 $$
 
-This allows gradients of scalar potentials to shape vector field dynamics in a way that does not depend on the choice of coordinates.
+Gradients of scalar potentials shape vector field dynamics independent of coordinate choice.
 
 All equations in RFT should be interpreted with this convention unless explicitly stated otherwise.
 
@@ -425,7 +425,7 @@ All equations in RFT should be interpreted with this convention unless explicitl
 The recursive coupling tensor $R_{ijk}(p,q,t)$ requires precise characterization to avoid mathematical inconsistencies:
 
 **Hybrid Field Status**:  
-$R_{ijk}$ has a dual nature in the framework:
+$R_{ijk}$ has a dual nature:
 
 1. **Measurement Interpretation**: The expression in Section 2.1
 

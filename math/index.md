@@ -39,7 +39,7 @@ The theory is built axiomatically from eleven core axioms, formalizing how coher
 
 RFT introduces field-theoretic analogs of humility and wisdom to regulate unchecked recursion, while the interplay between coherence and recursive structure exhibits an uncertainty principle that enables semantic systems to remain both resilient and fertile.
 
-Agents arise as bounded, self-referential submanifolds—regions capable of interpretation, self-modification, and communication. The theory provides a mathematically explicit account of observer-dependence, collective meaning-making, and the dynamics of epistemic pathologies and healing.
+Agents arise as bounded, self-referential submanifolds—regions capable of interpretation, self-modification, and communication. The theory describes observer-dependence, collective meaning-making, and the dynamics of epistemic pathologies and healing.
 
 ---
 

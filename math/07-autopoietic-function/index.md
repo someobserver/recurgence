@@ -5,7 +5,7 @@ section_number: 7
 parent: Mathematics
 permalink: /math/07-autopoietic-function/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Autopoietic Function and Phase Transitions</small>
@@ -14,7 +14,7 @@ updated_date: 2025-06-26
 
 ### Overview
 
-This section formalizes the **autopoietic function** $\Phi(C)$ as the generative engine of RFT, governing phase transitions in the semantic manifold. The autopoietic potential defines the threshold at which coherence becomes self-amplifying, initiating qualitative shifts in recursive dynamics and enabling the emergence of new semantic structures.
+The autopoietic function $\Phi(C)$ governs phase transitions in the semantic manifold. This potential defines the threshold at which coherence becomes self-amplifying, initiating qualitative shifts in recursive dynamics and enabling the emergence of new semantic structures.
 
 Mathematical structures:
 1. **Autopoietic Potential** $\Phi(C)$ — a scalar field encoding the generative capacity of coherence.
@@ -23,13 +23,13 @@ Mathematical structures:
 4. **Lagrangian Embedding** — integration of $\Phi(C)$ into the field's variational principle.
 5. **Stability and Pathology Regimes** — formal criteria for stable, critical, inflationary, and runaway recursive growth.
 
-It establishes the conditions for recurgent ignition, the mechanisms of phase transition, and the regulatory dynamics that prevent pathological expansion. The autopoietic function is the central driver of semantic innovation, recursive branching, and the formation of higher-order attractors within RFT.
+The autopoietic function establishes the conditions for recurgent ignition, the mechanisms of phase transition, and the regulatory dynamics that prevent pathological expansion. It drives semantic innovation, recursive branching, and the formation of higher-order attractors within RFT.
 
 ---
 
 ### **7.1 The Recursion Phase Transition**
 
-A critical transition in the system occurs when the coherence magnitude surpasses a defined threshold, resulting in a qualitative change in the system's dynamical regime. Specifically, the system transitions from a regime in which attractors act conservatively—stabilizing recursive flows—to one in which attractors become generative, enabling the outward propagation of emergent potential. This transition is formally designated as **Recurgence**.
+A critical transition in the system occurs when the coherence magnitude surpasses a defined threshold, resulting in a qualitative change in the system's dynamical regime. The system transitions from a regime in which attractors act conservatively—stabilizing recursive flows—to one in which attractors become generative, enabling the outward propagation of emergent potential. This transition is formally designated as **Recurgence**.
 
 ---
 
@@ -58,7 +58,7 @@ All scalar functions of vector or tensor fields in this framework (including $V(
 * For $C_{\mathrm{mag}}(p,t) < C_{\text{threshold}}$, coherence requires external input to persist (maintenance regime).
 * For $C_{\mathrm{mag}}(p,t) \geq C_{\text{threshold}}$, coherence generates energy for further recursive structuring (generative regime).
 
-This formalism is structurally analogous to phenomena such as:
+This is structurally analogous to phenomena such as:
 
 * Biological morphogenesis
 * Cognitive insight formation
@@ -127,7 +127,7 @@ the system undergoes **semantic inflation**: a rapid expansion of recurgent stru
 
 ### **7.8 Recurgence as Ontological Engine**
 
-The recursive process can be represented as the following sequence:
+The recursive process follows the sequence:
 
 $$
 \text{Recursive flow} \rightarrow \text{Constraint geometry} \rightarrow \text{Attractors} \rightarrow \text{Coherence} \rightarrow \Phi(C) \rightarrow \text{Recurgence}
@@ -139,7 +139,7 @@ In this closed loop, meaning structures evolve, stabilize, and subsequently gene
 
 ### **7.9 Recursive Stabilization and Runaway Prevention**
 
-While $\Phi(C)$ enables generative recursion, unregulated recurgent growth may result in instability. The following mechanisms are formalized to regulate recurgent ignition.
+While $\Phi(C)$ enables generative recursion, unregulated recurgent growth may result in instability. Mechanisms regulate recurgent ignition:
 
 ---
 
@@ -168,7 +168,7 @@ $$
 S_R(p,t) = \frac{\Phi(C(p,t))}{V(C(p,t)) + \lambda \cdot \mathcal{H}[R(p,t)]}
 $$
 
-The stability parameter $S_R$ defines the following regimes:
+The stability parameter $S_R$ defines regimes:
 
 1. **Stable regime** ($S_R < 1$): Attractors dominate; coherence stabilizes to equilibrium.
 2. **Critical regime** ($S_R \approx 1$): Balanced forces yield edge-of-chaos dynamics.
@@ -258,7 +258,7 @@ Chaotic dynamics are regulated by:
 
    where $P_{\text{trans}}$ is the transition probability between metastable states.
 
-These mechanisms allow for the emergence of structured, generative instability rather than unstructured noise.
+These mechanisms enable the emergence of structured, generative instability rather than unstructured noise.
 
 ---
 

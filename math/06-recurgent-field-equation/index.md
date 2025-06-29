@@ -5,7 +5,7 @@ section_number: 6
 parent: Mathematics
 permalink: /math/06-recurgent-field-equation/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Recurgent Field Equation and Lagrangian Mechanics</small>
@@ -14,7 +14,7 @@ updated_date: 2025-06-26
 
 ### Overview
 
-This section develops the **Recurgent Field Equation** as the fundamental dynamical law governing semantic evolution, synthesizing the geometric foundations from §3, recursive stress-energy from §4, and semantic mass from §5 into a unified field theory. The equation emerges from a variational principle based on the Recurgent Lagrangian $\mathcal{L}$, which encodes the interplay between coherence propagation, recursive coupling, and autopoietic potential.
+The **Recurgent Field Equation** is the fundamental dynamical law governing semantic evolution, synthesizing the geometric foundations from §3, recursive stress-energy from §4, and semantic mass from §5 into a unified field theory. The equation emerges from a variational principle based on the Recurgent Lagrangian $\mathcal{L}$, which encodes the interplay between coherence propagation, recursive coupling, and autopoietic potential.
 
 Mathematical structures:
 1. **Field Lagrangian** $\mathcal{L} = \frac{1}{2}g^{ij}(\nabla_i C_k)(\nabla_j C^k) - V(C) + \Phi(C) - \lambda\mathcal{H}[R] + \mu W$
@@ -66,7 +66,7 @@ $$
 S = \int_{\mathcal{M}} \mathcal{L} \, dV
 $$
 
-The system’s dynamics follow from the principle of stationary action: physical evolution corresponds to stationary points of $S$ under admissible variations, subject to the imposed constraints.
+The system's dynamics follow from the principle of stationary action: physical evolution corresponds to stationary points of $S$ under admissible variations, subject to the imposed constraints.
 
 ---
 

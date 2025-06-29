@@ -5,7 +5,7 @@ section_number: 4
 parent: Mathematics
 permalink: /math/04-recursive-coupling/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Recursive Coupling</small>
@@ -14,7 +14,7 @@ updated_date: 2025-06-26
 
 ### Overview
 
-This section formalizes the **Recursive Coupling** architecture, introducing the principal tensorial and scalar fields that mediate self-reference, feedback, and cross-domain semantic propagation. The recursive coupling tensor $R_{ijk}(p, q, t)$, the depth field $D(p, t)$, and the recursive stress-energy tensor $T^{\text{rec}}_{ij}$ are defined as the core agents of recursive dynamics on the semantic manifold $\mathcal{M}$.
+The recursive coupling architecture formalizes the tensorial and scalar fields that mediate self-reference, feedback, and cross-domain semantic propagation. The recursive coupling tensor $R_{ijk}(p, q, t)$, depth field $D(p, t)$, and recursive stress-energy tensor $T^{\text{rec}}_{ij}$ govern recursive dynamics on the semantic manifold $\mathcal{M}$.
 
 Mathematical structures:
 1. **Recursive Coupling Tensor** $R_{ijk}(p, q, t)$ — quantifies nonlocal, bidirectional influence of recursion between points and domains.

@@ -6,7 +6,7 @@ parent: "Recurgent Field Equations and Global Dynamics"
 grand_parent: Mathematics
 permalink: /math/09-recurgent-field-equations/singularities/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / [Recurgent Field Equations and Global Dynamics](/math/09-recurgent-field-equations/) / Metric Singularities and Recursive Collapse</small>
@@ -99,7 +99,7 @@ To preserve the well-posedness of the field equations and maintain computational
    \frac{\partial g_{ij}}{\partial t} = -2R_{ij} + F_{ij} + \mathcal{H}[R] \nabla^2 g_{ij}
    $$
 
-   Here, $\mathcal{H}[R]$ serves as a dynamic dissipation coefficient, mediating the release of recursive tension in regions of excessive curvature.
+   Here, $\mathcal{H}[R]$ is a dynamic dissipation coefficient, mediating the release of recursive tension in regions of excessive curvature.
 
 ---
 

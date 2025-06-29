@@ -5,7 +5,7 @@ section_number: 5
 parent: Mathematics
 permalink: /math/05-semantic-mass/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Mass and Attractor Dynamics</small>
@@ -14,7 +14,7 @@ updated_date: 2025-06-26
 
 ### Overview
 
-This section formalizes **semantic mass** as the principal source of curvature, shaping the persistence and stability of meaning structures under recursive pressure. The mass distribution $M(p,t)$ arises from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$, grounding the geometry of autopoietic coherence.
+Semantic mass $M(p,t)$ is the principal source of curvature in the semantic manifold, shaping the persistence and stability of meaning structures under recursive pressure. The mass distribution arises from the triple product of recursive depth $D$, constraint density $\rho$, and attractor stability $A$.
 
 Mathematical structures:
 1. **Mass-curvature coupling** through the recurged Einstein equation $R_{ij} - \frac{1}{2}g_{ij}R = 8\pi G_s T^{\text{rec}}_{ij}$
@@ -43,7 +43,7 @@ where:
 - $\rho(p, t)$ is the constraint density, given by $\rho(p, t) = 1/\det(g_{ij}(p, t))$, encoding the tightness of local semantic geometry,
 - $A(p, t)$ is the attractor stability field, measuring the local tendency of a semantic state to return after perturbation.
 
-Semantic mass $M(p, t)$ acts as the principal source term for semantic curvature, anchoring persistent structures within the semantic manifold. Regions of high $M$ function as stable attractors, exerting a stabilizing influence on the evolution of coherence fields and modulating the propagation of recursive processes. The persistence of high-mass structures follows from their recursive depth, constraint density, and local stability, independent of their propositional content.
+Semantic mass $M(p, t)$ is the principal source term for semantic curvature, anchoring persistent structures within the semantic manifold. Regions of high $M$ are stable attractors, exerting a stabilizing influence on the evolution of coherence fields and modulating the propagation of recursive processes. The persistence of high-mass structures follows from their recursive depth, constraint density, and local stability, independent of their propositional content.
 
 ---
 
@@ -85,7 +85,7 @@ $$
 F_i(p, t) = -\nabla_i \Phi(p, t)
 $$
 
-which directs the flow of coherence and draws new semantic structures into existing attractor basins. This formalism describes how regions of high semantic mass modulate the dynamics of meaning, pulling recursive processes toward stable configurations.
+which directs the flow of coherence and draws new semantic structures into existing attractor basins. Regions of high semantic mass modulate the dynamics of meaning, pulling recursive processes toward stable configurations.
 
 ---
 

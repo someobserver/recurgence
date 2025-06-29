@@ -5,7 +5,7 @@ section_number: 11
 parent: Mathematics
 permalink: /math/11-temporal-field-emission/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Time as Recurgent Field Emission</small>
@@ -127,7 +127,7 @@ where:
 - $\Theta_T^{(a)}$ is the agent's internal temporal phase state.
 - $\mathcal{T}^{(a)}$ is the agent-specific temporal emission functional.
 
-This allows for richer modeling of subjective temporal experiences:
+This enables richer modeling of subjective temporal experiences:
 
 1.  **Epistemic Asynchrony**: In group interactions, differing $T^{(a)}$ fields can lead to desynchronization. A temporal dissonance metric can be defined:
 
@@ -452,7 +452,7 @@ $$
 
 #### 11.5.4 Babelian Effect at Scale
 
-The fragmentation of collective semantic understanding due to temporal field incompatibilities creates the "Babelian Effect"—after the Tower of Babel, which serves as a structural metaphor for the consequences of recursive systems hitting complexity limits without sufficient constraints.
+The fragmentation of collective semantic understanding due to temporal field incompatibilities creates the "Babelian Effect"—after the Tower of Babel, which is a structural metaphor for the consequences of recursive systems hitting complexity limits without sufficient constraints.
 
 The formal model of this effect:
 

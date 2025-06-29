@@ -5,7 +5,7 @@ section_number: 3
 parent: Mathematics
 permalink: /math/03-semantic-manifold/
 created_date: 2025-05-08
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Mathematics](/math/) / Semantic Manifold</small>
@@ -14,7 +14,7 @@ updated_date: 2025-06-26
 
 ### Overview
 
-This section introduces the **semantic manifold** $\mathcal{M}$ as the foundational geometric substrate of Recurgent Field Theory. Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ sets the configuration space for semantic states and shapes their evolution under recursive processes.
+The **semantic manifold** $\mathcal{M}$ is the foundational geometric substrate of Recurgent Field Theory. Meaning is formalized as a differentiable manifold equipped with a dynamic metric tensor $g_{ij}(p, t)$, which encodes both local and global constraint structures. The geometry of $\mathcal{M}$ sets the configuration space for semantic states and shapes their evolution under recursive processes.
 
 Mathematical structures:
 1. **Metric Tensor** $g_{ij}(p, t)$ — defines semantic distances and constraint geometry.
@@ -84,7 +84,7 @@ $$
 C_{\mathrm{mag}}(p, t) = \sqrt{g^{ij}(p, t) C_i(p, t) C_j(p, t)}
 $$
 
-where $g^{ij}$ is the inverse metric. $C_{\mathrm{mag}}$ quantifies the scalar magnitude of coherence at $p$, independent of direction, and serves as the basis for defining attractor potentials and autopoietic capacity in subsequent sections.
+where $g^{ij}$ is the inverse metric. $C_{\mathrm{mag}}$ quantifies the scalar magnitude of coherence at $p$, independent of direction, and provides the basis for defining attractor potentials and autopoietic capacity in subsequent sections.
 
 ---
 

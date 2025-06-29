@@ -4,6 +4,8 @@ title: "Appendix A – Mathematical Consistency Requirements"
 section_number: appendix-a
 parent: Mathematics
 permalink: /math/appendix-a/
+created_date: 2025-05-08
+updated_date: 2025-06-28
 ---
 
 <small>[Home](/) / [Math](/math/) / Appendix A</small>
@@ -18,7 +20,7 @@ Key elements:
 3. **Boundary and Edge Cases** — treatment of singularities, degenerate configurations, and limiting behaviors.
 4. **Implementation Notes** — guidance for discretization, numerical stability, and translation to computational architectures.
 
-This appendix functions as a reference for both theoretical development and practical realization, supporting the mathematical robustness and operational soundness of all RFT components.
+This appendix is a reference for both theoretical development and practical realization, supporting the mathematical robustness and operational soundness of all RFT components.
 
 ---
 
@@ -40,7 +42,7 @@ $$
 \frac{d}{dt}\left(\frac{\partial^2 C_k(p, t)}{\partial \psi_i(p) \partial \psi_j(q)}\right) = \Phi(C_{\mathrm{mag}}(p, t)) \cdot \chi_{ijk}(p, q, t)
 $$
 
-This requirement places nontrivial constraints on the dynamics of the underlying fields $\psi_i$. In particular, it may call for additional terms in the evolution equations for $\psi_i$, and may depend on a separation of timescales between rapid field adjustments and slower structural evolution. The precise analytic mechanism by which this compatibility is realized remains an open subject of investigation.
+This requirement places nontrivial constraints on the dynamics of the underlying fields $\psi_i$. It may call for additional terms in the evolution equations for $\psi_i$, and may depend on a separation of timescales between rapid field adjustments and slower structural evolution. The precise analytic mechanism by which this compatibility is realized remains an open subject of investigation.
 
 ---
 
