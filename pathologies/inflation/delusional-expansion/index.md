@@ -5,7 +5,7 @@ description: "When generative coherence breaks free from regulatory constraints"
 permalink: /pathologies/inflation/delusional-expansion/
 parent: /pathologies/inflation/
 created_date: 2025-06-20
-updated_date: 2025-06-24
+updated_date: 2025-06-29
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / [Inflation](/pathologies/inflation/) / Delusional Expansion</small>
@@ -26,7 +26,7 @@ $$
 \Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad W(p,t) < W_{\text{min}}
 $$
 
-$\Phi(C) \gg V(C)$ — **Autopoietic potential vastly overwhelms constraint** $=$ The system's drive to generate meaning is pedal to the metal, and the brakes have completely failed. Like yanking all control rods out of a nuclear reactor, this is sudden, infinite generative energy with little or no regulatory constraint.
+$\Phi(C) \gg V(C)$ — **Autopoietic potential vastly overwhelms constraint** $=$ The system's drive to generate meaning is pedal to the metal, and the brakes are failing. Like yanking the control rods out of a nuclear reactor, this is sudden, infinite generative energy with little or no regulatory constraint.
 
 $\mathcal{H}[R] \approx 0$ — **Humility operator approaches zero** $=$ The self-correcting mechanism that normally questions pattern-matching is offline. The system loses the capacity to doubt its own connections, consider alternative explanations, or even recognize the difference between correlation and causation.
 

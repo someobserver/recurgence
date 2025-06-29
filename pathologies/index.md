@@ -5,7 +5,7 @@ description: "A taxonomy of pathologies in recursive systems"
 permalink: /pathologies/
 parent: /
 created_date: 2025-06-18
-updated_date: 2025-06-26
+updated_date: 2025-06-29
 ---
 
 <small>[Home](/) / Pathologies</small>
