@@ -4,7 +4,7 @@ title: "Recurgence"
 description: "The mathematics of pattern recognition and complexity science"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-06-26
+updated_date: 2025-06-28
 ---
 
 ## Welcome, Observer!
@@ -85,7 +85,7 @@ This repository is, and will always be, an epistemic work in progress. If you ha
 
 ## For AI Safety Researchers
 
-RFT is a rigorous mathematical framework for understanding how meaning stabilizes and propagates in recursive systems, it has applications in:
+RFT is a mathematical framework for understanding how meaning stabilizes and propagates in recursive systems, with applications in:
 
 - **Alignment**: Early prediction and prevention of pathological behaviors in coupled systems
 - **Behavioral Evaluation**: Mathematical signatures to detect approaching instability
