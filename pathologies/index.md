@@ -12,9 +12,7 @@ updated_date: 2025-06-26
 
 ---
 
-All recursive systems fail in the same twelve ways.
-
-Whether the system is an individual mind, a cultural movement, an institution, or an artificial intelligence, the breakdown patterns follow identical geometric signatures, because they all emerge from the same field equations.
+Whether  an individual mind, a cultural movement, an institution, or an artificial intelligence, the breakdown patterns of recursive systems follow 12 discrete geometric signatures, because they all emerge from the same information dynamics.
 
 Their taxonomy falls into into four fundamental categories of three breakdown modes each, with orthogonality resulting from the [Semantic Mass equation](/math/05-semantic-mass/):
 
