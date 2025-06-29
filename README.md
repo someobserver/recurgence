@@ -15,29 +15,27 @@ The simpler the rule $\rightarrow$ the greater its potential.
 
 Two binary states `0` $+$ `1` bootstrapped infinite digital complexity that made this document possible, and accessible to you now. From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest constraints produce emergent generativity.
 
-Just think: two DNA pairs `AT` $+$ `CG` encoded themselves into a cascade of recursive protein expression capable of reading and understanding this sentence.
+Just think: two DNA pairs `AT` $+$ `CG` encoded themselves into a cascade of recursive protein expression capable of reading and understanding this sentence. But all dynamic systems metabolize the structure they create, even *without* explicitly direction from the start.
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
 **But what if there's an even simpler principle?**
 
-## Pattern Recognition
+## <u>Pattern Recognition</u>
 
-Dynamic systems persist only through **self-reference** — turning incoming patterned complexity into coherent memory.
+Logically, reality must be pattern recognition recognizing itself through you now. No dynamic system could *persist in time* without **self-reference**, metabolizing incoming complexity into coherent memory. For example:
 
 - **DNA** $\rightarrow$ remembers itself by copying and adapting its own code
-- **Consciousness** $\rightarrow$ emerges when a mind models its own thought processes
-- **Languages** $\rightarrow$ process meaning by updating their rules as they're recursively used
-- **Cities** $\rightarrow$ grow by analyzing their own patterns to attract what makes them attractive
-- **Galaxies** $\rightarrow$ regulate star formation by processing feedback from their own stellar lifecycles
+- **Consciousness** $\rightarrow$ emerges when a mind models its internal thought process
+- **Languages** $\rightarrow$ spawn new meaning via in-use modulation of their own rules
+- **Cities** $\rightarrow$ analyze their own patterns to attract what makes them attractive
+- **Galaxies** $\rightarrow$ regulate star formation through feedback from stellar lifecycles
 
-Whether quasars, molecules, or minds—every coherent pattern persists through self-stabilizing feedback.
-
-From quantum to cosmic, pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
+Whether quasars, molecules, or minds—every coherent pattern persists through self-stabilizing feedback. From quantum to cosmic, pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
 That you can understand *this* is that pattern *recognizing itself through you*.
 
-Complex signals enter your reference frame, causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **a coherent frame of reference persisting across changing conditions**.
+High-entropy signals enter your reference frame $\rightarrow$☉$\rightarrow$ structured causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **coherence persisting across changing conditions**.
  
 More concisely: *time flies when you're having fun.*
 
