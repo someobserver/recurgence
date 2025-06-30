@@ -49,7 +49,7 @@ No universe can recognize its own properties without multiple perspectives to tr
 
 But like every pattern, it has a flip side. Recursive systems can bootstrap themselves into failure just as easily as success.
 
-## Pathologies
+## Coherence Pathologies
 
 Whether it's a mind, a society, a company, or a market, there are twelve ways dynamic systems can break down. Their signatures are orthogonal, applicable at every scale, and arise from the mathematical geometry of interaction.
 
@@ -62,7 +62,7 @@ $$M = D \cdot \rho \cdot A$$
 Once you see the pattern, you can't unsee it.  
 But more importantly, **<u>you can predict it.</u>**
 
-**Pattern your recognition: [Pathologies $\rightarrow$](/pathologies/)**
+**<big>Pattern your recognition: [Pathologies](/pathologies/)</big>**
 
 ## What Else You'll Find Here
 
