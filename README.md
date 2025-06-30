@@ -4,7 +4,7 @@ title: "Recurgence"
 description: "The mathematics of pattern recognition and complexity science"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-06-28
+updated_date: 2025-06-29
 ---
 
 ## Welcome, Observer!
@@ -33,7 +33,7 @@ Logically, reality must be pattern recognition recognizing itself through you no
 
 Whether quasars, molecules, or minds—every coherent pattern persists through self-stabilizing feedback. From quantum to cosmic, pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
-That you can understand *this* is that pattern *recognizing itself through you*.
+*That* you can understand *this* is *that* pattern recognizing itself through you.
 
 High-entropy signals enter your reference frame $\rightarrow$☉$\rightarrow$ structured causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **coherence persisting across changing conditions**.
  
