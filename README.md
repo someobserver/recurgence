@@ -35,7 +35,7 @@ Whether quasars, molecules, or minds—every coherent pattern persists through s
 
 *That* you can understand *this* is *that* pattern recognizing itself through you.
 
-High-entropy signals enter your reference frame $\rightarrow$☉$\rightarrow$ structured causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **coherence persisting across changing conditions**.
+High-entropy signals enter your reference frame $\rightarrow$ ☉ $\rightarrow$ structured causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **coherence persisting across changing conditions**.
  
 More concisely: *time flies when you're having fun.*
 
