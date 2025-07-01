@@ -5,7 +5,7 @@ parent: /
 permalink: /explanations/
 layout: page
 created_date: 2025-05-27
-updated_date: 2025-06-01
+updated_date: 2025-07-01
 ---
 
 <small>[Home](/) / <u>Explanations</u></small>
@@ -138,15 +138,15 @@ The letter headings themselves are dedicated pages with even more specific conte
 
 ### [S](/explanations/s/)
 - **[Semantic Event Horizon](/explanations/s/semantic-event-horizon/)**  
-  In progress...
+  The boundary beyond which meaning cannot be recovered, interpreted, or re-integrated.
 - **[Semantic Manifold](/explanations/s/semantic-manifold/)**  
-  In progress...
+  The differentiable space in which all meaning structures and transformations exist as points and paths.
 - **[Semantic Mass](/explanations/s/semantic-mass/)**  
-  In progress...
+  The emergent weight of coherent meaning that stabilizes structures and shapes the topology of understanding.
 - **[Semantic Particle](/explanations/s/semantic-particle/)**  
-  In progress...
+  The smallest stable unit of meaning that can maintain coherence while propagating through semantic space.
 - **[Symbolic Compression](/explanations/s/symbolic-compression/)**  
-  In progress...
+  The process by which meaning is condensed and encoded into compact forms without losing essential structure.
 
 ---
 
