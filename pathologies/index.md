@@ -24,7 +24,7 @@ where
 - $\rho$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
 - $A$ = **attractor stability** = how resistant the structures are to being perturbed.
 
-The twelve pathologies flesh out the complete set of ways this equation—and the observer-field coupling that interprets it—can malfunction.
+The twelve pathologies flesh out the complete set of ways this equation—*and the observer-field coupling interpreting it*—can malfunction.
 
 The set appears with precision across all scales of organization: a fundamentalist movement exhibits **Attractor Dogmatism** thanks to the same isomorphic constraints trapping an individual in rigid thinking.
 
