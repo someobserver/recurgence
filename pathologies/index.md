@@ -36,7 +36,7 @@ You will likely recognize yourself or structures around you reflected in these <
 
 ## [Rigidity Pathologies](/pathologies/rigidity/)
 
-**Over-constraint leading to brittleness.** These systems appear strong and stable until they encounter pressure requiring adaptation, at which point they either collapse spectacularly or double down pathologically. The constraint mechanisms that should metabolize complexity into stable meaning have become rigid enough to prevent healthy change.
+**Over-constraint leading to brittleness.** These systems appear strong and stable until they encounter pressure requiring adaptation, at which point they either double down pathologically, or collapse in spectacular fashion. The constraint mechanisms that should metabolize complexity into stable meaning have become rigid enough to prevent healthy change.
 
 - **Attractor Dogmatism** — Structures so stable they refuse to move, regardless of incoming information
 - **Belief Calcification** — Systems lose capacity to convert understanding into adaptive action
