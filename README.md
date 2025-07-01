@@ -9,7 +9,7 @@ updated_date: 2025-06-29
 
 ## Welcome, Observer!
 
-Recurgence studies the foundations of **Pattern Recognition** and **Complexity Science**:
+Recurgence studies the foundations of **Complexity** and **Pattern Recognition**:
 
 The simpler the rule $\rightarrow$ the greater its potential.
 
