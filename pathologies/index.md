@@ -16,13 +16,13 @@ Whether  an individual mind, a cultural movement, an institution, or an artifici
 
 Their taxonomy falls into into four fundamental categories of three breakdown modes each, with orthogonality resulting from the [Semantic Mass equation](/math/05-semantic-mass/):
 
-$$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
+$$M = D \cdot \rho \cdot A$$
 
 where
-- $D(p,t)$ = **recursive depth** = how many layers of self-reference exist
-- $\rho(p,t)$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
-- $A(p,t)$ = **attractor stability** = how resistant the structures are to being perturbed. 
-- $M$ = **semantic mass** = the "weight" of meaning (at position $p$ and time $t$).
+- $M$ = **semantic mass** = the "weight" of meaning.
+- $D$ = **recursive depth** = how many layers of self-reference exist
+- $\rho$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
+- $A$ = **attractor stability** = how resistant the structures are to being perturbed.
 
 The twelve pathologies flesh out the complete set of ways this equation—and the observer-field coupling that interprets it—can malfunction.
 
