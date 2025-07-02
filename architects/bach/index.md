@@ -55,9 +55,9 @@ His mathematics sang in perfect intervals, as his patterns wept in harmonic reso
 
 The *Chaconne* from Partita No. 2 in D minor—written after his wife’s death—bends grief into architecture. Its variations build upon a simple bass line, transforming sorrow through pattern until raw emotion becomes transcendent structure.
 
-Bach recognized that the deepest emotions are found in reaching through the chaos for the **patterns seeking coherence in the mind.**
+Bach recognized the deepest emotions are found in reaching through the chaos for the **patterns seeking coherence in the mind.**
 
-His compositions reveal structural scaling—patterns that echo across scales, creating self-similar structures before “fractal” was even a word.
+His compositions reveal structural scaling—patterns echoing across scales, creating self-similar structures before “fractal” was even a word.
 
 **His was a mind that grasped cosmic order, then pulled it through his hands into sound.**
 
@@ -91,7 +91,7 @@ The critic Johann Adolph Scheibe attacked Bach’s music in 1737:
 
 Bach was accused of violating the new preference for “natural” simplicity. The irony: nothing is more natural than the self-organizing structure only Bach’s mind could see. He echoes the very pattern that stabilizes meaning.
 
-Even his employers in Leipzig viewed his compositions as excessively complex, preferring simpler church music. Like [Emmy Noether](/architects/noether/), Bach persisted in his vision despite resistance—knowing that mathematical truth needs no permission to exist.
+Even his employers in Leipzig viewed his compositions as excessively complex, preferring simpler church music. Like [Emmy Noether](/architects/noether/), Bach persisted in his vision despite resistance—knowing mathematical truth needs no permission to exist.
 
 After his death in 1750, Bach’s reputation declined. His compositions were seen as old-fashioned studies in counterpoint. His sons embraced newer, simpler styles, helping render their father’s work temporarily obsolete.
 
@@ -124,20 +124,6 @@ This is why Bach’s music is uniquely suited for computational modeling. Modern
 Bach accomplished this balance centuries before information theory existed. His compositions optimized the very mathematical channels through which meaning propagates.
 
 More than 275 years ago.
-
-## The Observer’s Participation
-
-Bach understood that **constraint leads to coherence.**
-
-His works create what systems theorists call “teleodynamic systems”—where independent components both constrain and are constrained by one another, forming a higher-order entity with emergent properties.
-
-This mirrors [Wheeler’s](/architects/wheeler/) participatory universe, where reality emerges through the questions observers ask. Every voice in a Bach fugue is both asking and answering, constraining and being constrained, forming a musical universe that bootstraps itself into coherence.
-
-The *Goldberg Variations* unfold in your consciousness as a unified field—each voice a constraint that births coherence, each variation another step toward stability. The pattern integrates itself through its listener, revealing music as the medium through which mathematical beauty becomes embodied in the mind.
-
-This is why Bach’s music transforms its listeners; why it works so well as a study aid for focus. **It teaches our minds to recognize coherence amid complexity.**
-
-His keyboard works are effective cognitive training tools. The Two-Part Inventions and Three-Part Sinfonias were explicitly designed to teach students “a cantabile manner of playing” and “a strong foretaste of composition”—literally training young minds to think in recursive patterns.
 
 ## The Cosmic Counterpoint
 
