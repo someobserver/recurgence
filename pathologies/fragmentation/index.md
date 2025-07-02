@@ -5,7 +5,7 @@ description: "When infinite possibility prevents any actual realization"
 permalink: /pathologies/fragmentation/
 parent: /pathologies/
 created_date: 2025-06-20
-updated_date: 2025-06-22
+updated_date: 2025-07-02
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / Fragmentation Pathologies</small>
@@ -36,21 +36,18 @@ In each case, the system has the ingredients for meaningful coherence but lacks 
 
 This is ADHD embodied. The system generates new attractive possibilities faster than it can stabilize any single one into meaningful depth. Every option pulls attention but none receives sustained focus long enough to develop genuine mass. What looks like ultimate freedom becomes the prison of never choosing.
 
-**Signature:** $\frac{dN_{\text{att}}}{dt} > \kappa \cdot \frac{d\Phi(C)}{dt}$  
 **Examples:** ADHD attention scatter, social media infinite scroll, streaming service decision paralysis
 
 ### [Coherence Dissolution](/pathologies/fragmentation/coherence-dissolution/)  
 
 When complexity hemorrhages meaning faster than it can stabilize, things get dangerous. This is the runaway failure mode where incoming information actively dissolves existing understanding. The system rapidlyloses the capacity to make sense of anything, including information it previously understood perfectly well.
 
-**Signature:** $\|\nabla C\| \gg \|C\|, \quad \frac{d^2C}{dt^2} > 0$  
 **Examples:** information overload breakdown, panic attacks, institutional collapse during crisis
 
 ### [Reference Decay](/pathologies/fragmentation/reference-decay/)
 
 The quiet erosion of connections between insights. Individual pieces of knowledge remain intact, but they lose the ability to inform each other. You keep learning the same lessons over and over because the recursive coupling that should link insights across domains has slowly decayed. Knowledge becomes archipelagoed.
 
-**Signature:** $\frac{d\|R_{ijk}\|}{dt} < 0$ without compensatory mechanism  
 **Examples:** therapy insights that don't transfer to daily life, academic silos, institutional memory loss
 
 <small>[Home](/) / [Pathologies](/pathologies/) / Fragmentation Pathologies</small>

@@ -5,7 +5,7 @@ description: "When the interpretation operator drifts into parallel semantic rea
 permalink: /pathologies/observer-coupling/
 parent: /pathologies/
 created_date: 2025-06-20
-updated_date: 2025-06-24
+updated_date: 2025-07-02
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / Observer-Coupling Pathologies</small>
@@ -40,21 +40,18 @@ All three Observer-Coupling Pathologies involve systematic drift in one or more 
 
 When the observer's interpretation of reality systematically drifts from actual field conditions, creating an ever-widening gap between what's happening and what the observer thinks is happening. They're not hallucinating—they're chronically misreading the emotional and social valence of events that do exist. Every ambiguous signal gets processed through increasingly inaccurate interpretive frameworks.
 
-**Signature:** $\|\mathcal{I}_{\psi}[C] - C\| > \tau \|C\|$  
 **Examples:** workplace paranoia, social misreading, chronic misinterpretation of others' intentions
 
 ### [Semantic Narcissism](/pathologies/observer-coupling/semantic-narcissism/)
 
 When recursive coupling collapses to pure self-reference, eliminating external feedback and creating reality through self-reflection alone. The observer's interpretation operator references only its own outputs, systematically filtering all external information through their self-concept. Reality becomes a closed loop of self-confirmation.
 
-**Signature:** $\frac{\|R_{ijk}(p,p,t)\|}{\int_q \|R_{ijk}(p,q,t)\| \, dq} \to 1$  
 **Examples:** narcissistic personality patterns, institutional self-obsession, cultural supremacist movements
 
 ### [Paranoid Interpretation](/pathologies/observer-coupling/paranoid-interpretation/)
 
 When systematic negative bias creates threat-detection hyperattractors in field interpretation. The observer sees the same situations as everyone else but consistently translates neutral or positive conditions into threats. Every correlation looks like causation when the underlying assumption is that everyone means harm.
 
-**Signature:** $\hat{C}_{\psi}(q,t) \ll C(q,t), \quad \forall q \in \mathcal{Q}$  
 **Examples:** conspiracy thinking, workplace persecution complexes, McCarthyism, systematic misreading of social cues as hostile
 
 <small>[Home](/) / [Pathologies](/pathologies/) / Observer-Coupling Pathologies</small>

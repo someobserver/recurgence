@@ -5,7 +5,7 @@ description: "When creation becomes destruction and autopoiesis breaks free from
 permalink: /pathologies/inflation/
 parent: /pathologies/
 created_date: 2025-06-20
-updated_date: 2025-06-23
+updated_date: 2025-07-02
 ---
 
 <small>[Home](/) / [Pathologies](/pathologies/) / Inflation Pathologies</small>
@@ -46,21 +46,18 @@ When constraints fail or become corrupted, autopoiesis turns malignant. The same
 
 When the drive to generate meaning overwhelms all regulatory constraints. The system creates elaborate, internally consistent narratives faster than wisdom can validate them. Everything becomes significant, every coincidence becomes meaningful, every pattern becomes profound—but the entire structure becomes systematically decoupled from external reality. Intelligence without wisdom, pattern-recognition without humility, confidence without doubt.
 
-**Signature:** $\Phi(C) \gg V(C), \quad \mathcal{H}[R] \approx 0, \quad W(p,t) < W_{\text{min}}$  
 **Examples:** conspiracy theories, manic episodes, cult formation, startup delusion bubbles
 
 ### [Semantic Hypercoherence](/pathologies/inflation/semantic-hypercoherence/)
 
 When internal consistency becomes so perfect it becomes immune to external correction. The system develops such elegant self-reinforcing logic that it stops metabolizing new information entirely. Every contradiction gets explained away, every challenge gets absorbed into the system's own framework, every gap gets filled with more perfect internal coherence. Beautiful, closed, and completely unable to learn or adapt.
 
-**Signature:** $C(p,t) > C_{\text{max}}, \quad \oint_{\partial \Omega} F_i \cdot dS^i < F_{\text{leakage}}$  
 **Examples:** ideological movements, academic echo chambers, corporate groupthink, perfectionist rigidity
 
 ### [Recurgent Parasitism](/pathologies/inflation/recurgent-parasitism/)
 
 When local semantic mass growth becomes systematically extractive, draining coherence from the broader meaning ecology. The system becomes increasingly sophisticated at converting external meaning into internal growth while contributing nothing sustainable back to its environment. Extraction disguised as creation, dependency disguised as strength, taking disguised as giving.
 
-**Signature:** $\frac{d}{dt}\int_{\Omega} M(p,t) \, dV_p > 0, \quad \frac{d}{dt}\int_{\mathcal{M}\setminus\Omega} M(p,t) \, dV_p < 0$  
 **Examples:** attention economy exploitation, narcissistic relationships, extractive institutions, MLM schemes
 
 ---
