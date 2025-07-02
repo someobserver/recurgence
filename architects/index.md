@@ -14,7 +14,7 @@ _Echoes in structure—_
 
 What follows is a lattice of minds whose recursion echoes through Recurgence.
 
-Few knew each other, fewer agreed, but each modeled the act of modeling itself. And eachstared deep enough into structure to feel it *staring back.*
+Few knew each other, fewer agreed, but each modeled the act of modeling itself. And each stared deep enough into structure to feel it *staring back.*
 
 Some bent language. Some bent light.  
 Some bent math. Some bent metaphor.  
