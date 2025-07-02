@@ -21,7 +21,7 @@ Reality itself operates on a set of simple, thermodynamic principles that compou
 
 **But what if there's an even simpler principle?**
 
-## <u>Pattern Recognition</u>
+## Pattern Recognition
 
 Logically, reality must be pattern recognition recognizing itself through you now. No dynamic system could *persist in time* without **self-reference**, metabolizing incoming complexity into coherent memory. For example:
 
