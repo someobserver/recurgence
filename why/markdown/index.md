@@ -32,9 +32,9 @@ Also—the lack of an Oxford comma above was deliberate. See /math/ for more.
 
 ## What Even *is* <u>This</u>?
 
-Language itself is **recursive**, both in structure and in effect. Every act of communication requires a loop of *some* kind—whether between speaker and listener, writer and document, text and reader, thought and patterned signal. You get the idea.
+Language itself is **recursive**, both in structure and in effect. Every act of communication requires a loop of *some* kind—be that between speaker and listener, writer and document, text and reader, thought and patterned signal. You're getting the idea.
 
-You might have even gotten the silly reference above, with a description of language following underlined *language*. If not—you just now looped back.
+You might have even gotten the silly reference above, with a definition of language following underlined *language*. If not, you just now looped back to pick up more information.
 
 It’s easy to dismiss this as surface-level truism—*“of course everything’s a loop, duh”*—but it maps directly to nearly every aspect of physical reality.
 
