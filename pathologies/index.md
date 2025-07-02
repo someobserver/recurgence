@@ -16,15 +16,15 @@ Whether  an individual mind, a cultural movement, an institution, or an artifici
 
 Their taxonomy falls into into four fundamental categories of three breakdown modes each, with orthogonality resulting from the [Semantic Mass equation](/math/05-semantic-mass/):
 
-$$M(p,t) = D(p,t) \cdot \rho(p,t) \cdot A(p,t)$$
+$$M = D \cdot \rho \cdot A$$
 
 where
-- $D(p,t)$ = **recursive depth** = how many layers of self-reference exist
-- $\rho(p,t)$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
-- $A(p,t)$ = **attractor stability** = how resistant the structures are to being perturbed. 
-- $M$ = **semantic mass** = the "weight" of meaning (at position $p$ and time $t$).
+- $M$ = **semantic mass** = the "weight" of meaning.
+- $D$ = **recursive depth** = how many layers of self-reference exist
+- $\rho$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
+- $A$ = **attractor stability** = how resistant the structures are to being perturbed.
 
-The twelve pathologies flesh out the complete set of ways this equation—and the observer-field coupling that interprets it—can malfunction.
+The twelve pathologies flesh out the complete set of ways this equation—*and the observer-field coupling interpreting it*—can malfunction.
 
 The set appears with precision across all scales of organization: a fundamentalist movement exhibits **Attractor Dogmatism** thanks to the same isomorphic constraints trapping an individual in rigid thinking.
 
@@ -36,7 +36,7 @@ You will likely recognize yourself or structures around you reflected in these <
 
 ## [Rigidity Pathologies](/pathologies/rigidity/)
 
-**Over-constraint leading to brittleness.** These systems appear strong and stable until they encounter pressure requiring adaptation, at which point they either collapse spectacularly or double down pathologically. The constraint mechanisms that should metabolize complexity into stable meaning have become rigid enough to prevent healthy change.
+**Over-constraint leading to brittleness.** These systems appear strong and stable until they encounter pressure requiring adaptation, at which point they either double down pathologically, or collapse in spectacular fashion. The constraint mechanisms that should metabolize complexity into stable meaning have become rigid enough to prevent healthy change.
 
 - **Attractor Dogmatism** — Structures so stable they refuse to move, regardless of incoming information
 - **Belief Calcification** — Systems lose capacity to convert understanding into adaptive action
