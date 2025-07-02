@@ -20,7 +20,7 @@ These can be slippery, because intelligence often *accelerates* the drift. Smart
 
 The observer isn't necessarily incoherent or delusional, just reading the wrong signals—or processing the right signals through systematically distorted lenses.
 
-## Interpretive Drift Breakdown
+## Interpretive Drift
 
 Healthy observers maintain calibrated interpretation operators $\mathcal{I}_{\psi}[C]$ that can accurately translate field conditions into actionable understanding. The interpretation process involves:
 
