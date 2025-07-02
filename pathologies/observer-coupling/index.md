@@ -46,7 +46,7 @@ When the observer's interpretation of reality systematically drifts from actual 
 
 When recursive coupling collapses to pure self-reference, eliminating external feedback and creating reality through self-reflection alone. The observer's interpretation operator references only its own outputs, systematically filtering all external information through their self-concept. Reality becomes a closed loop of self-confirmation.
 
-**Examples:** narcissistic personality patterns, institutional self-obsession, cultural supremacist movements
+**Examples:** individual self-obsession, institutional self-obsession, cultural supremacist movements
 
 ### [Paranoid Interpretation](/pathologies/observer-coupling/paranoid-interpretation/)
 
