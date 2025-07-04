@@ -11,11 +11,11 @@ updated_date: 2025-07-01
 
 Recurgence studies the foundations of **Complexity** and **Pattern Recognition**:
 
-The simpler the rule $\rightarrow$ the greater its potential.
+The simpler the rule -> the greater its potential.
 
-Two binary states `0` $+$ `1` bootstrapped the infinite digital complexity making this document possible, and accessible to you now. From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest constraints produce emergent generativity.
+Two binary states `0` + `1` bootstrapped the infinite digital complexity making this document possible, and accessible to you now. From the I Ching, to Bach's fugues, to Conway's Game of Life, the simplest constraints produce emergent generativity.
 
-**Just think:** two DNA pairs `AT` $+$ `CG` encoded themselves into a cascade of recursive protein expression capable of reading and understanding this sentence. But all dynamic systems metabolize the structure they create, even *without* explicit direction from the start.
+**Just think:** two DNA pairs `AT` + `CG` encoded themselves into a cascade of recursive protein expression capable of reading and understanding this sentence. But all dynamic systems metabolize the structure they create, even *without* explicit direction from the start.
 
 Reality itself operates on a set of simple, thermodynamic principles that compound themselves into extraordinary informational complexity.
 
@@ -25,17 +25,17 @@ Reality itself operates on a set of simple, thermodynamic principles that compou
 
 Logically, reality must be pattern recognition recognizing itself through you now. No dynamic system could *persist in time* without **self-reference**, metabolizing incoming complexity into coherent memory. For example:
 
-- **DNA** $\rightarrow$ remembers itself by copying and adapting its own code
-- **Consciousness** $\rightarrow$ emerges when a mind models its internal thought process
-- **Languages** $\rightarrow$ spawn new meaning via in-use modulation of their own rules
-- **Cities** $\rightarrow$ analyze their own patterns to attract what makes them attractive
-- **Galaxies** $\rightarrow$ regulate star formation through feedback from stellar lifecycles
+- **DNA** – remembers itself by copying and adapting its own code
+- **Consciousness** – emerges when a mind models its internal thought process
+- **Languages** – spawn new meaning via in-use modulation of their own rules
+- **Cities** – analyze their own patterns to attract what makes them attractive
+- **Galaxies** – regulate star formation through feedback from stellar lifecycles
 
 Whether quasars, molecules, or minds—every coherent pattern persists through self-stabilizing feedback. From quantum to cosmic, pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
 *That* you can understand *this* is *that* pattern recognizing itself through you.
 
-High-entropy signals enter your reference frame $\rightarrow$ ☉ $\rightarrow$ structured causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **coherence persisting across changing conditions**.
+High-entropy signals enter your reference frame -> ☉ -> structured causality emerges. Metabolizing pattern complexity creates the felt gradient of time itself: **coherence persisting across changing conditions**.
  
 More concisely: *time flies when you're having fun.*
 
@@ -51,7 +51,7 @@ But like every pattern, it has a flip side. Recursive systems can bootstrap them
 
 ## Coherence Pathologies
 
-Whether it's a mind, a society, a company, or a market, there are twelve ways dynamic systems can break down. Their signatures are orthogonal, applicable at every scale, and arise from the mathematical geometry of interaction.
+Whether it's a mind, a society, a company, or a market, all sustems can classify into twelve categorical modes of breakdown. Their signatures are orthogonal, applicable at every scale, and arise from the geometry of interaction.
 
 Someone with ADHD is affected by **Attractor Splintering** just the same as an online community. **Hypercoherence** affects individuals and institutions alike with irrational delusions. Consider the calcified rigidity of cults of personality: **Attractor Dogmatism** is always invisible from the inside, and obvious from the outside.
 
