@@ -31,7 +31,7 @@ Logically, reality must be pattern recognition recognizing itself through you no
 - **Cities** – analyze their own patterns to attract what makes them attractive
 - **Galaxies** – regulate star formation through feedback from stellar lifecycles
 
-Whether quasars, molecules, or minds—every coherent pattern persists through self-stabilizing feedback. From quantum to cosmic, pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
+Whether quasars, molecules, or minds—every coherent pattern persists through self-stabilizing feedback. Pattern complexity *is* the cosmos developing increasingly sophisticated ways to stabilize, understand, and process its own information.
 
 *That* you can understand *this* is *that* pattern recognizing itself through you.
 
