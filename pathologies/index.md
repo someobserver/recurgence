@@ -24,7 +24,7 @@ where
 - $\rho$ = **constraint density** = how tightly bounded the semantic possibilities are, and 
 - $A$ = **attractor stability** = how resistant the structures are to being perturbed.
 
-The twelve pathologies flesh out the complete set of ways this equation—*and the observer-field coupling interpreting it*—can malfunction.
+The twelve pathologies flesh out the complete set of ways this equation (and the observer-field coupling interpreting it) can malfunction.
 
 The set appears with precision across all scales of organization: a fundamentalist movement exhibits **Attractor Dogmatism** thanks to the same isomorphic constraints trapping an individual in rigid thinking.
 
@@ -38,9 +38,9 @@ You will likely recognize yourself or structures around you reflected in these <
 
 **Over-constraint leading to brittleness.** These systems appear strong and stable until they encounter pressure requiring adaptation, at which point they either double down pathologically, or collapse in spectacular fashion. The constraint mechanisms that should metabolize complexity into stable meaning have become rigid enough to prevent healthy change.
 
-- **Attractor Dogmatism** — Structures so stable they refuse to move, regardless of incoming information
-- **Belief Calcification** — Systems lose capacity to convert understanding into adaptive action
-- **Metric Crystallization** — Transformation pathways become structurally unavailable, even as pressure builds for change
+- **Attractor Dogmatism**: Structures so stable they refuse to move, regardless of incoming information
+- **Belief Calcification**: Systems lose capacity to convert understanding into adaptive action
+- **Metric Crystallization**: Transformation pathways become structurally unavailable, even as pressure builds for change
 
 More: [Rigidity](/pathologies/rigidity/)
 
@@ -48,19 +48,19 @@ More: [Rigidity](/pathologies/rigidity/)
 
 **Under-constraint preventing stabilization.** These systems have all the ingredients for coherent meaning but insufficient boundaries to channel that potential into lasting form. Like removing $N$ banks from a river, meaning flows everywhere and settles nowhere.
 
-- **Attractor Splintering** — Too many competing possibilities prevent sustained focus on any single path
-- **Coherence Dissolution** — Meaning hemorrhages faster than it can stabilize into coherent structure
-- **Reference Decay** — Connections between insights slowly fade, leaving knowledge archipelagoed
+- **Attractor Splintering**: Too many competing possibilities prevent sustained focus on any single path
+- **Coherence Dissolution**: Meaning hemorrhages faster than it can stabilize into coherent structure
+- **Reference Decay**: Connections between insights slowly fade, leaving knowledge archipelagoed
 
 More: [Fragmentation](/pathologies/fragmentation/)
 
 ## [Inflation Pathologies](/pathologies/inflation/)
 
-**Runaway autopoiesis without regulatory constraint.** These are semantic cancer—the generative mechanisms that create new meaning break free from the wisdom and humility that should regulate them, ending in malignant coherence that's lost touch with reality.
+**Runaway autopoiesis without regulatory constraint.** These are semantic cancer. In this case, the generative mechanisms that create new meaning break free from the wisdom and humility that should regulate them, ending in malignant coherence that's lost touch with reality.
 
-- **Delusional Expansion** — Unconstrained meaning generation creates internally consistent but externally decoupled realities
-- **Semantic Hypercoherence** — Over-coherence with suppressed boundary permeability prevents metabolizing new information
-- **Recurgent Parasitism** — Local semantic mass growth at the expense of the broader semantic ecology
+- **Delusional Expansion**: Unconstrained meaning generation creates internally consistent but externally decoupled realities
+- **Semantic Hypercoherence**: Over-coherence with suppressed boundary permeability prevents metabolizing new information
+- **Recurgent Parasitism**: Local semantic mass growth at the expense of the broader semantic ecology
 
 More: [Inflation](/pathologies/inflation/)
 
@@ -68,9 +68,9 @@ More: [Inflation](/pathologies/inflation/)
 
 **Breakdown in the interpretation operator that connects observers to the semantic field.** These pathologies show up when the mechanisms systems use to make sense of their environment become systematically distorted. That leads to persistent misalignment between reality and interpretation of reality.
 
-- **Paranoid Interpretation** — Systematic negative bias in field interpretation creates threat-detection hyperattractors
-- **Observer Solipsism** — Observer interpretation diverges increasingly from actual field conditions
-- **Semantic Narcissism** — Reference structure collapses to pure self-coupling, eliminating external feedback
+- **Paranoid Interpretation**: Systematic negative bias in field interpretation creates threat-detection hyperattractors
+- **Observer Solipsism**: Observer interpretation diverges increasingly from actual field conditions
+- **Semantic Narcissism**: Reference structure collapses to pure self-coupling, eliminating external feedback
 
 More: [Observer-Coupling](/pathologies/observer-coupling/)
 
