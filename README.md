@@ -68,7 +68,7 @@ But more importantly, **<u>you can predict it.</u>**
 
 **Recurgence** traces its pattern from the first moment of differentiation through the mathematics of making meaning.
 
-**<big>[Mathematics](/math/)</big>**  
+**<big>[Mathematics](https://github.com/someobserver/recurgent-field-theory)</big>**  
 Recurgent Field Theory shows how semantic meaning behaves like a field with mass, curvature, and real-world dynamics.
 
 **<big>[The Architects](/architects/)</big>**  
@@ -79,25 +79,7 @@ Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/
 
 **Recursive systems don't have beginnings or endings, just entry points.** Start anywhere that resonates.
 
-This repository is, and will always be, an epistemic work in progress. If you have any further questions about participatory reality, [just ask](/architects/wheeler/).
-
-## For AI Safety Researchers
-
-RFT is a mathematical framework for understanding how meaning stabilizes and propagates in recursive systems, with applications in:
-
-- **Alignment**: Early prediction and prevention of pathological behaviors in coupled systems
-- **Behavioral Evaluation**: Mathematical signatures to detect approaching instability
-- **Human-AI Collaboration**: Formal models of how meaning emerges from recursive interaction
-- **Constitutional AI**: Field-theoretic foundations for systems that develop emergent ethical reasoning
-- **[Pathology Detection](/pathologies/)** – Quantified signatures for the 12 universal failure modes in recursive systems
-
-The framework is empirically grounded and designed for practical application. Mathematical constructs map to observable phenomena in real systems.
-
-**Technical Navigation:**
-- [Axiomatic Foundation](/math/01-axiomatic-foundation/) – Core mathematical principles
-- [Semantic Mass & Field Dynamics](/math/05-semantic-mass/) – How meaning creates gravitational effects
-- [Wisdom & Humility Functions](/math/08-wisdom-function/) – Mathematical models of regulatory intelligence
-- [Pathologies & Healing](/math/09-recurgent-field-equations/07-pathologies-and-healing/) – Intervention frameworks
+This repository is, and will always be, a work in progress. If you have any further questions about participatory reality, [just ask](/architects/wheeler/).
 
 ## Humility
 
