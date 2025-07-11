@@ -1,4 +1,25 @@
-/* Header Styles */
+/*
+ * Observer.is Site Styles
+ */
+
+/* ==========================================================================
+   Base Typography + Layout
+   ========================================================================== */
+
+body {
+  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #dbdbdb !important;
+  font-size: 16px;
+  line-height: 1.75;
+  max-width: 800px;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+/* ==========================================================================
+   Header Things
+   ========================================================================== */
+
 .site-header {
   padding: 0.5rem 0 0.5rem 0;
   background: transparent;
@@ -23,7 +44,6 @@
   opacity: 1;
 }
 
-/* Subtitle styling */
 .site-subtitle {
   display: block;
   font-size: 1rem;
@@ -39,18 +59,10 @@
   display: none;
 }
 
-/* General Layout Tweaks */
-body {
-  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #dbdbdb !important;
-  font-size: 16px;
-  line-height: 1.75;
-  max-width: 800px;
-  margin: auto;
-  padding: 0 1rem;
-}
+/* ==========================================================================
+   Hierarchical Typography
+   ========================================================================== */
 
-/* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
@@ -90,9 +102,20 @@ h6 {
   color: #dddddd;
 }
 
-/* Paragraphs */
+/* ==========================================================================
+   Content + Lists + Decor
+   ========================================================================== */
+
 p {
   margin: 1rem 0;
+}
+
+.post-content p + p {
+  margin-top: 0.5rem;
+}
+
+ul + p, ol + p {
+  margin-top: 1.5rem;
 }
 
 /* Links */
@@ -118,6 +141,16 @@ li {
   line-height: 1.8;
 }
 
+/* Emphasis */
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 600;
+  color: #ffffff !important;
+}
+
 /* Blockquotes */
 blockquote {
   font-style: italic;
@@ -126,6 +159,18 @@ blockquote {
   margin-left: 0;
   color: #8b949e;
 }
+
+/* Horizontal Rules */
+hr {
+  border: none;
+  height: 1px;
+  background-color: #30363d;
+  margin: 2rem 0;
+}
+
+/* ==========================================================================
+   Code
+   ========================================================================== */
 
 /* Code blocks */
 pre, pre code {
@@ -168,35 +213,10 @@ code {
   margin: 0 0.08em;
 }
 
-/* Horizontal Rule */
-hr {
-  border: none;
-  height: 1px;
-  background-color: #30363d;
-  margin: 2rem 0;
-}
+/* ==========================================================================
+   Media
+   ========================================================================== */
 
-/* Spacing between paragraphs */
-.post-content p + p {
-  margin-top: 0.5rem;
-}
-
-/* Spacing after lists before following paragraph */
-ul + p, ol + p {
-  margin-top: 1.5rem;
-}
-
-/* Emphasis */
-em {
-  font-style: italic;
-}
-
-strong {
-  font-weight: 600;
-  color: #ffffff !important;
-}
-
-/* Responsive Images */
 img {
   max-width: 100%;
   height: auto;
@@ -206,7 +226,6 @@ img {
   border-radius: 4px;
 }
 
-/* Image styling classes for special cases */
 .img-full {
   width: 100%;
 }
@@ -223,12 +242,10 @@ img {
   vertical-align: middle;
 }
 
-/* Text alignment utilities */
-.text-center {
-  text-align: center;
-}
+/* ==========================================================================
+   Data Tables
+   ========================================================================== */
 
-/* Table Styles */
 .post-content table, .page-content table, main table {
   border-collapse: collapse;
   width: 100%;
@@ -258,9 +275,16 @@ main table th, main table td {
   background-color: #0d1117;
 }
 
-/* Alternate row styling for better readability */
 .post-content table tr:nth-child(even) td,
 .page-content table tr:nth-child(even) td,
 main table tr:nth-child(even) td {
   background-color: #0f1419;
+}
+
+/* ==========================================================================
+   Utility Classes
+   ========================================================================== */
+
+.text-center {
+  text-align: center;
 }

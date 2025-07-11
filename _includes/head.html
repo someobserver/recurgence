@@ -5,23 +5,28 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  
   <style>
-    /* Dark theme override */
+    /* Dark Theme */
     body {
       background-color: #0d1117 !important;
       color: #c9d1d9 !important;
     }
+    
     .site-header, .site-footer, .page-content, .wrapper, main, .post, .post-content {
       background-color: #0d1117 !important;
     }
+    
+    /* Typography Colors */
     h1, h2, h3, h4, h5, h6, p, li, td, th, dt, dd {
       color: #c9d1d9 !important;
     }
-    /* Subtle brightness for H1 and H2 headings */
+    
     h1, h2 {
       color: #ffffff !important;
     }
-    /* Make page titles (H1 from Jekyll frontmatter) a bit smaller */
+    
+    /* Page Title */
     .page-content h1 {
       font-size: 2rem !important;
       font-weight: 600 !important;
@@ -30,16 +35,20 @@
       margin-bottom: 0.7rem !important;
       letter-spacing: -0.01em !important;
     }
+    
+    /* Link Colors */
     a, a:visited {
       color: #96c7ff !important;
     }
-    /* Enhanced header styling */
+    
+    /* Header */
     .site-header {
       border-top: none !important;
       border-bottom: 1px solid rgba(48, 54, 61, 0.6) !important;
       padding: 0.3rem 0 !important;
     }
-    /* Ensure consistent site title size across all layouts */
+    
+    /* Site Title */
     .site-title, .site-title:visited {
       color: #e6edf3 !important;
       font-weight: 600 !important;
@@ -49,7 +58,8 @@
       margin-top: 0.5rem !important;
       margin-bottom: 0.0rem !important;
     }
-    /* Site subtitle styling */
+    
+    /* Site Subtitle */
     .site-subtitle {
       display: block !important;
       font-size: 0.85rem !important;
@@ -60,57 +70,65 @@
       margin-top: -0.1rem !important;
       margin-left: 0.1rem !important;
     }
+    
+    /* Content Elements */
     blockquote {
       color: #8b949e !important;
       border-left-color: #30363d !important;
     }
+    
     hr {
       background-color: #30363d !important;
     }
+    
     pre, code {
       background-color: #161b22 !important;
       border-color: #30363d !important;
     }
     
-
-    
-    /* Mobile-specific adjustments */
+    /* Mobile */
     @media (max-width: 767px) {
       body {
         font-size: 14px;
       }
+      
       h1 {
         font-size: 1.8rem;
       }
+      
       h2 {
         font-size: 1.4rem;
       }
+      
       h3 {
         font-size: 1.15rem;
       }
+      
       .site-title {
         font-size: 1.8rem !important;
       }
+      
       .page-content h1 {
         font-size: 1.4rem !important;
       }
     }
   </style>
+  
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  
   <script type="text/javascript">
-    // Fix for kramdown + MathJax 3 compatibility
+    // MathJax 3
     document.addEventListener('DOMContentLoaded', function(){
-      // Strip kramdown's CDATA tags
       function stripcdata(x) {
         if (x.startsWith('% <![CDATA[') && x.endsWith('%]]>'))
           return x.substring(11,x.length-4);
         return x;
       }
       
-      // Convert script tags to MathJax 3 delimiters
+      // Convert legacy script tags to MathJax 3 delimiters
       document.querySelectorAll("script[type='math/tex']").forEach(function(el){
         el.outerHTML = "\\(" + stripcdata(el.textContent) + "\\)";
       });
@@ -118,7 +136,7 @@
         el.outerHTML = "\\[" + stripcdata(el.textContent) + "\\]";
       });
       
-      // Load MathJax after conversion is complete
+      // Initialize MathJax
       window.MathJax = {
         tex: {
           inlineMath: [['$', '$'], ['\\(', '\\)']],
