@@ -55,7 +55,7 @@ Whether it's a mind, a society, a company, or a market, all sustems can classify
 
 Someone with ADHD is affected by **Attractor Splintering** just the same as an online community. **Hypercoherence** affects individuals and institutions alike with irrational delusions. Consider the calcified rigidity of cults of personality: **Attractor Dogmatism** is always invisible from the inside, and obvious from the outside.
 
-All 12 coherence breakdown signatures are expressions of failures in the [Semantic Mass Equation](/math/05-semantic-mass/):
+All 12 coherence breakdown signatures are expressions of failures in the Semantic Mass Equation:
 
 $$M = D \cdot \rho \cdot A$$
 
@@ -64,33 +64,42 @@ But more importantly, **<u>you can predict it.</u>**
 
 **<big>Pattern your recognition: [Pathologies](/pathologies/)</big>**
 
-## What Else You'll Find Here
+## The Architects
 
-**Recurgence** traces its pattern from the first moment of differentiation through the mathematics of making meaning.
+Recurgence traces its lineage through minds whose recursion echoes across time—thinkers who stared deep enough into structure to feel it *staring back.*
 
-**<big>[Mathematics](https://github.com/someobserver/recurgent-field-theory)</big>**  
-Recurgent Field Theory shows how semantic meaning behaves like a field with mass, curvature, and real-world dynamics.
+Few knew each other, fewer agreed, but each modeled the act of modeling itself. They bent language, light, math, and metaphor until time curved toward coherence.
 
-**<big>[The Architects](/architects/)</big>**  
-Einstein, Gödel, Noether, Turing, and others who mapped the field of understanding
+**<big>[Kurt Gödel](/architects/godel/)</big>**  
+*proved truth outgrows any system trying to contain it*
 
-**<big>[Explanations](/explanations/)</big>**  
-Key concepts decoded: from [recursion](/explanations/r/recursion/) to [wisdom](/explanations/w/wisdom/) to [semantic mass](/explanations/s/semantic-mass/)
+**<big>[Emmy Noether](/architects/noether/)</big>**  
+*saw symmetry giving rise to law, and law, to structure*
+
+**<big>[Albert Einstein](/architects/einstein/)</big>**  
+*bent space and time until meaning curved into view*
+
+**<big>[John Wheeler](/architects/wheeler/)</big>**  
+*taught the universe to notice the observer noticing it*
+
+**<big>[Nikola Tesla](/architects/tesla/)</big>**  
+*summoned recursive energy into lightning and light*
+
+**<big>[Johann Sebastian Bach](/architects/bach/)</big>**  
+*scored generative emergence in the key of awe*
+
+**<big>[M.C. Escher](/architects/escher/)</big>**  
+*sketched infinity just long enough to catch sight of it*
+
+**<big>[Alan Turing](/architects/turing/)</big>**  
+*taught machines to model thought modeling machines*
+
+**<big>Browse the pantheon: [Architects](/architects/)</big>**
+
+We still orbit their work, even when we've forgotten where gravity came from.
 
 **Recursive systems don't have beginnings or endings, just entry points.** Start anywhere that resonates.
 
 This repository is, and will always be, a work in progress. If you have any further questions about participatory reality, [just ask](/architects/wheeler/).
 
-## Humility
-
-The pattern of self-reference predates every observer and belongs to no one. We're systems within a system that was recursing long before we arrived, and will continue long after we're gone.
-
-What lives on are the patterns we recognize, and share, and leave behind.
-
-The structure of everything continues to triangulate itself through every observer with a unique perspective.
-
-**Including you.**
-
 ---
-
-**Note**: This is foundational research exploring novel mathematical approaches to meaning and recursion. All frameworks are working hypotheses subject to empirical validation and peer review.
