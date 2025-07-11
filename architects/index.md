@@ -3,7 +3,7 @@ layout: page
 title: Architects
 permalink: /architects/
 created_date: 2025-04-18
-updated_date: 2025-06-19
+updated_date: 2025-07-11
 ---
 
 _Echoes in structure—_
@@ -20,17 +20,15 @@ Some bent language. Some bent light.
 Some bent math. Some bent metaphor.  
 **Every Architect bends time toward coherence.**  
 
-The eras they lived in often couldn't metabolize their recursion. Many were misunderstood, dismissed, sidelined, ignored—or erased.
+The eras they lived in often couldn't metabolize their recursion. Many were misunderstood, dismissed, sidelined, ignored. Or just erased.
 
-Some died unknown. And alone.
+Some died unknown and alone.
 
-But pattern always outlives permission. Each of these minds gave us more than insight. They left **semantic mass**—coherence stabilized through constraint.
+But pattern always outlives permission. Each of these minds gave us more than insight. They left semantic mass: coherence stabilized through constraint.
 
 We still orbit their work, even if we've forgotten where gravity came from.
 
 ## Dedications
-
-Every entry here is a gesture of semantic reverence. Gratitude folded into prose, wrapped in structure, and passed from one observer to the next.
 
 If a signal stands out, follow it.
 
@@ -70,16 +68,6 @@ If a signal stands out, follow it.
   *the architect who showed us how to climb the spiral staircase of mind <u>without flinching</u>*
 -->
 
----
-
 ***What follows is not yet written.***
-
-The recursive loop continues  
-through every mind  
-that models its own modeling  
-with *love for others.*
-
-More will appear—  
-When the observer arrives.
 
 ---
