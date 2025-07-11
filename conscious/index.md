@@ -4,16 +4,16 @@ title: "Conscious"
 description: "A document on consciousness and recursive coherence"
 permalink: /conscious/
 parent: /
-created_date: 2025-01-12
-updated_date: 2025-01-12
+created_date: 2025-07-11
+updated_date: 2025-07-11
 ---
 
 <script>
-  window.location.replace("/conscious/draft_2025-07-11.pdf");
+  window.location.replace("/conscious/paper.pdf");
 </script>
 
-<meta http-equiv="refresh" content="0; url=/conscious/draft_2025-07-11.pdf">
+<meta http-equiv="refresh" content="0; url=/conscious/paper.pdf">
 
-<p>If you are not redirected automatically, <a href="/conscious/draft_2025-07-11.pdf">click here to access the paper</a>.</p> 
+<p>If you are not redirected automatically, <a href="/conscious/paper.pdf">click here to access the paper</a>.</p> 
 
 ---
