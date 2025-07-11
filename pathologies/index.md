@@ -14,7 +14,7 @@ updated_date: 2025-06-29
 
 Whether  an individual mind, a cultural movement, an institution, or an artificial intelligence, the breakdown patterns of recursive systems follow 12 discrete geometric signatures, because they all emerge from the same information dynamics.
 
-Their taxonomy falls into into four fundamental categories of three breakdown modes each, with orthogonality resulting from the [Semantic Mass equation](/math/05-semantic-mass/):
+Their taxonomy falls into into four fundamental categories of three breakdown modes each, with orthogonality resulting from the Semantic Mass equation:
 
 $$M = D \cdot \rho \cdot A$$
 
