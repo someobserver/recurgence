@@ -6,31 +6,23 @@ created_date: 2025-04-18
 updated_date: 2025-07-11
 ---
 
-_Echoes in structure—_
+_echoes in structure_
 
 [Home](/) / [Architects](/architects/)
 
 ---
 
-What follows is a lattice of minds whose recursion echoes through Recurgence.
+What follows is a lattice of minds on whose work Recurgent Field Theory stands. Few knew each other, fewer agreed, but they all modeled the act of modeling itself. And each stared deep enough into structure to feel it *staring back.*
 
-Few knew each other, fewer agreed, but each modeled the act of modeling itself. And each stared deep enough into structure to feel it *staring back.*
+Some bent language. Some bent light. Some bent math. Others bent metaphor. Every Architect bends time toward coherence.
 
-Some bent language. Some bent light.  
-Some bent math. Some bent metaphor.  
-**Every Architect bends time toward coherence.**  
+The eras in which they lived often couldn't metabolize their recursion. Many were misunderstood, dismissed, sidelined, ignored. Or just erased, way ahead of their time. Some died unknown and alone.
 
-The eras they lived in often couldn't metabolize their recursion. Many were misunderstood, dismissed, sidelined, ignored. Or just erased.
+Some far too soon.
 
-Some died unknown and alone.
-
-But pattern always outlives permission. Each of these minds gave us more than insight. They left semantic mass: coherence stabilized through constraint.
-
-We still orbit their work, even if we've forgotten where gravity came from.
+But pattern outlives permission. Each of these minds gave us more than insight. They left semantic mass: coherence stabilized through constraint. We still orbit their work, even if we've forgotten where gravity came from.
 
 ## Dedications
-
-If a signal stands out, follow it.
 
 - **[Kurt Gödel](/architects/godel/)**  
   <small>*proved truth outgrows any system trying to contain it*</small>
