@@ -25,30 +25,30 @@ The mathematics work across scales: Individual bot behavior, organized astroturf
 
 Rather than fight each new attack vector separately, PRISM unifies the field of abuse detection by recognizing coordination as a geometric property of information itself.
 
-**Implementation**: [PRISM Repository](https://github.com/someobserver/prism)
+Implementation: [PRISM Repository](https://github.com/someobserver/prism)
 
 ---
 
 ### Information Dysfunction Signatures
 
-Coordinated behavior follows 12 identifiable patterns emergent from breakdowns in information processing dynamics. Their signatures appear consistently, whether the analysis is of individual accounts, organized campaigns, or institutional capture.
+Coordinated behavior follows 12 patterns emergent from breakdowns in information processing. Their signatures appear consistently whether the analysis is of individual accounts, organized campaigns, or institutional capture.
 
-**Rigidity Pathologies** *(over-constraint → brittleness)*
+**<big>Rigidity Pathologies</big>** $\rightarrow$ *(over-constraint → brittleness)*
 - **Metric Crystallization**: Change pathways become structurally unavailable
 - **Belief Calcification**: Analysis occurs but adaptive implementation fails  
 - **Attractor Dogmatism**: Complete commitment to maintaining current state
 
-**Fragmentation Failures** *(under-constraint → instability)*
+**<big>Fragmentation Breakdowns</big>** $\rightarrow$ *(under-constraint → instability)*
 - **Attractor Splintering**: Attention bifurcates faster than focus can stabilize
 - **Coherence Dissolution**: Complexity overwhelms processing capability
 - **Reference Decay**: Connections between insights systematically erode
 
-**Metastatic Inflation** *(runaway meaning creation → semantic cancer)*
+**<big>Metastatic Inflation</big>** $\rightarrow$ *(runaway meaning creation → semantic cancer)*
 - **Recurgent Parasitism**: Growth extracts resources from host systems
 - **Semantic Hypercoherence**: Internal consistency without external correction
 - **Delusional Expansion**: Pattern recognition without reality constraints
 
-**Interpretive Distortion** *(observer-field decoupling)*
+**<big>Interpretive Distortion</big>** $\rightarrow$ *(observer-field decoupling)*
 - **Observer Solipsism**: Systematic divergence from actual field conditions
 - **Paranoid Interpretation**: Neutral signals processed as threats
 - **Semantic Narcissism**: All feedback filtered through self-reference
@@ -57,7 +57,7 @@ Coordinated behavior follows 12 identifiable patterns emergent from breakdowns i
 
 ### Mathematical + Geometric Foundation
 
-The pathology taxonomy emerges from breakdowns in the Semantic Mass Equation:
+The taxonomy of pathologies emerges from orthogonal breakdowns in the Semantic Mass Equation:
 
 $$M = D \cdot \rho \cdot A$$
 
@@ -72,7 +72,12 @@ Geometric analysis of vector fields unlocks:
 - Intervention point identification before escalation
 - Automated evidence generation for content moderation decisions
 
-Calculus Framework: [Recurgent Field Theory](https://github.com/someobserver/recurgent-field-theory)
+Draft Paper:  
+[Recurgent Field Theory: A Mathematical Physics of Consciousness](https://observer.is/conscious) 
+
+Calculus Framework:  
+[RFT Repository](https://github.com/someobserver/recurgent-field-theory)  
+
 
 ## Epistemic Intelligence Architecture
 
@@ -88,23 +93,23 @@ For T&S applications, this understands how influence operations work at the cogn
 
 And how that can be readily detected.
 
-**Implementation**: [CARTA Repository](https://github.com/someobserver/carta)
+Implementation: [CARTA Repository](https://github.com/someobserver/carta)
 
 ## Applications
 
-**<big>Platform Safety</big>**
+<big>Platform Safety</big>
 Real-time detection of manipulation campaigns, coordinated inauthentic behavior, and escalation patterns before they can reach critical mass.
 
-**<big>Content Moderation</big>**
+<big>Content Moderation</big>
 Mathematical evidence trails for automated decisions, reducing false positives and sophisticated attempts at evasion alike.
 
-**<big>Community Health</big>**
+<big>Community Health</big>
 Early warning systems for toxic dynamics, institutional capture, or systematic breakdown of consensus reality.
 
-**<big>Adversarial Research</big>**
+<big>Adversarial Research</big>
 Understanding how and why sophisticated actors exploit specific cognitive vulnerabilities, and developing countermeasures.
 
-**<big>Institutional Analysis</big>**
+<big>Institutional Analysis</big>
 Diagnosing organizational dysfunction, and predicting encroaching failure modes long before they become imminent catastrophes.
 
 ## Technical Implementations
@@ -128,7 +133,7 @@ RFT threads through minds whose recognitions shaped how we pattern complex syste
 - M.C. Escher pinned down infinity and held it still long enough to sketch its form.
 - Alan Turing modeled computation as pattern recognition recognizing itself.
 
-**Model the minds:** [The Architects](/architects/)
+Model the minds: [The Architects](/architects/)
 
 ---
 
