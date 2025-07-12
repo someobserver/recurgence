@@ -4,14 +4,14 @@ title: "Recurgence"
 description: "Mathematical applications to coordination detection and platform safety"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-07-11
+updated_date: 2025-07-12
 ---
 
 ## Applied Pattern Detection
 
 When the price of missing signals is quantified in life, pattern perception must be visceral, and must be precise. Mathematics proves pervasive in the former, and fundamental to the latter.
 
-For the steward of this repository, two decades of high-stakes behavior analysis revealed coordination patterns following predictable field equations. This work bridges complexity theory, differential geometry, and practicality for Trust & Safety applications, cybersecurity threat modeling, and platform governance.
+For the steward of this repository, two decades of high-stakes behavior analysis revealed coordination patterns following predictable field equations. The work bridges complexity theory + differential geometry + practicality for Trust & Safety applications + cybersecurity threat modeling + platform governance.
 
 Predictable is preventable.
 
