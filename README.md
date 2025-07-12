@@ -21,11 +21,11 @@ From individual manipulation to institutional capture, adversarial behaviors fol
 
 PRISM (Pathology Recognition in Semantic Manifolds) applies differential geometry to platform interactions, modeling geometric distortions in semantic space. Where legacy tools look for behavioral patterns, PRISM analyzes the field signatures of coordinated manipulation.
 
-The system detects 12 discrete abuse pathologies by treating user interactions as vector fields in a high-dimensional semantic manifold. When coordination occurs, it creates identifiable curvature in this space.
+The system detects 12 discrete abuse pathologies by treating user interactions as vector fields in a high-dimensional semantic manifold. When coordination occurs, it creates identifiable curvature in this space. Distinct coordination types $\rightarrow$ categorically-quantifiable signatures $=$ patterns recognizing themselves.
 
-The mathematics work across scales: Individual bot behavior, organized astroturfing campaigns, and nation-state influence operations alike produce characteristic geometric signatures PRISM forecasts and quantifies in real-time. The same equations detect review fraud, sentiment manipulation, and algorithmic gaming as common expressions of the same underlying phenomenon and differential equations.
+The mathematics span scales: Individual bot behavior, organized astroturfing, and nation-state influence alike produce characteristic geometric signatures PRISM can forecast and detect in real-time. Its algorithms detect review fraud, sentiment manipulation, and algorithmic gaming as common expressions of the differential equations describing coherence phenomenology.
 
-Rather than fight each new attack vector separately, PRISM unifies the field of abuse detection by recognizing coordination as a geometric property of information itself.
+Rather than fight every new attack vector in isolation, PRISM unifies the field of abuse detection, recognizing coordination as a geometric property of information itself.
 
 Implementation: [PRISM Repository](https://github.com/someobserver/prism)
 
