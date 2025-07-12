@@ -4,10 +4,10 @@ title: "Recurgence"
 description: "Mathematical applications to coordination detection and platform safety"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-07-01
+updated_date: 2025-07-11
 ---
 
-## Applied Pattern Recognition for Platform Safety
+## Applied Pattern Detection for Platform Safety
 
 Detecting coordination signatures and escalation trajectories is a matter of mathematics. This work bridges complexity theory, differential geometry, and practical Trust & Safety applications, drawing from 20+ years of high-stakes pattern recognition.
 
