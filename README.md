@@ -31,9 +31,9 @@ Rather than fight each new attack vector separately, PRISM unifies the field of 
 
 ### Information Dysfunction Signatures
 
-Coordinated behavior follows 12 identifiable patterns emerging from breakdowns in information processing dynamics. Their signatures appear consistently, whether the analysis is of individual accounts, organized campaigns, or institutional capture.
+Coordinated behavior follows 12 identifiable patterns emergent from breakdowns in information processing dynamics. Their signatures appear consistently, whether the analysis is of individual accounts, organized campaigns, or institutional capture.
 
-**Rigidity Breakdowns** *(over-constraint → brittleness)*
+**Rigidity Pathologies** *(over-constraint → brittleness)*
 - **Metric Crystallization**: Change pathways become structurally unavailable
 - **Belief Calcification**: Analysis occurs but adaptive implementation fails  
 - **Attractor Dogmatism**: Complete commitment to maintaining current state
@@ -48,7 +48,7 @@ Coordinated behavior follows 12 identifiable patterns emerging from breakdowns i
 - **Semantic Hypercoherence**: Internal consistency without external correction
 - **Delusional Expansion**: Pattern recognition without reality constraints
 
-**Interpretation Distortion** *(observer-field decoupling)*
+**Interpretive Distortion** *(observer-field decoupling)*
 - **Observer Solipsism**: Systematic divergence from actual field conditions
 - **Paranoid Interpretation**: Neutral signals processed as threats
 - **Semantic Narcissism**: All feedback filtered through self-reference
@@ -78,7 +78,7 @@ Calculus Framework: [Recurgent Field Theory](https://github.com/someobserver/rec
 
 CARTA builds a mathematical microscope to study cognitive evolution and the topology of thought. It parses and archives full ChatGPT conversation trees in vector space, preserving their semantic lineage as individual nodes and node-pairs.
 
-Every conversation is an opportunity for counterfactual epistemology. CARTA preserves the complete topology of what was said, *and what could have been saidd*; why certain paths were abandoned, and where brilliance was ready to crystallize.
+Every conversation is an opportunity for counterfactual epistemology. CARTA preserves the complete topology of what was said, *and what could have been said*; why certain paths were abandoned, and where brilliance was ready to crystallize.
 
 The system computes "semantic mass" for various ideas, tracking the gain or loss of epistemic weight over the evolution of the conversation. It identifies generative "spark nodes" of emergent understanding, and cognitive bottlenecks of constrained thinking. Analysis across many conversations reveals patterns in how ideas get explored, get stuck, get free, or fall into fallacy.
 
