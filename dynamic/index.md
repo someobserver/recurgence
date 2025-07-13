@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Conscious"
-description: "A document on consciousness and recursive coherence"
-permalink: /conscious/
+title: "Recurgent Field Theory: The Dynamics of Coherent Geometry"
+permalink: /dynamic/
 parent: /
 created_date: 2025-07-11
-updated_date: 2025-07-11
+updated_date: 2025-07-12
 ---
 
 <script>
