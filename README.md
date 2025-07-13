@@ -4,7 +4,7 @@ title: "Recurgence"
 description: "Mathematical applications to coordination detection and platform safety"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-07-12
+updated_date: 2025-07-13
 ---
 
 ## Applied Pattern Detection
@@ -121,21 +121,6 @@ Diagnosing organizational dysfunction, and predicting encroaching failure modes 
 - Scalable architecture handles platform-scale data
 - Mathematical evidence generation for audit trail continuity
 - SQL function interface and monitoring views
-
-## The Architects
-
-RFT threads through minds whose recognitions shaped how we pattern complex systems.
-
-- Kurt Gödel proved truth outgrows any system trying to contain it.
-- Emmy Noether found every conservation law emerging from a symmetry.
-- Albert Einstein bent space and time until meaning curved into view.
-- John Wheeler taught the known universe to notice the observer noticing it.
-- Nikola Tesla harnessed resonance into bolts of lightning summoned from thin air.
-- Johann Sebastian Bach composed mid-air architecture from structured constraint.
-- M.C. Escher pinned down infinity and held it still long enough to sketch its form.
-- Alan Turing modeled computation as pattern recognition recognizing itself.
-
-Model the minds: [The Architects](/architects/)
 
 ---
 
