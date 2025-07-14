@@ -15,9 +15,11 @@ For the steward of this repository, two decades of high-stakes behavior analysis
 
 Predictable is preventable.
 
-From individual manipulation to institutional capture, adversarial behaviors follow foreseeable geometric signatures. The patterns remain consistent across scales, making them at once detectable, forecastable, and countered with geometric field analysis.
+From individual manipulation to institutional capture, adversarial behaviors follow foreseeable geometric signatures. The patterns remain consistent across scales, making them at once detectable, forecastable, and countered with geometric field assay.
 
-## PRISM: Real-Time Coordination Detection
+Read [the paper](https://observer.is/dynamic) 
+
+## PRISM: Real-Time Field Analyso.
 
 PRISM (Pathology Recognition in Semantic Manifolds) applies differential geometry to platform interactions, modeling geometric distortions in semantic space. Where legacy tools look for behavioral patterns, PRISM analyzes the field signatures of coordinated manipulation.
 
@@ -75,7 +77,7 @@ Geometric analysis of vector fields unlocks:
 - Automated evidence generation for content moderation decisions
 
 Draft Paper:  
-[Recurgent Field Theory: A Mathematical Physics of Consciousness](https://observer.is/conscious) 
+[Recurgent Field Theory: The Dynamics of Coherent Geometry](https://observer.is/dynamic) 
 
 Calculus Framework:  
 [RFT Repository](https://github.com/someobserver/recurgent-field-theory)  
