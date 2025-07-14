@@ -19,7 +19,7 @@ From individual manipulation to institutional capture, adversarial behaviors fol
 
 Read [the paper](https://observer.is/dynamic) 
 
-## PRISM: Real-Time Field Analyso.
+## PRISM: Real-Time Field Analysis
 
 PRISM (Pathology Recognition in Semantic Manifolds) applies differential geometry to platform interactions, modeling geometric distortions in semantic space. Where legacy tools look for behavioral patterns, PRISM analyzes the field signatures of coordinated manipulation.
 
