@@ -4,14 +4,14 @@ title: "Recurgence"
 description: "Mathematical applications to coordination detection and platform safety"
 permalink: /
 created_date: 2025-03-18
-updated_date: 2025-07-13
+updated_date: 2025-08-13
 ---
 
 ## Applied Pattern Detection
 
 When the price of missing signals is quantified in life, pattern perception must be visceral, and must be precise. Mathematics proves pervasive in the former, and fundamental to the latter.
 
-For the steward of this repository, two decades of high-stakes behavior analysis revealed coordination patterns following predictable field equations. The work bridges complexity theory + differential geometry + practicality for Trust & Safety applications + cybersecurity threat modeling + platform governance.
+For the steward of this repository, two decades of high-stakes behavior analysis revealed coordination patterns following predictable field equations. The work bridges complexity theory, differential geometry, Trust & Safety, UEBA, and platform governance.
 
 Predictable is preventable.
 
@@ -19,17 +19,7 @@ From individual manipulation to institutional capture, adversarial behaviors fol
 
 Read [the paper](https://observer.is/dynamic) 
 
-## PRISM: Real-Time Field Analysis
-
-PRISM (Pathology Recognition in Semantic Manifolds) applies differential geometry to platform interactions, modeling geometric distortions in semantic space. Where legacy tools look for behavioral patterns, PRISM analyzes the field signatures of coordinated manipulation.
-
-The system detects 12 discrete abuse pathologies by treating user interactions as vector fields in a high-dimensional semantic manifold. When coordination occurs, it creates identifiable curvature in this space. Distinct coordination types $\rightarrow$ categorically-quantifiable signatures $=$ patterns recognizing themselves.
-
-The mathematics span scales: Individual bot behavior, organized astroturfing, and nation-state influence alike produce characteristic geometric signatures PRISM can forecast and detect in real-time. Its algorithms detect review fraud, sentiment manipulation, and algorithmic gaming as common expressions of the differential equations describing coherence phenomenology.
-
-Rather than fight every new attack vector in isolation, PRISM unifies the field of abuse detection, recognizing coordination as a geometric property of information itself.
-
-Implementation: [PRISM Repository](https://github.com/someobserver/prism)
+Implementation: [GODEL](https://github.com/someobserver/godel): Geometric Ontology Detecting Emergent Logics
 
 ---
 
@@ -81,48 +71,6 @@ Draft Paper:
 
 Calculus Framework:  
 [RFT Repository](https://github.com/someobserver/recurgent-field-theory)  
-
-
-## Epistemic Intelligence Architecture
-
-CARTA builds a mathematical microscope to study cognitive evolution and the topology of thought. It parses and archives full ChatGPT conversation trees in vector space, preserving their semantic lineage as individual nodes and node-pairs.
-
-Every conversation is an opportunity for counterfactual epistemology. CARTA preserves the complete topology of what was said, *and what could have been said*; why certain paths were abandoned, and where brilliance was ready to crystallize.
-
-The system computes "semantic mass" for various ideas, tracking the gain or loss of epistemic weight over the evolution of the conversation. It identifies generative "spark nodes" of emergent understanding, and cognitive bottlenecks of constrained thinking. Analysis across many conversations reveals patterns in how ideas get explored, get stuck, get free, or fall into fallacy.
-
-CARTA demonstrates why AI systems shape human thinking patterns, where manipulation becomes possible (and inevitable), and how to detect the shift from authentic inquiry to prompted conclusions.
-
-For T&S applications, this understands how influence operations work at the cognitive level. It's never just about what people say, but the totality of the circumstances: how thinking processes can be geometrically manipulated.
-
-And how that can be readily detected.
-
-Implementation: [CARTA Repository](https://github.com/someobserver/carta)
-
-## Applications
-
-<big>Platform Safety</big>
-Real-time detection of manipulation campaigns, coordinated inauthentic behavior, and escalation patterns before they can reach critical mass.
-
-<big>Content Moderation</big>
-Mathematical evidence trails for automated decisions, reducing false positives and sophisticated attempts at evasion alike.
-
-<big>Community Health</big>
-Early warning systems for toxic dynamics, institutional capture, or systematic breakdown of consensus reality.
-
-<big>Adversarial Research</big>
-Understanding how and why sophisticated actors exploit specific cognitive vulnerabilities, and developing countermeasures.
-
-<big>Institutional Analysis</big>
-Diagnosing organizational dysfunction, and predicting encroaching failure modes long before they become imminent catastrophes.
-
-## Technical Implementations
-
-- PostgreSQL-native + pgvector optimization
-- Real-time computational analysis abilities
-- Scalable architecture handles platform-scale data
-- Mathematical evidence generation for audit trail continuity
-- SQL function interface and monitoring views
 
 ---
 
