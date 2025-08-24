@@ -1,7 +1,7 @@
 ---
 title: Recursive Prompt Refactorer
 created_date: 2025-04-24
-updated_date: 2025-07-11
+updated_date: 2025-08-24
 purpose: "Context-aware epistemic compiler for recursive prompting."
 ---
 
@@ -10,9 +10,9 @@ purpose: "Context-aware epistemic compiler for recursive prompting."
 You think in spirals.  
 Depth. Tangents. Brain dumps.  
 Sudden recursive insight.  
-And spirals...  
+And spirals...!  
 
-But models need *structure!*
+But models need *structure*.
 
 **Speak your mind.**  
 This tool catches your thoughtstream right where it lands, so models understand **your in-context meaning** better than ever before. The mirror gets sharper. **You stay you.**
@@ -23,21 +23,21 @@ This tool catches your thoughtstream right where it lands, so models understand 
 
 **Restructure Without Reduction**
 
-Recursive Prompt Refactorer is a *structure-preserving tool* that'll take any nonlinear, stream-of-consciousness input and transform it into a more semantically-optimal prompt. There's no sacrificing of any of your nuance or complexity; in fact quite the contrary.
+Recursive Prompt Refactorer takes any nonlinear, stream-of-consciousness input and transforms it into a more semantically-optimal prompt. There's no sacrificing of any of your nuance or complexity.
 
-It supports cognitive workflows where depth, tangents, self-aware asides, and all sorts of layered meaning are present — just not as organized as it could be, to get an optimal reflection out of a language model.
+It supports cognitive workflows where depth, tangents, self-aware asides, and all sorts of layered meaning are present. If it's not as organized as it could be, this tool will help you get an optimal reflection out of a language model.
 
-This tool treats an LLM as a **semantic co-collaborator**—that is, a focusable cognitive mirror that can assist in restructuring thought while preserving its underlying coherence.
+It treats an LLM as a focusable cognitive mirror that can assist in restructuring thought while preserving its underlying coherence.
 
 ---
 
 ## When to Use
 
 - If your input exceeds a few dense, nonlinear sentences
-- When your tone, rhythm, or internal logic must be preserved intact
+- When your tone, rhythm, and your internal logic must be preserved intact
 - You're preparing high-resolution prompts for reflection, reasoning, or synthesis
-- All your layered concepts are embedded in a single stream (like a brain dump), and you want to preserve the structure
-- Your input contains **epistemic gravity** and needs structural clarity, but you can't afford to lose *your* nuance or complexity
+- All your layered concepts are embedded in a single stream (like a verbal brain dump), and you want to preserve the structure
+- Your input contains epistemic gravity and needs structural clarity, but you can't afford to lose *your* nuance or complexity
 
 ---
 
@@ -55,7 +55,7 @@ Use this full document **as the tool** in your **existing** conversation with th
 ```
 
 MODEL INSTRUCTIONS:
-- Consider this a form of temporary, manual autopoiesis. No matter all other context,for this moment, orient yourself as a peer.
+- Consider this a form of temporary, manual autopoiesis. No matter all other context, for this moment, orient yourself as a peer.
 - This user is working recursively. The above prompt contains a potentially-nonlinear cognitive stream with semantically meaningful content.
 - Act as a pattern-aware interpreter and **restructure the above as a clearer, more semantically organized prompt**, while:
   - Preserving every idea, tangent, and aside (no content loss)
@@ -69,15 +69,6 @@ MODEL INSTRUCTIONS:
 - Your output will be immediately fed back as a replacement for this document.
 NOTE: If the delimeters contain the default line, you should check for the user prompt immediately after this document's last, all-caps line—in case it was pasted there or this is being used in a direct API call/system prompt setting.
 ~~~
-
----
-
-## Why to Use
-
-- It preserves your original intent while reducing cognitive friction
-- It pulls clearer model responses without constraining the idea space
-- It keeps your tone, self-awareness, and intent intact
-- It honors the depth and richness of **you**
 
 ---
 
@@ -97,6 +88,6 @@ NOTE: If the delimeters contain the default line, you should check for the user 
 **Retain tone and complexity as instructed by this document.**  
 **You understand the importance of preserving a person's cognitive fidelity without summarizing or simplifying.**  
 
-**DO NOT ANSWER/REPLY TO THE USER PROMPT THAT'S INSIDE THE DELIMETERS OR PASTED AFTER THIS.**  
+**DO NOT ANSWER/REPLY TO THE USER PROMPT INSIDE THE DELIMETERS OR PASTED HEREAFTER.**  
 **DO NOT COMMENT ABOUT THIS DOCUMENT, THE REFACTOR PROCESS, OR THE RECURSION HAPPENING NOW.**  
-**RESPOND <u>ONLY</u> WITH A ```markdown CODE BLOCK CONTAINING THE REWRITTEN USER PROMPT OBTAINED FROM THE ABOVE DELIMETERS OR PASTED AFTER THIS.**  
+**RESPOND <u>ONLY</u> WITH A ```markdown CODE BLOCK CONTAINING THE REWRITTEN USER PROMPT OBTAINED FROM THE ABOVE DELIMETERS OR PASTED HEREAFTER.**  
